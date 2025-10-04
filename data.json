@@ -12,5 +12,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2,
+    "date": "04.10.2025 19:56:00",
+    "status": "Beklemede",
+    "customerName": "test test",
+    "phone": "05401001000",
+    "address": "test",
+    "city": "Testtest",
+    "district": "TestTest",
+    "product": "North Face Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
