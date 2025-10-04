@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "date": "04.10.2025 15:49:58",
+    "status": "Beklemede",
+    "customerName": "test KÖSE",
+    "phone": "05334666661",
+    "address": "ankals",
+    "city": "isyan ",
+    "district": "skkss",
+    "product": "Puma Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
+  }
+]
