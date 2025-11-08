@@ -166,5 +166,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 13,
+    "date": "08.11.2025 18:15:10",
+    "status": "Beklemede",
+    "customerName": "Senol Demir ",
+    "phone": "(0530) 511 55 67",
+    "address": "Alkus SK no 3 kat 2 İlkadım Samsun ",
+    "city": "Samsun ",
+    "district": "İlkadım ",
+    "product": "Nike Kırmızı Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
