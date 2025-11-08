@@ -82,5 +82,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 7,
+    "date": "08.11.2025 09:53:43",
+    "status": "Beklemede",
+    "customerName": "SERK SS",
+    "phone": "05458579865",
+    "address": "AAA",
+    "city": "AA",
+    "district": "AA",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
