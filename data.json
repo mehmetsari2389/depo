@@ -362,5 +362,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 27,
+    "date": "09.11.2025 23:23:10",
+    "status": "Beklemede",
+    "customerName": "Serdar Köseoğlu ",
+    "phone": "05426335708",
+    "address": "Yavuz Selim Mahallesi Yavuz Selim Caddesi No:9/A",
+    "city": "Rize",
+    "district": "Ardeşen ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
