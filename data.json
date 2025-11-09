@@ -320,5 +320,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 24,
+    "date": "09.11.2025 17:25:01",
+    "status": "Beklemede",
+    "customerName": "Muhammet demir ",
+    "phone": "+5365705993",
+    "address": "Niğde merkez kiledere kasabası Hürriyet mahallesi no 34",
+    "city": "Niğde ",
+    "district": "merkez ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
