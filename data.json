@@ -250,5 +250,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 19,
+    "date": "09.11.2025 13:52:11",
+    "status": "Beklemede",
+    "customerName": "İbrahim  Çoban ",
+    "phone": "+905456724977",
+    "address": "Yeni mahalle lise caddesi PTT karşısı Özkardeşler pide Bekilli/Denizli",
+    "city": "Denizli ",
+    "district": "Bekilli ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
