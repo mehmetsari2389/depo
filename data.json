@@ -180,5 +180,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 14,
+    "date": "09.11.2025 00:18:43",
+    "status": "Beklemede",
+    "customerName": "Ömer Şevkan",
+    "phone": "5456059821",
+    "address": "Merkez efendi mah 1827/1 sokak no 3 kat 1 ",
+    "city": "Denizli ",
+    "district": "Merkez efendi mah ",
+    "product": "Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
