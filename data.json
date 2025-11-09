@@ -292,5 +292,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 22,
+    "date": "09.11.2025 16:59:12",
+    "status": "Beklemede",
+    "customerName": "adil yakicilar",
+    "phone": "05326514613",
+    "address": "Selviyepeosb mh. 2004 SK no 4 Önder Lift ",
+    "city": "Manisa",
+    "district": "Turgutlu",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
