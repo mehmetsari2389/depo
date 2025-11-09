@@ -208,5 +208,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 16,
+    "date": "09.11.2025 01:31:50",
+    "status": "Beklemede",
+    "customerName": "kadir güngör ",
+    "phone": "05396582056",
+    "address": "bursa Mustafakemalpaşa aras kargo şubesi",
+    "city": "bursa",
+    "district": "Mustafakemalpaşa ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
