@@ -348,5 +348,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 26,
+    "date": "09.11.2025 19:52:34",
+    "status": "Beklemede",
+    "customerName": "Fatih Aydın",
+    "phone": "5348333408",
+    "address": "Cumhuriyet Mahallesi Kula Sokak Yılmaz Apartmanı No:23 Kat:5 Daire:5",
+    "city": "İstanbul",
+    "district": "Bahçelievler",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
