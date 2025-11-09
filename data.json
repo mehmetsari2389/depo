@@ -236,5 +236,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 18,
+    "date": "09.11.2025 10:31:31",
+    "status": "Beklemede",
+    "customerName": "Zekayi  Zontur",
+    "phone": "5464810549",
+    "address": "Tepebası cumhuriye mahallesi yigitpasa şok oguzoğlu apart daire:10",
+    "city": "Eskisehir ",
+    "district": "Tepebası",
+    "product": "Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
