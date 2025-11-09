@@ -306,5 +306,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 23,
+    "date": "09.11.2025 17:17:06",
+    "status": "Beklemede",
+    "customerName": "Yuksel Suakan",
+    "phone": "05452529501",
+    "address": "İnönü caddesi bizbize çay bahçesi no4 iskele mahallesi ",
+    "city": "Mersin",
+    "district": "Anamur",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
