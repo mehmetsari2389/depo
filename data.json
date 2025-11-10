@@ -376,5 +376,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 28,
+    "date": "10.11.2025 13:11:23",
+    "status": "Beklemede",
+    "customerName": "Asd Dsa",
+    "phone": "5555555521",
+    "address": "Babba",
+    "city": "Ankara",
+    "district": "Yenimahalle",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
