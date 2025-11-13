@@ -390,5 +390,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 29,
+    "date": "13.11.2025 16:49:05",
+    "status": "Beklemede",
+    "customerName": "Ümit  Türkmen ",
+    "phone": "5383820327",
+    "address": "Yenidoğan mahallesi 510. SK. No.28 kat 3 Hisarcık Kütahya ",
+    "city": "Kütahya ",
+    "district": "Hisarcık ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
