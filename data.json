@@ -404,5 +404,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 30,
+    "date": "13.11.2025 17:09:20",
+    "status": "Beklemede",
+    "customerName": "mustafa yıldırım",
+    "phone": "05544709010",
+    "address": "mehmet akif ersoy mahallesi tanrıöver sokak no 4 kat 2 ",
+    "city": "kütahya",
+    "district": "merkez",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
