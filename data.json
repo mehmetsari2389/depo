@@ -432,5 +432,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 32,
+    "date": "14.11.2025 16:21:19",
+    "status": "Beklemede",
+    "customerName": "Onur Subaz",
+    "phone": "05467619628",
+    "address": "Cumhuriyet mahallesi Atatürk bulvarı Sosyal güvenlik merkez Müd No.29 Amasya/Taşova",
+    "city": "Amasya",
+    "district": "Taşova",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
