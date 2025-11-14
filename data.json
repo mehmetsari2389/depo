@@ -474,5 +474,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 34,
+    "date": "14.11.2025 20:46:52",
+    "status": "Beklemede",
+    "customerName": "EMRE  AKCAY",
+    "phone": "05356619089",
+    "address": "Merkez mah. Fırın sk. No:33 Özgür apt. No:33 B/blok  daire:25  kat:4",
+    "city": "İstanvul",
+    "district": "Avcılar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
