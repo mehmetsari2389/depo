@@ -684,5 +684,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 50,
+    "date": "15.11.2025 17:11:35",
+    "status": "Beklemede",
+    "customerName": "Ali  Özer ",
+    "phone": "+905335199744",
+    "address": "Ali Özer petrol Adana yolu kamil kara bulvarı şehit halis şişman mahallesi 1440sokak",
+    "city": "Osmaniye ",
+    "district": "Kadirli ",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
