@@ -488,5 +488,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 36,
+    "date": "15.11.2025 07:18:12",
+    "status": "Beklemede",
+    "customerName": "Faruk Ekincik",
+    "phone": "05422070070",
+    "address": "Yenice mahallesi cengiz sokak no45/4 Ankara/Elmadag",
+    "city": "Ankara ",
+    "district": "Elmadag",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
