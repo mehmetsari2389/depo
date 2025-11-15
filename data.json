@@ -754,5 +754,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 55,
+    "date": "15.11.2025 21:59:08",
+    "status": "Beklemede",
+    "customerName": "İzzet Aydemir",
+    "phone": "+905437114338",
+    "address": "Dayıoğlu mahallesi Esad sokak ikizler apartmani no 14 D 8 ",
+    "city": "Bolu ",
+    "district": "Gerede ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
