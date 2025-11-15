@@ -572,5 +572,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 42,
+    "date": "15.11.2025 13:22:09",
+    "status": "Beklemede",
+    "customerName": "Mustafa Çivi ",
+    "phone": "5522898927",
+    "address": "Yaprak, Oto İşletme Sk. No:21",
+    "city": "Gaziantep",
+    "district": "Şehitkamil",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
