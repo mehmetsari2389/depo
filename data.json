@@ -614,5 +614,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 45,
+    "date": "15.11.2025 14:03:08",
+    "status": "Beklemede",
+    "customerName": "Erdogan Yalazı",
+    "phone": "05355154640",
+    "address": "895sok no 11 kat3",
+    "city": "Buca",
+    "district": "Ufuk mahlesı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
