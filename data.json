@@ -740,5 +740,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 54,
+    "date": "15.11.2025 21:00:44",
+    "status": "Beklemede",
+    "customerName": "Cihangir  Kalyoncu ",
+    "phone": "05356827085",
+    "address": "MCM HIRDAVAT \nArapcami mah. Ömerağa sk. Turan Han no.3 kat 2-3 Karaköy ",
+    "city": "İstanbul ",
+    "district": "Beyoğlu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
