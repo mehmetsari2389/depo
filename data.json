@@ -558,5 +558,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 41,
+    "date": "15.11.2025 11:42:04",
+    "status": "Beklemede",
+    "customerName": "YİĞİT ÖZTÜRK",
+    "phone": "5447358678",
+    "address": "BADEMLİK MAHALLESİ BATI SOKAK TUTKUNLAR DEFNE APARTMANI KAT 2 DAİRE 4 KIRKLARELİ MERKEZ ",
+    "city": "Kırklareli",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
