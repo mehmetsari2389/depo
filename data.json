@@ -544,5 +544,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 39,
+    "date": "15.11.2025 08:31:33",
+    "status": "Beklemede",
+    "customerName": "Ahmet ETEM GÜL",
+    "phone": "5455435637",
+    "address": "Dodurga Bld. (Mehmet Akif Mh.), Uzun Sk No:1",
+    "city": "Bilecik",
+    "district": "/Bozüyük",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
