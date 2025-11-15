@@ -600,5 +600,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 44,
+    "date": "15.11.2025 13:37:32",
+    "status": "Beklemede",
+    "customerName": "Cem  Göktaş",
+    "phone": "5313085778",
+    "address": "Kastamonu hanönü küreçay mevki yepe maden im köse madencilik",
+    "city": "Kastamonu",
+    "district": "Hanonü",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
