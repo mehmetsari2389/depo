@@ -628,5 +628,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 45,
+    "date": "15.11.2025 14:03:14",
+    "status": "Beklemede",
+    "customerName": "Abdullah  Altunkaya ",
+    "phone": "5317366775",
+    "address": "Beştelsiz, 1. Yol Sk. No:21",
+    "city": "İstanbul",
+    "district": "Zeytinburnu",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
