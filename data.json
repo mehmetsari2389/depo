@@ -656,5 +656,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 47,
+    "date": "15.11.2025 16:43:22",
+    "status": "Beklemede",
+    "customerName": "Mevlüt Genç",
+    "phone": "05308518294",
+    "address": "Amasya merkez akbilek mahallesi Mehmet Akif Ersoy caddesi 12 / A KG KASAP ŞARKÜTERİ",
+    "city": "Amasya",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
