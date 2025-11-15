@@ -670,5 +670,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 49,
+    "date": "15.11.2025 16:44:49",
+    "status": "Beklemede",
+    "customerName": "Mevlüt  Genc",
+    "phone": "05308518294",
+    "address": "Akbılek mah bayraktar Sokak bayraktar Sitesi b blok daire bir ",
+    "city": "Amasya ",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
