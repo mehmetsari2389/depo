@@ -782,5 +782,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 56,
+    "date": "16.11.2025 04:15:48",
+    "status": "Beklemede",
+    "customerName": "j n",
+    "phone": "5",
+    "address": "nnn",
+    "city": "nnn",
+    "district": "nmm",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
