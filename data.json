@@ -1020,5 +1020,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 74,
+    "date": "16.11.2025 17:19:06",
+    "status": "Beklemede",
+    "customerName": "Murat Doğan",
+    "phone": "5378945853",
+    "address": "Gölcük mah 447sk no13 menen izmir",
+    "city": "İzmir",
+    "district": "Menenemen",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
