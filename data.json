@@ -1076,5 +1076,19 @@
     "size": "XL",
     "quantity": "2",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 78,
+    "date": "16.11.2025 20:54:31",
+    "status": "Beklemede",
+    "customerName": "Cemal Ulukavak",
+    "phone": "05467270084",
+    "address": "Çınar",
+    "city": "Denizli",
+    "district": "Çardak",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
