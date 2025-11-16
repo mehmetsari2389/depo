@@ -1090,5 +1090,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 79,
+    "date": "16.11.2025 22:24:34",
+    "status": "Beklemede",
+    "customerName": "Murat İbişogulları",
+    "phone": "05358196585",
+    "address": "Saa",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
