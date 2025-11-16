@@ -1034,5 +1034,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 75,
+    "date": "16.11.2025 18:40:49",
+    "status": "Beklemede",
+    "customerName": "Barış Çalışkan",
+    "phone": "5349721901",
+    "address": "Hisareyin merkez mahallesi Eyüp şimşek caddesi Berrin sokak no 1 daire 1",
+    "city": "Kocaeli ",
+    "district": "Gölcük ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
