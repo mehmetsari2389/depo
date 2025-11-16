@@ -922,5 +922,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 67,
+    "date": "16.11.2025 14:59:19",
+    "status": "Beklemede",
+    "customerName": "Hüseyin Aykut SÖNMEZER",
+    "phone": "5525605922",
+    "address": "Mescit mahallesi 19 mayıs caddesi no 229/B Energy benzinlik ",
+    "city": "Edirne",
+    "district": "Uzunköprü",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
