@@ -992,5 +992,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 72,
+    "date": "16.11.2025 16:35:20",
+    "status": "Beklemede",
+    "customerName": "Namuk Taşpınar",
+    "phone": "+905443532639",
+    "address": " Abdullah efendi mah TOKİ küme evleri no 6  Yozgat Çandır veya merkez cami karşısı gençlik Berber salonu Yozgat Çandır ",
+    "city": "Yozgat ",
+    "district": "Çandır ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
