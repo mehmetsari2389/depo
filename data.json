@@ -1006,5 +1006,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 73,
+    "date": "16.11.2025 17:03:53",
+    "status": "Beklemede",
+    "customerName": "Erkan Kaya",
+    "phone": "05336674690",
+    "address": "Merkez ptt",
+    "city": "Bilecik",
+    "district": "Merkez",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
