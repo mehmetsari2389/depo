@@ -852,5 +852,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 62,
+    "date": "16.11.2025 08:27:27",
+    "status": "Beklemede",
+    "customerName": "Burak Besevli ",
+    "phone": "5065477167",
+    "address": "Karabuk yenice ilce yarim mudurlugu",
+    "city": "Karabük ",
+    "district": "Yenice",
+    "product": "Puma Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
