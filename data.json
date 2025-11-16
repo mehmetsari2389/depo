@@ -908,5 +908,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "16.11.2025 14:21:31",
+    "status": "Beklemede",
+    "customerName": "Adem Altunbaş",
+    "phone": "05513611996",
+    "address": "Dörteylül Mah. 55-4 Sokak Şehit Yüzbaşı Muzaffer Dönmez Apartmanı Kat :4 No: 7  (Askeri Hava Lojmanları ) Merkez/SİVAS",
+    "city": "Sivas",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
