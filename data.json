@@ -894,5 +894,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 65,
+    "date": "16.11.2025 11:33:33",
+    "status": "Beklemede",
+    "customerName": "Erkan Eligül",
+    "phone": "05322910259",
+    "address": "Atatürk mah sekiz Kasım cad no 22 ",
+    "city": "Kırklareli",
+    "district": "Lüleburgaz",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
