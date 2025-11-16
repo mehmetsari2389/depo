@@ -824,5 +824,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 60,
+    "date": "16.11.2025 06:53:51",
+    "status": "Beklemede",
+    "customerName": "Yasin  Yıldırım",
+    "phone": "05436070292",
+    "address": "Adnan Menderes Mahallesi Yunus Sokak Hacı Ata Sitesi D.Blok Kat : 5 No : 12 ERZURUM / PALANDÖKEN ",
+    "city": "Erzurum ",
+    "district": "Palandöken ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
