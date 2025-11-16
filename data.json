@@ -1062,5 +1062,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 77,
+    "date": "16.11.2025 20:26:08",
+    "status": "Beklemede",
+    "customerName": "Tolga  Maden",
+    "phone": "05521676972",
+    "address": "Kartal sanayi sitesi B blok no 2 masteroto servis",
+    "city": "İstanbul",
+    "district": "Kartal",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "2",
+    "cargoPayment": "aras-nakit"
   }
 ]
