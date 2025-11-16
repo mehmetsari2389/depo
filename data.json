@@ -950,5 +950,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 68,
+    "date": "16.11.2025 16:29:03",
+    "status": "Beklemede",
+    "customerName": "Ali Ayaş",
+    "phone": "5073629368",
+    "address": "Kuştepe mahallesi köz Sokak no 31/1 ŞİŞLİ-İSTANBUL ",
+    "city": "İSTANBUL ",
+    "district": "ŞİŞLİ ",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
