@@ -1384,5 +1384,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 100,
+    "date": "17.11.2025 20:41:47",
+    "status": "Beklemede",
+    "customerName": "Mahmut  Sevgi",
+    "phone": "5070646342",
+    "address": "Yüksekova ptt",
+    "city": "Hakkari ",
+    "district": "Yüksekova ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
