@@ -1454,5 +1454,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 105,
+    "date": "17.11.2025 23:42:48",
+    "status": "Beklemede",
+    "customerName": "İsmet Altınışık",
+    "phone": "05301040268",
+    "address": "Aksaray Merkez Yunus Emre mahallesi 7030 sokak Garipler sitesi D blok kat 4 no 7",
+    "city": "Aksaray",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
