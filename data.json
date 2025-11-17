@@ -1216,5 +1216,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 88,
+    "date": "17.11.2025 16:45:50",
+    "status": "Beklemede",
+    "customerName": "Merih  Yıldırım ",
+    "phone": "05335188379",
+    "address": "Maltepe mah Maltepe CAD no 234",
+    "city": "Sakarya ",
+    "district": "Adapazari",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
