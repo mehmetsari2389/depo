@@ -1286,5 +1286,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 93,
+    "date": "17.11.2025 18:11:25",
+    "status": "Beklemede",
+    "customerName": "Nihat Bazılı ",
+    "phone": "5558001575",
+    "address": "Ş.vedat Kocadallı mah.1286 sok.No;1/A",
+    "city": "Osmaniye ",
+    "district": "Kadirli",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
