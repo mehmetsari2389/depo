@@ -1300,5 +1300,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 94,
+    "date": "17.11.2025 18:26:07",
+    "status": "Beklemede",
+    "customerName": "Bayram ali Tüfekçi",
+    "phone": "5536603903",
+    "address": "PTT MERKEZ ŞUBE",
+    "city": "Rize",
+    "district": "Merkez",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
