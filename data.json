@@ -1104,5 +1104,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 80,
+    "date": "17.11.2025 08:35:50",
+    "status": "Beklemede",
+    "customerName": "Murat Akdağ",
+    "phone": "5323132475",
+    "address": "Çanakkale ezineden herhangi bir kargo firmasından kendim teslim alabilirim",
+    "city": "Çanakkale",
+    "district": "Ezine",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
