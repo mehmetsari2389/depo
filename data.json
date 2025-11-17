@@ -1160,5 +1160,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 83,
+    "date": "17.11.2025 12:31:10",
+    "status": "Beklemede",
+    "customerName": "İsmail  Sarıtaş ",
+    "phone": "05461343476",
+    "address": "Yunusemre mah cumhuriyet caddesi.no 31/1\nHalfeli beldesi ",
+    "city": "Iğdır ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
