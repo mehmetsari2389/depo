@@ -1398,5 +1398,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 101,
+    "date": "17.11.2025 20:55:01",
+    "status": "Beklemede",
+    "customerName": "Mehmet Akif Çiloğlu",
+    "phone": "05518687916",
+    "address": "Sarısalkım Köyü mah 1 nolu cadde no 10 ",
+    "city": "Gaziantep ",
+    "district": "Şahinbey ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
