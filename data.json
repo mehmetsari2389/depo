@@ -1342,5 +1342,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 96,
+    "date": "17.11.2025 18:36:41",
+    "status": "Beklemede",
+    "customerName": "Muhammet  Sakallıoğlu ",
+    "phone": "05355880841",
+    "address": "Dumlupınar mahallesi.  Yenicami sokak. Bina 9. B. Blok Daire 2\nKocaeli/ Kartepe",
+    "city": "Kocaeli",
+    "district": "Kartrpe",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
