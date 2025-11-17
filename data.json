@@ -1258,5 +1258,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 91,
+    "date": "17.11.2025 17:44:41",
+    "status": "Beklemede",
+    "customerName": "Emin Daghan",
+    "phone": "05448053683",
+    "address": "İmamağa, 1912Sk. No:5",
+    "city": "Adıyaman",
+    "district": "Adıyaman Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
