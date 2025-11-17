@@ -1370,5 +1370,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 99,
+    "date": "17.11.2025 20:39:33",
+    "status": "Beklemede",
+    "customerName": "İshak  Yalçın ",
+    "phone": "5301316866",
+    "address": "Hakkari Yüksekova aras kargo ",
+    "city": "Hakkari ",
+    "district": "Yüksekova ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
