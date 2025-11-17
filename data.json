@@ -1118,5 +1118,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 81,
+    "date": "17.11.2025 11:34:32",
+    "status": "Beklemede",
+    "customerName": "İbrahim  Gür",
+    "phone": "5062441423",
+    "address": "Orta Yılmazlar, Cumhuriyet Meydanı Hükümet Konağı",
+    "city": "Ordu",
+    "district": "Ünye",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
