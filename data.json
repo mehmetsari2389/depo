@@ -1174,5 +1174,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 85,
+    "date": "17.11.2025 13:29:13",
+    "status": "Beklemede",
+    "customerName": "Orhan  Kaya ",
+    "phone": "05550575945",
+    "address": "Yaprak mahallesi istasyon caddesi no:80\nNovotel ",
+    "city": "Gaziantep ",
+    "district": "Şehitkamil",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
