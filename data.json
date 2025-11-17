@@ -1202,5 +1202,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 87,
+    "date": "17.11.2025 15:04:55",
+    "status": "Beklemede",
+    "customerName": "Ali  Eroğlu",
+    "phone": "5531077830",
+    "address": "1636. Sk.no 14/ A bayraklı mah. Salon ebru bayraklı İzmir ",
+    "city": "İzmir",
+    "district": "Bayraklı",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
