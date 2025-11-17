@@ -1230,5 +1230,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 89,
+    "date": "17.11.2025 17:16:34",
+    "status": "Beklemede",
+    "customerName": "MURAT  GÖKER ",
+    "phone": "5411661905",
+    "address": "Kırmızı Toprak Mahallesi Aytunc Sokak Park Apartmanı NO: 5KAT: 9DAİRE:34",
+    "city": "ESKİŞEHİR ",
+    "district": "ODUNPAZARI ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
