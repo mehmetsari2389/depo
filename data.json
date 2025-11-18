@@ -1510,5 +1510,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 109,
+    "date": "18.11.2025 05:20:59",
+    "status": "Beklemede",
+    "customerName": "Hasan Varıcılar",
+    "phone": "+905057832648",
+    "address": "Cumhuriyet mahallesi\nNilüfer hatun sokak\nMadralı yaşam sitesi B14 blok daire 2 ",
+    "city": "Bursa",
+    "district": "Mustafakemalpaşa ilçesine",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
