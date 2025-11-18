@@ -1496,5 +1496,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 108,
+    "date": "18.11.2025 05:11:30",
+    "status": "Beklemede",
+    "customerName": "Gürkan  Gül",
+    "phone": "05326932800",
+    "address": "Başak mah.  Mevlana Celaleddin rumi cad. İstanbul çarşı no:17/20 TURYAP EMLAK ",
+    "city": "İstanbul ",
+    "district": "Başakşehir ",
+    "product": "North Face Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
