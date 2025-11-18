@@ -1706,5 +1706,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 123,
+    "date": "18.11.2025 06:40:39",
+    "status": "Beklemede",
+    "customerName": "Samet Ataseven",
+    "phone": "+905432108896",
+    "address": "Mehmet Akif mh onur sokak no 66 daire 6 kat 3",
+    "city": "İstanbul ",
+    "district": "Küçükçekmece ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
