@@ -2672,5 +2672,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "18.11.2025 21:21:27",
+    "status": "Beklemede",
+    "customerName": "Fatih  Eren",
+    "phone": "5455759085",
+    "address": "Hamidiye mah okullar caddesi no:26/A gerzem pide salonu",
+    "city": "Sinop",
+    "district": "Gerze",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
