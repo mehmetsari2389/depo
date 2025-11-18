@@ -2112,5 +2112,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 152,
+    "date": "18.11.2025 12:20:42",
+    "status": "Beklemede",
+    "customerName": "yusuf bilgin",
+    "phone": "05327690454",
+    "address": "bulgurlu mah yıldırım sok sümer apt no 9 daire 1 üsküdar ist",
+    "city": "istanbul",
+    "district": "üsküdar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
