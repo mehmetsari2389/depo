@@ -2798,5 +2798,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 201,
+    "date": "18.11.2025 22:28:47",
+    "status": "Beklemede",
+    "customerName": "Harun Kudu",
+    "phone": "5369461428",
+    "address": "Kasım Paşa Mh emın ağa SK NO 5 DOYUM EKMEK FIRINI",
+    "city": "Bilecek",
+    "district": "Bozyük",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
