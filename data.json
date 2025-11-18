@@ -1748,5 +1748,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 126,
+    "date": "18.11.2025 07:00:11",
+    "status": "Beklemede",
+    "customerName": "Burak  Rende",
+    "phone": "05442310803",
+    "address": "Menderes mahallesi merkez sultan center mobilya ",
+    "city": "Kahramanmaraş ",
+    "district": "Pazarcık ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
