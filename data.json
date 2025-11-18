@@ -2714,5 +2714,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 195,
+    "date": "18.11.2025 21:52:24",
+    "status": "Beklemede",
+    "customerName": "Tarık Bayram",
+    "phone": "0532 562 17 61",
+    "address": "Karacasu beldesi fatih Mh tuna SK no 10 ",
+    "city": "Bolu",
+    "district": "Merkez",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
