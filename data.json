@@ -1734,5 +1734,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 125,
+    "date": "18.11.2025 06:53:58",
+    "status": "Beklemede",
+    "customerName": "Ali Koksal",
+    "phone": "05468757096",
+    "address": "Demirlibahçe mah. Ağaçlı cad. 3/ C  mamak/ Ankara ",
+    "city": "Ankara",
+    "district": "Mamak",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
