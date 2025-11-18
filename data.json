@@ -2826,5 +2826,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 203,
+    "date": "18.11.2025 22:37:23",
+    "status": "Beklemede",
+    "customerName": "Mesut  Tazefidan ",
+    "phone": "05418333957",
+    "address": "7427sok no 15 pamukyazı köyü torbalı izmir ",
+    "city": "İzmir ",
+    "district": "Torbalı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
