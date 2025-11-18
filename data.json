@@ -2448,5 +2448,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 176,
+    "date": "18.11.2025 18:59:13",
+    "status": "Beklemede",
+    "customerName": "Ahmet Demir",
+    "phone": "+905468694328",
+    "address": "Yeni cemahalleuzunsokakcamionukat1",
+    "city": "Keles ",
+    "district": "Bursa ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
