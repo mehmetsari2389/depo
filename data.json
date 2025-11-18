@@ -2728,5 +2728,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 196,
+    "date": "18.11.2025 21:53:50",
+    "status": "Beklemede",
+    "customerName": "ALPARSLAN AYDIN",
+    "phone": "+905055884909",
+    "address": "TURHAL DEVLET HASTANESİ \nIDARI BIRIMLER KATI",
+    "city": "TOKAT",
+    "district": "TURHAL",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
