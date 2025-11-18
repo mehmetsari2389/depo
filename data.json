@@ -1944,5 +1944,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 140,
+    "date": "18.11.2025 09:59:02",
+    "status": "Beklemede",
+    "customerName": "Ferdi Avci",
+    "phone": "05454306200",
+    "address": "Karayılan mah güvercin sokak no 79",
+    "city": "G antep",
+    "district": "Sahinbey",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
