@@ -2252,5 +2252,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 162,
+    "date": "18.11.2025 15:40:10",
+    "status": "Beklemede",
+    "customerName": "Samet  Deveci ",
+    "phone": "5317617697",
+    "address": "Şubeden teslim alıcam ",
+    "city": "Ankara ",
+    "district": "Gölbaşı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
