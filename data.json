@@ -2280,5 +2280,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 164,
+    "date": "18.11.2025 15:58:13",
+    "status": "Beklemede",
+    "customerName": "Cihan  Yılmaz",
+    "phone": "5398598973",
+    "address": "Esentepe mahallesi 2869 sokak no 61 kat 2 daire 6 sultangazi İstanbul ",
+    "city": "İstanbul ",
+    "district": "Sultangazi ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
