@@ -1524,5 +1524,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 109,
+    "date": "18.11.2025 05:21:11",
+    "status": "Beklemede",
+    "customerName": "İbrahim GÖNÜLAÇAN ",
+    "phone": "5302114969",
+    "address": "Metiner kuyumculuk Vizyonpark merkez plaza C1 Blok zemin kat no 27/28 Bahçelievler İstanbul ",
+    "city": "İstanbul ",
+    "district": "Bahçelievler ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
