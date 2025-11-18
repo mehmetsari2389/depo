@@ -2896,5 +2896,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 208,
+    "date": "18.11.2025 23:26:35",
+    "status": "Beklemede",
+    "customerName": "Hacı murat Şenemre",
+    "phone": "5347689116",
+    "address": "İhsaniye mahallesi uzun sokak no 64 kat 1",
+    "city": "Giresun",
+    "district": "Bulancak",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
