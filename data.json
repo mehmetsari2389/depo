@@ -2574,5 +2574,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "18.11.2025 21:07:51",
+    "status": "Beklemede",
+    "customerName": "Oktay  Yücetaş ",
+    "phone": "5065313555",
+    "address": "İnönü mh belediye sk Geçici Ticaret Merkezi F1-4 (Avrasya Danışmanlık) ",
+    "city": "Malatya ",
+    "district": "Yeşilyurt ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
