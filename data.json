@@ -2616,5 +2616,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "18.11.2025 21:10:13",
+    "status": "Beklemede",
+    "customerName": "Erkan  Erman",
+    "phone": "5386920487",
+    "address": "Sarıkız mahallesi oruçreis caddesi Hakan market",
+    "city": "Balıkesir ",
+    "district": "EDREMİT",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
