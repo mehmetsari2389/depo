@@ -2854,5 +2854,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 205,
+    "date": "18.11.2025 23:16:53",
+    "status": "Beklemede",
+    "customerName": "Orhan  Altındar",
+    "phone": "05394453058",
+    "address": "Yeni mahalle 24 sokak no 21 kat 1 daire 2 ",
+    "city": "Aydın",
+    "district": "Nazilli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
