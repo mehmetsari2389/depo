@@ -2882,5 +2882,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 207,
+    "date": "18.11.2025 23:18:34",
+    "status": "Beklemede",
+    "customerName": "Adem Gün",
+    "phone": "+905418345298",
+    "address": "Afyonkarahisar merkez Hanedan Kebap Dünyası ",
+    "city": "Afyon ",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
