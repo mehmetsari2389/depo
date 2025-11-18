@@ -2756,5 +2756,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 198,
+    "date": "18.11.2025 21:59:46",
+    "status": "Beklemede",
+    "customerName": "Cüneyt  Özçelik ",
+    "phone": "905443700838",
+    "address": "Eski Polis Lojmanları, Huzur Mah. Cesur Sk, İbrahim Karaoğlanoğlu Cd. D:No:8, 34396 Sarıyer/İstanbul",
+    "city": "İstanbul ",
+    "district": "Sarıyer ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
