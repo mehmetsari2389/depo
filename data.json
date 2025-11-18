@@ -2910,5 +2910,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 208,
+    "date": "18.11.2025 23:26:43",
+    "status": "Beklemede",
+    "customerName": "Arif  Gücek",
+    "phone": "(543) 456-7044",
+    "address": "Yeni mahalle güzide sokak no 25",
+    "city": "Amasya",
+    "district": "Suluova",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
