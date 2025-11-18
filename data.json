@@ -1664,5 +1664,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 120,
+    "date": "18.11.2025 06:00:06",
+    "status": "Beklemede",
+    "customerName": "Ferdi Amrağ",
+    "phone": "5314589392",
+    "address": "İstanbul tuzla aydınlı mahallesi buğday sk no 2 ",
+    "city": "İstanbul",
+    "district": "Tuzla",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
