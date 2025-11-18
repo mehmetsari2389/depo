@@ -2154,5 +2154,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 155,
+    "date": "18.11.2025 13:29:32",
+    "status": "Beklemede",
+    "customerName": "Selim  Çanak ",
+    "phone": "05324775595",
+    "address": "Rabindranat Tagore caddesi (eski 4.cadde )no 24 sancak parkı içi Yıldızevler/çankaya/ Ankara ",
+    "city": "Ankara ",
+    "district": "Çankaya ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "4",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
