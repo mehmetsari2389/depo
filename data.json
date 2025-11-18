@@ -2546,5 +2546,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "18.11.2025 21:06:10",
+    "status": "Beklemede",
+    "customerName": "Önder Kılıç",
+    "phone": "+905437742323",
+    "address": "Karlıtepe mahallesi Çukurbostan Sokak No:8 D:28 diamond Rezidance",
+    "city": "İstanbul",
+    "district": "Kartal",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
