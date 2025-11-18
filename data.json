@@ -1860,5 +1860,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 134,
+    "date": "18.11.2025 08:54:47",
+    "status": "Beklemede",
+    "customerName": "Deniz Ateş",
+    "phone": "05347060985",
+    "address": "Günyazı mahallesi bakımcılar mini market ",
+    "city": "Antakya ",
+    "district": "Hatay ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
