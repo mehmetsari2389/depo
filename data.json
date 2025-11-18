@@ -1580,5 +1580,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 114,
+    "date": "18.11.2025 05:34:54",
+    "status": "Beklemede",
+    "customerName": "hamza Cizici",
+    "phone": "+905467292717",
+    "address": "Atabek mahallesi ",
+    "city": "Gazi antep",
+    "district": "Şehit kamil",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
