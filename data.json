@@ -1636,5 +1636,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 118,
+    "date": "18.11.2025 05:48:59",
+    "status": "Beklemede",
+    "customerName": "Gökhan  Türkan",
+    "phone": "5372848135",
+    "address": "Günaydın mahallesi 2 okul sokak 53/c hair prof Beyzade erkek kuaförü Gökhan Türkan",
+    "city": "Balıkesir",
+    "district": "Bandırma",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
