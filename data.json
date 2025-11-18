@@ -2644,5 +2644,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "18.11.2025 21:20:13",
+    "status": "Beklemede",
+    "customerName": "Mikail Denli",
+    "phone": "5394904195",
+    "address": "Torbalı pamukyazı mahallesi aydın yol üzeri torbalıspor tesisleri",
+    "city": "İzmir",
+    "district": "Torbalı",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
