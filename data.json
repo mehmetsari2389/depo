@@ -1846,5 +1846,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 133,
+    "date": "18.11.2025 08:48:18",
+    "status": "Beklemede",
+    "customerName": "Yıldıray Cömert",
+    "phone": "05073055824",
+    "address": "İstasyomagelesi. Volkan gönger. Sokağı. Dagere.  12.  Kat. 1. Birinci",
+    "city": "Manisa",
+    "district": "Saruhanlı",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
