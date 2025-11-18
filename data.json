@@ -1482,5 +1482,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 107,
+    "date": "18.11.2025 05:09:04",
+    "status": "Beklemede",
+    "customerName": "Gürkan  Gül",
+    "phone": "05326932800",
+    "address": "Başak mah mevlana Celaleddin rumi cad İstanbul çarşı no:17/20 TURYAP EMLAK BAŞAKŞEHİR İSTANBUL",
+    "city": "İstanbul ",
+    "district": "Başakşehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
