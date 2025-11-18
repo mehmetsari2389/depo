@@ -2350,5 +2350,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 169,
+    "date": "18.11.2025 17:51:38",
+    "status": "Beklemede",
+    "customerName": "İbrahim Halil  Taş",
+    "phone": "05448198731",
+    "address": "Hüsnü Karakaş, 3537. Sk. No:17/A\nKepez/Antalya ",
+    "city": "Antalya",
+    "district": "Kepez",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
