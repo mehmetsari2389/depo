@@ -1972,5 +1972,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 141,
+    "date": "18.11.2025 10:03:09",
+    "status": "Beklemede",
+    "customerName": "Kani Filiz",
+    "phone": "+905462059436",
+    "address": "Karşıyaka mahallesi Halilkadiroğlu caddesi no 8/1 vergi dairesi girişi Cihanbeyli Konya ",
+    "city": "Konya ",
+    "district": "Cihanbeyli ",
+    "product": "Puma Mavi Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
