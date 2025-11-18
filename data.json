@@ -1762,5 +1762,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 127,
+    "date": "18.11.2025 07:23:09",
+    "status": "Beklemede",
+    "customerName": "Yunus Kartal",
+    "phone": "05426694626",
+    "address": "50.yil mah. Eski Edirne asfaltı no.526 sultangaz İstanbul ",
+    "city": "İstanbul ",
+    "district": "Sultangazi ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
