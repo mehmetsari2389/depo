@@ -1678,5 +1678,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 121,
+    "date": "18.11.2025 06:12:45",
+    "status": "Beklemede",
+    "customerName": "Samet Şendoğan",
+    "phone": "5416912507",
+    "address": "Balıkesir susurluk şubesi ",
+    "city": "Balıkesir ",
+    "district": "Susurluk",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
