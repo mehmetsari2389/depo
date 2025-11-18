@@ -2364,5 +2364,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 170,
+    "date": "18.11.2025 17:53:19",
+    "status": "Beklemede",
+    "customerName": "Hikmet  Peçe",
+    "phone": "05453241629",
+    "address": "Hafiz Kamil caddesi Güven Ticaret no.5 Güneysu/Rize",
+    "city": "Rize",
+    "district": "Güneysu ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
