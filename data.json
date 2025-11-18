@@ -1804,5 +1804,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 130,
+    "date": "18.11.2025 08:25:26",
+    "status": "Beklemede",
+    "customerName": "Celal Ballı",
+    "phone": "05344736261",
+    "address": "Soğuksu mah derviş cad k2/7 no 7 daire 11",
+    "city": "Karabük",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
