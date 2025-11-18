@@ -2560,5 +2560,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1,
+    "date": "18.11.2025 21:06:33",
+    "status": "Beklemede",
+    "customerName": "Varol Efe",
+    "phone": "05428067687",
+    "address": "Gaziosmanpaşa mahallesi Yavuz Selim caddesi no73 Bornova İzmir ",
+    "city": "İzmir",
+    "district": "Bornova ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
