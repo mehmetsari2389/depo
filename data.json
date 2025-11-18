@@ -1902,5 +1902,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 137,
+    "date": "18.11.2025 09:47:16",
+    "status": "Beklemede",
+    "customerName": "ULAŞ  MUKAN",
+    "phone": "+905380335893",
+    "address": "ARAS KARGO BAĞLAR ŞUBEDEN TESLİM ",
+    "city": "Diyarbakır ",
+    "district": "Bağlar ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
