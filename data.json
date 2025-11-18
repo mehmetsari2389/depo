@@ -2378,5 +2378,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 170,
+    "date": "18.11.2025 17:53:32",
+    "status": "Beklemede",
+    "customerName": "Hakan  Ayhan",
+    "phone": "5333335050",
+    "address": "Metal iş sanayi sitesi 1.blok ni:11 başakşehir İstanbul ",
+    "city": "İstanbul ",
+    "district": "Başakşehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
