@@ -1818,5 +1818,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 131,
+    "date": "18.11.2025 08:28:53",
+    "status": "Beklemede",
+    "customerName": "Aydın Karakaş ",
+    "phone": "+905079589141",
+    "address": "Sakarya Ağız ve diş hastanesi ",
+    "city": "Sakarya",
+    "district": "Serdivan ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
