@@ -2658,5 +2658,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "18.11.2025 21:20:45",
+    "status": "Beklemede",
+    "customerName": "Hatice Zafer",
+    "phone": "+905360361432",
+    "address": "Cumhuriyet Mahallesi Atatürk Caddesi 141 Sokak Jandarma Lojmanları kat 2 No 4",
+    "city": "İzmir",
+    "district": "Dikili",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
