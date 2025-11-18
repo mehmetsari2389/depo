@@ -1790,5 +1790,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 129,
+    "date": "18.11.2025 08:00:54",
+    "status": "Beklemede",
+    "customerName": "Mustafa Soylu ",
+    "phone": "5316356628",
+    "address": "İnönü mah no 6 sok 6 Ferizli sakarya",
+    "city": "Sakarya",
+    "district": "Ferizli",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
