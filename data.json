@@ -2294,5 +2294,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 165,
+    "date": "18.11.2025 16:04:00",
+    "status": "Beklemede",
+    "customerName": "Mesut  Yaşar ",
+    "phone": "05426465342",
+    "address": "Biga devlet hastanesi laboratuvar bölümü ",
+    "city": "Çanakkale ",
+    "district": "Biga ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
