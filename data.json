@@ -1986,5 +1986,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 143,
+    "date": "18.11.2025 10:59:36",
+    "status": "Beklemede",
+    "customerName": "Gökhan Kahraman",
+    "phone": "5305884509",
+    "address": "Aydın efeler orta mahalle 215 sokak no 42 kat 1 daire 3 ",
+    "city": "Aydın",
+    "district": "Efeler",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
