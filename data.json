@@ -2686,5 +2686,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "18.11.2025 21:28:03",
+    "status": "Beklemede",
+    "customerName": "Murat Erdoğan",
+    "phone": "+905422323660",
+    "address": "351 sokak no 26 daire 3 şirinyer izmir",
+    "city": "İzmir",
+    "district": "Buca",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
