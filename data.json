@@ -2812,5 +2812,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 202,
+    "date": "18.11.2025 22:32:36",
+    "status": "Beklemede",
+    "customerName": "Mucahid Demirkan",
+    "phone": "5458241086",
+    "address": "Reşatbey mahallesi. Stadyum caddesi. Dedeoğlu apartmanı. K5. D5. Seyhan/Adana",
+    "city": "Adana",
+    "district": "Seyhan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
