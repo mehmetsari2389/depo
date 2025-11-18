@@ -2700,5 +2700,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 194,
+    "date": "18.11.2025 21:50:37",
+    "status": "Beklemede",
+    "customerName": "Cesur Haseken ",
+    "phone": "0533 376 98 98",
+    "address": "Selimiye mahallesi yeni mahalle sokak no 3 Cesur Ticaret ",
+    "city": "Ordu",
+    "district": "Altınordu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
