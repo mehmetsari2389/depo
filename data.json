@@ -2462,5 +2462,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 177,
+    "date": "18.11.2025 19:45:12",
+    "status": "Beklemede",
+    "customerName": "Tutku Kaya",
+    "phone": "+905356713155",
+    "address": "Kuşçular mahallesi merkez sokak no 5",
+    "city": "Samsun ",
+    "district": "Bafra",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
