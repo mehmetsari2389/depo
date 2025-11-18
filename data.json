@@ -2630,5 +2630,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1,
+    "date": "18.11.2025 21:13:30",
+    "status": "Beklemede",
+    "customerName": "Abdulmecit Gül",
+    "phone": "5304911848",
+    "address": "Osmangazi msh Aşıroğlu caddesi numara 16 mega dekorasyon ",
+    "city": "Kocaeli",
+    "district": "Darıca",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
