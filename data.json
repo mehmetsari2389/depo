@@ -2840,5 +2840,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 204,
+    "date": "18.11.2025 22:38:58",
+    "status": "Beklemede",
+    "customerName": "Mustafa ALİ ÇAVUŞ",
+    "phone": "05514425586",
+    "address": "Atıcılar Mh. 4.Bülbül Sk. No:17/2 Osmangazi/Bursa",
+    "city": "Bursa",
+    "district": "Osmangazi ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
