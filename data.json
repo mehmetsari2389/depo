@@ -1622,5 +1622,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 116,
+    "date": "18.11.2025 05:46:06",
+    "status": "Beklemede",
+    "customerName": "Halil Akman",
+    "phone": "5307496229",
+    "address": "İstasyon mah salkım evleri kat daire 29",
+    "city": "Manisa",
+    "district": "Alaşehir ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
