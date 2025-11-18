@@ -1538,5 +1538,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 111,
+    "date": "18.11.2025 05:30:02",
+    "status": "Beklemede",
+    "customerName": "Faruk Altunisik",
+    "phone": "05426494333",
+    "address": "Erzurum Şenkaya Akşar mahallesi B küme evleri kapı no 162",
+    "city": "Erzurum ",
+    "district": "şenkaya",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
