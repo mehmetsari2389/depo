@@ -1692,5 +1692,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 122,
+    "date": "18.11.2025 06:37:42",
+    "status": "Beklemede",
+    "customerName": "Alican t Tokman",
+    "phone": "05376627803",
+    "address": "Karaağil köyü bulanık muş",
+    "city": "Muş",
+    "district": "Bulanik",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
