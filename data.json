@@ -1720,5 +1720,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 124,
+    "date": "18.11.2025 06:50:23",
+    "status": "Beklemede",
+    "customerName": "Mustafa  Atakoğlu ",
+    "phone": "0.543.681.16.58",
+    "address": "Salar köyü küme evleri no kırk sekiz Boyabat ",
+    "city": "Sinop ",
+    "district": "Boyabat ",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
