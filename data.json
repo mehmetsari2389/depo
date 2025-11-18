@@ -1888,5 +1888,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 136,
+    "date": "18.11.2025 09:34:49",
+    "status": "Beklemede",
+    "customerName": "İzzet  Can ",
+    "phone": "+905382129067",
+    "address": "Sarıkorkmaz mahallesi karga sokak nr 34-1 Zonguldak Ereğli ",
+    "city": "Zonguldak ",
+    "district": "Eregli ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
