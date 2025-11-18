@@ -2392,5 +2392,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 172,
+    "date": "18.11.2025 18:41:10",
+    "status": "Beklemede",
+    "customerName": "Tercan Eser",
+    "phone": "+5346905598",
+    "address": "Tarsus akgedik mah no 118",
+    "city": "Mersin",
+    "district": "Tarsus",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
