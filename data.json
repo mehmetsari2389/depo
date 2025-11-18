@@ -1650,5 +1650,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 119,
+    "date": "18.11.2025 05:50:23",
+    "status": "Beklemede",
+    "customerName": "Mehmet  Karadaş ",
+    "phone": "5418110223",
+    "address": "Fatih mahallesi sanayi yolu üzeri gürses market \n",
+    "city": "Diyarbakır ",
+    "district": "Bismil",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
