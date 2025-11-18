@@ -2266,5 +2266,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 163,
+    "date": "18.11.2025 15:57:46",
+    "status": "Beklemede",
+    "customerName": "Adem Sağlam",
+    "phone": "+905325584987",
+    "address": "Beşiktaş mahallesi şehit mesut bilir caddesi Nilüfer sitesi 86/B",
+    "city": "Bilecik ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
