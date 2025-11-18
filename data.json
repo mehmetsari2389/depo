@@ -2924,5 +2924,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 210,
+    "date": "18.11.2025 23:54:47",
+    "status": "Beklemede",
+    "customerName": "Kadir Yalçınkaya",
+    "phone": "5528533739",
+    "address": "İncirli, Şht. Hüdai Arslan Sk. No: 17/1",
+    "city": "Ankara",
+    "district": "Keçiören",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
