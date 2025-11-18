@@ -1930,5 +1930,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 139,
+    "date": "18.11.2025 09:50:41",
+    "status": "Beklemede",
+    "customerName": "Mehmet meriç",
+    "phone": "05397874135",
+    "address": "Tunus cad no 94 çankaya Ankara",
+    "city": "Ankara ",
+    "district": "Cankaya",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
