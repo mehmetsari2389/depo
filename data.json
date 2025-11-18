@@ -2322,5 +2322,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 167,
+    "date": "18.11.2025 17:16:39",
+    "status": "Beklemede",
+    "customerName": "Savaş Yarbay",
+    "phone": "+05325016776",
+    "address": "Mahmutbey cad.özbay ap.no.96/12 şirinevler mah.bahçelievler istanbul",
+    "city": "İstanbul",
+    "district": "Bahcelievler",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
