@@ -2014,5 +2014,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 145,
+    "date": "18.11.2025 11:52:28",
+    "status": "Beklemede",
+    "customerName": "Ahmet Demir",
+    "phone": "+905468694328",
+    "address": "Yenicemahalleuzunsokakcamionukat1",
+    "city": "Keles ",
+    "district": "Bursa ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
