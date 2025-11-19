@@ -3400,5 +3400,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 244,
+    "date": "19.11.2025 11:50:36",
+    "status": "Beklemede",
+    "customerName": "Faruk  Kavlak",
+    "phone": "05345452415",
+    "address": "Urhan tekstil Pınarkent mahallesi. Cafer Sadık  Abalıoğlu bulvarı.no 19.1 pamukkale denizli.",
+    "city": "Denizli",
+    "district": "Pamukkale",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
