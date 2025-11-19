@@ -3862,5 +3862,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 276,
+    "date": "20.11.2025 00:13:04",
+    "status": "Beklemede",
+    "customerName": "Oğuz Koylu ",
+    "phone": "05379274467",
+    "address": "Şükrü paşa mahallesi sanayi caddesi yukarı turan oto cam üstü er ilgi oto yıkama yakutiye/ Erzurum ",
+    "city": "Erzurum ",
+    "district": "Yakutiye ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
