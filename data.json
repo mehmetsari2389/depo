@@ -3596,5 +3596,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 258,
+    "date": "19.11.2025 16:21:12",
+    "status": "Beklemede",
+    "customerName": "Mehmet İmga",
+    "phone": "+905326247811",
+    "address": "İsmet paşa caddesi paşa küşkü mahallesi küşk çay evi Battalgazi Malatya ",
+    "city": "Malatya merkez ",
+    "district": "İl ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
