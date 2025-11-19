@@ -3918,5 +3918,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 281,
+    "date": "20.11.2025 02:22:11",
+    "status": "Beklemede",
+    "customerName": "Nizamettin TANRIVERDİ",
+    "phone": "+905060629443",
+    "address": "Hacı Hasanlar",
+    "city": "Kütahya",
+    "district": "ASLANAPA ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
