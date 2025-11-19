@@ -3302,5 +3302,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 237,
+    "date": "19.11.2025 08:30:57",
+    "status": "Beklemede",
+    "customerName": "Faruk Coban",
+    "phone": "5397916544",
+    "address": "Karakaya Mahallesi Menderes Sokak 97/1 Bağlum Keçiören/Ankara \nÖzkent Akbilek İlkokulu ",
+    "city": "Ankara ",
+    "district": "Keçiören ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
