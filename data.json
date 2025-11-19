@@ -3680,5 +3680,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 264,
+    "date": "19.11.2025 17:54:02",
+    "status": "Beklemede",
+    "customerName": "Ali  Doğan ",
+    "phone": "+905326642928",
+    "address": "Yeni mahalle Soner varlık cd 17 Eylül üniversitesi sağlık bilimleri fakültesi cafe nefes kantin i",
+    "city": "Balıkesir ",
+    "district": "Bandırma ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
