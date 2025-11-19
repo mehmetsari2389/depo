@@ -3106,5 +3106,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 223,
+    "date": "19.11.2025 04:39:13",
+    "status": "Beklemede",
+    "customerName": "Ömer  Akin",
+    "phone": "05398960160",
+    "address": " . Merkez ahmetciler mah.no23",
+    "city": "DUZCE",
+    "district": "Yigilca",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "2",
+    "cargoPayment": "aras-nakit"
   }
 ]
