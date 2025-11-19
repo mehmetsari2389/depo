@@ -3260,5 +3260,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 234,
+    "date": "19.11.2025 08:19:33",
+    "status": "Beklemede",
+    "customerName": "Alican  Akdeniz",
+    "phone": "05362730956",
+    "address": "Esenler mahallesi \nRıfat Ilgaz caddesi no 87 b Pendik İstanbul ",
+    "city": "İstanbul ",
+    "district": "Pendik ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
