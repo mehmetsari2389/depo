@@ -3666,5 +3666,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 263,
+    "date": "19.11.2025 17:45:53",
+    "status": "Beklemede",
+    "customerName": "Erol Yılmaz",
+    "phone": "05551631877",
+    "address": "Özal mah.Çamlık Sok.No7\n68700 Sarıyahşi/Aksaray\n",
+    "city": "AKSARAY",
+    "district": "Sarıyahşi",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
