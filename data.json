@@ -3540,5 +3540,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 254,
+    "date": "19.11.2025 15:34:57",
+    "status": "Beklemede",
+    "customerName": "Ali Fatih ÖRGE",
+    "phone": "+905363999800",
+    "address": "Ediz Erşahan cad D 142 D6 mimaroba BÜYÜKÇEKMECE",
+    "city": "İstanbul ",
+    "district": "Büyükçekmece",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
