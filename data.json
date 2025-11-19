@@ -2966,5 +2966,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 213,
+    "date": "19.11.2025 01:06:23",
+    "status": "Beklemede",
+    "customerName": "Umut Carti",
+    "phone": "05011853593",
+    "address": "Muhsalamalesi 2048.sk.no2",
+    "city": "İzmir ",
+    "district": "Çeşme ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
