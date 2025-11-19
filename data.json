@@ -3470,5 +3470,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 249,
+    "date": "19.11.2025 13:25:46",
+    "status": "Beklemede",
+    "customerName": "Ali Onat",
+    "phone": "05437400533",
+    "address": "10001 sok no 13 onursan metal itop",
+    "city": "İzmir",
+    "district": "Menderes",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
