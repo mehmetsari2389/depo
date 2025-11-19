@@ -3904,5 +3904,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 280,
+    "date": "20.11.2025 01:33:00",
+    "status": "Beklemede",
+    "customerName": "Abdullah Kömeç",
+    "phone": "05321206557",
+    "address": "\nKuzey Çevre Yolu Doğuşpark, Rasim Özdenören, Sitesi Altı, 46050 Onikişubat/Kahramanmaraş\n",
+    "city": "Kahramamaraş",
+    "district": "Onikişubat",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
