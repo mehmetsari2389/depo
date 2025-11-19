@@ -3736,5 +3736,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 268,
+    "date": "19.11.2025 18:45:27",
+    "status": "Beklemede",
+    "customerName": "Fırat Ergin",
+    "phone": "05376920747",
+    "address": "Mardin NUSAYBİN şubeden  teslim",
+    "city": "Mardin ",
+    "district": "Nusaybin",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
