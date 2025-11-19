@@ -3022,5 +3022,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 217,
+    "date": "19.11.2025 02:03:58",
+    "status": "Beklemede",
+    "customerName": "Bilal ÇETİN",
+    "phone": "05064068450",
+    "address": "Ulusoy eczanesi Milli Egemenlik mah.Hastane cad.No.73/1z",
+    "city": "Antalya",
+    "district": "Manavgat",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
