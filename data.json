@@ -3498,5 +3498,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 251,
+    "date": "19.11.2025 15:28:52",
+    "status": "Beklemede",
+    "customerName": "Bayraö ali Özkan",
+    "phone": "05348701906",
+    "address": "Bosna hersek m.h mesaj s.k zarif sit. Ablok 34/17",
+    "city": "Konya",
+    "district": "Selcuklu",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
