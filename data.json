@@ -3624,5 +3624,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 260,
+    "date": "19.11.2025 16:23:51",
+    "status": "Beklemede",
+    "customerName": "Hüseyin Çatak",
+    "phone": "+905422148582",
+    "address": "Yeşil.mhl.Atatürk.blv.no.266.a",
+    "city": "Aydın",
+    "district": "Nazilli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
