@@ -3218,5 +3218,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 231,
+    "date": "19.11.2025 08:16:02",
+    "status": "Beklemede",
+    "customerName": "Murat  Demirel",
+    "phone": "05377781364",
+    "address": "Sarıhamzalı mahallesi Turhan Cemal beriker bulvarı no 510 kavi lastik kaplama ",
+    "city": "Adana ",
+    "district": "Seyhan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
