@@ -3232,5 +3232,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 232,
+    "date": "19.11.2025 08:17:56",
+    "status": "Beklemede",
+    "customerName": "Alican  Akdeniz",
+    "phone": "05362730956",
+    "address": "Esenler mahallesi \nRıfat Ilgaz caddesi no 87 b\nVercenik kebap Pendik İstanbul ",
+    "city": "İstanbul ",
+    "district": "Pendik'te ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
