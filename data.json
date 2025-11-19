@@ -3526,5 +3526,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 253,
+    "date": "19.11.2025 15:31:50",
+    "status": "Beklemede",
+    "customerName": "Selim Öngün",
+    "phone": "05455460552",
+    "address": "2.cd iklim kuaför şırnak silopi",
+    "city": "Şırnak",
+    "district": "Silopi",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
