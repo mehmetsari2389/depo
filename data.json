@@ -3134,5 +3134,19 @@
     "size": "XXL",
     "quantity": "2",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 225,
+    "date": "19.11.2025 05:51:13",
+    "status": "Beklemede",
+    "customerName": "Orhan  Koç",
+    "phone": "5319752338",
+    "address": "Konaklar mahallesi Selvili sokak Akbank Genel Müdürlüğü Sabancı Center\nBeşiktaş / İstanbul ",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
