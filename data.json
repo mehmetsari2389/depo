@@ -3344,5 +3344,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 240,
+    "date": "19.11.2025 09:18:45",
+    "status": "Beklemede",
+    "customerName": "Guven Arıcan",
+    "phone": "+905373334888",
+    "address": "Alikahya Fatih mah FatmaSehCD no 127",
+    "city": "Kocaeli",
+    "district": "İzmit",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
