@@ -3750,5 +3750,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 269,
+    "date": "19.11.2025 18:57:15",
+    "status": "Beklemede",
+    "customerName": "Ferhat  Baygeldi ",
+    "phone": "5368454229",
+    "address": "Esentepe büyükdere Çad.No:1871 Bina no:187/1. Kat giriş daire no1",
+    "city": "İstanbul",
+    "district": "Kağıyithane ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
