@@ -3638,5 +3638,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 261,
+    "date": "19.11.2025 16:24:23",
+    "status": "Beklemede",
+    "customerName": "Cihan  Yılmaz ",
+    "phone": "05398598973",
+    "address": "Karaburun mahallesi terkos karaburun caddesi no 382 karaburun arnavutköy",
+    "city": "İstanbul ",
+    "district": "Arnavutköy ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
