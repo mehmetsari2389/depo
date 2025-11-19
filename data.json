@@ -2980,5 +2980,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 214,
+    "date": "19.11.2025 01:20:41",
+    "status": "Beklemede",
+    "customerName": "Abdulkadir  Çatal ",
+    "phone": "5313571634",
+    "address": "Antalya Serik Kadriye mahallesi Atatürk caddesi no 3 06 Ankara show ",
+    "city": "Antalya ",
+    "district": "Serik ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
