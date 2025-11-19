@@ -3876,5 +3876,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 278,
+    "date": "20.11.2025 00:44:45",
+    "status": "Beklemede",
+    "customerName": "Necmettin bahadır Sölömbaz",
+    "phone": "05418527828",
+    "address": "Ali metin tokdemir caddesi (1516 cadde 26\\8",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
