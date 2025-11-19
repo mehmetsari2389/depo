@@ -3386,5 +3386,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 243,
+    "date": "19.11.2025 09:53:40",
+    "status": "Beklemede",
+    "customerName": "Murat  Özçakır ",
+    "phone": "05455251273",
+    "address": "Denizli/Pamukkale Atatürk Ortaokulu Fesleğen Mahallesi 984 sokak No 35 - Pamukkale Denizli",
+    "city": "Denizli ",
+    "district": "Pamukkale ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
