@@ -3708,5 +3708,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 266,
+    "date": "19.11.2025 18:29:04",
+    "status": "Beklemede",
+    "customerName": "MUHAMMED  KADİR ",
+    "phone": "05317881581",
+    "address": "Altındağ Zafer Mahallesi 42 78 Sokak no 18 izmir Bornova ",
+    "city": "İzmir ",
+    "district": "Bornova Altındağ ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
