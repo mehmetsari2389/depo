@@ -3834,5 +3834,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 275,
+    "date": "19.11.2025 23:37:22",
+    "status": "Beklemede",
+    "customerName": "Mahmut Tekgül ",
+    "phone": "05330342107",
+    "address": "Yunus Emre mahallesi sento CAD esnaflar kıraathanesi bağlar Diyarbakır ",
+    "city": "Diyarbakır ",
+    "district": "Bağlar ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
