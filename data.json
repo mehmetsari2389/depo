@@ -3820,5 +3820,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 274,
+    "date": "19.11.2025 23:01:47",
+    "status": "Beklemede",
+    "customerName": "Bekir  EREL ",
+    "phone": "+905397455275",
+    "address": "Dadağlı mah no74 ",
+    "city": "MANİSA ",
+    "district": "Sarıgöl ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
