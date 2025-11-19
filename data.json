@@ -3722,5 +3722,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 267,
+    "date": "19.11.2025 18:40:46",
+    "status": "Beklemede",
+    "customerName": "Arifkadir Akpınar",
+    "phone": "+905540106532",
+    "address": "Ömer halis demir caddesi no 13 Aras kargo",
+    "city": "Kars",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
