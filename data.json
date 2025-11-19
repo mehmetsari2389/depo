@@ -3806,5 +3806,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 273,
+    "date": "19.11.2025 22:40:29",
+    "status": "Beklemede",
+    "customerName": "Ramazan Erdem",
+    "phone": "05432014128",
+    "address": "100 yıl mah 75 şok kapı 88 daire 1",
+    "city": "Balıkesir ",
+    "district": "Bandirma",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
