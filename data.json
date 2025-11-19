@@ -3428,5 +3428,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 246,
+    "date": "19.11.2025 12:19:26",
+    "status": "Beklemede",
+    "customerName": "Sezer  Kütükçü ",
+    "phone": "5051808767",
+    "address": "Mithatpaşa mahallesi defterdar sokak 12 katlı iş merkezi kat 1 no 25 Zonguldak merkez ",
+    "city": "Zonguldak ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
