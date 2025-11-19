@@ -3890,5 +3890,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 279,
+    "date": "20.11.2025 00:59:03",
+    "status": "Beklemede",
+    "customerName": "Serkan Altun",
+    "phone": "05386178282",
+    "address": "Akyazı mahallesi 877 sok no 4",
+    "city": "Ordu ",
+    "district": "Altınordu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
