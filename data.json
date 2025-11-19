@@ -3316,5 +3316,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 238,
+    "date": "19.11.2025 08:46:40",
+    "status": "Beklemede",
+    "customerName": "Ozer Songur",
+    "phone": "+905452520122",
+    "address": "Doğanbey mahallesi no112",
+    "city": "Aydin",
+    "district": "Söke",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
