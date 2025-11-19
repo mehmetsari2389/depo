@@ -3288,5 +3288,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 235,
+    "date": "19.11.2025 08:27:52",
+    "status": "Beklemede",
+    "customerName": "Aykut selçuk  Yılmaz ",
+    "phone": "+5323419463",
+    "address": "Florya şenlikköy mahallesi kırserdar sok manolya apt no 45/1 florya bakırköy ",
+    "city": "İstanbul",
+    "district": "Bakırköy",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
