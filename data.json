@@ -2952,5 +2952,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 212,
+    "date": "19.11.2025 00:55:00",
+    "status": "Beklemede",
+    "customerName": "Yaşar  Başyiğit ",
+    "phone": "+905413445543",
+    "address": "Kütahya Simav ",
+    "city": "Kütahya ",
+    "district": "Simav ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
