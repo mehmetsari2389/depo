@@ -3358,5 +3358,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 241,
+    "date": "19.11.2025 09:30:03",
+    "status": "Beklemede",
+    "customerName": "Abdullah  ARPACI ",
+    "phone": "05364643203",
+    "address": "Şehit Hakan öner sokak no 1 d 1 ferman caddesi Hamidiye mahallesi..",
+    "city": "İstanbul ",
+    "district": "Kağıthane ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
