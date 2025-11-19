@@ -3092,5 +3092,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 222,
+    "date": "19.11.2025 04:23:05",
+    "status": "Beklemede",
+    "customerName": "Mehmet Çapar",
+    "phone": "05441962033",
+    "address": "Topraklık Mh / 452 SK /No4/18 Denizli pamukkale",
+    "city": "Denizli",
+    "district": "Pamukkale",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
