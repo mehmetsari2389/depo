@@ -3078,5 +3078,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 221,
+    "date": "19.11.2025 04:18:55",
+    "status": "Beklemede",
+    "customerName": "Davut Baş",
+    "phone": "05527411956",
+    "address": "Camikebir Mah. 52 / 4 Sk No:20 Kat:4 Daire :4 ",
+    "city": "İzmir",
+    "district": "Seferihisar",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
