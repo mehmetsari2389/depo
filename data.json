@@ -3456,5 +3456,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 248,
+    "date": "19.11.2025 12:58:34",
+    "status": "Beklemede",
+    "customerName": "Sami  Gundoğan",
+    "phone": "05387745966",
+    "address": "Bana yanliş yaptınız sizi savciliğa vereceğim telefonda cevap vermiyorsunuz çocuk montu gonderdiniz",
+    "city": "Rize",
+    "district": "Findikli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
