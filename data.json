@@ -3246,5 +3246,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 233,
+    "date": "19.11.2025 08:18:33",
+    "status": "Beklemede",
+    "customerName": "Aykut Aydogdu",
+    "phone": "05360219201",
+    "address": "Yeni mahalle pınar sokak no 23",
+    "city": "İzmir",
+    "district": "Kınık",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
