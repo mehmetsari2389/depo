@@ -5864,5 +5864,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 420,
+    "date": "21.11.2025 00:45:49",
+    "status": "Beklemede",
+    "customerName": "Mehmet  Asrlan ",
+    "phone": "05377020488",
+    "address": "Basmane fayik paşa sokak no 53",
+    "city": "Izmir",
+    "district": "Konak",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
