@@ -5360,5 +5360,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 384,
+    "date": "20.11.2025 20:53:26",
+    "status": "Beklemede",
+    "customerName": "Abdulmuhtalip  Eren",
+    "phone": "05366054155",
+    "address": "75.yil.cumhuriyet.mahallesi izmir ankara caddesi.no 701 /3",
+    "city": "Izmir",
+    "district": "Kemalpasa ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
