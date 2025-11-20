@@ -5990,5 +5990,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 429,
+    "date": "21.11.2025 01:58:10",
+    "status": "Beklemede",
+    "customerName": "Fırat Tufur",
+    "phone": "05070627446",
+    "address": "15 Temmuz mahallesi 1442 sokak no 13 daire 4",
+    "city": "İstanbul ",
+    "district": "Bağcılar ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
