@@ -5122,5 +5122,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 367,
+    "date": "20.11.2025 19:50:21",
+    "status": "Beklemede",
+    "customerName": "Ramazan Bağcı",
+    "phone": "5464390536",
+    "address": "Karaman çetin suit 30 metrelik yol üzeri kat 2 no 207",
+    "city": "Karaman",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
