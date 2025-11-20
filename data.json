@@ -5738,5 +5738,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 411,
+    "date": "20.11.2025 23:37:29",
+    "status": "Beklemede",
+    "customerName": "Sami  Gundoğan",
+    "phone": "05387745966",
+    "address": "Fındıklı PTT Rize",
+    "city": "Rize",
+    "district": "Findıkli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
