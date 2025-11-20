@@ -5038,5 +5038,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 360,
+    "date": "20.11.2025 19:09:22",
+    "status": "Beklemede",
+    "customerName": "Ramazan Polat ",
+    "phone": "05455419315",
+    "address": "4051 sokak akpınar mah şanlı Urfa Karaköprü nohucu dayı işyerim",
+    "city": "Şanlı Urfa ",
+    "district": "Kara köprü ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
