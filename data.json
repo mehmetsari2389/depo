@@ -4842,5 +4842,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 346,
+    "date": "20.11.2025 17:13:52",
+    "status": "Beklemede",
+    "customerName": "Osman  Kıvrak",
+    "phone": "+905387454228",
+    "address": "Antalya Kaş Kınık mahallesi Garcı döner salanu",
+    "city": "Antalya",
+    "district": "Kaş",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
