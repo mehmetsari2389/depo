@@ -4240,5 +4240,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 304,
+    "date": "20.11.2025 10:12:40",
+    "status": "Beklemede",
+    "customerName": "ahmet Yurtseven",
+    "phone": "5338112553",
+    "address": "yiğitler mahallesi b 267 sokak no 14 yılmaz apartman daire 3 bursa yıldırım ",
+    "city": "Bursa",
+    "district": "Yıldırım ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
