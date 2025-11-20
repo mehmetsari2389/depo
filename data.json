@@ -4156,5 +4156,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 298,
+    "date": "20.11.2025 09:04:12",
+    "status": "Beklemede",
+    "customerName": "AHMET  ESEN ",
+    "phone": "+5366442882",
+    "address": "1001EVLER MAH. 4737SOKAK N0:10 GARANTİ EVLERİ MERKEZ ISPARTA ",
+    "city": "ISPARTA ",
+    "district": "MERKEZ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
