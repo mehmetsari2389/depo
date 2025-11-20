@@ -5192,5 +5192,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 372,
+    "date": "20.11.2025 20:07:11",
+    "status": "Beklemede",
+    "customerName": "Hasan Sazanlar",
+    "phone": "+905452057683",
+    "address": "Soğukpınar mahallesi, armutlu caddesi, 288 sokak, no:14",
+    "city": "İzmir ",
+    "district": "Kemalpaşa ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
