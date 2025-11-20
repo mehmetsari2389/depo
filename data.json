@@ -5570,5 +5570,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 399,
+    "date": "20.11.2025 22:32:07",
+    "status": "Beklemede",
+    "customerName": "Ramazan  Arısoy ",
+    "phone": "5306008339",
+    "address": "Sülüntepe mahallesi somun sokak no 4 daire 3 Kaya City apartmanı A blok Pendik İstanbul",
+    "city": "Pendik ",
+    "district": "İstanbul ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
