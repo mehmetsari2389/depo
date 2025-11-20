@@ -5374,5 +5374,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 385,
+    "date": "20.11.2025 20:53:47",
+    "status": "Beklemede",
+    "customerName": "Mehmet sait Altuntaş ",
+    "phone": "05337928288",
+    "address": " kargo subesi",
+    "city": "Adıyaman",
+    "district": "Kahta",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
