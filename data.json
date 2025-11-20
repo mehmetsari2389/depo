@@ -5318,5 +5318,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 380,
+    "date": "20.11.2025 20:36:41",
+    "status": "Beklemede",
+    "customerName": "OSMAN YILMAZ",
+    "phone": "+905388816627",
+    "address": "Kaçmaz mahallesi şehit onbaşı soner ateşsaçan sokak 7-B 03 No : 10",
+    "city": "Artvin",
+    "district": "Yusufeli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
