@@ -4352,5 +4352,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 312,
+    "date": "20.11.2025 11:14:22",
+    "status": "Beklemede",
+    "customerName": "Yunus  Aydinalp",
+    "phone": "5350785367",
+    "address": "Kuyumcukent",
+    "city": "İstanbul",
+    "district": "Çobançeşme ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
