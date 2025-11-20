@@ -4702,5 +4702,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 336,
+    "date": "20.11.2025 16:10:57",
+    "status": "Beklemede",
+    "customerName": "Çağlar Kılınç",
+    "phone": "5325588666",
+    "address": " Zafer Mahallesi. 209cadde. No 13  kat 3Isparta merkez. ",
+    "city": "Isparta.",
+    "district": "Merkez. Has sokak",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
