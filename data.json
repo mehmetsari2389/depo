@@ -5262,5 +5262,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 376,
+    "date": "20.11.2025 20:14:07",
+    "status": "Beklemede",
+    "customerName": "Mehmet Bektaş",
+    "phone": "5365719632",
+    "address": "Sogukkuyu mah. Askeri loj. Yavuz apt ket. Zemin",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
