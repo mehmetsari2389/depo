@@ -5640,5 +5640,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 404,
+    "date": "20.11.2025 22:45:58",
+    "status": "Beklemede",
+    "customerName": "Ramazan  Yıldız ",
+    "phone": "+905069907197",
+    "address": "İstiklal mahallesi istiklal caddesi no 140 Puffy mağazası ",
+    "city": "Denizli ",
+    "district": "Pamukkale ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
