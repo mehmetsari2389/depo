@@ -4338,5 +4338,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 311,
+    "date": "20.11.2025 11:09:44",
+    "status": "Beklemede",
+    "customerName": "Özer Acar",
+    "phone": "05426960639",
+    "address": "Ula kaymakamlığı Köprübaşı mahallesi Cumhuriyet caddesi no 102 ula Muğla ",
+    "city": "Muğla ",
+    "district": "Ula",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
