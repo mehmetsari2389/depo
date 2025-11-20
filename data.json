@@ -5752,5 +5752,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 412,
+    "date": "20.11.2025 23:42:03",
+    "status": "Beklemede",
+    "customerName": "Erhan Iyem",
+    "phone": "+5355018948",
+    "address": "Resat Nuri cd 43 daire 7 y.ayranci cankaya Ankara",
+    "city": "Ankara",
+    "district": "Cankaya",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
