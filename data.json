@@ -5136,5 +5136,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 368,
+    "date": "20.11.2025 19:51:04",
+    "status": "Beklemede",
+    "customerName": "Sıtkı  Özavcı ",
+    "phone": "05435182542",
+    "address": "M Kemal mah asmaki sok no 1",
+    "city": "Edirne ",
+    "district": "Keşan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
