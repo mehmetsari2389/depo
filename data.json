@@ -4618,5 +4618,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 331,
+    "date": "20.11.2025 14:40:18",
+    "status": "Beklemede",
+    "customerName": "Sabri  Okumuş ",
+    "phone": "+905444140009",
+    "address": "Başçayır mah Çarşı sk no 960",
+    "city": "Aydın",
+    "district": "Köşk",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
