@@ -4282,5 +4282,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 306,
+    "date": "20.11.2025 10:14:49",
+    "status": "Beklemede",
+    "customerName": "Turgay Hamoglu",
+    "phone": "05376433650",
+    "address": "Cebike mah 12 sk2 Hatay iskenderun",
+    "city": "Hatay",
+    "district": "İskenderun",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
