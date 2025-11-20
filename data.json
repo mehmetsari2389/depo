@@ -5850,5 +5850,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 419,
+    "date": "21.11.2025 00:35:57",
+    "status": "Beklemede",
+    "customerName": "İsmail  Altaç ",
+    "phone": "+90 542 535 01 52",
+    "address": "Batman petrol mahallesi 165 sokak Antaresit evler 4 a kat 4 daire no 10 ",
+    "city": "Batman ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
