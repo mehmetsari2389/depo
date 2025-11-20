@@ -5472,5 +5472,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 392,
+    "date": "20.11.2025 21:49:09",
+    "status": "Beklemede",
+    "customerName": " Mert yurgacı ",
+    "phone": "5335660858",
+    "address": "Akdeniz mahallesi 400 sk no 21",
+    "city": "Adana",
+    "district": "yüreğir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
