@@ -5934,5 +5934,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 425,
+    "date": "21.11.2025 01:26:26",
+    "status": "Beklemede",
+    "customerName": "Mehmet Şirin  Ertekin",
+    "phone": "5433511390",
+    "address": "Yeni mahalle cengiz topel caddesi çoban apartmanı no:4 kat:3 daire :17",
+    "city": "Siirt",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
