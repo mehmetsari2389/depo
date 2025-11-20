@@ -5052,5 +5052,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 362,
+    "date": "20.11.2025 19:17:50",
+    "status": "Beklemede",
+    "customerName": "Hamza Altundağ",
+    "phone": "5357876321",
+    "address": "Diyarbakir çermik ptt",
+    "city": "Diyarbakır",
+    "district": "Çermik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
