@@ -4198,5 +4198,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 300,
+    "date": "20.11.2025 09:30:57",
+    "status": "Beklemede",
+    "customerName": "Halil İbrahim  Topal",
+    "phone": "05435443627",
+    "address": "Selvili mahallesi vanlı sokak no 3",
+    "city": "Konya ",
+    "district": "Eregli ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
