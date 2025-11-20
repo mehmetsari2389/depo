@@ -4996,5 +4996,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 358,
+    "date": "20.11.2025 18:57:49",
+    "status": "Beklemede",
+    "customerName": "Ahmet  Bedel ",
+    "phone": "05374838066",
+    "address": "Bedirbaba .mah.8408.sk.no.10 ",
+    "city": "Yozgat ",
+    "district": "Sorgun",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
