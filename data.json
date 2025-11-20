@@ -5696,5 +5696,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 408,
+    "date": "20.11.2025 23:03:15",
+    "status": "Beklemede",
+    "customerName": "Turan Güzel",
+    "phone": "+5350248770",
+    "address": "İstanbul kartal yakacık PTT",
+    "city": "İstanbul",
+    "district": "Kartal",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
