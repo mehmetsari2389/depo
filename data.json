@@ -5416,5 +5416,19 @@
     "size": "XL",
     "quantity": "2",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 388,
+    "date": "20.11.2025 21:34:28",
+    "status": "Beklemede",
+    "customerName": "Mehmet Sariaydin",
+    "phone": "0(542) 523-1509",
+    "address": "Cemal gursel cad no 38",
+    "city": "Giresun",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
