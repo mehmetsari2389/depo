@@ -5836,5 +5836,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 418,
+    "date": "21.11.2025 00:31:52",
+    "status": "Beklemede",
+    "customerName": "Kslsşs Mgkdlsa",
+    "phone": "5421248585",
+    "address": "Nakdlrofpaşwmdld  ddlfpflele dkdldkdng tf",
+    "city": "Antalya ",
+    "district": "Manavcı",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
