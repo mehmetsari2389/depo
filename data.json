@@ -4940,5 +4940,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 354,
+    "date": "20.11.2025 18:12:34",
+    "status": "Beklemede",
+    "customerName": "Faruk Çekici",
+    "phone": "05318499006",
+    "address": "İş adresi ",
+    "city": "Şanlıurfa ",
+    "district": "Haliliye ",
+    "product": "Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
