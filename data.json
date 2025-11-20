@@ -4072,5 +4072,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 292,
+    "date": "20.11.2025 07:30:08",
+    "status": "Beklemede",
+    "customerName": "İdris Eminoğlu",
+    "phone": "+905327267256",
+    "address": "Mardin Dargeçit PTT Kargo nakit ödeme Bjk siyah mor",
+    "city": "Mardin",
+    "district": "Dargeçit",
+    "product": "Kırmızı Şişme Mont",
+    "size": "M",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
