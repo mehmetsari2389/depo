@@ -5682,5 +5682,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 407,
+    "date": "20.11.2025 22:52:11",
+    "status": "Beklemede",
+    "customerName": "Gökhan Kılıç ",
+    "phone": "5449648895",
+    "address": "Müftü mahallesi meydanbaşı caddesi no 26 B handy SHOP ",
+    "city": "Zonguldak ",
+    "district": "KDZ EREĞLİ ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
