@@ -4716,5 +4716,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 338,
+    "date": "20.11.2025 16:18:53",
+    "status": "Beklemede",
+    "customerName": "Sedat  Kalkan",
+    "phone": "5423665795",
+    "address": "Billal şahin mah h. Ahmet Yesevi bulvarı kent Park park palas b.blok no.89 11.kat no37",
+    "city": "Yozgat",
+    "district": "Merkez ",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
