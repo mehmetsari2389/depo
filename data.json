@@ -5164,5 +5164,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 369,
+    "date": "20.11.2025 20:01:20",
+    "status": "Beklemede",
+    "customerName": "Özgür  Bican ",
+    "phone": "5336719418",
+    "address": "Yenidoğan mahallesi sanayi çarşısı Ateşböceği Sokak no 90 Odunpazarı Eskişehir ",
+    "city": "Eskişehir ",
+    "district": "Odunpazarı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
