@@ -4226,5 +4226,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 303,
+    "date": "20.11.2025 10:00:04",
+    "status": "Beklemede",
+    "customerName": "Fatma Ekinci",
+    "phone": "5306143363",
+    "address": "Karataş mahallesi 413 nolu cadde yeşilyalı sitesi c1 blok kat 3 daire 5",
+    "city": "Gaziantep ",
+    "district": "Şahinbey",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
