@@ -3932,5 +3932,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 282,
+    "date": "20.11.2025 03:53:03",
+    "status": "Beklemede",
+    "customerName": "Yunus  Akbalık ",
+    "phone": "05375003413",
+    "address": "Mehmet Akif mahallesi Pınarbaşı sokak no 9 daire 2\nSultanbeyli İstanbul ",
+    "city": "İstanbul ",
+    "district": "Sultanbeyli deyim ",
+    "product": "Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
