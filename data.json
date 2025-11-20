@@ -5822,5 +5822,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 416,
+    "date": "21.11.2025 00:18:51",
+    "status": "Beklemede",
+    "customerName": "Şaba Mıya",
+    "phone": "55525254123",
+    "address": "Rize",
+    "city": "Zongu",
+    "district": "Kıilkı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
