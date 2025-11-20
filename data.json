@@ -4422,5 +4422,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 317,
+    "date": "20.11.2025 11:59:03",
+    "status": "Beklemede",
+    "customerName": "Rasim Kerkıd",
+    "phone": "+905393289841",
+    "address": "Bursa mustafa kemal paşa",
+    "city": "Bursa",
+    "district": "Mustafakemalpaşa",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
