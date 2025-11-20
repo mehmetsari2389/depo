@@ -4142,5 +4142,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "20.11.2025 08:57:49",
+    "status": "Beklemede",
+    "customerName": "Erol  Turga",
+    "phone": "5368710726",
+    "address": "Atatürk mah hesaplı manav",
+    "city": "Tunceli",
+    "district": "Merkez",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
