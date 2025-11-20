@@ -4366,5 +4366,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 313,
+    "date": "20.11.2025 11:31:26",
+    "status": "Beklemede",
+    "customerName": "Ercan Özdemir",
+    "phone": "+5358814018",
+    "address": "Şekeroğlu Mah eski gümrük cad no 32 g",
+    "city": "Gaziantep",
+    "district": "Şahinbey",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
