@@ -4576,5 +4576,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 328,
+    "date": "20.11.2025 14:03:59",
+    "status": "Beklemede",
+    "customerName": "Necla  Bulut",
+    "phone": "5379937115",
+    "address": "Sevdı mah no8 sok9",
+    "city": "Sakarya",
+    "district": "Serdıvan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
