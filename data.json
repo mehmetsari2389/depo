@@ -4506,5 +4506,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 323,
+    "date": "20.11.2025 12:58:33",
+    "status": "Beklemede",
+    "customerName": "Zeki Keser",
+    "phone": "+905344911663",
+    "address": "Polatcadesi ",
+    "city": "İzmir",
+    "district": "Karabaglar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
