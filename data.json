@@ -5892,5 +5892,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 422,
+    "date": "21.11.2025 00:51:26",
+    "status": "Beklemede",
+    "customerName": "EROL ÇİLCAN",
+    "phone": "0(537) 212 03 02",
+    "address": "244. Sk.",
+    "city": "Adıyaman",
+    "district": "Adıyaman Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
