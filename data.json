@@ -4800,5 +4800,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 344,
+    "date": "20.11.2025 17:06:18",
+    "status": "Beklemede",
+    "customerName": "Ahmet Uyguner",
+    "phone": "05316314895",
+    "address": "Ulubatlı Hasan mahallesi 3115/2,B  Yüreğir/Adana ",
+    "city": "Adana ",
+    "district": "Yüreğir ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
