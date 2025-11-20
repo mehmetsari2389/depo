@@ -4100,5 +4100,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 294,
+    "date": "20.11.2025 07:43:38",
+    "status": "Beklemede",
+    "customerName": "Murat  Yıldız ",
+    "phone": "+905348443271",
+    "address": "Cumhuriyet mah şal sk no.24 \nAdapazarı SAKARYA ",
+    "city": "Sakarya ",
+    "district": "Adapazarı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
