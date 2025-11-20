@@ -5066,5 +5066,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 363,
+    "date": "20.11.2025 19:29:47",
+    "status": "Beklemede",
+    "customerName": "Şevket  Duman ",
+    "phone": "05525127049",
+    "address": "Cumhuriyet MH 256/1 sokak no:5 daire 2",
+    "city": "Manisa ",
+    "district": "Akhisar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
