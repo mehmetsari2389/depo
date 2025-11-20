@@ -5514,5 +5514,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1,
+    "date": "20.11.2025 22:14:14",
+    "status": "Beklemede",
+    "customerName": "Veysi Kocaağ",
+    "phone": "5527817721",
+    "address": "Şubeden alacağım ",
+    "city": "Kocaeli ",
+    "district": "Karamürsel ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
