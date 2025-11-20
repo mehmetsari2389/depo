@@ -4478,5 +4478,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 321,
+    "date": "20.11.2025 12:27:26",
+    "status": "Beklemede",
+    "customerName": "Rıfat Akyıldız ",
+    "phone": "+905511007321",
+    "address": "Kayabaşı mahallesi ulucamii karşısı piramit Cafe göksun Kahramanmaraş ",
+    "city": "Kahramanmaraş ",
+    "district": "Göksun ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
