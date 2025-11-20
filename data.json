@@ -5794,5 +5794,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "20.11.2025 23:54:05",
+    "status": "Beklemede",
+    "customerName": "Mustafa Deveci",
+    "phone": "+905336503935",
+    "address": "8841/3 şok no9dai 6cigli izkent",
+    "city": "İzmir ",
+    "district": "Çiğli ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
