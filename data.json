@@ -4772,5 +4772,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 342,
+    "date": "20.11.2025 16:39:34",
+    "status": "Beklemede",
+    "customerName": "Fikri  Karaca ",
+    "phone": "+905422366489",
+    "address": "Gazikemal mah.137.no.lu sokak No.1 ",
+    "city": "Kırklareli ",
+    "district": "Babaeski ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
