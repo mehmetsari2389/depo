@@ -3960,5 +3960,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 284,
+    "date": "20.11.2025 06:36:08",
+    "status": "Beklemede",
+    "customerName": "Ramazan Öksüz",
+    "phone": "05414421409",
+    "address": "Fener mah ıkı nolu menzıl sok no 7/a",
+    "city": "Rize",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
