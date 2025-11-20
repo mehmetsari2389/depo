@@ -4856,5 +4856,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 348,
+    "date": "20.11.2025 17:19:53",
+    "status": "Beklemede",
+    "customerName": "Emrullah  İder",
+    "phone": "+905314998171",
+    "address": "Siirt Pervari şakiran mahallesi çeşme başı sokak no 5",
+    "city": "Siirt ",
+    "district": "Pervari ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
