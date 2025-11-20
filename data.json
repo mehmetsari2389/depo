@@ -5346,5 +5346,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 383,
+    "date": "20.11.2025 20:48:43",
+    "status": "Beklemede",
+    "customerName": "Bayazıt Yıldırım",
+    "phone": "05054401081",
+    "address": "Şevkiye mh, köprülüdeğirmen sk.yusuf baysal rezidens kafeteryası. Yaşar Kızıloluk",
+    "city": "Adana",
+    "district": "Kozan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
