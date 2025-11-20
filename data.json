@@ -4016,5 +4016,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 288,
+    "date": "20.11.2025 06:56:45",
+    "status": "Beklemede",
+    "customerName": "Dilaver Timur",
+    "phone": "05358435901",
+    "address": "Cumhuriyet.   Mah.  Balkan.  SK.   No.  2.     ",
+    "city": "Edirne",
+    "district": "Havsa",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
