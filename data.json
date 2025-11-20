@@ -5500,5 +5500,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1,
+    "date": "20.11.2025 22:14:13",
+    "status": "Beklemede",
+    "customerName": "Kasim Tartan",
+    "phone": "5340387793",
+    "address": "Van edremit Hacioglu mevlana",
+    "city": "Van",
+    "district": "Edremit ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
