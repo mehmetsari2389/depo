@@ -5654,5 +5654,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 405,
+    "date": "20.11.2025 22:46:05",
+    "status": "Beklemede",
+    "customerName": "Ramazan Opak",
+    "phone": "+905422005693",
+    "address": "S Urfa Birecik Urfa cesur",
+    "city": "Surfa",
+    "district": "Birecik ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
