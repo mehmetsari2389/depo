@@ -5486,5 +5486,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 393,
+    "date": "20.11.2025 22:08:29",
+    "status": "Beklemede",
+    "customerName": "Ali Selcuk",
+    "phone": "5399480732",
+    "address": "Isparta merkez",
+    "city": "Isparta ",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
