@@ -5668,5 +5668,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 406,
+    "date": "20.11.2025 22:47:07",
+    "status": "Beklemede",
+    "customerName": "Yunus emre Ulusoy",
+    "phone": "5433474116",
+    "address": "Sarıyakup mah.  Büyük kumköprü CD.  No:18/b Sedat akbaş kliniği Karatay \n\n",
+    "city": "Konya ",
+    "district": "Karatay",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
