@@ -5458,5 +5458,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 390,
+    "date": "20.11.2025 21:48:46",
+    "status": "Beklemede",
+    "customerName": "Hasan Kara",
+    "phone": "05304177366",
+    "address": "Akgedik mahallesi Akgedik Sokak no 43 Yunus Emre Manisa",
+    "city": "Manisa",
+    "district": "Yunus Emre",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
