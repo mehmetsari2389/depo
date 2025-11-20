@@ -4898,5 +4898,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 351,
+    "date": "20.11.2025 18:03:54",
+    "status": "Beklemede",
+    "customerName": "Siraç Yüksel",
+    "phone": "5415872798",
+    "address": "Tatlı kuyu mah 1306 sok no 36 d.4",
+    "city": "Kocaeli ",
+    "district": "Gebze",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
