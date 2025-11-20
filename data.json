@@ -5906,5 +5906,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 423,
+    "date": "21.11.2025 01:11:59",
+    "status": "Beklemede",
+    "customerName": "Turgut Özen",
+    "phone": "05352862869",
+    "address": "Gönen PTT subesi,  ısparta ",
+    "city": "Isparta ",
+    "district": "Gönen",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
