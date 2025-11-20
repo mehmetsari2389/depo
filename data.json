@@ -3946,5 +3946,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 283,
+    "date": "20.11.2025 04:38:52",
+    "status": "Beklemede",
+    "customerName": "Ali Osman  KARAKAYA ",
+    "phone": "+905301089069",
+    "address": "Cumhuriyet meydanı Çelik pide salonu İhsaniye ",
+    "city": "Afyonkarahisar ",
+    "district": "İhsaniye ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
