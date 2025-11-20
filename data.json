@@ -4646,5 +4646,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 333,
+    "date": "20.11.2025 15:35:52",
+    "status": "Beklemede",
+    "customerName": "Halil Öge",
+    "phone": "+905335194988",
+    "address": "Çatma mescit Mah. Tepebaşı Çad. Çatma Mektep SK. No. 6 Daire 10",
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
