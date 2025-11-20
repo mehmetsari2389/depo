@@ -5626,5 +5626,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 402,
+    "date": "20.11.2025 22:40:31",
+    "status": "Beklemede",
+    "customerName": "Mustafa  Karasu ",
+    "phone": "05323614304",
+    "address": "İsmet Paşa mahallesi Ordu caddesi 87 sokak no 69",
+    "city": "İstanbul ",
+    "district": "Sultangazi ",
+    "product": "Puma Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
