@@ -4870,5 +4870,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 349,
+    "date": "20.11.2025 17:44:33",
+    "status": "Beklemede",
+    "customerName": "Huseyin Cakir",
+    "phone": "05300723364",
+    "address": "Fatih mahallesi sardunya sokak no 11 ",
+    "city": "İzmir ",
+    "district": "Bergama ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
