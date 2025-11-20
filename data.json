@@ -5976,5 +5976,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 428,
+    "date": "21.11.2025 01:39:28",
+    "status": "Beklemede",
+    "customerName": "Muhammed Sert",
+    "phone": "05303572941",
+    "address": "Ibni sinan mahalesi leyla s.k no 22 kat 3",
+    "city": "Kocaeli",
+    "district": "Derince",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
