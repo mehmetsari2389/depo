@@ -4730,5 +4730,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 339,
+    "date": "20.11.2025 16:21:32",
+    "status": "Beklemede",
+    "customerName": "Veysel Akdeniz",
+    "phone": "+905378720843",
+    "address": "Selçuk bey mahallesi uyar sokak no 7 kat 1 ",
+    "city": "Bursa ",
+    "district": "Yıldırım ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
