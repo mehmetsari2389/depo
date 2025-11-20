@@ -5220,5 +5220,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 374,
+    "date": "20.11.2025 20:08:43",
+    "status": "Beklemede",
+    "customerName": "Hasan Sazanlar",
+    "phone": "05452057683",
+    "address": "Soğukpınar mahallesi, armutlu caddesi, 288 sokak, no:14 ",
+    "city": "İzmir",
+    "district": "Kemalpaşa ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
