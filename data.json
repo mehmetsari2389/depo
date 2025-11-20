@@ -4926,5 +4926,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 352,
+    "date": "20.11.2025 18:05:20",
+    "status": "Beklemede",
+    "customerName": "İlker Becerik",
+    "phone": "05458068640",
+    "address": "2718 sokak no 13 Gültepe Toros İzmir Konak ",
+    "city": "İzmir ",
+    "district": "Konak ",
+    "product": "Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
