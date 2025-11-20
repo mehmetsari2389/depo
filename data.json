@@ -5556,5 +5556,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "20.11.2025 22:20:33",
+    "status": "Beklemede",
+    "customerName": "İbrahim Kuş",
+    "phone": "05374466043",
+    "address": "Ertuğrulgazi Mh ÖKSÜZOĞLU SK NO.26 D.7",
+    "city": "BİLECİK",
+    "district": "MERKEZ",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
