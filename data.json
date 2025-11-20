@@ -5528,5 +5528,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "20.11.2025 22:15:31",
+    "status": "Beklemede",
+    "customerName": "Veysi Kocaağ",
+    "phone": "5527817721",
+    "address": "Şubeden ",
+    "city": "Kocaeli ",
+    "district": "Karamürsel ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
