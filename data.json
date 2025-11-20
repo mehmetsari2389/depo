@@ -4212,5 +4212,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 302,
+    "date": "20.11.2025 09:50:33",
+    "status": "Beklemede",
+    "customerName": "Ferhat  Bilek ",
+    "phone": "05422961364",
+    "address": "Sütlüce mah.kısabayır sok.Nisa apartmanı No:11-13 kapı:15",
+    "city": "İstanbul ",
+    "district": "Beyoğlu ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
