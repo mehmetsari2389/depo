@@ -4604,5 +4604,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 330,
+    "date": "20.11.2025 14:31:47",
+    "status": "Beklemede",
+    "customerName": "Abdullah  Özaslan ",
+    "phone": "5442880933",
+    "address": "Hürriyet mahallesi hanifi soylu bulvarı vural petrol ltd. No:71 Erzin/hatay",
+    "city": "Hatay",
+    "district": "Erzin",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
