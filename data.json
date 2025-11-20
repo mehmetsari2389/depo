@@ -5542,5 +5542,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "20.11.2025 22:18:48",
+    "status": "Beklemede",
+    "customerName": "Sadık Yapıcıoğlu",
+    "phone": "05447961571",
+    "address": "Sanayi çarşısı no  25 Yenipazar/aydın",
+    "city": "Aydın",
+    "district": "Yenipazar",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
