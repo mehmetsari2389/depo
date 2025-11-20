@@ -6032,5 +6032,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 432,
+    "date": "21.11.2025 02:57:10",
+    "status": "Beklemede",
+    "customerName": "İbrahim Obuz",
+    "phone": "+905050730387",
+    "address": "Sahibata mah Ragıp Paşa sok aran apt 3/2",
+    "city": "Konya",
+    "district": "Meram",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
