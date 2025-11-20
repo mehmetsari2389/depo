@@ -5584,5 +5584,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 400,
+    "date": "20.11.2025 22:36:17",
+    "status": "Beklemede",
+    "customerName": "Murat  Salman ",
+    "phone": "+905304652806",
+    "address": "Gedikkaya Mah 33 nolu sok no 24/1",
+    "city": "Giresun ",
+    "district": "Merkez ",
+    "product": "Kırmızı Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
