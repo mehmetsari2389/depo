@@ -5290,5 +5290,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 379,
+    "date": "20.11.2025 20:28:52",
+    "status": "Beklemede",
+    "customerName": "Mesut Efe",
+    "phone": "05315819637",
+    "address": "Gazi Mahallesi 242 Sokak No 13 kat 1 daire 1",
+    "city": "Bursa",
+    "district": "Karacabey sahibinden",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
