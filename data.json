@@ -5780,5 +5780,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 413,
+    "date": "20.11.2025 23:52:17",
+    "status": "Beklemede",
+    "customerName": "Mustafa Baytuk",
+    "phone": "+905421386463",
+    "address": "Akarcalı mahallesi 6037. Sokak no 5 ",
+    "city": "Adana ",
+    "district": "Yüreğir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
