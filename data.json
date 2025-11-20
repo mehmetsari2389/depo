@@ -4086,5 +4086,19 @@
     "size": "M",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 293,
+    "date": "20.11.2025 07:39:47",
+    "status": "Beklemede",
+    "customerName": "Mücahit  Ay",
+    "phone": "0 (544) 313-2322",
+    "address": "Yenibağ mahallesi cevizli çeşme sokak no  16",
+    "city": "Bitlis ",
+    "district": "Mutki",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
