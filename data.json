@@ -6018,5 +6018,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 431,
+    "date": "21.11.2025 02:07:26",
+    "status": "Beklemede",
+    "customerName": "Ömer Dağdelen",
+    "phone": "05333537125",
+    "address": "Küçükpiyale mahalleli Kızılay meydanı Çad no 10 kat 1",
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
