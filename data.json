@@ -4464,5 +4464,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 320,
+    "date": "20.11.2025 12:13:35",
+    "status": "Beklemede",
+    "customerName": "Mustafa BAŞAK",
+    "phone": "5323250947",
+    "address": "GAZİANTEP BİLGİN TRAKTÖR\nSANAYİ MAH ÖRNEK SANAYİ SİTESİ 60004 NOLU CADDE NO 2 ŞEHİTKAMİL GAZİANTEP ",
+    "city": "GAZİANTEP",
+    "district": "ŞEHİTKAMİL",
+    "product": "Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
