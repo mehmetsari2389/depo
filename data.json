@@ -5430,5 +5430,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 389,
+    "date": "20.11.2025 21:43:38",
+    "status": "Beklemede",
+    "customerName": "Emin  Balcı",
+    "phone": "+905449363640",
+    "address": "Kars Harakani Devlet hastanesi ",
+    "city": "Kars",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
