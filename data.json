@@ -4114,5 +4114,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 295,
+    "date": "20.11.2025 07:57:30",
+    "status": "Beklemede",
+    "customerName": "Adem ademoğlu",
+    "phone": "05310304588",
+    "address": "Arda mh kumludere caddesi no 14",
+    "city": "Manisa",
+    "district": "Şehzadeler",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
