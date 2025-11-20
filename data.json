@@ -4128,5 +4128,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 296,
+    "date": "20.11.2025 08:21:28",
+    "status": "Beklemede",
+    "customerName": "İbrahim  Gür",
+    "phone": "5403071971",
+    "address": "Kaledere mahallesi hükümet caddesi Ünye kaymakamlığı ilçe milli eğitim müdürlüğü kat 3 Ünye Ordu ",
+    "city": "Ordu",
+    "district": "Ünye",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
