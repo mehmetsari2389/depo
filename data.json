@@ -4296,5 +4296,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 308,
+    "date": "20.11.2025 10:41:22",
+    "status": "Beklemede",
+    "customerName": "Mertcan  Özcan ",
+    "phone": "5303991474",
+    "address": "Atasehir mahallesi imam efendi bulvarı no 163 d has koç çağ kebap",
+    "city": "Elazığ ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
