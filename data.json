@@ -4758,5 +4758,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 341,
+    "date": "20.11.2025 16:38:48",
+    "status": "Beklemede",
+    "customerName": "Mustafa  Özbabacan ",
+    "phone": "05419746986",
+    "address": "Konya Karapınar Yeşilyurt mahallesi salur köyü 36",
+    "city": "Konya ",
+    "district": "Karapınar ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
