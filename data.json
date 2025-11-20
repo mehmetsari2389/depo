@@ -5724,5 +5724,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 409,
+    "date": "20.11.2025 23:03:37",
+    "status": "Beklemede",
+    "customerName": "Mehmet  YETİK ",
+    "phone": "05434515571",
+    "address": "Y mh 60 sokak no 14 mimar Sinan camii arkası Kırıkkale ",
+    "city": "Kırıkkale ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
