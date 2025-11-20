@@ -4450,5 +4450,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 319,
+    "date": "20.11.2025 12:13:08",
+    "status": "Beklemede",
+    "customerName": "Ahmet Özdokuyucugil",
+    "phone": "5300302903",
+    "address": "Öğretmenler mah.rasim dokur bulvari mehmetçik parki yani.alaybeyi apt.kat:3/7 Tarsus -Mersin",
+    "city": "Mersin ",
+    "district": "Tarsus",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
