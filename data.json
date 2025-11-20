@@ -5962,5 +5962,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 426,
+    "date": "21.11.2025 01:28:58",
+    "status": "Beklemede",
+    "customerName": "RAMAZAN GÜÇLÜ GÜÇLÜ",
+    "phone": "05324020018",
+    "address": "BURSA NİLÜFER AKÇALAR MAH NAR SOKAK NO 2 VİLLA PARK AP B BL NO 5",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
