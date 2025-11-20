@@ -5598,5 +5598,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 401,
+    "date": "20.11.2025 22:36:44",
+    "status": "Beklemede",
+    "customerName": "Osman  Kayalar ",
+    "phone": "+905321113500",
+    "address": "Kemalpaşa mahallesi 7098/3 sokak no 55",
+    "city": "İzmir",
+    "district": "Bornova",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
