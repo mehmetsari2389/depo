@@ -4968,5 +4968,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 356,
+    "date": "20.11.2025 18:42:48",
+    "status": "Beklemede",
+    "customerName": "Göksel Akışık",
+    "phone": "5384481666",
+    "address": "Esentepe Mah, Anayurt Cad.Kösedağ Sk. No4/A Kartal İstanbul ",
+    "city": "İstanbul",
+    "district": "Kartal",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
