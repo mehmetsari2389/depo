@@ -4044,5 +4044,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 290,
+    "date": "20.11.2025 07:01:47",
+    "status": "Beklemede",
+    "customerName": "Marsel Tezgahtar",
+    "phone": "05367339831",
+    "address": "erol mahallesi 771 sokak no 59 daire 9 çankaya ankara",
+    "city": "ankara",
+    "district": "çankaya",
+    "product": "Kırmızı Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
