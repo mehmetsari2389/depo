@@ -5402,5 +5402,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 387,
+    "date": "20.11.2025 21:31:01",
+    "status": "Beklemede",
+    "customerName": "Ali Yapacak ",
+    "phone": "05438407767",
+    "address": "Selahattin Eyyüp mahallesi 79 sok no 9 A ",
+    "city": "Şanlıurfa ",
+    "district": "Ceylanpınar ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "2",
+    "cargoPayment": "aras-nakit"
   }
 ]
