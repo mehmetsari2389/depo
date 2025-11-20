@@ -5388,5 +5388,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 386,
+    "date": "20.11.2025 20:58:28",
+    "status": "Beklemede",
+    "customerName": "Hakan Dayı",
+    "phone": "+905442131946",
+    "address": "Fatih mah kantar sok no7 kat 1",
+    "city": "Çanakkale",
+    "district": "Çan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
