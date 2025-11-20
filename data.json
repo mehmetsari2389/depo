@@ -4324,5 +4324,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 310,
+    "date": "20.11.2025 11:09:17",
+    "status": "Beklemede",
+    "customerName": "Murat Akdağ",
+    "phone": "5323132475",
+    "address": "Tavaklı iskelesi 137. Sokak özmavikent sitesi no:4AT Ezine/çanakkale",
+    "city": "Çanakkale ",
+    "district": "Ezine",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
