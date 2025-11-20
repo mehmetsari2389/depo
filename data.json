@@ -4310,5 +4310,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 309,
+    "date": "20.11.2025 10:46:01",
+    "status": "Beklemede",
+    "customerName": "Mustafa  Ümit ",
+    "phone": "05541897877",
+    "address": "Seldeğirmeni mah. İnönü cad.furkan aaPt.no.125 kat. 2 daire 3",
+    "city": "Giresun",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
