@@ -4660,5 +4660,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 334,
+    "date": "20.11.2025 15:37:38",
+    "status": "Beklemede",
+    "customerName": "Kerem Yılmaz ",
+    "phone": "+905427990772",
+    "address": "Orta mah. Yunus emre karşısı Yılmazlar elektrik Sason batman",
+    "city": "Batman",
+    "district": "Sason",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
