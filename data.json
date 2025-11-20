@@ -4674,5 +4674,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 335,
+    "date": "20.11.2025 15:59:43",
+    "status": "Beklemede",
+    "customerName": "İsmail  Yazıcı",
+    "phone": "+905616111613",
+    "address": "Sürmene Trabzon ",
+    "city": "Trabzon ",
+    "district": "Sürmene",
+    "product": "Trabzonspor Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
