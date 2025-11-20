@@ -4058,5 +4058,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 291,
+    "date": "20.11.2025 07:18:55",
+    "status": "Beklemede",
+    "customerName": "ümit şimşek",
+    "phone": "+905517458130",
+    "address": "9758 SK no 10 limontepe karabağlar izmir",
+    "city": "İzmir",
+    "district": "Karabağlar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
