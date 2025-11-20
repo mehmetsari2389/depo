@@ -4954,5 +4954,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 355,
+    "date": "20.11.2025 18:39:35",
+    "status": "Beklemede",
+    "customerName": "süleyman karaoğlu",
+    "phone": "05549687876",
+    "address": "Ferhat paşa mahallesi Erenler sokak Meriç apartmanı no 18 daire 4 ",
+    "city": "İstanbul",
+    "district": "Çatalca ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
