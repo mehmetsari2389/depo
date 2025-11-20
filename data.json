@@ -4884,5 +4884,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 350,
+    "date": "20.11.2025 18:01:08",
+    "status": "Beklemede",
+    "customerName": "İsmail Uyanık",
+    "phone": "+905307929818",
+    "address": "Serik antalya",
+    "city": "Antalya",
+    "district": "Serik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
