@@ -4562,5 +4562,19 @@
     "size": "S",
     "quantity": "10",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 327,
+    "date": "20.11.2025 13:35:47",
+    "status": "Beklemede",
+    "customerName": "Caner Erdoğmuş ",
+    "phone": "05424547737",
+    "address": "Kartaltepe mah selimpaşa cad no 14 daire2 bayrampaşa",
+    "city": "İstanbul",
+    "district": "Bayrampaşa ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
