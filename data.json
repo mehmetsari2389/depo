@@ -6718,5 +6718,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 480,
+    "date": "21.11.2025 16:10:29",
+    "status": "Beklemede",
+    "customerName": "çetin ünal",
+    "phone": "05334538071",
+    "address": "Fevzi çakmak Mh gazi Ethem paşa bul. No. 47 şafak, AP kat 4",
+    "city": "Samsun",
+    "district": "İlkadım",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
