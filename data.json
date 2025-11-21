@@ -6844,5 +6844,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 490,
+    "date": "21.11.2025 18:44:39",
+    "status": "Beklemede",
+    "customerName": "Sefer  YILDIZ",
+    "phone": "5072240822",
+    "address": "Vatan mah 3.vakit sk no 22 daire 3",
+    "city": "Bursa",
+    "district": "Yıldırım ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
