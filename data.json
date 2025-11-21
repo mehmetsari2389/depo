@@ -6956,5 +6956,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 498,
+    "date": "21.11.2025 19:28:42",
+    "status": "Beklemede",
+    "customerName": "Sinan Arslaner",
+    "phone": "05306476562",
+    "address": "Küçük yapalak mahallesi no 46 Elbistan Kahramanmaraş ",
+    "city": "Kahramanmaraş ",
+    "district": "Elbistan ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
