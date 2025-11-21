@@ -7222,5 +7222,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 517,
+    "date": "21.11.2025 21:29:27",
+    "status": "Beklemede",
+    "customerName": "Hakan Abacı",
+    "phone": "05517195448",
+    "address": "Meram tıp fak yeni hastane mutfak bölümü konya",
+    "city": "Konya",
+    "district": "Meram",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
