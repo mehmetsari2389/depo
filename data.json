@@ -7362,5 +7362,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 527,
+    "date": "21.11.2025 22:22:52",
+    "status": "Beklemede",
+    "customerName": "Sinan Cali",
+    "phone": "05386209328",
+    "address": "Bursa Mustafa kemalpasa",
+    "city": "Bursa",
+    "district": "Mustafa kemal pasa",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
