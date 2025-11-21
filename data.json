@@ -7852,5 +7852,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 562,
+    "date": "22.11.2025 01:16:33",
+    "status": "Beklemede",
+    "customerName": "Yusuf Samancı",
+    "phone": "05421994279",
+    "address": "Konya Beyşehir otagar içi no 13 samancı seyahat ",
+    "city": "Konya ",
+    "district": "Beyşehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
