@@ -6914,5 +6914,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 495,
+    "date": "21.11.2025 19:21:01",
+    "status": "Beklemede",
+    "customerName": "Ugur Yılmaz",
+    "phone": "+905359228651",
+    "address": "Esenler belediyesi ..birlik mah 872 sok esenler ist",
+    "city": "İstanbul",
+    "district": "Esenler",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
