@@ -6088,5 +6088,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 436,
+    "date": "21.11.2025 09:35:02",
+    "status": "Beklemede",
+    "customerName": "Mustafa  Okatan ",
+    "phone": "+905399213070",
+    "address": "Ahmet başyurt mah. Zara veysel dursun uygulamalı bilimler yüksekokulu",
+    "city": "Sivas ",
+    "district": "Zara ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
