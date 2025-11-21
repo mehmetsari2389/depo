@@ -7292,5 +7292,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 522,
+    "date": "21.11.2025 21:59:42",
+    "status": "Beklemede",
+    "customerName": "Gokhan Öztürk",
+    "phone": "5515984855",
+    "address": "Manisa Salihli cumhuriyet mahallesi 339 sokak no 1 ka1 96 daierler ",
+    "city": "Manisa",
+    "district": "Salihli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
