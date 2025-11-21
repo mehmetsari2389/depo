@@ -6298,5 +6298,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 451,
+    "date": "21.11.2025 13:08:47",
+    "status": "Beklemede",
+    "customerName": "Hasan  Ata",
+    "phone": "+905334128271",
+    "address": "Konaklar mahallesi Akasyalı Sokak no 3 4 Levent Beşiktaş İstanbul ",
+    "city": "İstanbul ",
+    "district": "Beşiktaş ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
