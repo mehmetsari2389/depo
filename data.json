@@ -6998,5 +6998,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 501,
+    "date": "21.11.2025 19:52:16",
+    "status": "Beklemede",
+    "customerName": "Mehmet Oter",
+    "phone": "5334568836",
+    "address": "Bulgurlu.bagcilar.cad.no.35\nÜsküdar..istanbul",
+    "city": "İstanbul.uskudar.bulgurlu",
+    "district": "Uskudar",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
