@@ -6144,5 +6144,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 440,
+    "date": "21.11.2025 10:25:33",
+    "status": "Beklemede",
+    "customerName": "Mirza Emengel",
+    "phone": "05394804470",
+    "address": "hasan keyf 11122 sokak no 4 ",
+    "city": "Ağrı ",
+    "district": "doğubayazıt",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
