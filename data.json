@@ -6270,5 +6270,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 449,
+    "date": "21.11.2025 12:13:45",
+    "status": "Beklemede",
+    "customerName": "Kadir Çeltek",
+    "phone": "05393517338",
+    "address": "Kayseri develi PTT",
+    "city": "Kayseri",
+    "district": "Develi",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
