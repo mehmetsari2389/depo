@@ -7124,5 +7124,19 @@
     "size": "L",
     "quantity": "2",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 510,
+    "date": "21.11.2025 20:27:09",
+    "status": "Beklemede",
+    "customerName": "Burçin Arabacı",
+    "phone": "05383165728",
+    "address": "Atatürk Mahallesi 285. Sokak Mevlana İlkokulu",
+    "city": "Tekirdağ",
+    "district": "Süleymanpaşa",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
