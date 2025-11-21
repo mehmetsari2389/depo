@@ -7726,5 +7726,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 553,
+    "date": "21.11.2025 23:57:14",
+    "status": "Beklemede",
+    "customerName": "Hüseyin  Yıldız ",
+    "phone": "5313037721",
+    "address": "Levent, Levent 2 Kavşağı No:4",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
