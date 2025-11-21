@@ -6060,5 +6060,19 @@
     "size": "XL",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 434,
+    "date": "21.11.2025 04:17:37",
+    "status": "Beklemede",
+    "customerName": "Mustafa Altuntas",
+    "phone": "05397202556",
+    "address": "Bursa.mustafa.gemal.basa.tat.kavakli.mahalesi.sehit.sertar.kuzu.sokak.no.23",
+    "city": "Bursa.",
+    "district": "Mustafa.gemal.basa",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
