@@ -6326,5 +6326,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 453,
+    "date": "21.11.2025 13:14:36",
+    "status": "Beklemede",
+    "customerName": "Mehmet Bulut",
+    "phone": "05398201911",
+    "address": "Siirt Pervari ptt",
+    "city": "Siirt",
+    "district": "Pervari",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
