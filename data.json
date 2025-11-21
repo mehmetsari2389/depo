@@ -6760,5 +6760,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 484,
+    "date": "21.11.2025 17:12:08",
+    "status": "Beklemede",
+    "customerName": "İsmail Erçelik",
+    "phone": "5456005482",
+    "address": "Süleyman Demirel üniversitesi mühendislik fakültesi e 4 bloğu Isparta merkez",
+    "city": "Isparta",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
