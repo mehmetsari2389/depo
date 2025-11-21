@@ -6970,5 +6970,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 499,
+    "date": "21.11.2025 19:39:03",
+    "status": "Beklemede",
+    "customerName": "Sadettin Eroglu",
+    "phone": "+5363283935",
+    "address": "Kilic özü sanayi sitesi ozbagi kereste",
+    "city": "Kirsehir",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
