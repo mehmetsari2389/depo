@@ -6074,5 +6074,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 435,
+    "date": "21.11.2025 04:24:04",
+    "status": "Beklemede",
+    "customerName": "Mustafa Altuntas",
+    "phone": "05397202556",
+    "address": "Bursa.mustafa.gemal.basa.tat.kavaklu.malesa.sehit.sertar.kuzu.sokak.no.23",
+    "city": "Bursa",
+    "district": "Mustafa.kemal.basa",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
