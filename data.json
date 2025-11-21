@@ -7866,5 +7866,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 563,
+    "date": "22.11.2025 01:31:00",
+    "status": "Beklemede",
+    "customerName": "Cemil Telkok",
+    "phone": "05511981468",
+    "address": "Zübeyde hanım caddesi 32b",
+    "city": "Sakarya ",
+    "district": "Arifiye ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
