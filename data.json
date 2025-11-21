@@ -6732,5 +6732,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 482,
+    "date": "21.11.2025 16:19:10",
+    "status": "Beklemede",
+    "customerName": "Mutalip Kaya",
+    "phone": "+905433782800",
+    "address": "Hakkari merkez sürat kargo şubesi ",
+    "city": "Hakkari",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
