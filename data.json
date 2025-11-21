@@ -6438,5 +6438,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 461,
+    "date": "21.11.2025 14:08:17",
+    "status": "Beklemede",
+    "customerName": "Veysi  Altınsoy ",
+    "phone": "05333105947",
+    "address": "Karamanlı mah Konuralp cad no l6",
+    "city": "Bolu",
+    "district": "Merkez ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
