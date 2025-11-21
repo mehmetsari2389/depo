@@ -7138,5 +7138,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 511,
+    "date": "21.11.2025 20:48:02",
+    "status": "Beklemede",
+    "customerName": "İsmail Kara ",
+    "phone": "+905454139711",
+    "address": "Değirmenönü mh 1480 sk no 2 kt 2 daire 7",
+    "city": "DENİZLİ",
+    "district": "merkezefendi",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
