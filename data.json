@@ -7054,5 +7054,19 @@
     "size": "M",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 505,
+    "date": "21.11.2025 20:08:58",
+    "status": "Beklemede",
+    "customerName": "Yüksel Oltulu",
+    "phone": "05324472192",
+    "address": "Güzelyalı Mah.3022 Sokak.No:28/1 Atakum/Samsun",
+    "city": "Samsun",
+    "district": "Atakum",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
