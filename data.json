@@ -7838,5 +7838,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 560,
+    "date": "22.11.2025 01:15:59",
+    "status": "Beklemede",
+    "customerName": "Sezgin Şahin",
+    "phone": "5072107393",
+    "address": "Giresun çanakçı çanakçı merkez ekmek fırın",
+    "city": "Giresun",
+    "district": "Çanakçı",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
