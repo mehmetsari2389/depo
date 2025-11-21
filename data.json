@@ -6592,5 +6592,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 471,
+    "date": "21.11.2025 14:45:46",
+    "status": "Beklemede",
+    "customerName": "Bahri İlhan",
+    "phone": "05353283108",
+    "address": "Cankurtaran mahallesi mimar Mehmet caddesi no 3 sultanahmet Fatih İstanbul ",
+    "city": "İstanbul ",
+    "district": "Fatih",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
