@@ -7040,5 +7040,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 504,
+    "date": "21.11.2025 20:06:40",
+    "status": "Beklemede",
+    "customerName": "Yunus  Yüksel ",
+    "phone": "+5072037993",
+    "address": "Cumhuriyet mh. 315.sk no:11/²",
+    "city": "Manisa ",
+    "district": "Salihli ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
