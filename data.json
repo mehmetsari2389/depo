@@ -6102,5 +6102,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 437,
+    "date": "21.11.2025 09:36:57",
+    "status": "Beklemede",
+    "customerName": "Mustafa Gün",
+    "phone": "05356627357",
+    "address": "Amasya' merkezi ümük köyü no 10 ",
+    "city": "Amasya ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
