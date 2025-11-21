@@ -6802,5 +6802,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 487,
+    "date": "21.11.2025 17:51:33",
+    "status": "Beklemede",
+    "customerName": "Burak Ekşi",
+    "phone": "5462315807",
+    "address": "Afyon şuhut balçıkhisar köyü güldede mah seyman sok no 44",
+    "city": "Afyon",
+    "district": "Şuhut",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
