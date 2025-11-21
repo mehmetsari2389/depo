@@ -6340,5 +6340,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 454,
+    "date": "21.11.2025 13:32:01",
+    "status": "Beklemede",
+    "customerName": "Edip Yanığbaş ",
+    "phone": "5433667683",
+    "address": "Cumhuriyet Mahallesi Tevfik Fikret Caddesi Atatürk Bulvarı Ulukent Sitesi B Blok ",
+    "city": "Aydın ",
+    "district": "Efeler ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
