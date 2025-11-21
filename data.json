@@ -7670,5 +7670,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 549,
+    "date": "21.11.2025 23:52:02",
+    "status": "Beklemede",
+    "customerName": "Ahmet  Kırbaşlar ",
+    "phone": "(544) 882 70 56",
+    "address": "Balikkesir suaurluk kışla mahallesi panayır yolu sokak  Kırdar apartman no 12",
+    "city": "Balikkesir",
+    "district": "Susurluk",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
