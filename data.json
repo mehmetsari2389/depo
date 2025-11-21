@@ -6676,5 +6676,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 478,
+    "date": "21.11.2025 15:48:56",
+    "status": "Beklemede",
+    "customerName": "oğuzhan makaracı",
+    "phone": "05398466437",
+    "address": "Kemerli mah, Kemerli Sk. Makaracılar hazır beton",
+    "city": "Kastamonu",
+    "district": "Cide",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
