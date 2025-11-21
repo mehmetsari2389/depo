@@ -7082,5 +7082,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 507,
+    "date": "21.11.2025 20:16:42",
+    "status": "Beklemede",
+    "customerName": "Urfai Öztürk",
+    "phone": "05448143841",
+    "address": "Gaziantep/Şehitkamil/sam köyü/sammah. 66022 no sokak/no=a50",
+    "city": "Gaziantep ",
+    "district": "Şehitkamil ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
