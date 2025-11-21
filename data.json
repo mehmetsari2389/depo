@@ -7404,5 +7404,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 530,
+    "date": "21.11.2025 22:44:24",
+    "status": "Beklemede",
+    "customerName": "Adem  Kılıçelli",
+    "phone": "05374344298",
+    "address": "Boztepe mah Şemsettin günaltay Çad no 17/A",
+    "city": "Ankara ",
+    "district": "Çankaya ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
