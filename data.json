@@ -7754,5 +7754,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 555,
+    "date": "22.11.2025 00:40:05",
+    "status": "Beklemede",
+    "customerName": "celal küçüktokuış",
+    "phone": "+5343191587",
+    "address": "Oba mah çarşamba cad halis yilmaz apt no 100 daire 2",
+    "city": "Antalya ",
+    "district": "Alanya ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
