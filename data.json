@@ -6256,5 +6256,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 447,
+    "date": "21.11.2025 11:06:16",
+    "status": "Beklemede",
+    "customerName": "Uğur  Kayış",
+    "phone": "05412497684",
+    "address": "Orta mahalle. Tuzlaburun caddesi.  1085. Sokak no:9  kat:3  Serik / Antalya",
+    "city": "Antalya",
+    "district": "Serik",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
