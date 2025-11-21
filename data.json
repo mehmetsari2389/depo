@@ -7656,5 +7656,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 546,
+    "date": "21.11.2025 23:37:25",
+    "status": "Beklemede",
+    "customerName": "Ahmet  Müftüoğlu ",
+    "phone": "05335513974",
+    "address": "Erzene MH 54 sok no 20 daire 3 ",
+    "city": "İzmir ",
+    "district": "Bornova ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
