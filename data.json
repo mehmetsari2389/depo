@@ -7502,5 +7502,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 537,
+    "date": "21.11.2025 23:03:02",
+    "status": "Beklemede",
+    "customerName": "Mutlu Toygar",
+    "phone": "+905355766435",
+    "address": "Atatürk cad.kemalöz mah.no 36 uşak kosgeb müdürlüğü usak",
+    "city": "Usak",
+    "district": "Merkezz",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
