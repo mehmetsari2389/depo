@@ -6508,5 +6508,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 466,
+    "date": "21.11.2025 14:29:46",
+    "status": "Beklemede",
+    "customerName": "Mustafa  Kaya",
+    "phone": "05077785522",
+    "address": "Hacımütahir Mah. 90466 Sok. Mehmet Vural zapt. Kat1 No1 Ereğli/Konya",
+    "city": "Konya",
+    "district": "Ereğli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
