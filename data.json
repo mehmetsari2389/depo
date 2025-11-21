@@ -7614,5 +7614,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 545,
+    "date": "21.11.2025 23:25:32",
+    "status": "Beklemede",
+    "customerName": "Serhat mutlu  Saklı",
+    "phone": "05438601853",
+    "address": "AZİZİYE MAHALLESİ 1534 SOKAK NO:25 KAT:2 DAİRE:2 BÜYÜK YONCALI/SARAY/TEKİRDAĞ",
+    "city": "Tekirdağ",
+    "district": "Saray",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
