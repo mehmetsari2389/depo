@@ -7250,5 +7250,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 519,
+    "date": "21.11.2025 21:43:01",
+    "status": "Beklemede",
+    "customerName": "Gokhan Acıkbas",
+    "phone": "05389397050",
+    "address": "Kuştepe",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
