@@ -6690,5 +6690,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 479,
+    "date": "21.11.2025 16:03:11",
+    "status": "Beklemede",
+    "customerName": "Nevzat Mengutay",
+    "phone": "05065161366",
+    "address": "Gazi paşa mah 61 şok 10/2  yazıcı oğlu apt         dikili izmir",
+    "city": "İzmir",
+    "district": "Dikili",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
