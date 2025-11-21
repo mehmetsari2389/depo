@@ -6214,5 +6214,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 445,
+    "date": "21.11.2025 11:03:07",
+    "status": "Beklemede",
+    "customerName": "Murat Cinar",
+    "phone": "05377757951",
+    "address": "Havuzdere koyu no31",
+    "city": "Yalova",
+    "district": "Altinova",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
