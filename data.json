@@ -7516,5 +7516,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 538,
+    "date": "21.11.2025 23:04:42",
+    "status": "Beklemede",
+    "customerName": "ramazan aydin",
+    "phone": "5013651467",
+    "address": "Adnan Menderes mah keklik sok. No 15 emek osmangazi bursa",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
