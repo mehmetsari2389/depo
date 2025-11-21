@@ -7740,5 +7740,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 554,
+    "date": "22.11.2025 00:27:23",
+    "status": "Beklemede",
+    "customerName": "Mete DUYGULUER",
+    "phone": "05415211933",
+    "address": "Şeyh Şamil Mah.Ağrı Dağı Cad.BARIŞ Sitesi No:8 Kat:6 Daire:25 ERYAMAN ",
+    "city": "ANKARA",
+    "district": "ETİMESGUT",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
