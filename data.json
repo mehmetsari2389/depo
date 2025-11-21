@@ -7418,5 +7418,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 531,
+    "date": "21.11.2025 22:46:42",
+    "status": "Beklemede",
+    "customerName": "Adem Kılıçelli",
+    "phone": "0537434298",
+    "address": "Boztepe mah Şemsettin günaltay Çad 17/A ÇANKAYA/ANKARA ",
+    "city": "Ankara ",
+    "district": "Çankaya ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
