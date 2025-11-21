@@ -7684,5 +7684,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 550,
+    "date": "21.11.2025 23:55:46",
+    "status": "Beklemede",
+    "customerName": "Ersin Atasever",
+    "phone": "5326709216",
+    "address": "Arapzade mahallesi fevzi efendi caddesi zeytin sokak bina 3 daire 3 ",
+    "city": "Bursa",
+    "district": "Orhangazi",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
