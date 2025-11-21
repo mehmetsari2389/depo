@@ -7600,5 +7600,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 543,
+    "date": "21.11.2025 23:20:58",
+    "status": "Beklemede",
+    "customerName": "Ahmet  Öz",
+    "phone": "5366838012",
+    "address": "Yüksek mah. Özsezerler sok no 7",
+    "city": "Mersin",
+    "district": "Erdemli ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
