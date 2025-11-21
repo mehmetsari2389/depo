@@ -6116,5 +6116,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 438,
+    "date": "21.11.2025 09:51:14",
+    "status": "Beklemede",
+    "customerName": "Ali  Toptaş",
+    "phone": "+905059359267",
+    "address": "Hızırbey İmam Hatip Ortaokulu 71 Evler Mh Gülertan Sk No:2",
+    "city": "Eskişehir",
+    "district": "Odunpazarı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
