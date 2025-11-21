@@ -7572,5 +7572,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 542,
+    "date": "21.11.2025 23:16:08",
+    "status": "Beklemede",
+    "customerName": "Fikret Ceylan",
+    "phone": "532 215 75 80",
+    "address": "Kırkpınar Hasanpaşa Mah. Meşeli Sok. No:11/D LilaRose Sitesi. Sapanca/ SAKARYA ",
+    "city": "Sakarya",
+    "district": "Sapanca ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
