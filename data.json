@@ -6620,5 +6620,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 474,
+    "date": "21.11.2025 14:54:05",
+    "status": "Beklemede",
+    "customerName": "İsmail  Cinoğlu ",
+    "phone": "+905309171111",
+    "address": "Hürriyet mah ümit yapı koop a blok kat 1",
+    "city": "Bilecik ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
