@@ -7810,5 +7810,19 @@
     "size": "3XL",
     "quantity": "2",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 559,
+    "date": "22.11.2025 01:08:04",
+    "status": "Beklemede",
+    "customerName": "Yılmaz Güleryüz0",
+    "phone": "05419564116",
+    "address": "Tahtakale mah veziri CAD no A 101 üstü Tahtakale kiraathanesi Osmangazi Bursa",
+    "city": "Bursa ",
+    "district": "Osmangazi ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
