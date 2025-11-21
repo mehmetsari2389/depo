@@ -6886,5 +6886,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 493,
+    "date": "21.11.2025 18:48:20",
+    "status": "Beklemede",
+    "customerName": "Ali Ustabaş",
+    "phone": "+905389730896",
+    "address": "Artvin kpaşa tjk bayi",
+    "city": "Artvin",
+    "district": "Kpaşa",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
