@@ -7474,5 +7474,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 534,
+    "date": "21.11.2025 22:59:23",
+    "status": "Beklemede",
+    "customerName": "Mustafa Karcılar  Karcılar ",
+    "phone": "05413418668",
+    "address": "Yavuz selim mahallesi yeni sanayi Sitesi 18.cadde no3 ",
+    "city": "Kahramanmaraş ",
+    "district": "Dulkadiroğlu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
