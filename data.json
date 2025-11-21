@@ -6564,5 +6564,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 470,
+    "date": "21.11.2025 14:35:25",
+    "status": "Beklemede",
+    "customerName": "Hasan Bozkurt  Bozkurt ",
+    "phone": "05414431081",
+    "address": "Beyciler mah 1562 sok no 32 d 1 merkez Düzce ",
+    "city": "Düzce ",
+    "district": "Merkez ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
