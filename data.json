@@ -7796,5 +7796,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 558,
+    "date": "22.11.2025 01:07:01",
+    "status": "Beklemede",
+    "customerName": "İSMAİL  BİRER ",
+    "phone": "5318602940",
+    "address": "İSMAİL BİRER \nNİĞDE BELEDİYESİ ",
+    "city": "İSMAİL ",
+    "district": "BİRER ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "2",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
