@@ -6494,5 +6494,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 465,
+    "date": "21.11.2025 14:27:37",
+    "status": "Beklemede",
+    "customerName": "Ebubekir Serin",
+    "phone": "05464587140",
+    "address": "Konya sarayönü kadıoğlu mah",
+    "city": "Konya ",
+    "district": "Sarayönü ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
