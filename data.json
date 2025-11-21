@@ -7460,5 +7460,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 534,
+    "date": "21.11.2025 22:59:20",
+    "status": "Beklemede",
+    "customerName": "Mustafa Onay",
+    "phone": "5522651322",
+    "address": "Merkez mahallesi yadigar cikmazi no13A",
+    "city": "Istanbul",
+    "district": "Gaziosmanpasa",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
