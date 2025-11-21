@@ -7068,5 +7068,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 506,
+    "date": "21.11.2025 20:14:35",
+    "status": "Beklemede",
+    "customerName": "Gürsel Ünal",
+    "phone": "05327055778",
+    "address": "Kızılbel Mah.Merkez Sok.No:122  Fethiye/MUĞLA",
+    "city": "MUĞLA",
+    "district": "FETHİYE",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
