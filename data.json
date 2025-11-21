@@ -7376,5 +7376,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 528,
+    "date": "21.11.2025 22:23:22",
+    "status": "Beklemede",
+    "customerName": "Halil İbrahim Bolat",
+    "phone": "5372910577",
+    "address": "Hürriyet, Kemerköprü Cd. No:11 daire 4",
+    "city": "Yalova",
+    "district": "Altınova",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
