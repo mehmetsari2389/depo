@@ -6354,5 +6354,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 455,
+    "date": "21.11.2025 13:49:44",
+    "status": "Beklemede",
+    "customerName": "Eyup  Çuvalcı ",
+    "phone": "5322669147,",
+    "address": "Hükümet cad no 14.4 sancak mah yomra TRABZON ",
+    "city": "Trabzon ",
+    "district": "YOMRA ",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
