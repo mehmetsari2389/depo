@@ -7278,5 +7278,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 521,
+    "date": "21.11.2025 21:58:58",
+    "status": "Beklemede",
+    "customerName": "Murat Esen",
+    "phone": "5063854483",
+    "address": "Yukarı, Fevzi Paşa Cd. No:159, 42630 Bozkır/Konya. Bozkır Devlet Hastanesi Güvenlik Noktası ",
+    "city": "Konya",
+    "district": "Bozkır",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
