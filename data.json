@@ -6830,5 +6830,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 489,
+    "date": "21.11.2025 18:27:06",
+    "status": "Beklemede",
+    "customerName": "Serkan Toprak",
+    "phone": "5308490488",
+    "address": "Tugay yolu cad Neşe sokak no 6 d 3 maltepe istanbul",
+    "city": "İstanbul",
+    "district": "Maltepe",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
