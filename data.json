@@ -7768,5 +7768,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 556,
+    "date": "22.11.2025 00:47:15",
+    "status": "Beklemede",
+    "customerName": "Hakan Dinç",
+    "phone": "05465240077",
+    "address": "İhsaniye mahallesi kırım caddesi tekin soyiç apt no56/1",
+    "city": "Eskişehir",
+    "district": "Tepebaşı",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
