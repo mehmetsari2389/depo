@@ -6536,5 +6536,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 467,
+    "date": "21.11.2025 14:32:22",
+    "status": "Beklemede",
+    "customerName": "Cengiz Hakan",
+    "phone": "+905541416747",
+    "address": "Yenişehir mahallesi yeni kent cadde si sağlık apartmanı altı no10 uğur elektrik elektronik ",
+    "city": "MARDİN ",
+    "district": "Artuklu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
