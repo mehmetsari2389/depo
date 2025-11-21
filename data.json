@@ -7558,5 +7558,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 540,
+    "date": "21.11.2025 23:13:43",
+    "status": "Beklemede",
+    "customerName": "Mustafa Duran",
+    "phone": "05322542311",
+    "address": "Kumluca yolualtı küme evleri No:6/A-2\nÇamyuva Mahallesi",
+    "city": "Antalya",
+    "district": "Kemer",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
