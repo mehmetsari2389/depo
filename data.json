@@ -7334,5 +7334,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 525,
+    "date": "21.11.2025 22:19:53",
+    "status": "Beklemede",
+    "customerName": "Eser Er",
+    "phone": "05425515659",
+    "address": "Oğuzlar mah 1562 caddesi bengütürk sitesi 11/3 etimesgut / Ankara",
+    "city": "Ankara",
+    "district": "Etimesgut",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
