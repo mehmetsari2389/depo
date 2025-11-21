@@ -7208,5 +7208,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 516,
+    "date": "21.11.2025 21:25:46",
+    "status": "Beklemede",
+    "customerName": "Ali Şencan",
+    "phone": "5363001655",
+    "address": "Dumlupınar mah .Trazon cad.Sinop sok No 25 daire kat 1 daira bir ",
+    "city": "İstanbul",
+    "district": "Pendik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
