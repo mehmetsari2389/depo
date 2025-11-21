@@ -6228,5 +6228,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 446,
+    "date": "21.11.2025 11:03:36",
+    "status": "Beklemede",
+    "customerName": "İsmail Karagöz",
+    "phone": "05546700792",
+    "address": "Akçaalan mahallesi . 4176. Sokak no11 daire2 Serik/ Antalya",
+    "city": "Antalya ",
+    "district": "Serik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
