@@ -6900,5 +6900,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 494,
+    "date": "21.11.2025 19:01:59",
+    "status": "Beklemede",
+    "customerName": "Mustafa Ece",
+    "phone": "05370619358",
+    "address": "Sehitler mahalesi lozan cadesi no 12",
+    "city": "Golcuk",
+    "district": "Kocaeli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
