@@ -6046,5 +6046,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 433,
+    "date": "21.11.2025 03:39:26",
+    "status": "Beklemede",
+    "customerName": "Veysel Öztürk",
+    "phone": "+905322823645",
+    "address": "Peyas mahlesi 217 sokak ulaş yapı kop d blok kat 4 no 10 ",
+    "city": "Diyarbakir",
+    "district": "Kayapinar",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
