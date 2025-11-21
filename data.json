@@ -7166,5 +7166,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 513,
+    "date": "21.11.2025 20:55:15",
+    "status": "Beklemede",
+    "customerName": "Çetin Sezer",
+    "phone": "05385490563",
+    "address": "Durak mahallesi gülseven sokak no/8",
+    "city": "Uşak",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
