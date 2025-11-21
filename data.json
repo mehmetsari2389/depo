@@ -6746,5 +6746,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 483,
+    "date": "21.11.2025 16:28:00",
+    "status": "Beklemede",
+    "customerName": "Burak Besevli",
+    "phone": "5065477167",
+    "address": "Karabuk yenice ilce tarim mudurlugu",
+    "city": "Karabük ",
+    "district": "Yenice",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
