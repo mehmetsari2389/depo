@@ -7320,5 +7320,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 523,
+    "date": "21.11.2025 22:16:05",
+    "status": "Beklemede",
+    "customerName": "Emrah FIRTINA ",
+    "phone": "+905443478462",
+    "address": "İnönü mahallesi Alageyik caddesi no:13 ",
+    "city": "İstanbul",
+    "district": "Küçükçekmece",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
