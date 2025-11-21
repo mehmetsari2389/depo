@@ -6186,5 +6186,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 443,
+    "date": "21.11.2025 10:56:29",
+    "status": "Beklemede",
+    "customerName": "gül Pamuk",
+    "phone": "5386466089",
+    "address": "Küme evleri Ayvalı köyü no 81 kat 2 ",
+    "city": "Kırklareli ",
+    "district": "Lüleburgaz ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
