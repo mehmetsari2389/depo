@@ -6550,5 +6550,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 469,
+    "date": "21.11.2025 14:34:54",
+    "status": "Beklemede",
+    "customerName": "Evren İpek",
+    "phone": "05323445522",
+    "address": "Hilal Mahallesi, Sukarno Caddesi, No: 9/6 Çankaya/Ankara",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
