@@ -7012,5 +7012,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 502,
+    "date": "21.11.2025 19:54:32",
+    "status": "Beklemede",
+    "customerName": "Sabri0 Karaservi",
+    "phone": "05516284697",
+    "address": "Gungorenkargo",
+    "city": "İstanbulgungoren",
+    "district": "Gungoren",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
