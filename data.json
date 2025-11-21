@@ -7390,5 +7390,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 529,
+    "date": "21.11.2025 22:26:25",
+    "status": "Beklemede",
+    "customerName": "Mustafa Yıldırım",
+    "phone": "05467247813",
+    "address": "Deyirmencik mahallesi Hatay bulvarı haci sani Konukoğlu iman hatip lisesi 415_1 iç kapı no 7(caminin yanında ki okul)",
+    "city": "Gaziantep ",
+    "district": "İslahiye ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
