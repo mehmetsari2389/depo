@@ -6662,5 +6662,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 477,
+    "date": "21.11.2025 15:40:45",
+    "status": "Beklemede",
+    "customerName": "Muharrem Enver Uslu",
+    "phone": "+905386971353",
+    "address": "Bursa Mudanya Dereköy Mudanya dan Aras kargo dan taslim alırım \n\n",
+    "city": "Bursa ",
+    "district": "Mudanya ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
