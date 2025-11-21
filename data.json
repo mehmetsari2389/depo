@@ -7096,5 +7096,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 508,
+    "date": "21.11.2025 20:18:04",
+    "status": "Beklemede",
+    "customerName": "Ersin KAYA",
+    "phone": "+905078172618",
+    "address": "Hakakri merkez yeni mah.otluca CAD .keskin market yani",
+    "city": "Hakkari",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
