@@ -7432,5 +7432,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 532,
+    "date": "21.11.2025 22:55:47",
+    "status": "Beklemede",
+    "customerName": "Abdullah  Adiguzel ",
+    "phone": "05437175579",
+    "address": "Sekiz Eylül mahallesi 134sokak 25A Kemalpaşa ",
+    "city": "İzmir ",
+    "district": "Kemalpaşa ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
