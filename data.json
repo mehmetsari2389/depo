@@ -7712,5 +7712,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 551,
+    "date": "21.11.2025 23:56:26",
+    "status": "Beklemede",
+    "customerName": "Serkan Cebeci ",
+    "phone": "05511646146",
+    "address": "İstasyon mahallesi ılıca sokak no 8\nAras kargo tersane şubesi",
+    "city": "İstanbul ",
+    "district": "Tuzla",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
