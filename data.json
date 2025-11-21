@@ -6382,5 +6382,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 457,
+    "date": "21.11.2025 13:51:08",
+    "status": "Beklemede",
+    "customerName": "Edip  Yanığbaş ",
+    "phone": "+90(543) 366-7683",
+    "address": "Cumhuriyet Mahallesi Tevfik Fikret Caddesi Atatürk Bulvarı Ulukent Sitesi B Blok ",
+    "city": "Aydın",
+    "district": "Efeler ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
