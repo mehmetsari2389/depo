@@ -6872,5 +6872,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 492,
+    "date": "21.11.2025 18:46:06",
+    "status": "Beklemede",
+    "customerName": "Rengin  Akalan",
+    "phone": "5389180611",
+    "address": "Fener mahallesi 1948 sokak kervansaray Niyazi Sitesi B blok kat sekiz daire 17",
+    "city": "Antalya",
+    "district": "Muratpaşa ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
