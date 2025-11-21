@@ -7194,5 +7194,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 515,
+    "date": "21.11.2025 21:24:03",
+    "status": "Beklemede",
+    "customerName": "Adil Karagöz ",
+    "phone": "0 (534) 890 82 45",
+    "address": "Sürsürü mahallesi imamefendi bulvarı no 63 daire 6",
+    "city": "Elazığ ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
