@@ -7236,5 +7236,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 518,
+    "date": "21.11.2025 21:30:36",
+    "status": "Beklemede",
+    "customerName": "Naci  Akan ",
+    "phone": "05383453236",
+    "address": "Yeni mahalle boğaz sokak kapı no 3",
+    "city": "HATAY ",
+    "district": "SAMANDAĞ ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
