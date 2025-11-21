@@ -6200,5 +6200,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 444,
+    "date": "21.11.2025 11:01:40",
+    "status": "Beklemede",
+    "customerName": "Mehmet Çimen",
+    "phone": "+905060941240",
+    "address": "Orta mahalle. Tuzlaburun caddesi . 1085. Sokak NO:9 /  Kat :3 Serik / Antalya",
+    "city": "Antalya ",
+    "district": "Serik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
