@@ -6396,5 +6396,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 458,
+    "date": "21.11.2025 13:53:21",
+    "status": "Beklemede",
+    "customerName": "Edip  YANIĞBAŞ ",
+    "phone": "5433667683",
+    "address": "Cumhuriyet Mahallesi Tevfik Fikret Caddesi Atatürk Bulvarı Ulukent Sitesi B Blok Kat 7",
+    "city": "Aydın",
+    "district": "Efeler ",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
