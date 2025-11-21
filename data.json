@@ -6158,5 +6158,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 441,
+    "date": "21.11.2025 10:37:32",
+    "status": "Beklemede",
+    "customerName": "İrfan Ergün",
+    "phone": "5075758710",
+    "address": "Bey Mahallesi Şehit Ahmet Akdeniz Caddesi No:4 Tuncay Ergün Mali Müşavirlik Ofisi Kula/Manisa",
+    "city": "Manisa",
+    "district": "Kula",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
