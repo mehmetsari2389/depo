@@ -7110,5 +7110,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "21.11.2025 20:23:45",
+    "status": "Beklemede",
+    "customerName": "Semih  İşlek ",
+    "phone": "05332379433",
+    "address": "Bahçeli evler mah.1855 sok.kat.2.no 12 yenişehir mersin ",
+    "city": "Mersin ",
+    "district": "Yenişehir",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "2",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
