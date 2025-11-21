@@ -7530,5 +7530,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 539,
+    "date": "21.11.2025 23:06:06",
+    "status": "Beklemede",
+    "customerName": "Halit Özgün ",
+    "phone": "05396060014",
+    "address": "Hürriyet mh öğretmenler cd ikikardeşler kasap mangalda et mirador iş merkezi no 5 Süleyman paşa Tekirdağ ",
+    "city": "Tekirdağ",
+    "district": "Tekirdağ Merkez",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
