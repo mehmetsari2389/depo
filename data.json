@@ -6774,5 +6774,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 485,
+    "date": "21.11.2025 17:21:10",
+    "status": "Beklemede",
+    "customerName": "Zekeriya  Yazıcı",
+    "phone": "5419542159",
+    "address": "Karabük Merkez ",
+    "city": "Karabük ",
+    "district": "Merkez ",
+    "product": "Puma Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
