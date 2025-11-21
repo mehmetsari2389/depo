@@ -7180,5 +7180,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 514,
+    "date": "21.11.2025 21:21:45",
+    "status": "Beklemede",
+    "customerName": "Atif Baskaya",
+    "phone": "05415002587",
+    "address": "BELENTOKİ B2 BLOK B2 CA ANKA KAFE(KARABÜK) ",
+    "city": "KARABÜK",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
