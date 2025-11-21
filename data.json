@@ -6172,5 +6172,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 442,
+    "date": "21.11.2025 10:40:14",
+    "status": "Beklemede",
+    "customerName": "vedat cici",
+    "phone": "05334407097",
+    "address": "Kuştepe mah. Kızılcık mahmut sok 33/1 Şişli İstanbul",
+    "city": "İstanbul",
+    "district": "şişli",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
