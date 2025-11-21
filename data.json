@@ -6410,5 +6410,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 459,
+    "date": "21.11.2025 14:02:45",
+    "status": "Beklemede",
+    "customerName": "Abdurrahman  Kaya ",
+    "phone": "05376272921",
+    "address": "Uc eylul mh mevlana CD no 21 kat 3 İzmir Ödemiş ",
+    "city": "İzmir ",
+    "district": "Ödemiş ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
