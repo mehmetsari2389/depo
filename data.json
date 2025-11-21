@@ -6130,5 +6130,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 439,
+    "date": "21.11.2025 10:25:00",
+    "status": "Beklemede",
+    "customerName": "Yasin Yaycı",
+    "phone": "05461484602",
+    "address": "Kahramanmaraş Elbistan ",
+    "city": "Yasin Yaycı ",
+    "district": "Yasin Yaycı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
