@@ -6648,5 +6648,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 475,
+    "date": "21.11.2025 15:23:30",
+    "status": "Beklemede",
+    "customerName": "Faysal  Aydın ",
+    "phone": "5376537223",
+    "address": "Destina parti ürünleri \nBelde mahallesi Ataullah hamidi caddesi no.16 AD BATMAN ",
+    "city": "Batman ",
+    "district": "Merkez",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
