@@ -8076,5 +8076,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 576,
+    "date": "22.11.2025 10:19:17",
+    "status": "Beklemede",
+    "customerName": "Bülent Gündoğan",
+    "phone": "05518436999",
+    "address": "Eceabat behramli köyü \n",
+    "city": "Çanakkale ",
+    "district": "Eceabat ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
