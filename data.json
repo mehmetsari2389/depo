@@ -9896,5 +9896,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 708,
+    "date": "23.11.2025 00:48:53",
+    "status": "Beklemede",
+    "customerName": "TEMEL ÖZTÜRK ",
+    "phone": "05382634371",
+    "address": "Bucak mahallesi. 382.Sokak. No 5/3    Altınordu -ORDU. ",
+    "city": "ORDU ",
+    "district": "ALTINORDU",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
