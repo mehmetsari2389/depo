@@ -9112,5 +9112,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 652,
+    "date": "22.11.2025 19:44:16",
+    "status": "Beklemede",
+    "customerName": "Baki Canıtez ",
+    "phone": "5356666838",
+    "address": "Şehit halis demir bulvarı no 207 Hasköy Keçiören Ankara ",
+    "city": "Ankara ",
+    "district": "Keçiören ",
+    "product": "Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
