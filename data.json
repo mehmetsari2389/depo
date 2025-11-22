@@ -8202,5 +8202,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 587,
+    "date": "22.11.2025 10:46:41",
+    "status": "Beklemede",
+    "customerName": "anıL adaLı",
+    "phone": "+905433661617",
+    "address": "Aras kargo Uzunköprü şubeden teslim",
+    "city": "Edirne",
+    "district": "Uzunköprü",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
