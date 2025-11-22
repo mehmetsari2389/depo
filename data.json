@@ -8692,5 +8692,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 622,
+    "date": "22.11.2025 14:17:44",
+    "status": "Beklemede",
+    "customerName": "Abdullah  Önder",
+    "phone": "+905396515516",
+    "address": "Sakarya mahallesi 3. Ğüçlü sokak no 23 yıldırım/bursa ",
+    "city": "Bursa ",
+    "district": "Yıldırım ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
