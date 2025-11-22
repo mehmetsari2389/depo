@@ -9700,5 +9700,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 694,
+    "date": "22.11.2025 23:01:22",
+    "status": "Beklemede",
+    "customerName": "Erol Hakkan",
+    "phone": "05322919535",
+    "address": "6 sokak No :4 Daire :5 Tuna Apt UCKUYULAR/KARABAGLAR /IZMIR ",
+    "city": "IZMIR ",
+    "district": "KARABAGLAR ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
