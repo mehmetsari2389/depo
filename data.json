@@ -9574,5 +9574,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 684,
+    "date": "22.11.2025 22:20:50",
+    "status": "Beklemede",
+    "customerName": "Ali Ölmez",
+    "phone": "+5331987543",
+    "address": "Osmanyılmaz mahallesi Atatürk caddesi numara 46/a",
+    "city": "Kocaeli ",
+    "district": "Gebze",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
