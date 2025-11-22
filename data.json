@@ -9686,5 +9686,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 693,
+    "date": "22.11.2025 22:51:10",
+    "status": "Beklemede",
+    "customerName": "Serkan Sincar",
+    "phone": "5323551386",
+    "address": "Orman bölge müdürlüğü karşısı bulutlar orman park sitesi c blok kat 6 daire 23",
+    "city": "Erzurum",
+    "district": "Yakutiye",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
