@@ -9266,5 +9266,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 663,
+    "date": "22.11.2025 20:55:58",
+    "status": "Beklemede",
+    "customerName": "Ersin  Çalışır ",
+    "phone": "+905305275929",
+    "address": "Bursa / Karacabey/ kurşunlu mahallesi no 327",
+    "city": "Bursa ",
+    "district": "Karacabey ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
