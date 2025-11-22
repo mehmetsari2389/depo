@@ -9910,5 +9910,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 709,
+    "date": "23.11.2025 00:49:16",
+    "status": "Beklemede",
+    "customerName": "Yunus  Doğru ",
+    "phone": "05333997452",
+    "address": "İnegöl Alanyurt Fatih mahallesi kıvırcık sokak no 8 kat 2",
+    "city": "Bursa",
+    "district": "İnegöl ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
