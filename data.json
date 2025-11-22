@@ -9784,5 +9784,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 700,
+    "date": "23.11.2025 00:13:02",
+    "status": "Beklemede",
+    "customerName": "Abdulbaki  Ertaş",
+    "phone": "+5370610819",
+    "address": "Petrolkent mahallesi 2865 sokak no 38",
+    "city": "Batman",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
