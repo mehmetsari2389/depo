@@ -9168,5 +9168,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 656,
+    "date": "22.11.2025 20:04:39",
+    "status": "Beklemede",
+    "customerName": "İsmail Figen",
+    "phone": "+905373261030",
+    "address": "Alavardı mahallesi yaka caddesi 16/d şavarma döner meram/konya",
+    "city": "Konya",
+    "district": "Meram",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
