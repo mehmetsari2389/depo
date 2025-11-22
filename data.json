@@ -8734,5 +8734,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 625,
+    "date": "22.11.2025 14:29:54",
+    "status": "Beklemede",
+    "customerName": "Hüseyin Aymalı",
+    "phone": "05393958241",
+    "address": "Güzelyurt Mah. 5799 sokak no 8 beyaz inci sitesi B-blok daire 5",
+    "city": "Manisa",
+    "district": "Yunus Emre ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
