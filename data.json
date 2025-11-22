@@ -9056,5 +9056,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 648,
+    "date": "22.11.2025 19:29:11",
+    "status": "Beklemede",
+    "customerName": "Ünal Can",
+    "phone": "+905439282310",
+    "address": "İnönü bulvarı can Apt no 2 can elektrik Yatağan muğla ",
+    "city": "Muğla",
+    "district": "Yatağan",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
