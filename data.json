@@ -9966,5 +9966,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 713,
+    "date": "23.11.2025 01:09:34",
+    "status": "Beklemede",
+    "customerName": "Mehmet Murat  Sag",
+    "phone": "05525048912",
+    "address": "Başakşehir Mah. Yunus Emre Cad. 2-3/A Başakşehir 4. Etap 1. Kısım Başakşehir, İstanbul",
+    "city": "İstanbul ",
+    "district": "Basaksehir ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
