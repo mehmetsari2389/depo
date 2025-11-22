@@ -9140,5 +9140,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 653,
+    "date": "22.11.2025 19:58:27",
+    "status": "Beklemede",
+    "customerName": "Nurullah  Yanar",
+    "phone": "05326405101",
+    "address": "Manisa Saruhanlı cumhuriyet mahallesi Türkcan sokak no7 kat 3 (Zeydanlı apartmanı)",
+    "city": "Manisa",
+    "district": "Saruhanlı",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
