@@ -7964,5 +7964,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 570,
+    "date": "22.11.2025 09:06:29",
+    "status": "Beklemede",
+    "customerName": "Gökhan Ataner",
+    "phone": "+5354368907",
+    "address": "Aydın efeler orta mahalle sokak no 222 doğa apartmanı kat1 daire 2️⃣ ",
+    "city": "Aydın",
+    "district": "Efeler",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
