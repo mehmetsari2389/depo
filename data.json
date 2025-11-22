@@ -8720,5 +8720,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 624,
+    "date": "22.11.2025 14:24:12",
+    "status": "Beklemede",
+    "customerName": "Ferhat  Kayci",
+    "phone": "05052937670",
+    "address": "Cumhuriyet mahallesi Zübeyde Hanım caddesi özduman rezidans altı tiyum center ipekyolu/VAN",
+    "city": "Van",
+    "district": "İpekyolu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
