@@ -8678,5 +8678,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 620,
+    "date": "22.11.2025 14:10:53",
+    "status": "Beklemede",
+    "customerName": "Oğuzhan  Korkmaz ",
+    "phone": "+905449163377",
+    "address": "Hamzabey mah. Bursa CD. No:104 Kortech Cep telefonu ",
+    "city": "Bursa ",
+    "district": "Mustafakemalpaşa ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
