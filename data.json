@@ -9350,5 +9350,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 669,
+    "date": "22.11.2025 21:18:25",
+    "status": "Beklemede",
+    "customerName": "Lisan Karadoruk",
+    "phone": "+905414087490",
+    "address": "Sivas suşehri yelkesen mafadar mezrası küme evleri no 25",
+    "city": "Sivas",
+    "district": "Suşehri",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
