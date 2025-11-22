@@ -9854,5 +9854,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 705,
+    "date": "23.11.2025 00:22:10",
+    "status": "Beklemede",
+    "customerName": "Hasan  Kan",
+    "phone": "05376086396",
+    "address": "Adana Seyhan havuzlubahçe MH 15114 ek no 36",
+    "city": "Adana",
+    "district": "Seyhan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
