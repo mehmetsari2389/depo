@@ -8006,5 +8006,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 573,
+    "date": "22.11.2025 10:07:19",
+    "status": "Beklemede",
+    "customerName": "Fatih Ramadan",
+    "phone": "05326769242",
+    "address": "Ortabağlar mahallesi 1. Yerli Sokak no 58 yıldırım bursa",
+    "city": "Bursa",
+    "district": "Yılıdırım",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
