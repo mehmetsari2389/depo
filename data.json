@@ -8356,5 +8356,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 598,
+    "date": "22.11.2025 11:55:19",
+    "status": "Beklemede",
+    "customerName": "Erkan  Koşar ",
+    "phone": "05372072004",
+    "address": "Kargodan alirim",
+    "city": "İzmir",
+    "district": "Torbali",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
