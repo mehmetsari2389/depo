@@ -8426,5 +8426,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 603,
+    "date": "22.11.2025 12:33:00",
+    "status": "Beklemede",
+    "customerName": "Muzaffer üstündağ",
+    "phone": "05337306075",
+    "address": "Şehitler mah hurna sokak no 14 Dr 5 ",
+    "city": "İstanbul",
+    "district": "Esenyurt /istanbul",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
