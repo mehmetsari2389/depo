@@ -8580,5 +8580,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 613,
+    "date": "22.11.2025 13:39:37",
+    "status": "Beklemede",
+    "customerName": "Ali Albas ",
+    "phone": "+905364079007",
+    "address": "Yeni san sitesi 2 cad no 20 Ürgüp Nevşehir ",
+    "city": "Nevşehir ",
+    "district": "Ürgüp ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
