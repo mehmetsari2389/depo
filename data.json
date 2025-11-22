@@ -8748,5 +8748,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 626,
+    "date": "22.11.2025 14:35:21",
+    "status": "Beklemede",
+    "customerName": "Murat  Aktop ",
+    "phone": "05312025839",
+    "address": "Evciler mah 914 sokak kapı no 13 aydın Çine ",
+    "city": "Aydın ",
+    "district": "Çine ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
