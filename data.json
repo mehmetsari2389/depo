@@ -9868,5 +9868,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 706,
+    "date": "23.11.2025 00:26:11",
+    "status": "Beklemede",
+    "customerName": "Münir Yılmaz",
+    "phone": "05346419608",
+    "address": "Aksu mahallesi balcı sokak No:4 yılmazlar apartmanı kat 5",
+    "city": "Artvin",
+    "district": "Borçka",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
