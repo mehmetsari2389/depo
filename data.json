@@ -9406,5 +9406,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 673,
+    "date": "22.11.2025 21:57:01",
+    "status": "Beklemede",
+    "customerName": "Hasan Kanburoglu",
+    "phone": "05384067830",
+    "address": "Bayiryüzüköyü, keller mahlesi no 9",
+    "city": "Bartin",
+    "district": "Bartin merkez",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
