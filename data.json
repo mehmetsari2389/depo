@@ -8370,5 +8370,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 599,
+    "date": "22.11.2025 11:58:02",
+    "status": "Beklemede",
+    "customerName": "Mithat  İstanbullu ",
+    "phone": "05367120950",
+    "address": "Büyükçat mah Atatürk caddesi no 36",
+    "city": "Hatay",
+    "district": "Defne",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
