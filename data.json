@@ -8300,5 +8300,19 @@
     "size": "XL",
     "quantity": "2",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 594,
+    "date": "22.11.2025 11:08:24",
+    "status": "Beklemede",
+    "customerName": "Fatih  Ulu ",
+    "phone": "05466126458",
+    "address": "Akcesme mah.2603 sok.no:12merkezefendi DenizliKarpa elektrik",
+    "city": "Denizli ",
+    "district": "Merkezefendi ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
