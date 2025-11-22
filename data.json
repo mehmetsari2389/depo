@@ -8342,5 +8342,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 597,
+    "date": "22.11.2025 11:28:29",
+    "status": "Beklemede",
+    "customerName": "Halil Mutlu",
+    "phone": "05456943517",
+    "address": "Yeni mahalle mimar kemal sokak no 2 çumra/ konya",
+    "city": "Konya",
+    "district": "Çumra",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
