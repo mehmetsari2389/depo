@@ -7936,5 +7936,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 568,
+    "date": "22.11.2025 08:54:43",
+    "status": "Beklemede",
+    "customerName": "Şahin  Güngördü",
+    "phone": "05323570798",
+    "address": "Saray mahallesi Veysel Karani caddesi no 3 ",
+    "city": "Bitlis ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
