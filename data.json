@@ -8258,5 +8258,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 590,
+    "date": "22.11.2025 11:03:09",
+    "status": "Beklemede",
+    "customerName": "Ahmet NÜZHET  Ilgaz ",
+    "phone": "+5321558801",
+    "address": "Acıbadem caddesi ismail Hakkı Sokak numara 8/A Yıldızbakkal Acıbadem Avcılar derneği ",
+    "city": "İstanbul ",
+    "district": "kadıköy",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
