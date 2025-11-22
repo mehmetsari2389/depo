@@ -7908,5 +7908,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 566,
+    "date": "22.11.2025 07:58:53",
+    "status": "Beklemede",
+    "customerName": "Zulfikar  Kirkbunar",
+    "phone": "05421564364",
+    "address": "6705 sok no 15 k 3 d 6 cumhuriyet mah k yaka izmir",
+    "city": "Izmir",
+    "district": "K yaka",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
