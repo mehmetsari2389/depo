@@ -10050,5 +10050,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 719,
+    "date": "23.11.2025 02:13:23",
+    "status": "Beklemede",
+    "customerName": "ALİ  Ök ",
+    "phone": "(552) 507-5797",
+    "address": "Alipaşa mahallesi Polatoğlu sk gülce evleri a blok no5 ",
+    "city": "Van ",
+    "district": "İpekyolu ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
