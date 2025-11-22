@@ -8314,5 +8314,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 595,
+    "date": "22.11.2025 11:09:15",
+    "status": "Beklemede",
+    "customerName": "Süleymancan  Zilli",
+    "phone": "05435054807",
+    "address": "Kınık mahallesi kirmen caddesi aktif tarım yanı ana yol üzeri ant mermer no 1",
+    "city": "Antalya",
+    "district": "Kaş",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
