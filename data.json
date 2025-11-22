@@ -9630,5 +9630,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 688,
+    "date": "22.11.2025 22:27:52",
+    "status": "Beklemede",
+    "customerName": "Ömür Berat Deveci",
+    "phone": "5380814471",
+    "address": "İosb Metaliş plaza no:1 1 nolu dükkan ",
+    "city": "İstanbul",
+    "district": "Başakşehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
