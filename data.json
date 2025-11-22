@@ -8790,5 +8790,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 629,
+    "date": "22.11.2025 15:22:02",
+    "status": "Beklemede",
+    "customerName": "hakan kaya",
+    "phone": "+905412711814",
+    "address": "Meltem sokak iş kuleleri kule 3 kat 11 Levent Beşiktaş İstanbul mertur otomotiv",
+    "city": "İstanbul",
+    "district": "Besiktas",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
