@@ -9546,5 +9546,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 683,
+    "date": "22.11.2025 22:18:39",
+    "status": "Beklemede",
+    "customerName": "Sinan  Sarıtoprak ",
+    "phone": "05425187812",
+    "address": "Aydınlı mahallesi yazma Sokak no 3 daire 14",
+    "city": "İstanbul ",
+    "district": "Tuzla",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
