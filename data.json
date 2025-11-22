@@ -8188,5 +8188,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 586,
+    "date": "22.11.2025 10:43:26",
+    "status": "Beklemede",
+    "customerName": "Aydin Aycil",
+    "phone": "05425358465",
+    "address": "Zümrütevler\nHaci Byram Veli cad.\nNis adalar sitesi Blok 24 Daire 25\nMaltepe Istanbul",
+    "city": "Istanbul ",
+    "district": "Maltepe  Zümrütevler",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
