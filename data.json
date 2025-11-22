@@ -8510,5 +8510,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 608,
+    "date": "22.11.2025 13:00:23",
+    "status": "Beklemede",
+    "customerName": "Musa  Basan",
+    "phone": "05458079792",
+    "address": "Kargo şube teslim ",
+    "city": "Zonguldak",
+    "district": "Devrek",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
