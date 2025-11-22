@@ -9812,5 +9812,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 702,
+    "date": "23.11.2025 00:14:48",
+    "status": "Beklemede",
+    "customerName": "Ali  Özyılmaz",
+    "phone": "5076314340",
+    "address": "Halıcıoğlu mahallesi Erenler Tekkesi Sokak No20 daire 4 ",
+    "city": "İstanbul ",
+    "district": "Beyoğlu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
