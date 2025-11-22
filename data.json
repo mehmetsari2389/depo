@@ -9238,5 +9238,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 661,
+    "date": "22.11.2025 20:46:56",
+    "status": "Beklemede",
+    "customerName": "İbrahim  Aksoy ",
+    "phone": "05464845070",
+    "address": "Çanakkale yenice akçakoyun kövü ibrahim aksoy no 39 05464845070 ",
+    "city": "Çanakkale ",
+    "district": "Yenice ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
