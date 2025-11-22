@@ -8930,5 +8930,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 639,
+    "date": "22.11.2025 17:40:40",
+    "status": "Beklemede",
+    "customerName": "Metin Çeliköz",
+    "phone": "5358748101",
+    "address": "Şelale Mangal\nŞehit Mustafa Yıldız sokak \nŞelale Mangal ",
+    "city": "Eskişehir ",
+    "district": "Çankaya ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
