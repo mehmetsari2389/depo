@@ -9294,5 +9294,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 665,
+    "date": "22.11.2025 21:00:30",
+    "status": "Beklemede",
+    "customerName": "Ramazan  Tanrıkulu ",
+    "phone": "05394994735",
+    "address": "Arabayatağı mahallesi 3.akarsu sokak no 42/1",
+    "city": "Bursa ",
+    "district": "Yıldırım ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
