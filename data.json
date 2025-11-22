@@ -9462,5 +9462,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 677,
+    "date": "22.11.2025 22:05:53",
+    "status": "Beklemede",
+    "customerName": "Sezgin  Kıran",
+    "phone": "5539130760",
+    "address": "Atatürk mahallesi uğurmumcu caddesi numara 73 Manisa gölmarmara ",
+    "city": "Manisa ",
+    "district": "Gölmarmara ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
