@@ -8552,5 +8552,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 612,
+    "date": "22.11.2025 13:34:36",
+    "status": "Beklemede",
+    "customerName": "MUSTAFA UYANIK",
+    "phone": "05434268678",
+    "address": "İstiklal mahallesi girne caddesi no:26/2TUFANBEYLİ/ADANA",
+    "city": "Adana",
+    "district": "Tufanbeyli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
