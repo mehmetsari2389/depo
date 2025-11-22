@@ -8230,5 +8230,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 589,
+    "date": "22.11.2025 10:58:53",
+    "status": "Beklemede",
+    "customerName": "Gökhan  çıvak",
+    "phone": "5393730983",
+    "address": "İzmir dokuz kafe ışl. Gıda tur unlu mamüllerkırtasiye otopark tem.san.tic ltd ştı İnciraltı MH Mithatpaşa CD 3 blok no 56 1 balçova İzmir ",
+    "city": "İzmir ",
+    "district": "Balçova ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
