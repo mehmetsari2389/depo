@@ -8398,5 +8398,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 600,
+    "date": "22.11.2025 12:04:00",
+    "status": "Beklemede",
+    "customerName": "Levent  Türkmen ",
+    "phone": "0553 922 11 57",
+    "address": "Eski cami mahallesi 29 sok no 14 daire 6 ",
+    "city": "Manisa ",
+    "district": "Salihli ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
