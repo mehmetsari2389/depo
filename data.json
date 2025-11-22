@@ -8328,5 +8328,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 596,
+    "date": "22.11.2025 11:19:27",
+    "status": "Beklemede",
+    "customerName": "Kahraman Kul",
+    "phone": "05334192778",
+    "address": "Akyazı mah.773  nolu sok. No29 kat 4",
+    "city": "Ordu",
+    "district": "Altınordu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
