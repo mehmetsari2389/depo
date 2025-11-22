@@ -7992,5 +7992,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 572,
+    "date": "22.11.2025 09:23:40",
+    "status": "Beklemede",
+    "customerName": "mehmet meriç",
+    "phone": "5397874135",
+    "address": "Çankaya Tunus cad 96",
+    "city": "Ankara",
+    "district": "Cankaya",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
