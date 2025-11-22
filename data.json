@@ -8706,5 +8706,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 623,
+    "date": "22.11.2025 14:19:48",
+    "status": "Beklemede",
+    "customerName": "Zeki  Cerrah ",
+    "phone": "05300721561",
+    "address": "Beş yüz evler mah Beş yüz evler cad no 58/2",
+    "city": "Yalova ",
+    "district": "Çiftlikköy ",
+    "product": "Trabzonspor Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
