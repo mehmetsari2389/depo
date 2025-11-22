@@ -9252,5 +9252,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 662,
+    "date": "22.11.2025 20:52:47",
+    "status": "Beklemede",
+    "customerName": "Vural Kutluktemur ",
+    "phone": "+5346850286",
+    "address": "Sancak beldesi tayfun market teslim edilecek",
+    "city": "Bingöl",
+    "district": "Belde",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
