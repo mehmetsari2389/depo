@@ -8860,5 +8860,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 634,
+    "date": "22.11.2025 16:24:28",
+    "status": "Beklemede",
+    "customerName": "Aykan Yaylaci",
+    "phone": "5456972610",
+    "address": "Konya Karapınar sandıklı mah.132413 no sokak 1/A kat 2 daire 3",
+    "city": "Konya",
+    "district": "Karapınar ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
