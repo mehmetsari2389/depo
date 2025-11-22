@@ -9588,5 +9588,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 686,
+    "date": "22.11.2025 22:22:07",
+    "status": "Beklemede",
+    "customerName": "Ali Ölmez",
+    "phone": "+5331987543",
+    "address": "Osmanyılmaz mahallesi Atatürk caddesi numara 46/a",
+    "city": "Kocaeli ",
+    "district": "Gebze",
+    "product": "North Face Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
