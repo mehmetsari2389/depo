@@ -9602,5 +9602,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 687,
+    "date": "22.11.2025 22:24:41",
+    "status": "Beklemede",
+    "customerName": "Metehan Karskı",
+    "phone": "05413877387",
+    "address": "Kethuda mah.transit cad.yeni san.sit.g2 blok no1 OTOKALE PASİNLER/ERZURUM  METE HAN KARSLI 05413877387 ",
+    "city": "Erzurum ",
+    "district": "PASINLER ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
