@@ -9098,5 +9098,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 651,
+    "date": "22.11.2025 19:42:58",
+    "status": "Beklemede",
+    "customerName": "Deniz Topdemir",
+    "phone": "05426458744",
+    "address": "Zaferine mah 125 şok no 7",
+    "city": "Manisa",
+    "district": "Kula",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
