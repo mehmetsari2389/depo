@@ -9644,5 +9644,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 690,
+    "date": "22.11.2025 22:35:50",
+    "status": "Beklemede",
+    "customerName": "Salih Köroğlu",
+    "phone": "+905301087469",
+    "address": "Gençosman mahallesi sümbül sokak no 7 kat 2",
+    "city": "Bayburt",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
