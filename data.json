@@ -8524,5 +8524,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 610,
+    "date": "22.11.2025 13:02:28",
+    "status": "Beklemede",
+    "customerName": "Mevlüt Güneş",
+    "phone": "5072705908",
+    "address": "Havaalanı Kavşağı Osmanağa Kontryner kent no:20 Antakya /Hatay",
+    "city": "Hatay",
+    "district": "Antakya",
+    "product": "Puma Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
