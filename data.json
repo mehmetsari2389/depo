@@ -8986,5 +8986,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 643,
+    "date": "22.11.2025 18:45:32",
+    "status": "Beklemede",
+    "customerName": "Ali Horoz ",
+    "phone": "+905335169777",
+    "address": "Alpaslan mah necip Fazıl cad no 1",
+    "city": "Kayseri ",
+    "district": "Ozvatan ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
