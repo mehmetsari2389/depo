@@ -9924,5 +9924,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 710,
+    "date": "23.11.2025 00:53:45",
+    "status": "Beklemede",
+    "customerName": "Serkan  Ertunç ",
+    "phone": "5465652565",
+    "address": "Kevenli mahallesi kevenli Toki \nK1/17.kat3 no 14 İpekyolu VAN.",
+    "city": "Van ",
+    "district": "İpekyolu ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
