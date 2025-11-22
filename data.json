@@ -7978,5 +7978,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 571,
+    "date": "22.11.2025 09:11:20",
+    "status": "Beklemede",
+    "customerName": "Halil inrahim SAKACI ",
+    "phone": "5426528526",
+    "address": "Bakır mh 37 sk no57",
+    "city": "Manisa",
+    "district": "Kırkağaç ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
