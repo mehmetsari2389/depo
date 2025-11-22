@@ -9504,5 +9504,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 680,
+    "date": "22.11.2025 22:13:35",
+    "status": "Beklemede",
+    "customerName": "Yusuf ziya Yetmen ",
+    "phone": "05521718033",
+    "address": "Zafer, 4303. Sk.no 72",
+    "city": "İzmir",
+    "district": "Bornova",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
