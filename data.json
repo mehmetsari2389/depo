@@ -9756,5 +9756,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 698,
+    "date": "22.11.2025 23:26:59",
+    "status": "Beklemede",
+    "customerName": "Mustaf  Özefe",
+    "phone": "5431184200",
+    "address": "Yeni mahalle mimar kemal sokak no 2",
+    "city": "Konya",
+    "district": "Çumra",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
