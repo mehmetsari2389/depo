@@ -9532,5 +9532,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 682,
+    "date": "22.11.2025 22:17:07",
+    "status": "Beklemede",
+    "customerName": "Yusuf Kara",
+    "phone": "+905352418651",
+    "address": "Merveşehir mahallesi Mehmet erdemoğlu49054 nolu sok Yağmur AP kat 5 no 18 caddesi ",
+    "city": "Gaziantep",
+    "district": "Şehitkamil ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
