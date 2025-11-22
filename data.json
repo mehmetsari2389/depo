@@ -8174,5 +8174,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 585,
+    "date": "22.11.2025 10:29:38",
+    "status": "Beklemede",
+    "customerName": "Kerim Yilmaz",
+    "phone": "5068072917",
+    "address": "Atatürk mah.vatan sitesi.c blok karabuk",
+    "city": "Karabük ",
+    "district": "Yenice",
+    "product": "Puma Mavi Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
