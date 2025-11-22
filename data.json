@@ -8972,5 +8972,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 642,
+    "date": "22.11.2025 18:41:52",
+    "status": "Beklemede",
+    "customerName": "Ugur Dolmus",
+    "phone": "05465224777",
+    "address": "Reşat bey mahallesi 322 sokak no 11",
+    "city": "Manisa",
+    "district": "Akhisar",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
