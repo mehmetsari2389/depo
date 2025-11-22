@@ -9938,5 +9938,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 711,
+    "date": "23.11.2025 01:05:50",
+    "status": "Beklemede",
+    "customerName": "Faruk  Bayram",
+    "phone": "5349642803",
+    "address": "Emek adna menderes murak sgk no 1 daire 1",
+    "city": "Bursa",
+    "district": "Osmangazi ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
