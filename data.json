@@ -8412,5 +8412,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 602,
+    "date": "22.11.2025 12:30:05",
+    "status": "Beklemede",
+    "customerName": "Hasan  Küçükdişli ",
+    "phone": "5304610184",
+    "address": "Düzce merkez çiftlik köyü ",
+    "city": "Düzce ",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
