@@ -9322,5 +9322,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 667,
+    "date": "22.11.2025 21:18:02",
+    "status": "Beklemede",
+    "customerName": "Muhammed YILMAZ",
+    "phone": "5426221299",
+    "address": "Aratol istiklal mahallesi 9411. Sokak no 21/1 avukatlik burosu yanı zahter yapı",
+    "city": "Aksaray",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
