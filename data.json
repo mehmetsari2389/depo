@@ -7950,5 +7950,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 569,
+    "date": "22.11.2025 09:05:30",
+    "status": "Beklemede",
+    "customerName": "Mehmet Karakuş",
+    "phone": "05327210273",
+    "address": "Yavuz Selim Mahallesi \nKahta Devlet Hastanesi Başhekimlik\nAdıyaman/Kahta",
+    "city": "Adıyaman ",
+    "district": "Kahta",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
