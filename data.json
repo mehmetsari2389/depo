@@ -8888,5 +8888,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 636,
+    "date": "22.11.2025 17:17:04",
+    "status": "Beklemede",
+    "customerName": "Barış Dedeoğlu",
+    "phone": "+905319857497",
+    "address": "Turplu mahallesi turplu sokak no:9 \nBalıkesir/gönen / turplu mahallesi",
+    "city": "Balıkesir",
+    "district": "Gönen",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
