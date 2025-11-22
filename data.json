@@ -8916,5 +8916,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 638,
+    "date": "22.11.2025 17:34:59",
+    "status": "Beklemede",
+    "customerName": "Hakan  Yeşilli ",
+    "phone": "5059656691",
+    "address": "Cumhuriyet Mahallesi 9608 Sokak No 4-2 Umut Apartmanı kat 3 daire 15 Harmandalı Çiğli İzmir ",
+    "city": "İzmir ",
+    "district": "Çiğli",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
