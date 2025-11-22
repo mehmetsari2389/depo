@@ -8538,5 +8538,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 610,
+    "date": "22.11.2025 13:02:45",
+    "status": "Beklemede",
+    "customerName": "Ali Bilgiç",
+    "phone": "05401061905",
+    "address": "Ümmühan mahallesi Şehit yüzbaşı Cem ekber İstanbullu sokak numara 1/G",
+    "city": "Çanakkale",
+    "district": "Ayvacık",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
