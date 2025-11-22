@@ -8818,5 +8818,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 630,
+    "date": "22.11.2025 15:28:25",
+    "status": "Beklemede",
+    "customerName": "Cem Orhon",
+    "phone": "+905545840805",
+    "address": "Fulya Mah. Esenler Sok. Akınözyuvam sitesi e1 blok no:5 daire:A YCY grup sigorta ",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
