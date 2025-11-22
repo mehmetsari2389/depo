@@ -10022,5 +10022,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 717,
+    "date": "23.11.2025 01:57:42",
+    "status": "Beklemede",
+    "customerName": "ENGİN KIZILKAYA  Kızılkaya ",
+    "phone": "5323531344",
+    "address": "Mehmetçik sok no 20 gençOsman mahallesi Güngören İstanbul ",
+    "city": "İstanbul ",
+    "district": "Güngören ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
