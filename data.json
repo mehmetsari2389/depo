@@ -9308,5 +9308,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 666,
+    "date": "22.11.2025 21:09:46",
+    "status": "Beklemede",
+    "customerName": "Özkan  Böğecik ",
+    "phone": "5428247461",
+    "address": "Baki oto yıkama Bahçelievler mahallesi narlı Sokak No:1 D:1 Marmaraereğlisi Tekirdağ",
+    "city": "Tekirdağ ",
+    "district": "Marmaraereğlisi ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
