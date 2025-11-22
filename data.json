@@ -8874,5 +8874,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 635,
+    "date": "22.11.2025 16:52:11",
+    "status": "Beklemede",
+    "customerName": "Ömer  Yılmaz ",
+    "phone": "5399278434",
+    "address": "Çıksorut mahallesi 49nolu sokak no 38",
+    "city": "Gaziantep ",
+    "district": "Şehitkamil ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
