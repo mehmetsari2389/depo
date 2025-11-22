@@ -10064,5 +10064,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 720,
+    "date": "23.11.2025 02:36:10",
+    "status": "Beklemede",
+    "customerName": "İSA GÜLERYÜZ",
+    "phone": "5326342184",
+    "address": "Emniyet Mh. Milas Sk . N.21 Teknik Okullar Kampüsü Yemimahalle-ANKARA",
+    "city": "Ankara",
+    "district": "Yenimahalle",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
