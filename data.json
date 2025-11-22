@@ -9280,5 +9280,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 664,
+    "date": "22.11.2025 20:58:40",
+    "status": "Beklemede",
+    "customerName": "Mümin Yıldırım",
+    "phone": "5434330543",
+    "address": "Aşağı mah Dr m celal karaca CAD No 39/A",
+    "city": "Denizli ",
+    "district": "Sarayköy ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
