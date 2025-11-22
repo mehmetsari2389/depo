@@ -9616,5 +9616,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 688,
+    "date": "22.11.2025 22:27:49",
+    "status": "Beklemede",
+    "customerName": "Halil İbrahim  Özer",
+    "phone": "+905417443293",
+    "address": "Göl mahallesi Özel harekat yanı Altın koza yaşam tesisi şantiyesi Diyadin /Ağrı",
+    "city": "Ağrı",
+    "district": "Diyadin",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
