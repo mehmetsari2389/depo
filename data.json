@@ -8216,5 +8216,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 588,
+    "date": "22.11.2025 10:56:47",
+    "status": "Beklemede",
+    "customerName": "Fikret Dolu",
+    "phone": "5538625679",
+    "address": "Yunus emre sokak no 2 kat 3 kiraz",
+    "city": "İzmir",
+    "district": "Kiraz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
