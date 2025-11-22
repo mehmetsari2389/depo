@@ -7894,5 +7894,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 565,
+    "date": "22.11.2025 07:17:58",
+    "status": "Beklemede",
+    "customerName": "Saniye Üstündağ",
+    "phone": "05520055271",
+    "address": "Aydoğmuş mh.1382 sk.n.18.d.2 idris kaya apt.",
+    "city": "Antalya",
+    "district": "Kepez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
