@@ -7922,5 +7922,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 567,
+    "date": "22.11.2025 08:34:18",
+    "status": "Beklemede",
+    "customerName": "Harun Kudu",
+    "phone": "5369461428",
+    "address": "Kasım Paşa Mh emin ağa SK no 5 doyum ekmek fırını",
+    "city": "Bilecik",
+    "district": "Bozyük",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
