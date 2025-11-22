@@ -9476,5 +9476,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 678,
+    "date": "22.11.2025 22:12:16",
+    "status": "Beklemede",
+    "customerName": "Gökhan Yıldır",
+    "phone": "05356414434",
+    "address": "Kazım Karabekir mahallesi Atışalanı cad.No:65/5 kat:3 ",
+    "city": "İstanbul",
+    "district": "Esenler",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
