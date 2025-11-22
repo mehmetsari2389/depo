@@ -9714,5 +9714,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 695,
+    "date": "22.11.2025 23:10:10",
+    "status": "Beklemede",
+    "customerName": "Hüseyin Delioğlan",
+    "phone": "05431813782",
+    "address": "Fatih mahallesi Kadıgölü sokak no 11A Tokat Turhal ",
+    "city": "Tokat",
+    "district": "Turhal ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
