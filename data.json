@@ -9994,5 +9994,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 715,
+    "date": "23.11.2025 01:37:10",
+    "status": "Beklemede",
+    "customerName": "Faik Çiftçi",
+    "phone": "5455683822",
+    "address": "Seyitler mah 3032 sk no 52",
+    "city": "Batman",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
