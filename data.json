@@ -9084,5 +9084,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 650,
+    "date": "22.11.2025 19:39:58",
+    "status": "Beklemede",
+    "customerName": "Ersin Bozkurt ",
+    "phone": "05424457464",
+    "address": "Şehit Alibey mahallesi Vakkas Ferit caddesi no 56 d arkadaş erkkek koforü",
+    "city": "Uşak",
+    "district": "Eşme",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
