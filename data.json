@@ -9448,5 +9448,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 674,
+    "date": "22.11.2025 21:57:10",
+    "status": "Beklemede",
+    "customerName": "Mehmet Kaplan",
+    "phone": "05449022700",
+    "address": "Barak mahallesi 100210 nolu sokak no. 17/5 Şahinbey GAZİANTEP ",
+    "city": "Gaziantep ",
+    "district": "Şahinbey ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
