@@ -9364,5 +9364,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 670,
+    "date": "22.11.2025 21:31:21",
+    "status": "Beklemede",
+    "customerName": "İsmail Güven",
+    "phone": "5464605951",
+    "address": "İnönü mah 154 sokak no 24/a\nNehir elektrik",
+    "city": "Manisa ",
+    "district": "Akhisar",
+    "product": "Columbia Haki Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
