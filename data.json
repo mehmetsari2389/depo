@@ -9840,5 +9840,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 704,
+    "date": "23.11.2025 00:18:01",
+    "status": "Beklemede",
+    "customerName": "Mehmet Öztürk",
+    "phone": "+5342784995",
+    "address": "Mustafa Paşa mah 751 şok No:5 D2 ",
+    "city": "Kocaeli",
+    "district": "Gebze",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
