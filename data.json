@@ -9196,5 +9196,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 658,
+    "date": "22.11.2025 20:41:21",
+    "status": "Beklemede",
+    "customerName": "Mustafa Ağun",
+    "phone": "05388549071",
+    "address": "Çaykur. Veliköy. Çay. Fabrikasi",
+    "city": "Rize",
+    "district": "Nerkez",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
