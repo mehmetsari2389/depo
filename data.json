@@ -9770,5 +9770,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 699,
+    "date": "22.11.2025 23:34:52",
+    "status": "Beklemede",
+    "customerName": "Engin  Hurma",
+    "phone": "5363818107",
+    "address": "Feriköy fırın sok no.75 dori iş merkezi ",
+    "city": "İstanbul ",
+    "district": "Şişli ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
