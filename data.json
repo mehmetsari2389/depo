@@ -9672,5 +9672,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 692,
+    "date": "22.11.2025 22:48:48",
+    "status": "Beklemede",
+    "customerName": "kütahyalı mustafa",
+    "phone": "905374748312",
+    "address": "Seyfidemirsoy cd no77 kat1 d 2",
+    "city": "İzmir",
+    "district": "Buca",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
