@@ -8958,5 +8958,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 641,
+    "date": "22.11.2025 18:01:38",
+    "status": "Beklemede",
+    "customerName": "Murat Bolu",
+    "phone": "5355198331",
+    "address": "505 Sokak no1 daire 1doruk Apartmanı Bahçelievler, Karabağlar İzmir",
+    "city": "İzmir",
+    "district": "Karabağlar",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
