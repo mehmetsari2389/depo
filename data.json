@@ -10008,5 +10008,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 716,
+    "date": "23.11.2025 01:42:25",
+    "status": "Beklemede",
+    "customerName": "Bilal  UYGUR",
+    "phone": "05068604698",
+    "address": "DSİ 81. Şube Müdürlüğü Lalapaşa Mahallesi Terminal Caddesi MNG AVM karşısı No:1",
+    "city": "Erzurum",
+    "district": "Yakutiye",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
