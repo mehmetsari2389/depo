@@ -8650,5 +8650,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 619,
+    "date": "22.11.2025 14:06:02",
+    "status": "Beklemede",
+    "customerName": "Cüneyt Kaygın",
+    "phone": "5388835416",
+    "address": "Bursa yıldırım değirmenlik Kızık Mh 4.kanarya sokak no. 1 daire. 2",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
