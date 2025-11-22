@@ -8944,5 +8944,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 640,
+    "date": "22.11.2025 17:49:18",
+    "status": "Beklemede",
+    "customerName": "Gökhan Şur",
+    "phone": "55339615763",
+    "address": "14 Kasım mah 735 sokak no 12 Iğdır merkez",
+    "city": "Iğdır",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
