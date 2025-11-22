@@ -8020,5 +8020,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 574,
+    "date": "22.11.2025 10:17:22",
+    "status": "Beklemede",
+    "customerName": "Çağrı Pamuk",
+    "phone": "+905301129003",
+    "address": "İhsaniye mahallesi harmanlar sokak no 29 Kepsut Balıkesir ",
+    "city": "Balıkesir",
+    "district": "Kepsut ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
