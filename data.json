@@ -8832,5 +8832,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 632,
+    "date": "22.11.2025 15:55:35",
+    "status": "Beklemede",
+    "customerName": "Ahmet  Nas 5",
+    "phone": "+905412564122",
+    "address": "Değirmendere mahallesi ğöçek kavşağı yolu temizlik işleri müdürlüğü  şantiyesi standart katı atık no5 /1 Kuşadası  Aydın ",
+    "city": "Aydın ",
+    "district": "Kuşadası ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
