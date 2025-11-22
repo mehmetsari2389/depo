@@ -8272,5 +8272,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 592,
+    "date": "22.11.2025 11:06:56",
+    "status": "Beklemede",
+    "customerName": "Sertan  Sırtalan ",
+    "phone": "5416858828",
+    "address": "Kırklareli Babaeski Pancarköy ",
+    "city": "Kırklareli ",
+    "district": "Babaeski ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "2",
+    "cargoPayment": "aras-nakit"
   }
 ]
