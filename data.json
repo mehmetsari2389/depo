@@ -8762,5 +8762,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 627,
+    "date": "22.11.2025 14:56:00",
+    "status": "Beklemede",
+    "customerName": "Öner  Kutlu",
+    "phone": "5354632647",
+    "address": "Şeyhli mh aşkale sok no 16/2",
+    "city": "İstanbul",
+    "district": "Pendik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
