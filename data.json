@@ -9378,5 +9378,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 671,
+    "date": "22.11.2025 21:42:18",
+    "status": "Beklemede",
+    "customerName": "Okan Kır",
+    "phone": "+905526276128",
+    "address": "Giresun Görele limon sokak hızarcı olglu apartman ",
+    "city": "Giresun ",
+    "district": "Görele ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
