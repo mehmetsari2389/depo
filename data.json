@@ -9882,5 +9882,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 707,
+    "date": "23.11.2025 00:39:10",
+    "status": "Beklemede",
+    "customerName": "Ersin Bozdemir",
+    "phone": "05345449699",
+    "address": "1.Sakarya Mahallesi Çakmak Caddesi 54-56 Ural Apartmanı B-Blok Daire/3",
+    "city": "Balıkesir",
+    "district": "Karesi",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
