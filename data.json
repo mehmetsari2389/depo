@@ -8440,5 +8440,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 604,
+    "date": "22.11.2025 12:53:42",
+    "status": "Beklemede",
+    "customerName": "Emre Kotan",
+    "phone": "05363181133",
+    "address": "Muratpaşa Merkezi yönetim caddesi no:2 Erzurum Büyükşehir Belediyesi Kırsal hizmetler daire başkanlığı Yakutiye Erzurum",
+    "city": "Erzurum",
+    "district": "Yakutiye",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
