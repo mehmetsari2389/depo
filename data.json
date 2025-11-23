@@ -10176,5 +10176,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 728,
+    "date": "23.11.2025 07:31:01",
+    "status": "Beklemede",
+    "customerName": "Fikret Şeker",
+    "phone": "+905436389818",
+    "address": "Bahşiş mah cumhuriyet caddesi no:43c \n",
+    "city": "Mersin ",
+    "district": "Tarsus ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
