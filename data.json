@@ -11408,5 +11408,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 816,
+    "date": "23.11.2025 19:13:32",
+    "status": "Beklemede",
+    "customerName": "Muhammet Güler",
+    "phone": "05350525169",
+    "address": "8 kasım mah istasyon caddesi uçtu 1 sokak güzel evler sitesi 6.blok no 4 kat 1 daire 4",
+    "city": "Kırkkareli",
+    "district": "Lüleburgaz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
