@@ -11534,5 +11534,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 825,
+    "date": "23.11.2025 20:11:20",
+    "status": "Beklemede",
+    "customerName": "Ulaş Aslan",
+    "phone": "05346957542",
+    "address": "Selçuklu mahallesi Banu çiçek cad No48",
+    "city": "Afyonkarahisar",
+    "district": "Afyonkarahisar",
+    "product": "Puma Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
