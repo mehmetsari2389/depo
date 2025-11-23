@@ -11086,5 +11086,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 793,
+    "date": "23.11.2025 16:26:12",
+    "status": "Beklemede",
+    "customerName": "Erkut Gözgeç ",
+    "phone": "05527066408",
+    "address": "Mimar Sinan caddesi müftü Solakzade mahallesi türk Telekom bölge müdürlüğü kat 1",
+    "city": "Erzurum ",
+    "district": "Palandöken ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
