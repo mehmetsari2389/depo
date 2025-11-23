@@ -10722,5 +10722,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 767,
+    "date": "23.11.2025 13:18:32",
+    "status": "Beklemede",
+    "customerName": "Faruk  Kıtay",
+    "phone": "05013456503",
+    "address": "Guveçli köyü  Bingöl ",
+    "city": "Bingöl ",
+    "district": "Merkez",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
