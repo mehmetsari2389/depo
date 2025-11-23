@@ -11842,5 +11842,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 847,
+    "date": "23.11.2025 22:20:11",
+    "status": "Beklemede",
+    "customerName": "Erdal UYSAL",
+    "phone": "+905052515656",
+    "address": "Şehit Savcı Mehmet Selim Kiraz Bulvarı Baran Apt. No:55/16",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
