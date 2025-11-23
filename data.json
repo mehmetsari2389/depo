@@ -11702,5 +11702,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 837,
+    "date": "23.11.2025 21:16:01",
+    "status": "Beklemede",
+    "customerName": "Hasan Kulahli",
+    "phone": "05523652531",
+    "address": "Akdora resurt otel sok1098 no 98 side manavgat antalya",
+    "city": "Antalya",
+    "district": "Manavgat",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
