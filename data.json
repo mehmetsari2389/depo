@@ -10778,5 +10778,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 771,
+    "date": "23.11.2025 13:38:15",
+    "status": "Beklemede",
+    "customerName": "Mevlüt Demirtaş",
+    "phone": "05330339684",
+    "address": "Lalaşahin mahalle Aydoğan sokak no.9",
+    "city": "Bursa",
+    "district": "Mustafakemalpaşa",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
