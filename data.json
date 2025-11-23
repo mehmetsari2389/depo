@@ -11941,5 +11941,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 853,
+    "date": "23.11.2025 23:09:14",
+    "status": "Beklemede",
+    "ip": "88.230.1.180",
+    "customerName": "Mustafa Çalık",
+    "phone": "05360236001",
+    "address": "Mentesoglu mah 675.sokak no5  fethiye mugla kardesler petshop",
+    "city": "Mugls",
+    "district": "Fethiye",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
