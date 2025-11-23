@@ -11772,5 +11772,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 842,
+    "date": "23.11.2025 22:12:20",
+    "status": "Beklemede",
+    "customerName": "Uğur Çekin",
+    "phone": "05444043304",
+    "address": "Emir gazi mah. Sedirler cad. No 428 A karatay konya\nBerat market",
+    "city": "Konya",
+    "district": "Karatay",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
