@@ -11548,5 +11548,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 826,
+    "date": "23.11.2025 20:18:21",
+    "status": "Beklemede",
+    "customerName": "Cemal Songor",
+    "phone": "05467494395",
+    "address": "Kağıthane Sultan selim caddesi Bülent sokak no 21 dare 3",
+    "city": "İstanbul ",
+    "district": "Kağıthane ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
