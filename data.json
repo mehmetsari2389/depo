@@ -12121,5 +12121,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 866,
+    "date": "24.11.2025 01:45:43",
+    "status": "Beklemede",
+    "ip": "176.88.173.34",
+    "customerName": "Ramazan  Aldı ",
+    "phone": "05382791968",
+    "address": "Ic hotels Santai Family Resort Kadriye mahallesi Ückum tepesi Cadde no 14/1Belek Serik Antalya ",
+    "city": "Antalya ",
+    "district": "Serik Belek ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
