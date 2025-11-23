@@ -10204,5 +10204,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 730,
+    "date": "23.11.2025 08:27:19",
+    "status": "Beklemede",
+    "customerName": "selma katırcı",
+    "phone": "05541303851",
+    "address": "Gürsel mah eyüp sultan cad no 34 hatay iskenderun",
+    "city": "Hatay",
+    "district": "İskenderun",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
