@@ -10988,5 +10988,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 785,
+    "date": "23.11.2025 15:48:11",
+    "status": "Beklemede",
+    "customerName": "Fuat Turgut",
+    "phone": "05422037816",
+    "address": "Cumhuriyet Mah. Şht. Yzb. Gültekin Başargan Cad. 20/B",
+    "city": "İzmir",
+    "district": "Tire",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
