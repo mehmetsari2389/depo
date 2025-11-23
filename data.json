@@ -11604,5 +11604,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 830,
+    "date": "23.11.2025 20:33:15",
+    "status": "Beklemede",
+    "customerName": "Şengül Arslan",
+    "phone": "+905374168906",
+    "address": "Yokuşbaşı mahallesi 2220sk nok14/11 kaptan evleri",
+    "city": "Muğla",
+    "district": "Bodrum",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
