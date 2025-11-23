@@ -10106,5 +10106,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 723,
+    "date": "23.11.2025 03:31:26",
+    "status": "Beklemede",
+    "customerName": "İmran Asadullayev",
+    "phone": "05467716546",
+    "address": "Angel mercan Restorant ",
+    "city": "İstanbul ",
+    "district": "Tuzla ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
