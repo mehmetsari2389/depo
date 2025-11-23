@@ -11240,5 +11240,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 804,
+    "date": "23.11.2025 17:39:09",
+    "status": "Beklemede",
+    "customerName": "Ulvi  Türköz ",
+    "phone": "05373640158",
+    "address": "Gençlik mahallesi eski istasyon caddesi no 35 DSİ 9sondaj şube müdürlüğü Kırklareli Lüleburgaz ",
+    "city": "Kırklareli ",
+    "district": "Lüleburgaz ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
