@@ -11898,5 +11898,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 851,
+    "date": "23.11.2025 22:34:57",
+    "status": "Beklemede",
+    "customerName": "Kamil Halici",
+    "phone": "+905316211828",
+    "address": "Icerenkoy mahallesi karsan sokak no 47 /0harsit ap  atasehir İstanbul",
+    "city": "İstanbul ",
+    "district": "Atasehir ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
