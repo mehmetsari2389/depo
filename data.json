@@ -11226,5 +11226,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 803,
+    "date": "23.11.2025 17:32:15",
+    "status": "Beklemede",
+    "customerName": "Mustafa Kelenpeli",
+    "phone": "05358760525",
+    "address": "Bağlık mah.suphi konak CAD.no:28",
+    "city": "ZONGULDAK",
+    "district": "KDZ.EREĞLİ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
