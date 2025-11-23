@@ -10652,5 +10652,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 762,
+    "date": "23.11.2025 12:43:07",
+    "status": "Beklemede",
+    "customerName": "Dindar Aslan ",
+    "phone": "5445055051",
+    "address": "Aksu mahallesi ",
+    "city": "Hakkâri ",
+    "district": "Yüksekova ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
