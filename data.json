@@ -12031,5 +12031,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 859,
+    "date": "23.11.2025 23:50:31",
+    "status": "Beklemede",
+    "ip": "176.219.198.193",
+    "customerName": "Okan Deveci",
+    "phone": "05419371120",
+    "address": "Güllük mahallesi kocakışla mevki Skretting yem fabrikası no 5",
+    "city": "Muğla",
+    "district": "Milas",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
