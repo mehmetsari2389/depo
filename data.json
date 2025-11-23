@@ -10134,5 +10134,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 725,
+    "date": "23.11.2025 04:28:08",
+    "status": "Beklemede",
+    "customerName": "Murat Gül ",
+    "phone": "5062343447",
+    "address": "Yalova merkezinde ",
+    "city": "Yalova ",
+    "district": "Merkez",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
