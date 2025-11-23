@@ -11352,5 +11352,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 812,
+    "date": "23.11.2025 18:38:39",
+    "status": "Beklemede",
+    "customerName": "Burak Besevli",
+    "phone": "5065477167",
+    "address": "Yenice karabuk",
+    "city": "Karabük ",
+    "district": "Yenice",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
