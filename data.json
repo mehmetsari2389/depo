@@ -11884,5 +11884,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 850,
+    "date": "23.11.2025 22:32:32",
+    "status": "Beklemede",
+    "customerName": "Çalap Kirlioğlu",
+    "phone": "+905510876535",
+    "address": "ÇALAP KİRLİOĞLU \nFabrikalar mahallesi 3044sokak\nBuran apt no 5 daire 1 Kepez Antalya ",
+    "city": "Antalya ",
+    "district": "Kepez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
