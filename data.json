@@ -10568,5 +10568,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 756,
+    "date": "23.11.2025 11:42:42",
+    "status": "Beklemede",
+    "customerName": "Tuncay Kutlu",
+    "phone": "+5324227520",
+    "address": "Siteler mal aptullah arslan CAD , no 145 damla çay bahçesi küçük kumla Gemlik Bursa ",
+    "city": "Bursa",
+    "district": "Gemlik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
