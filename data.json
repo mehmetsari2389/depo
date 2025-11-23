@@ -11030,5 +11030,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 789,
+    "date": "23.11.2025 16:01:01",
+    "status": "Beklemede",
+    "customerName": "İsmail  Yayci",
+    "phone": "5448537629",
+    "address": "Izgın mahallesi ",
+    "city": "Kahramanmış ",
+    "district": "Elbıstan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
