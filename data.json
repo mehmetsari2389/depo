@@ -11254,5 +11254,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 805,
+    "date": "23.11.2025 18:03:20",
+    "status": "Beklemede",
+    "customerName": "Ahmet  Karababa ",
+    "phone": "05446341785",
+    "address": "Gazi Osman paşa mahallesi Bozoğlu sokak no 5/7 d 18 çerkezköy ",
+    "city": "Tekirdağ ",
+    "district": "Çerkezköy ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
