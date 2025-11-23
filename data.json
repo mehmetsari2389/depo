@@ -11646,5 +11646,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 833,
+    "date": "23.11.2025 20:47:40",
+    "status": "Beklemede",
+    "customerName": "aziz tatar",
+    "phone": "05376248385",
+    "address": "bahcebası mah 225sok ef 4no6/3",
+    "city": "Kayseri",
+    "district": "Develi",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
