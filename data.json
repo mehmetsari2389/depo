@@ -10848,5 +10848,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 776,
+    "date": "23.11.2025 13:48:59",
+    "status": "Beklemede",
+    "customerName": "Ümit  Karadağ",
+    "phone": "+905392508731",
+    "address": "Karaagac mah pazar Sokak numara 4 ",
+    "city": "Iğdır ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
