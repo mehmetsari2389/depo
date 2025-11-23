@@ -11366,5 +11366,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 813,
+    "date": "23.11.2025 18:59:20",
+    "status": "Beklemede",
+    "customerName": "Mehmetali GAZİAYVAZOGLU",
+    "phone": "05359646315",
+    "address": "Kamalpasa.mh.ergene.sokak.no....34.kat.2.dayre.3.",
+    "city": "Tekirdağ ",
+    "district": "Saray",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
