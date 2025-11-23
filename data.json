@@ -10582,5 +10582,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 757,
+    "date": "23.11.2025 11:53:28",
+    "status": "Beklemede",
+    "customerName": "Mustafa Cengiz",
+    "phone": "+905317658344",
+    "address": "Bundan şube",
+    "city": "Denizli",
+    "district": "Buldan",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
