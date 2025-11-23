@@ -10638,5 +10638,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 761,
+    "date": "23.11.2025 12:32:47",
+    "status": "Beklemede",
+    "customerName": "Tamer  Toraman ",
+    "phone": "+905376873711",
+    "address": "Kurtuluş mah Çetintaş sok no 12 ",
+    "city": "Kırklareli ",
+    "district": "Lüleburgaz ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
