@@ -10960,5 +10960,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 784,
+    "date": "23.11.2025 15:25:51",
+    "status": "Beklemede",
+    "customerName": "MUSTAFA Kaçmaz",
+    "phone": "5468922733",
+    "address": "Süleymaniye mah. Süleymaniye küm.  evleri  NO:72 Viranşehir ŞANLIURFA ",
+    "city": "Şanlıurfa ",
+    "district": "Viranşehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
