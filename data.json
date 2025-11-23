@@ -10358,5 +10358,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 741,
+    "date": "23.11.2025 09:59:18",
+    "status": "Beklemede",
+    "customerName": "Eyyüp  Ekinci ",
+    "phone": "5521647456",
+    "address": "285 şok  nasılsın kat 2 esenler",
+    "city": "Istanbul ",
+    "district": "Esenler",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
