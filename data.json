@@ -10078,5 +10078,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 721,
+    "date": "23.11.2025 03:26:47",
+    "status": "Beklemede",
+    "customerName": "Mustafa  Yücel ",
+    "phone": "+905327306713",
+    "address": "İkitelli OSB mahallesi, Sefaköy Sanayi Sitesi, 4.blok, No 11, Akel Elektrik Motor Bobinaj ",
+    "city": "İstanbul",
+    "district": "Başakşehir",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
