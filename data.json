@@ -11198,5 +11198,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 801,
+    "date": "23.11.2025 17:12:41",
+    "status": "Beklemede",
+    "customerName": "İsmet  Arslan",
+    "phone": "05550303459",
+    "address": "Tekirdağ Süleymanpaşa Karadeniz mahallesi cyb b blok 13 no 12  3 kat",
+    "city": "Tekirdağ ",
+    "district": "Sülayman paşa",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
