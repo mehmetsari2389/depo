@@ -11856,5 +11856,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 848,
+    "date": "23.11.2025 22:24:45",
+    "status": "Beklemede",
+    "customerName": "Mülayim  Özgül ",
+    "phone": "5558001575",
+    "address": "Ş.vedat Kocadallı mah.1286 sok no1",
+    "city": "Osmaniye ",
+    "district": "Kadirli ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
