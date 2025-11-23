@@ -10288,5 +10288,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 736,
+    "date": "23.11.2025 09:04:07",
+    "status": "Beklemede",
+    "customerName": "Şeref hafif Hafif",
+    "phone": "05395743347",
+    "address": "Bağvar mahallesi 3035",
+    "city": "Diyarbakir",
+    "district": "Sur",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
