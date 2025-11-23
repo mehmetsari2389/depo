@@ -10162,5 +10162,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 727,
+    "date": "23.11.2025 07:01:49",
+    "status": "Beklemede",
+    "customerName": "ERKAN  YILMAZ ",
+    "phone": "5327906530",
+    "address": "Kartaltepe mahallesi Kılıçarslan caddesi cevizkent TOKİ c4-2 11.kat no:50",
+    "city": "Karabük",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
