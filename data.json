@@ -10190,5 +10190,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 729,
+    "date": "23.11.2025 08:26:55",
+    "status": "Beklemede",
+    "customerName": "Fatih  Atam ",
+    "phone": "5446736039",
+    "address": "Aydın köşk başçayir köyü hocalar mevki 949 SK",
+    "city": "Aydın ",
+    "district": "Köşk ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
