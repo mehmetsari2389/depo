@@ -10260,5 +10260,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 734,
+    "date": "23.11.2025 08:54:42",
+    "status": "Beklemede",
+    "customerName": "Ela Işık",
+    "phone": "5304067449",
+    "address": "Yahya Kemal cad no25 fırat üniversitesi hastanesi ",
+    "city": "Elazığ ",
+    "district": "Merkez ",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
