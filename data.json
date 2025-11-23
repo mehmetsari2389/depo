@@ -11184,5 +11184,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 800,
+    "date": "23.11.2025 16:59:38",
+    "status": "Beklemede",
+    "customerName": "Hasan  Aygündüz",
+    "phone": "05400403005",
+    "address": "Merkezefendi mahallesi g:50 sokak no:4 daire 1 zeytinburnu/İstanbul",
+    "city": "İstanbul",
+    "district": "Zeytinburnu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
