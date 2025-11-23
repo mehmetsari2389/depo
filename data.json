@@ -10120,5 +10120,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 724,
+    "date": "23.11.2025 04:21:48",
+    "status": "Beklemede",
+    "customerName": "Ali Ertürk ",
+    "phone": "05360505918",
+    "address": "Hızırbey mahallesi merkez \nHızırbey mahallesi 1509 SK \n40/5 merkez Isparta ",
+    "city": "Türkiye ",
+    "district": "Isparta ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
