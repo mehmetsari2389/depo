@@ -11660,5 +11660,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 834,
+    "date": "23.11.2025 20:48:05",
+    "status": "Beklemede",
+    "customerName": "Remzi Güleşce ",
+    "phone": "5078500831",
+    "address": "A Gazi mahallesi çemen sokno27 Tuşba van",
+    "city": "Van",
+    "district": "Tuşba ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
