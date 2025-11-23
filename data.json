@@ -11632,5 +11632,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 832,
+    "date": "23.11.2025 20:38:22",
+    "status": "Beklemede",
+    "customerName": "Hakan Yılmaz ",
+    "phone": "5542876565",
+    "address": "Mevlana Mahallesi Papatya Caddesi Karademir Elit Park1 apartmanı Kat:5 No:19 ",
+    "city": "Kayseri ",
+    "district": "Talas",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
