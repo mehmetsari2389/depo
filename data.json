@@ -11971,5 +11971,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 856,
+    "date": "23.11.2025 23:10:28",
+    "status": "Beklemede",
+    "ip": "178.243.36.165",
+    "customerName": "Alper  Binbay ",
+    "phone": "5330806905",
+    "address": "İbisina mahallesi 14 nolu sokak no 9",
+    "city": "Gaziantep ",
+    "district": "Şahinbey ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
