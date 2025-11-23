@@ -10274,5 +10274,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 735,
+    "date": "23.11.2025 09:00:27",
+    "status": "Beklemede",
+    "customerName": "Vedat Coşar",
+    "phone": "5411818780",
+    "address": "Bir kent mah rümeli cah no 122 ceyhan adana",
+    "city": "Adana",
+    "district": "Ceyhan",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
