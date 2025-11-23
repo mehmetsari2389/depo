@@ -10428,5 +10428,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 746,
+    "date": "23.11.2025 10:39:35",
+    "status": "Beklemede",
+    "customerName": "Erol Kaygusuz",
+    "phone": "+905324925605",
+    "address": "Kültür mahallesi muallim cevdet sok no 4 daire 7",
+    "city": "Bolu",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
