@@ -10386,5 +10386,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 743,
+    "date": "23.11.2025 10:05:19",
+    "status": "Beklemede",
+    "customerName": "Ferhat Yıldırım",
+    "phone": "+5374380865",
+    "address": "Kanarya mahallesi Zümrüt Anka Sokak No:40 Daire 5",
+    "city": "İstanbul",
+    "district": "Küçükçekmece",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
