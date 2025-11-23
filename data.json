@@ -10484,5 +10484,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 750,
+    "date": "23.11.2025 10:59:39",
+    "status": "Beklemede",
+    "customerName": "Bedih Konca",
+    "phone": "5352339063",
+    "address": "Yeni mahalle ortaokul caddesi hatay didim döner",
+    "city": "Aydın",
+    "district": "Didim",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
