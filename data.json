@@ -10918,5 +10918,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 781,
+    "date": "23.11.2025 14:50:38",
+    "status": "Beklemede",
+    "customerName": "Mustafa  Bahadır ",
+    "phone": "5317323844",
+    "address": "Şingah mahallesi Meltem sokak no 20 daire 5 ",
+    "city": "Bayburt ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
