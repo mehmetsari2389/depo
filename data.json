@@ -10246,5 +10246,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 733,
+    "date": "23.11.2025 08:46:52",
+    "status": "Beklemede",
+    "customerName": "Cevahir Kılınç",
+    "phone": "549 170 04 49",
+    "address": "Mus Bulanık Zafer mahallesi yağmur iletişim ",
+    "city": "Muş ",
+    "district": "Bulanık ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
