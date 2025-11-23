@@ -11072,5 +11072,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 791,
+    "date": "23.11.2025 16:09:40",
+    "status": "Beklemede",
+    "customerName": "Recep Yöndem",
+    "phone": "5436634731",
+    "address": "Bolu Merkez İZZET Baysal mahallesi varlık sokak ürün sitesi B Blok 7/1",
+    "city": "Bolu",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
