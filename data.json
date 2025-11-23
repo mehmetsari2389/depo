@@ -11520,5 +11520,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 824,
+    "date": "23.11.2025 20:04:20",
+    "status": "Beklemede",
+    "customerName": "Yunus  Doğan ",
+    "phone": "O506o345904",
+    "address": " Nusratiye mah mavili bahçe 2. Sok no 39 daire 2",
+    "city": "Tekirdağ",
+    "district": "Çorlu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
