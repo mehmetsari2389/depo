@@ -11282,5 +11282,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 807,
+    "date": "23.11.2025 18:19:07",
+    "status": "Beklemede",
+    "customerName": "Feyat  Çiçekdenk ",
+    "phone": "+905413880535",
+    "address": "Kandıllı mahallesi siraevler Sokak no 22 Üsküdar /istanbul",
+    "city": "İstanbul ",
+    "district": "Üsküdar ",
+    "product": "Kırmızı Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
