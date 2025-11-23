@@ -10498,5 +10498,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 751,
+    "date": "23.11.2025 11:02:40",
+    "status": "Beklemede",
+    "customerName": "adnan muharremoğlu",
+    "phone": "+905392377342",
+    "address": "Talatpaşa caddesi kamalye evleri Kızılırmak SK Umut sitesi AblokAgiris daire3 ",
+    "city": "İstanbul",
+    "district": "Esenyurt",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
