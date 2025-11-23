@@ -10218,5 +10218,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 731,
+    "date": "23.11.2025 08:40:27",
+    "status": "Beklemede",
+    "customerName": "Talip Akman",
+    "phone": "05515116355",
+    "address": "Adnan Menderes mahallesi Ecem sok no 14/16 iç kapı No.8 ",
+    "city": "Tekirdağ ",
+    "district": "Kapaklı ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
