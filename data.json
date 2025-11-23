@@ -10946,5 +10946,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 783,
+    "date": "23.11.2025 15:23:21",
+    "status": "Beklemede",
+    "customerName": "Ozan Darcan",
+    "phone": "5520805779",
+    "address": "Bozkurt mahallesi eski Kızılay sokak no 19/1 ",
+    "city": "Edirne",
+    "district": "İpsala",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
