@@ -11786,5 +11786,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 843,
+    "date": "23.11.2025 22:14:12",
+    "status": "Beklemede",
+    "customerName": "Osman Ceylan ",
+    "phone": "05324712027",
+    "address": "ATA MAH.3498 CAD . ARMONİ LİFE SİTESİ 7B BLOK NO 46",
+    "city": "Ankara",
+    "district": "Yenimahalle",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
