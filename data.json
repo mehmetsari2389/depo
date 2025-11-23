@@ -11674,5 +11674,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 835,
+    "date": "23.11.2025 21:06:25",
+    "status": "Beklemede",
+    "customerName": "Zeki  Kul ",
+    "phone": "+905352228208",
+    "address": "Kurtuluş ma 320 sk no 4",
+    "city": "Kırklareli ",
+    "district": "Babaeski ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
