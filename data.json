@@ -10904,5 +10904,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 779,
+    "date": "23.11.2025 14:32:08",
+    "status": "Beklemede",
+    "customerName": "Tuncay Demir",
+    "phone": "5558920102",
+    "address": "Fatih sultan mehmet caddesi no 63 k1 d4",
+    "city": "İzmir",
+    "district": "Bayraklı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
