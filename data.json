@@ -11044,5 +11044,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 790,
+    "date": "23.11.2025 16:08:35",
+    "status": "Beklemede",
+    "customerName": "Ender Örenbaş",
+    "phone": "05425574467",
+    "address": "Zonguldak Çaycuma istasyon caddesi yaşar doğu cad 34 ",
+    "city": "Zonguldak ",
+    "district": "Çaycuma ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
