@@ -11758,5 +11758,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 840,
+    "date": "23.11.2025 21:58:10",
+    "status": "Beklemede",
+    "customerName": "Önder Akçay",
+    "phone": "05449574239",
+    "address": "Sıgma mh 4.sokak.no8",
+    "city": "Denızlı ",
+    "district": "Saraykoy",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
