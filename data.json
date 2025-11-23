@@ -11688,5 +11688,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 836,
+    "date": "23.11.2025 21:14:09",
+    "status": "Beklemede",
+    "customerName": "İbrahim  Şapçı ",
+    "phone": "05376845874",
+    "address": "Eskişehir kumlubel mah yenibahçeli sokak no 16/ 5 ",
+    "city": "Eskişehir ",
+    "district": "Sivrihisar ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
