@@ -12076,5 +12076,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 863,
+    "date": "24.11.2025 00:24:24",
+    "status": "Beklemede",
+    "ip": "5.47.55.201",
+    "customerName": "Kemal Serin",
+    "phone": "+905444323652",
+    "address": "Mithatpaşa mahallesi 58144 sok no 28",
+    "city": "Adana",
+    "district": "Seyhan",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
