@@ -10834,5 +10834,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 775,
+    "date": "23.11.2025 13:42:57",
+    "status": "Beklemede",
+    "customerName": "Nazlı  TEKGÖZ ",
+    "phone": "5413443884",
+    "address": "Turunçlu mahallesi Çetin Emeç 1 sokak no 11 defne Hatay ",
+    "city": "Hatay",
+    "district": "Defne",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
