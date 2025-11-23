@@ -10750,5 +10750,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 769,
+    "date": "23.11.2025 13:26:12",
+    "status": "Beklemede",
+    "customerName": "Celaleddin Güven",
+    "phone": "05326743103",
+    "address": "Küçükyoncalı mah 5103 SK no20",
+    "city": "Tekirdağ",
+    "district": "Saray",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
