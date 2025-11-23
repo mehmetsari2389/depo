@@ -10932,5 +10932,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 782,
+    "date": "23.11.2025 15:03:45",
+    "status": "Beklemede",
+    "customerName": "Nuriye  Çöllü ",
+    "phone": "05075547576",
+    "address": "Sancak mahallesi siyahgül sokak 4/K",
+    "city": "Konya ",
+    "district": "Selçuklu ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
