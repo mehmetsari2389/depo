@@ -11058,5 +11058,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 791,
+    "date": "23.11.2025 16:09:29",
+    "status": "Beklemede",
+    "customerName": "Ziya Karapelit",
+    "phone": "05305430509",
+    "address": "Camikebir Mh. Lozan CD. No:3 kat:1",
+    "city": "Aydın",
+    "district": "Germencik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
