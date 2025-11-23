@@ -11828,5 +11828,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 845,
+    "date": "23.11.2025 22:19:38",
+    "status": "Beklemede",
+    "customerName": "Halit  Şahin",
+    "phone": "+905056778185",
+    "address": "Ertuğrul mah. 3002 sok.no:44/8",
+    "city": "İzmir",
+    "district": "Torbalı",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
