@@ -10456,5 +10456,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 746,
+    "date": "23.11.2025 10:39:38",
+    "status": "Beklemede",
+    "customerName": "Halil Tas",
+    "phone": "+905448198731",
+    "address": "Hüsnü Karakaş, 3639. Sk. No:19",
+    "city": "Antalya",
+    "district": "Kepez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
