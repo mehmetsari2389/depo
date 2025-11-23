@@ -11422,5 +11422,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 817,
+    "date": "23.11.2025 19:32:43",
+    "status": "Beklemede",
+    "customerName": "Sedat Tarhan",
+    "phone": "05382614722",
+    "address": "Soğuk su Mh Pamir SK nurkent sitesi nur AP daire 74/8 beykoz istanbul",
+    "city": "İstanbul",
+    "district": "Beykoz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
