@@ -10372,5 +10372,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 742,
+    "date": "23.11.2025 10:00:07",
+    "status": "Beklemede",
+    "customerName": "Ufuk Can ",
+    "phone": "05444542709",
+    "address": "Murefte mahallesi murefte emlak",
+    "city": "Tekirdağ ",
+    "district": "Şarköy ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
