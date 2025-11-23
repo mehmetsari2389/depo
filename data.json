@@ -11450,5 +11450,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 819,
+    "date": "23.11.2025 19:47:08",
+    "status": "Beklemede",
+    "customerName": "Çiğdem Yılmaz",
+    "phone": "05434843163",
+    "address": "Karaburun mahallesi terkos karaburun caddesi no 382 karaburun arnavutköy",
+    "city": "İstanbul ",
+    "district": "Arnavutköy ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
