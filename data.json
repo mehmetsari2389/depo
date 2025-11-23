@@ -10232,5 +10232,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 732,
+    "date": "23.11.2025 08:42:00",
+    "status": "Beklemede",
+    "customerName": "Zekeriya Sancar",
+    "phone": "05347447050",
+    "address": "Bey mahallesi 15/8 ",
+    "city": "Manisa ",
+    "district": "Kula",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
