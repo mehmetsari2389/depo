@@ -10302,5 +10302,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 737,
+    "date": "23.11.2025 09:30:29",
+    "status": "Beklemede",
+    "customerName": "Yavuzhan  Durmuş",
+    "phone": "5434678599",
+    "address": "Yeni mahalle sanayi sitesi sanayi tekel",
+    "city": "Kütahya",
+    "district": "Simav",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
