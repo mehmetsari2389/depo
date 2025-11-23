@@ -10470,5 +10470,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 749,
+    "date": "23.11.2025 10:53:50",
+    "status": "Beklemede",
+    "customerName": "Murat Çimenlidağ",
+    "phone": "+905468522422",
+    "address": "Karşıyaka mahallesi çamlık caddesi no 13 ",
+    "city": "Denizli ",
+    "district": "Buldan ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
