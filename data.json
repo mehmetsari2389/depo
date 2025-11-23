@@ -11100,5 +11100,19 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 794,
+    "date": "23.11.2025 16:35:45",
+    "status": "Beklemede",
+    "customerName": "Metin  Ünal ",
+    "phone": "+905344170977",
+    "address": "İsmet paşa mahallesi 51 sok no 26 d 01 Sultangazi İstanbul ",
+    "city": "İstanbul ",
+    "district": "Sultangazi ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
