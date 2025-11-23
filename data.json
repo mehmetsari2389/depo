@@ -10316,5 +10316,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 738,
+    "date": "23.11.2025 09:31:45",
+    "status": "Beklemede",
+    "customerName": "Abdurrezak  Çiçen ",
+    "phone": "5445285958",
+    "address": "Dunaysır mahallesi no 9\n\n",
+    "city": "Mardin ",
+    "district": "Kızıltepe ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
