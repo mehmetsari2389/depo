@@ -12136,5 +12136,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 867,
+    "date": "24.11.2025 01:50:14",
+    "status": "Beklemede",
+    "ip": "176.54.182.194",
+    "customerName": "Veysel Bağca",
+    "phone": "5411042158",
+    "address": "Karşıyaka mahallesi ömür sokak c6 daire 9 kat 2 zara sivas",
+    "city": "Sivas",
+    "district": "Zara",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
