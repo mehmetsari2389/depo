@@ -10344,5 +10344,19 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 740,
+    "date": "23.11.2025 09:57:36",
+    "status": "Beklemede",
+    "customerName": "Volkan  Demirel ",
+    "phone": "05338153386",
+    "address": "14 Kasım mah Nihat Polat CAD 52a merkez Iğdır ",
+    "city": "Iğdır ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
