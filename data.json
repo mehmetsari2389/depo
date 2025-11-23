@@ -11562,5 +11562,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 827,
+    "date": "23.11.2025 20:24:12",
+    "status": "Beklemede",
+    "customerName": "Halil Karakuyu",
+    "phone": "+905383481127",
+    "address": "Vakıf mahallesi millet cafe",
+    "city": "Afyonkarahisar",
+    "district": "Çay",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
