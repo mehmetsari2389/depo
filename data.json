@@ -11478,5 +11478,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 821,
+    "date": "23.11.2025 19:58:09",
+    "status": "Beklemede",
+    "customerName": "Taylan  Demir ",
+    "phone": "5432039121",
+    "address": "Ahmet Kaya CAD no 102",
+    "city": "İstanbul ",
+    "district": "Avcılar ",
+    "product": "Adidas Haki Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
