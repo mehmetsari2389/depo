@@ -11870,5 +11870,19 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 849,
+    "date": "23.11.2025 22:29:52",
+    "status": "Beklemede",
+    "customerName": "Temel Bakirci",
+    "phone": "05306503642",
+    "address": "Canhanlar mh mantarlar meykiyi no 13",
+    "city": "Samsun",
+    "district": "Terme",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
