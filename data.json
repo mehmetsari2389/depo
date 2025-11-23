@@ -10820,5 +10820,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 774,
+    "date": "23.11.2025 13:39:43",
+    "status": "Beklemede",
+    "customerName": "Osman  KARAASMA ",
+    "phone": "+905320681431",
+    "address": "Canbolu mah Hicazoğlu Kıraathanesi",
+    "city": "BURSA",
+    "district": "KARACABEY ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
