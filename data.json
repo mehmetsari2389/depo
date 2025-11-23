@@ -11394,5 +11394,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 814,
+    "date": "23.11.2025 19:06:25",
+    "status": "Beklemede",
+    "customerName": "metin kuş",
+    "phone": "05353565504",
+    "address": "prs  büled tarcan cd cad gülpalas ap no 28 gülpalas ap  edalı terzi",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
