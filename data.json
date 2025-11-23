@@ -11506,5 +11506,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 822,
+    "date": "23.11.2025 20:03:39",
+    "status": "Beklemede",
+    "customerName": "Ömer Kilis",
+    "phone": "+905452174985",
+    "address": "Sarıgül mah \nŞırnak cadde \nNo.48",
+    "city": "Siirt",
+    "district": "Eruh",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
