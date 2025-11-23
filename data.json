@@ -10708,5 +10708,19 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 766,
+    "date": "23.11.2025 13:06:43",
+    "status": "Beklemede",
+    "customerName": "Ahmet  Göktaş",
+    "phone": "05300690460",
+    "address": "Bahçeşehir 2 ci kısım mah tüm çevre kent sitesi d blok daire 1 no 59",
+    "city": "İstanbul",
+    "district": "Başakşehir",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
