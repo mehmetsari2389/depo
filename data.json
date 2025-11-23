@@ -10526,5 +10526,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 752,
+    "date": "23.11.2025 11:14:13",
+    "status": "Beklemede",
+    "customerName": "Semih Aydın",
+    "phone": "+905432307128",
+    "address": "Sapak mevki küçük sanayi sitesi Aydın LPG ",
+    "city": "Düzce",
+    "district": "Akçcakoca ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
