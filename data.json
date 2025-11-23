@@ -10554,5 +10554,19 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 755,
+    "date": "23.11.2025 11:23:22",
+    "status": "Beklemede",
+    "customerName": "Mustafa  Güven ",
+    "phone": "5416051973",
+    "address": "Alaybey mah 810 sokak no 8/3 şehzadeler Manisa",
+    "city": "Manisa",
+    "district": "Şehzadeler ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
