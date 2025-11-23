@@ -11128,5 +11128,19 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 796,
+    "date": "23.11.2025 16:42:38",
+    "status": "Beklemede",
+    "customerName": "Mücahit  Yengin",
+    "phone": "+905423116749",
+    "address": "Muş Bulanık okçular köyü ev no o3 ",
+    "city": "Muş",
+    "district": "Bulanık ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
