@@ -10330,5 +10330,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 739,
+    "date": "23.11.2025 09:41:48",
+    "status": "Beklemede",
+    "customerName": "Barış Akbaba",
+    "phone": "5437235198",
+    "address": "Alanyurt esentepe mahallesi villa kent sitesi a blok kat bir ",
+    "city": "Bursa",
+    "district": "İnegöl",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
