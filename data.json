@@ -10806,5 +10806,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 772,
+    "date": "23.11.2025 13:38:36",
+    "status": "Beklemede",
+    "customerName": "Huseyln Kiliç",
+    "phone": "+905339682519",
+    "address": "Elazığ merkez muratcik köyü no39 Elazığ ",
+    "city": "Elazığ ",
+    "district": "Merkez ",
+    "product": "North Face Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
