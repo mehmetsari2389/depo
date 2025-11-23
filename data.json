@@ -11956,5 +11956,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 855,
+    "date": "23.11.2025 23:09:28",
+    "status": "Beklemede",
+    "ip": "85.107.15.155",
+    "customerName": "Feyzullah Barkın",
+    "phone": "5070341504",
+    "address": "Cudi mahallesi 63 cadde Ökmen market karşısı no 49",
+    "city": "Şırnak",
+    "district": "Silopi",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
