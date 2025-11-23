@@ -11800,5 +11800,19 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 844,
+    "date": "23.11.2025 22:14:38",
+    "status": "Beklemede",
+    "customerName": "Ugur Gul",
+    "phone": "+905524311314",
+    "address": "PTT'ye",
+    "city": "Erzurum",
+    "district": "Horasan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
