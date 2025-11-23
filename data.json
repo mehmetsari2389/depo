@@ -11730,5 +11730,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 839,
+    "date": "23.11.2025 21:32:51",
+    "status": "Beklemede",
+    "customerName": "Mükrüm Bağcı ",
+    "phone": "+905323006980",
+    "address": "Yeşilyurt mah sokak 1279 no24",
+    "city": "Adıyaman ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
