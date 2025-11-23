@@ -10414,5 +10414,19 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 744,
+    "date": "23.11.2025 10:20:44",
+    "status": "Beklemede",
+    "customerName": "Ramazan Altın",
+    "phone": "0(543) 694 96 04",
+    "address": "Muğla Seydikemer belen mahallesi 2029sokak no 35",
+    "city": "Muğla",
+    "district": "Seydikemer",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
