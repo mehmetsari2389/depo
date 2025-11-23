@@ -12046,5 +12046,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 861,
+    "date": "24.11.2025 00:13:11",
+    "status": "Beklemede",
+    "ip": "46.197.70.39",
+    "customerName": "Murat  Evrensel ",
+    "phone": "5304481350",
+    "address": "Merkez mah. Nurel sok Süer Apartmanı kat 2 daire 9 kapı no 11\nAvcilar istanbul",
+    "city": "İstanbul",
+    "district": "Avcılar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
