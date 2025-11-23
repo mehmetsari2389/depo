@@ -11268,5 +11268,19 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 806,
+    "date": "23.11.2025 18:04:38",
+    "status": "Beklemede",
+    "customerName": "Güven Özkaymaz",
+    "phone": "5448511268",
+    "address": "Fevzi çakmak mahallesi eski bolu caddesi düzce il emniyet müdürlüğü",
+    "city": "Düzce",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
