@@ -14221,5 +14221,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1006,
+    "date": "24.11.2025 22:15:38",
+    "status": "Beklemede",
+    "ip": "5.47.16.213",
+    "customerName": "Zührap  Doğu ",
+    "phone": "05534683503",
+    "address": "75.yıl Cumhuriyet mahallesi 45 sokak no 7 MENEMEN İZMİR ",
+    "city": "İzmir",
+    "district": "Menemen ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
