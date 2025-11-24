@@ -13591,5 +13591,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 964,
+    "date": "24.11.2025 18:22:18",
+    "status": "Beklemede",
+    "ip": "178.246.228.7",
+    "customerName": "Mehmet Balcı",
+    "phone": "5413307474",
+    "address": "Çakraz ova köyü\nMerkez mah. No:78\n",
+    "city": "Bartın",
+    "district": "Amasra",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
