@@ -13546,5 +13546,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 961,
+    "date": "24.11.2025 18:11:35",
+    "status": "Beklemede",
+    "ip": "176.89.138.1",
+    "customerName": "Fatih  Sapil ",
+    "phone": "+905527411209",
+    "address": "Hacı Halil mah Körfez CAD no 2 ",
+    "city": "Kocaeli",
+    "district": "Gebze ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
