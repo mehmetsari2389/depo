@@ -13501,5 +13501,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 958,
+    "date": "24.11.2025 17:49:06",
+    "status": "Beklemede",
+    "ip": "176.216.235.168",
+    "customerName": "Ramazan Uzun",
+    "phone": "5496184095",
+    "address": "Marmara, Ayasofya Cd., 34520 Beylikdüzü/İstanbul\nMigros market ",
+    "city": "İstanbul",
+    "district": "Beylikdüzü",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
