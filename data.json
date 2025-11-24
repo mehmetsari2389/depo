@@ -13666,5 +13666,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "24.11.2025 18:41:57",
+    "status": "Beklemede",
+    "ip": "176.238.129.24",
+    "customerName": "Osman  Çakır",
+    "phone": "05310340169",
+    "address": "Hacısiyam mah. İnönü cad. No 87 D. 9\n",
+    "city": "GİRESUN",
+    "district": "MERKEZ",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
