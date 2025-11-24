@@ -13951,5 +13951,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 988,
+    "date": "24.11.2025 20:10:40",
+    "status": "Beklemede",
+    "ip": "151.135.214.230",
+    "customerName": "Mustafa  Kürk",
+    "phone": "05053573586",
+    "address": "Efeler mahallesi 315sokak no 12 kat 2 Şirinyer izmir",
+    "city": "İzmir",
+    "district": "Buca",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
