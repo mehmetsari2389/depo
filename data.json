@@ -12616,5 +12616,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 899,
+    "date": "24.11.2025 11:42:58",
+    "status": "Beklemede",
+    "ip": "5.176.147.228",
+    "customerName": "zekeriya biçer",
+    "phone": "+905433390356",
+    "address": "Camiikebir mahallesi ahcılar sokak no 12",
+    "city": "Tokat",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
