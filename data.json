@@ -13066,5 +13066,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 929,
+    "date": "24.11.2025 14:17:07",
+    "status": "Beklemede",
+    "ip": "78.168.194.147",
+    "customerName": "Anıl Cesur",
+    "phone": "+905426029007",
+    "address": "Bartın Merkez Kırtepe Mahallesi Agah Bey İş merkezi Kat 3 No 304 Bartın Merkez",
+    "city": "Bartın",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
