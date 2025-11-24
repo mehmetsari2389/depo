@@ -13816,5 +13816,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 978,
+    "date": "24.11.2025 19:19:01",
+    "status": "Beklemede",
+    "ip": "31.145.247.193",
+    "customerName": "Musa  Önder ",
+    "phone": "+905551764871",
+    "address": "Karaçalı mahallesi Mehmet Akif ersoy caddesi no 71A/A Dalaman Muğla ",
+    "city": "Muğla",
+    "district": "Dalaman ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
