@@ -12226,5 +12226,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 873,
+    "date": "24.11.2025 05:11:17",
+    "status": "Beklemede",
+    "ip": "78.173.189.249",
+    "customerName": "Cem Akkaya",
+    "phone": "05067669005",
+    "address": "Şehitlik mahallesi kepir sokak miraç alt 13/4 ",
+    "city": "Ankara",
+    "district": "Polatlı",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
