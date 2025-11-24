@@ -14536,5 +14536,20 @@
     "size": "3XL",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "25.11.2025 01:26:31",
+    "status": "Beklemede",
+    "ip": "176.232.225.194",
+    "customerName": "Özcan  Güngör ",
+    "phone": "5395596777",
+    "address": "Yalova Altınova Bursa CD no 31 Sait çiğköfte özcan",
+    "city": "Yalova ",
+    "district": "Altınova ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
