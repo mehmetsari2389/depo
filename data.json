@@ -12721,5 +12721,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 906,
+    "date": "24.11.2025 12:07:39",
+    "status": "Beklemede",
+    "ip": "37.154.249.88",
+    "customerName": "Ferit Okymuş",
+    "phone": "+905010775239",
+    "address": "Kırklareli lüleburgaz durak mah taşkın sokak no 14 daire 1",
+    "city": "Kırklareli ",
+    "district": "Lüleburgaz",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
