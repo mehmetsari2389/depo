@@ -13936,5 +13936,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 986,
+    "date": "24.11.2025 20:04:31",
+    "status": "Beklemede",
+    "ip": "37.154.227.81",
+    "customerName": "İbrahim İbiş",
+    "phone": "05356150764",
+    "address": "Yavuz mahallesi Gülbahar sok no 3 Süleymanpaşa Tekirdağ ",
+    "city": "Tekirdağ ",
+    "district": "Süleymanpaşa ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
