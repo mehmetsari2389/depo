@@ -12166,5 +12166,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 869,
+    "date": "24.11.2025 04:46:53",
+    "status": "Beklemede",
+    "ip": "94.235.248.189",
+    "customerName": "Nurullah  Çoğala",
+    "phone": "5050065101",
+    "address": "Akkapı mh ak 12402\nNo 47 kat 4",
+    "city": "Adana",
+    "district": "Seyhan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
