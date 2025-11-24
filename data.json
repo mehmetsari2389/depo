@@ -13711,5 +13711,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "24.11.2025 18:44:43",
+    "status": "Beklemede",
+    "ip": "176.216.92.109",
+    "customerName": "Emrah  Erdoğan ",
+    "phone": "+905312312177",
+    "address": "Belediye meydanı merkez taksi durağı vize ",
+    "city": "Kırklareli ",
+    "district": "Vize ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
