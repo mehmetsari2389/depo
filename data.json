@@ -14011,5 +14011,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 992,
+    "date": "24.11.2025 20:49:47",
+    "status": "Beklemede",
+    "ip": "188.57.144.71",
+    "customerName": "Erdal  Fidan ",
+    "phone": "+905443642147",
+    "address": "Cemalpaşa mah  633005 sk",
+    "city": "Adana ",
+    "district": "Seyhan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
