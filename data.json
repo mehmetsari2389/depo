@@ -14236,5 +14236,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1007,
+    "date": "24.11.2025 22:16:28",
+    "status": "Beklemede",
+    "ip": "78.176.101.216",
+    "customerName": "Tevfik  Yılmaz ",
+    "phone": "5447749850",
+    "address": "Hz.fakirullah mahallesi güres caddesi adanalı lokanta üstü akınay 8 apartmanı kat 1 daire 4 siirt",
+    "city": "Siirt ",
+    "district": "Merkez ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
