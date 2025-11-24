@@ -13201,5 +13201,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 938,
+    "date": "24.11.2025 15:34:19",
+    "status": "Beklemede",
+    "ip": "176.237.253.89",
+    "customerName": "Yaşar  Sağın",
+    "phone": "5372500794",
+    "address": "Kayacık Mah. Kuşlar sokak no:32 Seydikemer Muğla",
+    "city": "Muğla",
+    "district": "Seydikemer",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
