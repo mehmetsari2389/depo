@@ -13906,5 +13906,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 985,
+    "date": "24.11.2025 20:03:37",
+    "status": "Beklemede",
+    "ip": "95.9.28.140",
+    "customerName": "Samet Alan",
+    "phone": "+905315992128",
+    "address": "Orduzu gelinciktepe Toki konutları 1.etap E 15 daire 13",
+    "city": "Malatya",
+    "district": "Battalgazi",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
