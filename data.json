@@ -12946,5 +12946,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 920,
+    "date": "24.11.2025 13:16:20",
+    "status": "Beklemede",
+    "ip": "176.216.97.130",
+    "customerName": "Çağrı Yılmaz",
+    "phone": "+905422698408",
+    "address": "Alparslan Türkeş bulvarı köşk apt b blok 5/10 Palandöken Erzurum ",
+    "city": "Erzurum ",
+    "district": "Palandöken ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
