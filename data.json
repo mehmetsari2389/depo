@@ -12961,5 +12961,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 922,
+    "date": "24.11.2025 13:22:23",
+    "status": "Beklemede",
+    "ip": "46.154.8.101",
+    "customerName": "İsmail  Gündal",
+    "phone": "5517446564",
+    "address": "Van ipekyolu \nVali Mithat bey mah \nDere sokak\n Gerçek konakları \nKat 3 no 14",
+    "city": "Van",
+    "district": "İpekyolu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
