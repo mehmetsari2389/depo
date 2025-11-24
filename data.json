@@ -14401,5 +14401,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1018,
+    "date": "24.11.2025 22:57:04",
+    "status": "Beklemede",
+    "ip": "94.55.153.36",
+    "customerName": "Mehmet  Çiloğlu ",
+    "phone": "5347971332",
+    "address": "İstasyon mahallesi yurtseven sokak non31 /b kapı 9",
+    "city": "Manisa",
+    "district": "Saruhanlı ",
+    "product": "Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
