@@ -12541,5 +12541,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 894,
+    "date": "24.11.2025 10:53:19",
+    "status": "Beklemede",
+    "ip": "178.243.53.226",
+    "customerName": "Türkeş Sınaç",
+    "phone": "05439788935",
+    "address": "Osman Gazi mahallesi 2025 sokak Bilge Kağan orta okulu Sarıçam ",
+    "city": "Adana",
+    "district": "Sarıçam ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
