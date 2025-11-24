@@ -14431,5 +14431,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1020,
+    "date": "24.11.2025 23:32:10",
+    "status": "Beklemede",
+    "ip": "78.167.49.86",
+    "customerName": "Samet Toplu",
+    "phone": "05394126070",
+    "address": "Kütahya Tavşanlı Ulucami mahallesi Yalvaç sokak saat kulesi karşısı bim",
+    "city": "Kütahya ",
+    "district": "Tavşanlı ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
