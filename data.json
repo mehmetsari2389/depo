@@ -12481,5 +12481,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 890,
+    "date": "24.11.2025 10:37:20",
+    "status": "Beklemede",
+    "ip": "176.89.170.106",
+    "customerName": "Mehmet Demir",
+    "phone": "5331200041",
+    "address": "Aganlar tersanesi kumbahçe mah  içmeler ",
+    "city": "Muğla",
+    "district": "Bodrum",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
