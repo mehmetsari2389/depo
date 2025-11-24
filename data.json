@@ -14371,5 +14371,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1016,
+    "date": "24.11.2025 22:51:39",
+    "status": "Beklemede",
+    "ip": "176.237.246.18",
+    "customerName": "Vedat  Demir ",
+    "phone": "5392655144",
+    "address": "Erzurum hınıs ",
+    "city": "Erzurum ",
+    "district": "Hınıs ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
