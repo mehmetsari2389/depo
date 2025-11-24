@@ -12391,5 +12391,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 884,
+    "date": "24.11.2025 10:10:08",
+    "status": "Beklemede",
+    "ip": "94.121.226.21",
+    "customerName": "LEVENT ÇOBANKUYU",
+    "phone": "05425120738",
+    "address": "HAN MAH.ÇAY CAD.ZORBEY APT.SMMMM BÜROSU NO:3B",
+    "city": "BALIKESİR",
+    "district": "SUSURLUK",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
