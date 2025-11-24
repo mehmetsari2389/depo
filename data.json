@@ -13741,5 +13741,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 974,
+    "date": "24.11.2025 19:05:40",
+    "status": "Beklemede",
+    "ip": "78.190.17.229",
+    "customerName": "Ramazan Ozdemir",
+    "phone": "05415132750",
+    "address": "Zonguldak Çaycuma ",
+    "city": "Zonguldak ",
+    "district": "Çaycuma ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "5",
+    "cargoPayment": "aras-nakit"
   }
 ]
