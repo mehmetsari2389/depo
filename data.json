@@ -13246,5 +13246,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 939,
+    "date": "24.11.2025 15:44:28",
+    "status": "Beklemede",
+    "ip": "176.240.213.232",
+    "customerName": "Çalap Kirlioğlu",
+    "phone": "+905510876535",
+    "address": "Fabrikalar mahallesi 3044 sokak kapı no 5 daire 1 Kepez ",
+    "city": "Antalya",
+    "district": "Kepez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
