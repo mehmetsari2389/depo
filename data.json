@@ -13981,5 +13981,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 990,
+    "date": "24.11.2025 20:28:13",
+    "status": "Beklemede",
+    "ip": "176.33.67.38",
+    "customerName": "Halis  Akkurt",
+    "phone": "+905338134074",
+    "address": "Yavuz sultan Selim mah dilek sok no 14 körfez kocaeli ",
+    "city": "Kocaeli",
+    "district": "Korfez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
