@@ -12376,5 +12376,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 882,
+    "date": "24.11.2025 09:51:42",
+    "status": "Beklemede",
+    "ip": "176.238.24.104",
+    "customerName": "Abdullah Turkoğlu",
+    "phone": "05350544640",
+    "address": "Namık Kemal Mah 4.Dal sok No.15/2 BURSA OSMANGAZİ",
+    "city": "Osmangazi",
+    "district": "Elmazbahçe",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
