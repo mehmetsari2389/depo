@@ -12736,5 +12736,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 907,
+    "date": "24.11.2025 12:08:26",
+    "status": "Beklemede",
+    "ip": "176.227.83.156",
+    "customerName": "Ali  Çoban ",
+    "phone": "+905331278701",
+    "address": "Karşıyaka",
+    "city": "Çanakkale",
+    "district": "Çan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
