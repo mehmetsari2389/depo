@@ -12271,5 +12271,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 876,
+    "date": "24.11.2025 08:21:12",
+    "status": "Beklemede",
+    "ip": "92.44.184.64",
+    "customerName": "Esra Dalgıç",
+    "phone": "090534396202",
+    "address": "Bentbaşı mahallesi şehit hava pilot Bahadır Demirel sokak no 2/1 ozar apt. Bandırma Balıkesir ",
+    "city": "Balıkesir ",
+    "district": "Bandırma ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
