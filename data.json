@@ -14326,5 +14326,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1013,
+    "date": "24.11.2025 22:40:34",
+    "status": "Beklemede",
+    "ip": "78.171.24.218",
+    "customerName": "Yücel  Aydıl",
+    "phone": "05462661644",
+    "address": "Bahçelievler mahallesi Menderes bulvarı 147/C Seç market Hasanoğlan ",
+    "city": "Ankara",
+    "district": "Elmadağ ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
