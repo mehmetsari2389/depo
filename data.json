@@ -12901,5 +12901,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 917,
+    "date": "24.11.2025 12:55:31",
+    "status": "Beklemede",
+    "ip": "95.13.125.194",
+    "customerName": "Mustafa Gürkan",
+    "phone": "+905525594989",
+    "address": "Yusufca kasabası gumbelleni sokak no 25",
+    "city": "Burdur ",
+    "district": "Gölhisar ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
