@@ -12526,5 +12526,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 893,
+    "date": "24.11.2025 10:45:50",
+    "status": "Beklemede",
+    "ip": "178.241.183.160",
+    "customerName": "Veli  Biçer",
+    "phone": "+5366475183",
+    "address": "Yeşil oba mh 46076 sk no 6 dy1 seyhan adana",
+    "city": "Adana",
+    "district": "Seyhan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
