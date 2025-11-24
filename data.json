@@ -13486,5 +13486,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 956,
+    "date": "24.11.2025 17:37:33",
+    "status": "Beklemede",
+    "ip": "46.197.180.170",
+    "customerName": "Ayaz yağız   Özyıldırım",
+    "phone": "5317384002",
+    "address": "Ata Caddesi no 6 kat 3 daire 3 onur Mahallesi",
+    "city": "İzmir",
+    "district": "Balçovs",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
