@@ -14311,5 +14311,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1012,
+    "date": "24.11.2025 22:37:41",
+    "status": "Beklemede",
+    "ip": "31.155.103.2",
+    "customerName": "mehmet tosun",
+    "phone": "05444152809",
+    "address": "turan mahallesi buldanlıoğlu caddesi no:15",
+    "city": "Denizli",
+    "district": "Sarayköy",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
