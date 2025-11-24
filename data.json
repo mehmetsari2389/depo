@@ -14611,5 +14611,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1032,
+    "date": "25.11.2025 02:21:09",
+    "status": "Beklemede",
+    "ip": "188.125.171.134",
+    "customerName": "Aliihsan  Görgülü",
+    "phone": "+905337795769",
+    "address": "Obagöl mevki mesut otel cd telli ap 46/Akat 2 no 8 antalya alanya",
+    "city": "A taly",
+    "district": "Alanya",
+    "product": "North Face Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
