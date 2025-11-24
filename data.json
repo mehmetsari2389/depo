@@ -14281,5 +14281,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1010,
+    "date": "24.11.2025 22:31:34",
+    "status": "Beklemede",
+    "ip": "78.175.234.220",
+    "customerName": "Mehmet Kapusuz",
+    "phone": "+905452257512",
+    "address": "Seyhsamil mahallesi 137.sokak 17365 ada alorko blokları no 21/5 Etimesgut Eryaman Ankara ",
+    "city": "Ankara ",
+    "district": "Etimesgut ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
