@@ -13996,5 +13996,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 991,
+    "date": "24.11.2025 20:38:13",
+    "status": "Beklemede",
+    "ip": "176.33.242.158",
+    "customerName": "MURAT  ERİŞ",
+    "phone": "05536113061",
+    "address": "DİRİLİŞ MAH GÜLDERE CADR7/B BLOK KAT:3 DAİRE :14 MAMAK /ANKARA",
+    "city": "ANKARA ",
+    "district": "MAMAK",
+    "product": "Nike Kırmızı Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
