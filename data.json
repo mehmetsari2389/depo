@@ -14041,5 +14041,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 994,
+    "date": "24.11.2025 21:06:20",
+    "status": "Beklemede",
+    "ip": "151.135.87.106",
+    "customerName": "Muhammed Kaçan ",
+    "phone": "5465359910",
+    "address": "Yenibosna merkez mahallesi kuyumcukent ladik sokak 5kat 5 sokak no 24",
+    "city": "İstanbul",
+    "district": "Bahçelievler ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
