@@ -13411,5 +13411,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 951,
+    "date": "24.11.2025 16:49:19",
+    "status": "Beklemede",
+    "ip": "77.67.155.188",
+    "customerName": "Durancan Çetin ",
+    "phone": "+905395025591",
+    "address": "Muğla Köyceğiz Beyobası mah. İtfaiye binası",
+    "city": "Muğla",
+    "district": "Köyceğiz ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
