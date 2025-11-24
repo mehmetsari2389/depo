@@ -12556,5 +12556,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 895,
+    "date": "24.11.2025 11:02:39",
+    "status": "Beklemede",
+    "ip": "176.33.67.252",
+    "customerName": "Hüseyin  Başoğlu ",
+    "phone": "+905459127553",
+    "address": "Yenişehir mahallesi Millet caddesi Hakiş 1 Sitesi B Blok D: 39",
+    "city": "İstanbul ",
+    "district": "Pendik ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
