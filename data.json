@@ -14206,5 +14206,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1005,
+    "date": "24.11.2025 22:15:05",
+    "status": "Beklemede",
+    "ip": "176.234.27.26",
+    "customerName": "Hamit Sanlı",
+    "phone": "5335057177",
+    "address": "Yaşar Doğu cad.no 101 sahilkent finike antalya ",
+    "city": "Antalya ",
+    "district": "Finike ",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
