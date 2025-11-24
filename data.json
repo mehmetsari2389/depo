@@ -13381,5 +13381,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 950,
+    "date": "24.11.2025 16:15:35",
+    "status": "Beklemede",
+    "ip": "176.54.228.123",
+    "customerName": "Devlet sezer  Güçlü",
+    "phone": "05446253113",
+    "address": "Manyas ptt",
+    "city": "Balıkesir",
+    "district": "Manyas",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
