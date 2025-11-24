@@ -12256,5 +12256,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 875,
+    "date": "24.11.2025 08:10:59",
+    "status": "Beklemede",
+    "ip": "188.58.127.88",
+    "customerName": "Mehmet salih Borne",
+    "phone": "(053) 121 68 42",
+    "address": "Eyüp Sultan mahallesi gümüş sokak no 15 daire 3 Sancaktepe İstanbul ",
+    "city": "İstanbul ",
+    "district": "Sancaktepe ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
