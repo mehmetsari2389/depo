@@ -14446,5 +14446,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1021,
+    "date": "25.11.2025 00:32:14",
+    "status": "Beklemede",
+    "ip": "176.54.155.11",
+    "customerName": "Mustafa Tetik",
+    "phone": "5415732573",
+    "address": "Hamidiye mahallesi no1 karaman belediyesi itfaiye müdürlüğü",
+    "city": "Karaman",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
