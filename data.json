@@ -13831,5 +13831,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 980,
+    "date": "24.11.2025 19:29:25",
+    "status": "Beklemede",
+    "ip": "81.215.137.244",
+    "customerName": "Alpaslan  Kölemen ",
+    "phone": "05445907036",
+    "address": "Sandallar mh 1sok no 40bolu merkez ",
+    "city": "Bolu",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
