@@ -14146,5 +14146,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1001,
+    "date": "24.11.2025 21:59:04",
+    "status": "Beklemede",
+    "ip": "5.47.35.208",
+    "customerName": "Ersan erkan Kurt",
+    "phone": "05394935061",
+    "address": "Mehmet Akif Ersoy Mahallesi 4 sokak no 9",
+    "city": "Adana",
+    "district": "Sarıçam",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
