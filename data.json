@@ -14461,5 +14461,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1022,
+    "date": "25.11.2025 00:49:52",
+    "status": "Beklemede",
+    "ip": "5.25.165.115",
+    "customerName": "Ferit  Tanhan ",
+    "phone": "+905050763839",
+    "address": "9761 sokak no 11 Ali Fuat erden mahallesi Karabağlar İzmir ",
+    "city": "İzmir ",
+    "district": "Karabağlar ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
