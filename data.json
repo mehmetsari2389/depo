@@ -14026,5 +14026,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 993,
+    "date": "24.11.2025 21:05:28",
+    "status": "Beklemede",
+    "ip": "176.220.139.238",
+    "customerName": "Ömür Tokdemir",
+    "phone": "+05377345306",
+    "address": "Küçük çiğli mahallesi Anadolu caddesi no 1030 daire 1 çiğli İzmir ",
+    "city": "İzmir ",
+    "district": "Çiğli ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
