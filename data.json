@@ -12976,5 +12976,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 923,
+    "date": "24.11.2025 14:03:44",
+    "status": "Beklemede",
+    "ip": "178.240.169.85",
+    "customerName": "Emin Filizoğlu ",
+    "phone": "+905426757528",
+    "address": "Cumhuriyet mahallesi hürriyet caddesi no 42-2 b blok daire 5\nSaruhanlı/ Manisa ",
+    "city": "Manisa ",
+    "district": "Saruhanlı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
