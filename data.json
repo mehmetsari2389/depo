@@ -12421,5 +12421,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 886,
+    "date": "24.11.2025 10:16:56",
+    "status": "Beklemede",
+    "ip": "46.106.73.1",
+    "customerName": "Emrah  Erdoğan ",
+    "phone": "5312312177",
+    "address": "Belediye meydanı merkez taksi durağı ",
+    "city": "Kırklareli ",
+    "district": "Vize ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
