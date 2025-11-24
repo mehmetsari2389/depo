@@ -12886,5 +12886,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 917,
+    "date": "24.11.2025 12:55:15",
+    "status": "Beklemede",
+    "ip": "78.172.222.168",
+    "customerName": "Aydın  Yeni ",
+    "phone": "+5324208059",
+    "address": "Kavaklı mahallesi Orhangazi caddesi asil Sokak no 1 a blok daire 16 ",
+    "city": "İstanbul ",
+    "district": "Beylikdüzü ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
