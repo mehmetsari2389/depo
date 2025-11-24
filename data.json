@@ -14071,5 +14071,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 996,
+    "date": "24.11.2025 21:25:58",
+    "status": "Beklemede",
+    "ip": "78.174.102.159",
+    "customerName": "Oktay  Erdin",
+    "phone": "+905324607119",
+    "address": "Fatih Sultan mah tüfekci sok no 19 kat",
+    "city": "Kocaeli ",
+    "district": "Derince",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
