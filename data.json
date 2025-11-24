@@ -14056,5 +14056,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 995,
+    "date": "24.11.2025 21:16:28",
+    "status": "Beklemede",
+    "ip": "176.33.242.158",
+    "customerName": "MURAT ERİŞ ",
+    "phone": "05536113061",
+    "address": "DİRİLİŞ MAH.GÜLDERE CAD R7/B BLOK KAT:3 DAİRE :14 MAMAK /ANKARA ",
+    "city": "ANKARA",
+    "district": "MAMAK",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
