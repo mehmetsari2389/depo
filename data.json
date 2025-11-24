@@ -13561,5 +13561,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 962,
+    "date": "24.11.2025 18:12:30",
+    "status": "Beklemede",
+    "ip": "94.54.17.183",
+    "customerName": "Murat  Zeybek",
+    "phone": "+905309313695",
+    "address": "Ertuğrul Gazi mahallesi sergenler sokak 19 7 iccebeci Ankara ",
+    "city": "Ankara ",
+    "district": "Çankaya ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
