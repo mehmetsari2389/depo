@@ -14491,5 +14491,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1024,
+    "date": "25.11.2025 00:56:11",
+    "status": "Beklemede",
+    "ip": "95.10.24.58",
+    "customerName": "Mehmet Yüksel",
+    "phone": "+905325067427",
+    "address": "Yenigün mahallesi iznik caddesi no 21",
+    "city": "Bursa",
+    "district": "Yenişehir",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
