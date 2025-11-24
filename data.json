@@ -13456,5 +13456,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 955,
+    "date": "24.11.2025 17:26:45",
+    "status": "Beklemede",
+    "ip": "94.121.248.248",
+    "customerName": "Veysel  Çelikkaya ",
+    "phone": "05458802700",
+    "address": "Cumhuriyet mah 1319 SK no2 daire 1 Ergene Tekirdağ ",
+    "city": "Tekirdağ ",
+    "district": "Ergene ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
