@@ -12406,5 +12406,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 885,
+    "date": "24.11.2025 10:14:09",
+    "status": "Beklemede",
+    "ip": "141.196.19.66",
+    "customerName": "Umut  Özbek ",
+    "phone": "5372132493",
+    "address": "Rize merkez ",
+    "city": "Rize",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
