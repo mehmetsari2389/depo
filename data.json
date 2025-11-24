@@ -14191,5 +14191,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1004,
+    "date": "24.11.2025 22:07:40",
+    "status": "Beklemede",
+    "ip": "85.107.241.21",
+    "customerName": "Harun Berkan",
+    "phone": "05444748670",
+    "address": "Aras kargo Gönen ",
+    "city": "Balıkesir ",
+    "district": "Gönen ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
