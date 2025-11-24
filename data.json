@@ -13621,5 +13621,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "24.11.2025 18:33:47",
+    "status": "Beklemede",
+    "ip": "176.216.122.130",
+    "customerName": "Yasin Çam",
+    "phone": "545 946 43 76",
+    "address": "\nPTT şubesinden alacağım olur mu sizin için",
+    "city": "Balıkesir ",
+    "district": "Savaştepe",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
