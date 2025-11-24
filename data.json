@@ -12496,5 +12496,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 891,
+    "date": "24.11.2025 10:37:49",
+    "status": "Beklemede",
+    "ip": "31.142.55.119",
+    "customerName": "Erkan Sarıoğlu ",
+    "phone": "05342898018",
+    "address": "785 sokak babataşı Mahallesi Altur Sitesi Menekşe apartmanı 116/D",
+    "city": "Muğla ",
+    "district": "Fethiye ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
