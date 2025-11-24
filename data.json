@@ -12151,5 +12151,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 868,
+    "date": "24.11.2025 03:03:06",
+    "status": "Beklemede",
+    "ip": "78.191.61.235",
+    "customerName": "İdris Yeşiloğlu",
+    "phone": "5414867929",
+    "address": "Balmumcu deresi Ece sokak no 1 Gayrettepe İstanbul ",
+    "city": "İstanbul",
+    "district": "Beşiktaş ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
