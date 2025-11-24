@@ -13321,5 +13321,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 945,
+    "date": "24.11.2025 15:57:45",
+    "status": "Beklemede",
+    "ip": "178.240.227.240",
+    "customerName": "Adem  Kaya",
+    "phone": "05365504104",
+    "address": "Cayirova",
+    "city": "Kocaeli",
+    "district": "Gebze",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
