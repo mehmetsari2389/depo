@@ -12331,5 +12331,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 880,
+    "date": "24.11.2025 09:47:37",
+    "status": "Beklemede",
+    "ip": "88.232.175.224",
+    "customerName": "İbrahim  Gök ",
+    "phone": "5389443075",
+    "address": "Karatepe Mah 2902 \nSk No.18 konyaaltı ",
+    "city": "Konyaaltı ",
+    "district": "Antalya ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
