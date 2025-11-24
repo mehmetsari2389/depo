@@ -13636,5 +13636,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "24.11.2025 18:35:25",
+    "status": "Beklemede",
+    "ip": "78.190.50.244",
+    "customerName": "Hayati Özkan",
+    "phone": "05306573452",
+    "address": "Aşağı mah no 8 d 2",
+    "city": "Ordu",
+    "district": "Altın ordu",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
