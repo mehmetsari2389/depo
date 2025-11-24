@@ -13861,5 +13861,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 982,
+    "date": "24.11.2025 19:31:09",
+    "status": "Beklemede",
+    "ip": "176.33.150.180",
+    "customerName": "Nazım Yetimova",
+    "phone": "+905369837973",
+    "address": "Hobyar mahallesi hanımeli sokak Gürün han kat no 331",
+    "city": "İstanbul",
+    "district": "Eminönü fatih",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
