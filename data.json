@@ -14566,5 +14566,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "25.11.2025 02:01:45",
+    "status": "Beklemede",
+    "ip": "46.154.105.175",
+    "customerName": "Erkan  Sönmezışık ",
+    "phone": "05344396806",
+    "address": "Merkez mahallesi hikmet Aydoğan sokak no5 ",
+    "city": "Kastamonu ",
+    "district": "Bozkurt ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
