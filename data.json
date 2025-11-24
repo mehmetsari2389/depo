@@ -14161,5 +14161,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1002,
+    "date": "24.11.2025 22:01:33",
+    "status": "Beklemede",
+    "ip": "84.44.85.125",
+    "customerName": "Ercan Cindilli",
+    "phone": "5373261006",
+    "address": "Adem Yavuz, 2348. Sk. No:63",
+    "city": "Kocaeli",
+    "district": "Gebze",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
