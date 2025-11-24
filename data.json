@@ -13186,5 +13186,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 937,
+    "date": "24.11.2025 15:16:52",
+    "status": "Beklemede",
+    "ip": "85.105.166.41",
+    "customerName": "Çağrı Dursun Ejder",
+    "phone": "05332618887",
+    "address": "Gün şu A. Ş. Organize sanayi Bölgesi 1 Kısım Atatürk Bulvarı No 25 Döşemealtı/Antalya",
+    "city": "Antalya",
+    "district": "Döşemealtı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
