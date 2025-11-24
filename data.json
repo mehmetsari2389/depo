@@ -12286,5 +12286,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 877,
+    "date": "24.11.2025 08:26:55",
+    "status": "Beklemede",
+    "ip": "178.247.77.63",
+    "customerName": "mustafa memiş",
+    "phone": "+905455388690",
+    "address": "Mesudiye mahallesi başak sokak no19 kat 1 bursa. İnegöl ",
+    "city": "Bursa ",
+    "district": "İnegöl ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
