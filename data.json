@@ -12841,5 +12841,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 914,
+    "date": "24.11.2025 12:45:18",
+    "status": "Beklemede",
+    "ip": "46.155.43.130",
+    "customerName": "Aydın Demirtaş",
+    "phone": "+905367127057",
+    "address": "Huzur caddesi 1 Oğuzhan sokak no 87 Köşem erkek kuaförü Söğütlüçeşme Sefaköy Küçükçekmece",
+    "city": "İstanbul ",
+    "district": "Küçükçekmece ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
