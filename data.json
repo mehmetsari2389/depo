@@ -14356,5 +14356,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1015,
+    "date": "24.11.2025 22:41:12",
+    "status": "Beklemede",
+    "ip": "176.236.198.237",
+    "customerName": "İdris  Urun",
+    "phone": "5417894093",
+    "address": "Eskişehir Tepebaşı fevziçakmak çıldır sokak  12ye 2  kapı ",
+    "city": "Eskişehir ",
+    "district": "Tepebaşı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
