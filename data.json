@@ -14521,5 +14521,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1026,
+    "date": "25.11.2025 01:10:18",
+    "status": "Beklemede",
+    "ip": "185.171.91.120",
+    "customerName": "Göksel  Ak",
+    "phone": "+905438761849",
+    "address": "Dereli Şaban sokak no 75/a",
+    "city": "İzmir ",
+    "district": "Ödemiş ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
