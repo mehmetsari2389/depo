@@ -14596,5 +14596,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "25.11.2025 02:02:53",
+    "status": "Beklemede",
+    "ip": "46.104.61.181",
+    "customerName": "BARAN YILDIRIM",
+    "phone": "+905325664440",
+    "address": "FULYA MAH. UYGAR SOK. NO: 8/4 \nŞİŞLİ - İSTANBUL ",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
