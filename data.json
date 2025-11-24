@@ -12766,5 +12766,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 909,
+    "date": "24.11.2025 12:32:14",
+    "status": "Beklemede",
+    "ip": "149.140.135.78",
+    "customerName": "İbrahim  Gümüş ",
+    "phone": "5422728960",
+    "address": "TCK bakım parkı arkası Turgut bey yolu üzeri Baykan Moda ",
+    "city": "Kırklareli ",
+    "district": "Lüleburgaz ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
