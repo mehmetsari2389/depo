@@ -12871,5 +12871,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 916,
+    "date": "24.11.2025 12:46:19",
+    "status": "Beklemede",
+    "ip": "176.216.244.156",
+    "customerName": "Cihan Aytaç  Çağlar ",
+    "phone": "+905432478941",
+    "address": "Uskumruköy İstanbul esn inşaat ",
+    "city": "İstanbul ",
+    "district": "Uskumruköy ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
