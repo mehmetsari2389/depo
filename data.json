@@ -14551,5 +14551,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1028,
+    "date": "25.11.2025 01:42:46",
+    "status": "Beklemede",
+    "ip": "77.67.133.107",
+    "customerName": "Yusuf  Başak",
+    "phone": "5416310954",
+    "address": "Havuzbasi köyŭ bayindir izmir",
+    "city": "izmir",
+    "district": "Bayindir",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
