@@ -13366,5 +13366,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 949,
+    "date": "24.11.2025 16:13:59",
+    "status": "Beklemede",
+    "ip": "78.162.44.95",
+    "customerName": "Ali Utku",
+    "phone": "5527510700",
+    "address": "Tosmur mah eski gazipaşa cad murat dondurma alanya ",
+    "city": "Antalya ",
+    "district": "Alanya ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
