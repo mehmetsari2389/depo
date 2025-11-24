@@ -13111,5 +13111,20 @@
     "size": "XL",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 932,
+    "date": "24.11.2025 14:26:16",
+    "status": "Beklemede",
+    "ip": "81.213.84.61",
+    "customerName": "Durmuş Gündüz",
+    "phone": "+905368623139",
+    "address": "Harmancık mahallesi hatıp caddesi no 165",
+    "city": "Konya ",
+    "district": "Meram",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
