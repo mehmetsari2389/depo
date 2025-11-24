@@ -14581,5 +14581,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1030,
+    "date": "25.11.2025 02:02:45",
+    "status": "Beklemede",
+    "ip": "178.246.218.107",
+    "customerName": "Tuğçe  Aydın",
+    "phone": "05338995724",
+    "address": "Kepez mahallesi Mahmud paşa sokak erintaş apartmanı kat.2 daire.4 no.51",
+    "city": "Zonguldak ",
+    "district": "Karadeniz Ereğli",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
