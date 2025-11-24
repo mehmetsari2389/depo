@@ -14101,5 +14101,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 998,
+    "date": "24.11.2025 21:45:14",
+    "status": "Beklemede",
+    "ip": "46.155.8.84",
+    "customerName": "Mustafa Kor",
+    "phone": "+905051022849",
+    "address": "İstiklal mahallesi cemal özdemir sok no 1",
+    "city": "Çanakkale",
+    "district": "Çan",
+    "product": "Kırmızı Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
