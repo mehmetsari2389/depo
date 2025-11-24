@@ -14131,5 +14131,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 999,
+    "date": "24.11.2025 21:50:17",
+    "status": "Beklemede",
+    "ip": "5.177.194.44",
+    "customerName": "Bayram Kısa",
+    "phone": "05412766932",
+    "address": "Aras karga  k Maraş Elbistan ",
+    "city": "Kahraman Maraş ",
+    "district": "Elbistan ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
