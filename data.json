@@ -13051,5 +13051,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 928,
+    "date": "24.11.2025 14:12:26",
+    "status": "Beklemede",
+    "ip": "46.196.70.20",
+    "customerName": "ERSEL  SÖNMEZ ",
+    "phone": "5432514213",
+    "address": "ŞEMSETTİN GUNAYTAY CAD CEMİLE SULTAN APT NO.159 DAİRE.32",
+    "city": "İSTANBUL ",
+    "district": "KADIKÖY ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
