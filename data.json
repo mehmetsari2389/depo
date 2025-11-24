@@ -12436,5 +12436,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 887,
+    "date": "24.11.2025 10:31:15",
+    "status": "Beklemede",
+    "ip": "176.89.170.106",
+    "customerName": "Mehmet Demir",
+    "phone": "+5331205799",
+    "address": "İsmetpasa mah kazım Özalp cad no 3 ",
+    "city": "Muğla",
+    "district": "Milas",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
