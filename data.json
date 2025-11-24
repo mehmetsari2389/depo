@@ -12181,5 +12181,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 870,
+    "date": "24.11.2025 05:07:57",
+    "status": "Beklemede",
+    "ip": "176.220.230.210",
+    "customerName": "Tahsin Saim  Kahrıman ",
+    "phone": "5525593579",
+    "address": "Güvenlik mahallesi 270 sokak no 26 aydın apartmanı kat 2 daire 3 Muratpaşa/Antalya ",
+    "city": "Antalya ",
+    "district": "Muratpaşa ",
+    "product": "North Face Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
