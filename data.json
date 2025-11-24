@@ -12916,5 +12916,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 919,
+    "date": "24.11.2025 13:03:32",
+    "status": "Beklemede",
+    "ip": "176.54.206.173",
+    "customerName": "İbrahim serdar  Yaşar",
+    "phone": "+90 (541) 362 90 03",
+    "address": "Karabörtlen mah.ikizkuyu cad no 336 ula mugla ",
+    "city": "Mugla ",
+    "district": "Ula",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
