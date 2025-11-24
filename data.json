@@ -13876,5 +13876,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 983,
+    "date": "24.11.2025 19:45:17",
+    "status": "Beklemede",
+    "ip": "159.146.1.187",
+    "customerName": "MUSTAFA DEDE",
+    "phone": "05308833459",
+    "address": "Turkutreis Eczanesi Bodrum ",
+    "city": "BODRUM ",
+    "district": "Turgutreis ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
