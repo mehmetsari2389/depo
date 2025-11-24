@@ -14086,5 +14086,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 997,
+    "date": "24.11.2025 21:42:09",
+    "status": "Beklemede",
+    "ip": "24.133.154.164",
+    "customerName": "Birol  Sarıteke ",
+    "phone": "+90 535 249 21 21",
+    "address": "Servergazi mahallesi 311 sokak no 5 kartopu sitesi b blok daire 3 ",
+    "city": "Denizi ",
+    "district": "Merkezefendi ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
