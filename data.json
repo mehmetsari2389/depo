@@ -13576,5 +13576,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 963,
+    "date": "24.11.2025 18:16:08",
+    "status": "Beklemede",
+    "ip": "176.216.6.253",
+    "customerName": "Mehmet Güler",
+    "phone": "+905548189841",
+    "address": "Akpınar mahallesi 202 no 3/daire 3",
+    "city": "Manisa ",
+    "district": "Şahsedeler",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
