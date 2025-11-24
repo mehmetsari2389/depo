@@ -14506,5 +14506,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1024,
+    "date": "25.11.2025 00:56:13",
+    "status": "Beklemede",
+    "ip": "37.154.119.189",
+    "customerName": "Alpaslan  Köse",
+    "phone": "5524470946",
+    "address": "Beycegiz mahallesi 3007 sok. no. 4",
+    "city": "Kahramanmaraş ",
+    "district": "Afşin ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
