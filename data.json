@@ -13156,5 +13156,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 934,
+    "date": "24.11.2025 14:45:40",
+    "status": "Beklemede",
+    "ip": "88.238.37.59",
+    "customerName": "Ferhat Yıldırım",
+    "phone": "+5374380865",
+    "address": "Kanarya mahallesi Zümrüt Anka Sokak No:40 D:5",
+    "city": "İstanbul",
+    "district": "Küçükçekmece",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
