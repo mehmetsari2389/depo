@@ -13726,5 +13726,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "24.11.2025 18:44:44",
+    "status": "Beklemede",
+    "ip": "188.58.33.119",
+    "customerName": "Murat Çelikalp",
+    "phone": "05445715509",
+    "address": "Barbaros caddesi no53 daireno2",
+    "city": "Antalya",
+    "district": "Manavgat",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
