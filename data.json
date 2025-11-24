@@ -13291,5 +13291,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 944,
+    "date": "24.11.2025 15:53:29",
+    "status": "Beklemede",
+    "ip": "176.88.50.128",
+    "customerName": "Yasin  Aydın ",
+    "phone": "05323499330",
+    "address": "Cumhuriyet mah. Hükümet Cad. No.10",
+    "city": "Samsun ",
+    "district": "Bafra ",
+    "product": "Trabzonspor Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
