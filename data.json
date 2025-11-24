@@ -13891,5 +13891,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 984,
+    "date": "24.11.2025 19:56:54",
+    "status": "Beklemede",
+    "ip": "78.190.184.42",
+    "customerName": "Mehmet Bicer",
+    "phone": "05428109532",
+    "address": "AKALAN Çarşı kiratanesi Mehmet'in yeri Acipayam Denizli ",
+    "city": "Denizli ",
+    "district": "Acıpayam ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
