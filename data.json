@@ -14116,5 +14116,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 999,
+    "date": "24.11.2025 21:50:11",
+    "status": "Beklemede",
+    "ip": "78.173.59.239",
+    "customerName": "Serkan  Arpacı",
+    "phone": "05444395788",
+    "address": "efsus turan mahallesi Sanayi Sitesi ikinci blok no 8 Afsin Özlem oto kaporta Serkan Arpaci",
+    "city": "Kahramanmaraş",
+    "district": "Afsin",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
