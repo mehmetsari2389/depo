@@ -13531,5 +13531,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 959,
+    "date": "24.11.2025 17:59:46",
+    "status": "Beklemede",
+    "ip": "176.219.155.246",
+    "customerName": "Volkan Yardımcı",
+    "phone": "5445160749",
+    "address": "Belkaya mahallesi ",
+    "city": "Konya",
+    "district": "Ereglı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
