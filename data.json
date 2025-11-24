@@ -12316,5 +12316,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 879,
+    "date": "24.11.2025 08:56:36",
+    "status": "Beklemede",
+    "ip": "90.159.17.186",
+    "customerName": "Yaşar Çalışır",
+    "phone": "5413028151",
+    "address": "Mezra mahallesi Ceren sokak Yelda apt b blok kat 4 daire 8 ",
+    "city": "Şanlıurfa ",
+    "district": "Birecik ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
