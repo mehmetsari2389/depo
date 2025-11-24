@@ -12691,5 +12691,20 @@
     "size": "M",
     "quantity": "2",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 904,
+    "date": "24.11.2025 12:04:16",
+    "status": "Beklemede",
+    "ip": "88.235.240.206",
+    "customerName": "Nurettin Kurtgöz",
+    "phone": "5435250660",
+    "address": "Cumhuriyet mah.Erek cad.ano:63/A",
+    "city": "Tokat",
+    "district": "Erbaa",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
