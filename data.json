@@ -12571,5 +12571,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 896,
+    "date": "24.11.2025 11:16:15",
+    "status": "Beklemede",
+    "ip": "37.154.171.30",
+    "customerName": "Mehtap Yavaş",
+    "phone": "05334866906",
+    "address": "İspat cami mah istiklal sokak kardeşler apartmanı no6 kat4 ",
+    "city": "Edirne",
+    "district": "Keşan",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
