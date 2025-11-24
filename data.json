@@ -14266,5 +14266,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1008,
+    "date": "24.11.2025 22:25:36",
+    "status": "Beklemede",
+    "ip": "176.216.104.164",
+    "customerName": "Ismet Yılmaz",
+    "phone": "+905414202649",
+    "address": "Tuzla cad akarca mah manisalılar sitesi no41/94",
+    "city": "İzmir",
+    "district": "Seferihisar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
