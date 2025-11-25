@@ -15136,5 +15136,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1067,
+    "date": "25.11.2025 13:21:24",
+    "status": "Beklemede",
+    "ip": "46.155.83.80",
+    "customerName": "Uĝur Beçinli",
+    "phone": "0 (545) 407 7274",
+    "address": "Șevketiye mahallesi karanfil sokak No.17 Milas",
+    "city": "Muĝla",
+    "district": "Milas",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
