@@ -16531,5 +16531,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1160,
+    "date": "26.11.2025 00:09:18",
+    "status": "Beklemede",
+    "ip": "46.221.110.108",
+    "customerName": "Mehmet Gürsoy  Gürsoy ",
+    "phone": "5436814088",
+    "address": "Yazır, Yeni Şahin Sk.",
+    "city": "Konya",
+    "district": "Selçuklu",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
