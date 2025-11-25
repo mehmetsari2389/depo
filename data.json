@@ -16201,5 +16201,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1137,
+    "date": "25.11.2025 21:32:09",
+    "status": "Beklemede",
+    "ip": "85.99.182.169",
+    "customerName": "Yağmur  Yağmur ",
+    "phone": "5324875458",
+    "address": "Zümrütevler mahallesi sırmalı sok no2 5 çalışkanlar apt Maltepe ",
+    "city": "İstanbul",
+    "district": "Maltepe ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
