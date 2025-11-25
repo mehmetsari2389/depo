@@ -15121,5 +15121,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1066,
+    "date": "25.11.2025 13:19:23",
+    "status": "Beklemede",
+    "ip": "37.154.172.191",
+    "customerName": "Cem Orhon ",
+    "phone": "5545840805",
+    "address": "Fulya mAh. Esenler sok. Akınözyuvam sitesi e blok no5 d:A",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
