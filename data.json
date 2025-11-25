@@ -15496,5 +15496,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1091,
+    "date": "25.11.2025 16:32:27",
+    "status": "Beklemede",
+    "ip": "88.241.87.231",
+    "customerName": "Yaşar Halil  Canver",
+    "phone": "05074899842",
+    "address": "Altınova mahallesi gözde sokak nehir ap no 10 d 4 ",
+    "city": "Tekirdağ ",
+    "district": "Süleymanpaşa ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
