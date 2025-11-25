@@ -15361,5 +15361,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1082,
+    "date": "25.11.2025 15:13:44",
+    "status": "Beklemede",
+    "ip": "176.40.32.13",
+    "customerName": "Turgut  Kandemir",
+    "phone": "5469494049",
+    "address": "Fatih mahallesi 3403 sokak no 72 kepez antalya",
+    "city": "Antalya ",
+    "district": "Kepez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
