@@ -15421,5 +15421,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1086,
+    "date": "25.11.2025 15:37:54",
+    "status": "Beklemede",
+    "ip": "91.93.229.191",
+    "customerName": "Murat  Bilgiç",
+    "phone": "0537 855 05 52",
+    "address": "Bahcesehir 2\nKisim .okyanus cad.d5 blok.gül sitesi.daire8",
+    "city": "Istanbul",
+    "district": "Basaksehir",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
