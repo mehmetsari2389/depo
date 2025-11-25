@@ -16441,5 +16441,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1154,
+    "date": "25.11.2025 23:35:41",
+    "status": "Beklemede",
+    "ip": "88.234.247.154",
+    "customerName": "Hakan  Fil",
+    "phone": "5076605680",
+    "address": "Altınkent Mahallesi 29 Ekim caddesi 4.ada 5. Blok no 50 daire 5 ",
+    "city": "Kocaeli",
+    "district": "Başiskele ",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
