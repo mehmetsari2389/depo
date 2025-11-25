@@ -14671,5 +14671,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1036,
+    "date": "25.11.2025 07:38:04",
+    "status": "Beklemede",
+    "ip": "149.140.42.83",
+    "customerName": "Yunus Emre  Keskin ",
+    "phone": "05346018809",
+    "address": "Veysel karani mahallesi 1151sokak \n2. Küçük sanayi sitesi ",
+    "city": "Afyonkarahisar",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
