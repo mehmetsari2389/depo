@@ -15256,5 +15256,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1075,
+    "date": "25.11.2025 14:21:24",
+    "status": "Beklemede",
+    "ip": "85.98.93.183",
+    "customerName": "Aydın arslan Arslan",
+    "phone": "5468672396",
+    "address": "Kınıklı mh çamlık bulvarı no 49/A Pamukkale denizli",
+    "city": "Denizli",
+    "district": "Pamukkale",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
