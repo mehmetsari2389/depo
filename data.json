@@ -15631,5 +15631,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1100,
+    "date": "25.11.2025 18:03:13",
+    "status": "Beklemede",
+    "ip": "92.44.33.35",
+    "customerName": "Yücehan  Özpınar ",
+    "phone": "05511774351",
+    "address": "Liman mahallesi mimoza sitesi Konyaaltı evleri K-2BLOK kat 2 no:3",
+    "city": "Antalya ",
+    "district": "Konyaaltı",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
