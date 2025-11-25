@@ -15166,5 +15166,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1069,
+    "date": "25.11.2025 13:25:33",
+    "status": "Beklemede",
+    "ip": "91.93.158.114",
+    "customerName": "Serdar Gözübüyük",
+    "phone": "5413995525",
+    "address": "Gölcük mah. Recep tayyip Erdoğan caddesi Sivas kara yolu üzeri 2nci km Bayhan Otomotiv ",
+    "city": "Erzincan ",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
