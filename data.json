@@ -16561,5 +16561,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1162,
+    "date": "26.11.2025 01:02:56",
+    "status": "Beklemede",
+    "ip": "5.47.187.33",
+    "customerName": "Gökhan  Nergis ",
+    "phone": "05522175864",
+    "address": "Selimbey mah kale yolu üzeri melen bulvarı ikrambey apartmanı kat 1 no 1",
+    "city": "Van ",
+    "district": "İpekyolu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
