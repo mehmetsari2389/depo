@@ -15451,5 +15451,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1088,
+    "date": "25.11.2025 15:39:44",
+    "status": "Beklemede",
+    "ip": "94.235.231.207",
+    "customerName": "Fatih  Kocaman ",
+    "phone": "05064709028",
+    "address": "Cemal paşa mahallesi Şehitler caddesi no 72",
+    "city": "Osmaniye ",
+    "district": "Kadirli ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
