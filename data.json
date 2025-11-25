@@ -15661,5 +15661,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1102,
+    "date": "25.11.2025 18:49:20",
+    "status": "Beklemede",
+    "ip": "31.223.44.161",
+    "customerName": "Mevlüt  ALTINDAŞ ",
+    "phone": "5357963622",
+    "address": "Merkez mahallesi Mahmutbey sokak no 14/4 Pursaklar Ankara ",
+    "city": "Ankara ",
+    "district": "Pursaklar ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
