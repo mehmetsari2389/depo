@@ -16606,5 +16606,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1165,
+    "date": "26.11.2025 01:29:57",
+    "status": "Beklemede",
+    "ip": "78.181.70.138",
+    "customerName": "Dgj  gjik Dgyjjn",
+    "phone": "05553336699",
+    "address": "Sdgh hhkk cghik vjiu",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
