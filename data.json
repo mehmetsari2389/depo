@@ -16261,5 +16261,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1142,
+    "date": "25.11.2025 21:54:44",
+    "status": "Beklemede",
+    "ip": "31.143.69.131",
+    "customerName": "ÇINAR MUT",
+    "phone": "05413505243",
+    "address": "Maslak Mah.Taşyoncası sok. B4 Blok -4.kat 54 numara Maslak aparts erkek yurdu",
+    "city": "İstanbul",
+    "district": "Sarıyer",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
