@@ -16501,5 +16501,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1158,
+    "date": "25.11.2025 23:55:05",
+    "status": "Beklemede",
+    "ip": "78.174.84.9",
+    "customerName": "Hasan  Yılmaz",
+    "phone": "05364377124",
+    "address": "Yavuz Selim mah çamsakızı 8.sok Manolya sit K10 kat 3 no 14 \n        Yeşilyurt/MALATYA ",
+    "city": "MALATYA ",
+    "district": "YEŞİLYURT ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
