@@ -16336,5 +16336,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1147,
+    "date": "25.11.2025 22:44:26",
+    "status": "Beklemede",
+    "ip": "46.154.229.153",
+    "customerName": "Zehra Askarova",
+    "phone": "+905418852342",
+    "address": "Ankara keçoran etlık mahallesi meserı sokak 16 03",
+    "city": "Ankara",
+    "district": "Keçiören",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
