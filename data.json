@@ -15391,5 +15391,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1084,
+    "date": "25.11.2025 15:33:38",
+    "status": "Beklemede",
+    "ip": "88.246.198.202",
+    "customerName": "Mustafa Topcu ",
+    "phone": "05434191737",
+    "address": "Yavuz selim mahallesi soğuk tulumba sokak no 2 daire 2 fatih istanbul ",
+    "city": "İstanbul ",
+    "district": "Fatih ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
