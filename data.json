@@ -14626,5 +14626,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1033,
+    "date": "25.11.2025 04:05:13",
+    "status": "Beklemede",
+    "ip": "78.178.187.79",
+    "customerName": "Muarrem  Kurt",
+    "phone": "5340173772",
+    "address": "Eski, Hüseyin Galip Efendi Cd. No:2, 50650 Ortahisar/Ürgüp/Nevşehir Crazy Horse hotel",
+    "city": "Nevşehir ",
+    "district": "Ürgüp ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
