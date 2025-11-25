@@ -16171,5 +16171,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1136,
+    "date": "25.11.2025 21:31:52",
+    "status": "Beklemede",
+    "ip": "176.220.37.162",
+    "customerName": "Mertcan  Meral",
+    "phone": "5019376061",
+    "address": "Pett",
+    "city": "Samsun ",
+    "district": "Çarşamba ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
