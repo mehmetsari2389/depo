@@ -16546,5 +16546,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1161,
+    "date": "26.11.2025 00:21:58",
+    "status": "Beklemede",
+    "ip": "37.155.185.23",
+    "customerName": "Şaban  Bahadır ",
+    "phone": "+905309665387",
+    "address": "Diyarbakır Egil sarıca mahallesi no 372",
+    "city": "Diyarbakır ",
+    "district": "Egil ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
