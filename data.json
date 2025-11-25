@@ -16381,5 +16381,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1150,
+    "date": "25.11.2025 22:51:17",
+    "status": "Beklemede",
+    "ip": "178.241.59.154",
+    "customerName": "Yasin Akay",
+    "phone": "5334263591",
+    "address": "Çay mah dokuz taşlar şok 2.ci geçit no.11",
+    "city": "Tokat",
+    "district": "Merkez ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
