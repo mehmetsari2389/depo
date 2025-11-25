@@ -15556,5 +15556,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1095,
+    "date": "25.11.2025 16:38:28",
+    "status": "Beklemede",
+    "ip": "78.182.153.33",
+    "customerName": "Azmi İstipoğlu",
+    "phone": "5384317398",
+    "address": "Selımpasa, mah 3094sok istif kent sıtesı otel familyasının",
+    "city": "İstanbul",
+    "district": "Sılıvrı",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
