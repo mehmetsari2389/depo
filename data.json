@@ -16576,5 +16576,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1163,
+    "date": "26.11.2025 01:06:02",
+    "status": "Beklemede",
+    "ip": "149.140.61.210",
+    "customerName": "Salih  Satılmış ",
+    "phone": "5414427570",
+    "address": "Camikebir mahallesi şehit Olcay ertegli sokak erdem büfe ",
+    "city": "Tekirdağ ",
+    "district": "Şarköy ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
