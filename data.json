@@ -16036,5 +16036,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1127,
+    "date": "25.11.2025 20:56:07",
+    "status": "Beklemede",
+    "ip": "88.241.70.171",
+    "customerName": "Ali Dogru",
+    "phone": "05327873307",
+    "address": "Akcaalan  mh 4130 sk no 8 A serk antalya",
+    "city": "Antalya",
+    "district": "Serik",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
