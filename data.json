@@ -15586,5 +15586,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1097,
+    "date": "25.11.2025 17:09:16",
+    "status": "Beklemede",
+    "ip": "176.220.56.179",
+    "customerName": "Akın Yüksel",
+    "phone": "05367138352",
+    "address": "Ordu ulubey şeyhler mahallesi no 32 ",
+    "city": "Ordu",
+    "district": "Ulubey",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
