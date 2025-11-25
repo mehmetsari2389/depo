@@ -15931,5 +15931,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1119,
+    "date": "25.11.2025 20:26:21",
+    "status": "Beklemede",
+    "ip": "78.190.15.182",
+    "customerName": "Murat  Kaypak ",
+    "phone": "5334331699",
+    "address": "Yeni mahalle 671. Sokak Bahar apartmanı kat iki daire no:7 ",
+    "city": "Zonguldak ",
+    "district": "Devrek ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
