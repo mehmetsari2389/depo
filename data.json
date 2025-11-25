@@ -16021,5 +16021,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1126,
+    "date": "25.11.2025 20:44:25",
+    "status": "Beklemede",
+    "ip": "88.236.81.119",
+    "customerName": "Ramazan Yıldız ",
+    "phone": "05436194316",
+    "address": "Bursa İnegöl Süleymaniye mahallesi OSB 1 cadde sülekler tekstil ",
+    "city": "Bursa",
+    "district": "İnegöl ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
