@@ -16651,5 +16651,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1168,
+    "date": "26.11.2025 01:52:12",
+    "status": "Beklemede",
+    "ip": "46.106.238.164",
+    "customerName": "İsmail  Oluz",
+    "phone": "5411842016",
+    "address": "Istanbul sancaktepe Atatürk mah Sultangazi cad no 116 köşk börek ",
+    "city": "İstanbul ",
+    "district": "Sancaktepe ",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
