@@ -14656,5 +14656,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1035,
+    "date": "25.11.2025 07:27:01",
+    "status": "Beklemede",
+    "ip": "185.118.178.65",
+    "customerName": "Yunus Sanal",
+    "phone": "05438266119",
+    "address": "Yenimahalle 140/1 sokak No-9/A",
+    "city": "Aydın ",
+    "district": "Nazilli ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
