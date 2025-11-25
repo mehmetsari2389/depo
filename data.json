@@ -16636,5 +16636,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1166,
+    "date": "26.11.2025 01:49:41",
+    "status": "Beklemede",
+    "ip": "78.163.156.184",
+    "customerName": "Mustafa  Yılmaz",
+    "phone": "05529689241",
+    "address": "İzmit yenidoğon mahallesi Nurettin paşa caddesi no 24 zemin kat ",
+    "city": "İzmit ",
+    "district": "Kocaeli ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
