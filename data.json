@@ -15046,5 +15046,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1060,
+    "date": "25.11.2025 12:25:53",
+    "status": "Beklemede",
+    "ip": "176.88.75.229",
+    "customerName": "Vahit Üzel",
+    "phone": "5016232323",
+    "address": "Adnan kahveci mahallesi yavuz sultan Selim bulvarı parlementerler Sitesi sosyal tesisleri berber Ibrahim bulam",
+    "city": "İstanbul ",
+    "district": "Beylükdüzü ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
