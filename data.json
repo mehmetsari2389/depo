@@ -15676,5 +15676,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1103,
+    "date": "25.11.2025 18:50:58",
+    "status": "Beklemede",
+    "ip": "185.189.130.92",
+    "customerName": "Erdem Adıyaman",
+    "phone": "5060644640",
+    "address": "Divan mahallesi gölkaşı caddesi no 57 daire 2 Gördes manisa",
+    "city": "Manisa ",
+    "district": "Gördes ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
