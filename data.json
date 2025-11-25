@@ -14776,5 +14776,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1043,
+    "date": "25.11.2025 09:47:26",
+    "status": "Beklemede",
+    "ip": "78.190.7.154",
+    "customerName": "Emrullah  YİĞİT ",
+    "phone": "5306839276",
+    "address": "Ahmetli mah.no 13A               Cemaller Köyü                        Kdz.ereğli ",
+    "city": "Zonguldak ",
+    "district": "Kdz.ereğli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
