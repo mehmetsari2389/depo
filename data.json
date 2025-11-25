@@ -15001,5 +15001,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1057,
+    "date": "25.11.2025 12:19:38",
+    "status": "Beklemede",
+    "ip": "88.248.187.253",
+    "customerName": "Halis Kalaycı",
+    "phone": "5384709200",
+    "address": "Meydan mahallesi küme evleri no1/1 ılısu köyü Güzelyurt Aksaray ",
+    "city": "Aksaray ",
+    "district": "Güzelyurt ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
