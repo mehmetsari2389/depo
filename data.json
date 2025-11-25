@@ -14686,5 +14686,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1037,
+    "date": "25.11.2025 08:25:28",
+    "status": "Beklemede",
+    "ip": "31.142.196.140",
+    "customerName": "Gökhan Er",
+    "phone": "+5332634762",
+    "address": "Kusdili mahallesi\n 1084 sokak",
+    "city": "Kirsehir ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
