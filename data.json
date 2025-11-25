@@ -15901,5 +15901,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1118,
+    "date": "25.11.2025 20:19:04",
+    "status": "Beklemede",
+    "ip": "78.191.95.196",
+    "customerName": "Hasan  Kaya ",
+    "phone": "05396685411",
+    "address": "Dumlupınar mahallesi İnönü caddesi 54/3 Pendik İstanbul ",
+    "city": "İstanbul ",
+    "district": "Pendik ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
