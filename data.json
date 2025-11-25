@@ -14881,5 +14881,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1049,
+    "date": "25.11.2025 11:12:16",
+    "status": "Beklemede",
+    "ip": "94.235.125.135",
+    "customerName": "Özgür  Bilbay",
+    "phone": "05304216820",
+    "address": "Kargodan teslim",
+    "city": "Balıkesir ",
+    "district": "Karesi",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
