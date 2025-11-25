@@ -15316,5 +15316,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1079,
+    "date": "25.11.2025 14:24:13",
+    "status": "Beklemede",
+    "ip": "31.143.140.149",
+    "customerName": "Musa Tuncer",
+    "phone": "5347869844",
+    "address": "Hatay Antakya güzelburç mahallesi m.ürek caddesi no 11 Mehmet batman otomotiv yedek parça ",
+    "city": "Hatay ",
+    "district": "Antakya ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
