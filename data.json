@@ -14701,5 +14701,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1038,
+    "date": "25.11.2025 08:43:17",
+    "status": "Beklemede",
+    "ip": "178.243.224.190",
+    "customerName": "Uğur Bulut",
+    "phone": "05320592836",
+    "address": "Mimar Sinan mahallesi Fatih sultanmehmet caddesi  b8 bolk no 38v iç kapı no 10 silvri İstanbul ",
+    "city": "İstanbul ",
+    "district": "Silvri",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
