@@ -16666,5 +16666,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1169,
+    "date": "26.11.2025 02:28:31",
+    "status": "Beklemede",
+    "ip": "46.154.226.33",
+    "customerName": "İsmail  Kapan",
+    "phone": "5442292724",
+    "address": "Kıran mah.baris bulvarı 2 Etap TOKİ evleri 1829.sokak B 1 -6 Kat 7 Daire 31",
+    "city": "Samsun ",
+    "district": "İlkadım ",
+    "product": "Puma Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
