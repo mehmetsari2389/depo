@@ -15721,5 +15721,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1105,
+    "date": "25.11.2025 19:15:12",
+    "status": "Beklemede",
+    "ip": "176.216.15.22",
+    "customerName": "Erkan Kuvan ",
+    "phone": "+905552147283",
+    "address": "Talatpasa cad harmantepe mah tarım sokak no58 semt gultepe Kağıthane İstanbul ",
+    "city": "İstanbul ",
+    "district": "Kağıthane ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
