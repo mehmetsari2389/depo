@@ -14806,5 +14806,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1045,
+    "date": "25.11.2025 09:57:05",
+    "status": "Beklemede",
+    "ip": "5.47.175.235",
+    "customerName": "Ramazan Şahin",
+    "phone": "5521230001",
+    "address": "Kazımkarabekir mah 6527 sokak no 16/a merkez ",
+    "city": "Osmaniye ",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
