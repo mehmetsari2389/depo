@@ -15751,5 +15751,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1108,
+    "date": "25.11.2025 19:45:44",
+    "status": "Beklemede",
+    "ip": "5.24.144.94",
+    "customerName": "Sakir Akil",
+    "phone": "5350855781",
+    "address": "1660 sokak no 8 daire 2 ",
+    "city": "İzmir",
+    "district": "Bornova ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
