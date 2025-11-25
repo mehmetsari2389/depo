@@ -14896,5 +14896,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1051,
+    "date": "25.11.2025 11:22:22",
+    "status": "Beklemede",
+    "ip": "94.235.202.206",
+    "customerName": "İsmail  Aksu",
+    "phone": "05457313306",
+    "address": "Yozgat Sarıkaya hastane caddesi Osman gazi mahallesi no 3/6",
+    "city": "Yozgat",
+    "district": "Sarıkaya",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
