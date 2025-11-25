@@ -16471,5 +16471,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1155,
+    "date": "25.11.2025 23:41:47",
+    "status": "Beklemede",
+    "ip": "178.245.70.105",
+    "customerName": "Orhan Saygılı",
+    "phone": "+905304749146",
+    "address": "Doğtaş mobilya ",
+    "city": "Çanakkale ",
+    "district": "Biga ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
