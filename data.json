@@ -16486,5 +16486,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1157,
+    "date": "25.11.2025 23:43:36",
+    "status": "Beklemede",
+    "ip": "194.5.232.235",
+    "customerName": "Bünyamin  Bulut ",
+    "phone": "05336199601",
+    "address": "İstiklal mahallesi 4002 sokak GB-7 APARTMANI K-2 DAİRE 11 ",
+    "city": "Adana ",
+    "district": "Sarıçam ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
