@@ -15601,5 +15601,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1098,
+    "date": "25.11.2025 17:11:41",
+    "status": "Beklemede",
+    "ip": "176.220.56.179",
+    "customerName": "Akın Yüksel",
+    "phone": "05367138352",
+    "address": "Ordu ulubey şeyhler mahalesi no 32",
+    "city": "Ordu",
+    "district": "Ulubey",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
