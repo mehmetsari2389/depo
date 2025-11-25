@@ -16216,5 +16216,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1139,
+    "date": "25.11.2025 21:41:48",
+    "status": "Beklemede",
+    "ip": "78.190.232.211",
+    "customerName": "Kadir  Alıcı",
+    "phone": "05540213257",
+    "address": "Çanakkale 18 Mart Üniversitesi Rektörlük A blok ",
+    "city": "Çanakkale",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
