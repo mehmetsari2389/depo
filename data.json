@@ -15616,5 +15616,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1099,
+    "date": "25.11.2025 17:13:27",
+    "status": "Beklemede",
+    "ip": "31.145.169.146",
+    "customerName": "Bülent  Yıldız ",
+    "phone": "05356660706",
+    "address": "İnönü mah.\nMenemen yolu Sok.B Blok\nNo: 5/1 Çarşı 18 etap daire 23 seyrekköy menemen İzmir",
+    "city": "İzmir ",
+    "district": "Menemen ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
