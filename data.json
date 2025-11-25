@@ -14791,5 +14791,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1044,
+    "date": "25.11.2025 09:48:07",
+    "status": "Beklemede",
+    "ip": "95.10.203.106",
+    "customerName": "Şerafettin  Akman",
+    "phone": "05335685141",
+    "address": "Yenişehir Mh, Uğurhan Sk. No:2/A-B, 41050 İzmit/Kocaeli Aras kargo şube",
+    "city": "Kocaeli",
+    "district": "İzmit",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
