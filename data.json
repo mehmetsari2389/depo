@@ -15766,5 +15766,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1109,
+    "date": "25.11.2025 19:53:49",
+    "status": "Beklemede",
+    "ip": "88.226.188.101",
+    "customerName": "Halil Tekin",
+    "phone": "5464394607",
+    "address": "Bağlıca, Bağlıca Köyü Yolu",
+    "city": "Manisa",
+    "district": "Sarıgöl",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
