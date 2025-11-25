@@ -16306,5 +16306,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1145,
+    "date": "25.11.2025 22:14:07",
+    "status": "Beklemede",
+    "ip": "188.132.247.254",
+    "customerName": "Muharrem Birer",
+    "phone": "5452556974",
+    "address": "İnicirlova acarlar MH 108 SK no 3",
+    "city": "Aydın ",
+    "district": "İncirova acarlar mh",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
