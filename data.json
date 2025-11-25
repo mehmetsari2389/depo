@@ -15331,5 +15331,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1080,
+    "date": "25.11.2025 14:36:17",
+    "status": "Beklemede",
+    "ip": "5.27.23.110",
+    "customerName": "Ersen Aşık",
+    "phone": "5426300317",
+    "address": "Menteşeoğlu mah.679 sok.no:62/2.",
+    "city": "Muğla",
+    "district": "Fethiye",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
