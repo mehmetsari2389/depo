@@ -14761,5 +14761,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1042,
+    "date": "25.11.2025 09:45:06",
+    "status": "Beklemede",
+    "ip": "176.55.48.236",
+    "customerName": "Emincan Budak",
+    "phone": "+905313248543",
+    "address": "Beşler mahallesi yaban sokak no 3 ",
+    "city": "Bolu ",
+    "district": "Mengen ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
