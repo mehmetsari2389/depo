@@ -15061,5 +15061,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1062,
+    "date": "25.11.2025 12:29:26",
+    "status": "Beklemede",
+    "ip": "78.174.144.80",
+    "customerName": "Bahar Yıldırım",
+    "phone": "05536075482",
+    "address": "Kemalöz mah 1çokal şok no14 kat 1 Uşak",
+    "city": "Uşak",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
