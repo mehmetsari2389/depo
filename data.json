@@ -16006,5 +16006,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1125,
+    "date": "25.11.2025 20:38:59",
+    "status": "Beklemede",
+    "ip": "78.190.103.139",
+    "customerName": "Ilyas Yildiz",
+    "phone": "05412381956",
+    "address": "Emirdagi aras kargo",
+    "city": "Afyon",
+    "district": "Emirdagi",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
