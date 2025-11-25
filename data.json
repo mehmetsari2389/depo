@@ -16426,5 +16426,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1153,
+    "date": "25.11.2025 23:22:37",
+    "status": "Beklemede",
+    "ip": "188.3.164.27",
+    "customerName": "Can Eşmen",
+    "phone": "05527539178",
+    "address": "Selçuk yolu ateş grup",
+    "city": "İzmir",
+    "district": "Tire",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
