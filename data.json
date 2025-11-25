@@ -15211,5 +15211,20 @@
     "size": "XL",
     "quantity": "2",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1072,
+    "date": "25.11.2025 13:52:51",
+    "status": "Beklemede",
+    "ip": "78.173.59.181",
+    "customerName": "Yasin  Yaycı ",
+    "phone": "5461484602",
+    "address": "Malatya beyyurt",
+    "city": "Yasin ",
+    "district": "Yaycı ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "10",
+    "cargoPayment": "aras-nakit"
   }
 ]
