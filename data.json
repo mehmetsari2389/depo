@@ -16396,5 +16396,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1151,
+    "date": "25.11.2025 22:58:57",
+    "status": "Beklemede",
+    "ip": "176.237.232.68",
+    "customerName": "Burak Özkaya ",
+    "phone": "05368728779",
+    "address": "Küçükköy mahallesi, 29 Ekim caddesi no 33/6 Özel Sahil sitesi D Blok Daire 5 Sarımsaklı Ayvalık ",
+    "city": "Balıkesir ",
+    "district": "Ayvalık ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
