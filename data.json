@@ -16321,5 +16321,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1146,
+    "date": "25.11.2025 22:18:50",
+    "status": "Beklemede",
+    "ip": "95.70.164.214",
+    "customerName": "HAKAN TÜRE",
+    "phone": "05411216720",
+    "address": "MUSTAFA KEMAL PAŞA MH. KARATAŞ SK. 66/7",
+    "city": "İstanbul ",
+    "district": "Avcılar ",
+    "product": "Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
