@@ -16051,5 +16051,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1128,
+    "date": "25.11.2025 21:01:06",
+    "status": "Beklemede",
+    "ip": "46.196.158.77",
+    "customerName": "Tahsin  Yıldız ",
+    "phone": "05303559825",
+    "address": "Yavuz sultan selim bulvarı tortum yapı kooperatifi A blok kat 4 no 7 palandöken Erzurum ",
+    "city": "Erzurum",
+    "district": "Palandöken ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
