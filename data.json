@@ -16291,5 +16291,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1144,
+    "date": "25.11.2025 22:12:26",
+    "status": "Beklemede",
+    "ip": "176.55.3.35",
+    "customerName": "Aykut Gumus",
+    "phone": "5442191589",
+    "address": "Mardin Artuklu şehirler arası terminali otogar Cizre Nuh firmasi",
+    "city": "Mardin",
+    "district": "Artuklu",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
