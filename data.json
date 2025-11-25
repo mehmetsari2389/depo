@@ -14956,5 +14956,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1055,
+    "date": "25.11.2025 12:02:06",
+    "status": "Beklemede",
+    "ip": "176.227.115.104",
+    "customerName": "Yalcin Makar",
+    "phone": "+905353522235",
+    "address": "Kuruçay CAD no 11 sapanca Sakarya ",
+    "city": "Sakarya ",
+    "district": "Sapanca ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
