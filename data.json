@@ -15781,5 +15781,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1110,
+    "date": "25.11.2025 19:55:22",
+    "status": "Beklemede",
+    "ip": "88.230.193.122",
+    "customerName": "Bayram  Yabancı",
+    "phone": "5437979004",
+    "address": "İsmet paşa mahallesi dogangüneş bul no 38 huzur koop",
+    "city": "Kilis",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
