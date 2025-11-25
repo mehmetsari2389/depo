@@ -16111,5 +16111,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1132,
+    "date": "25.11.2025 21:08:18",
+    "status": "Beklemede",
+    "ip": "151.250.74.42",
+    "customerName": "Edip  Yanığbaş ",
+    "phone": "+90(543) 366-7683",
+    "address": "Cumhuriyet Mahallesi Tevfik Fikret Caddesi Atatürk Bulvarı Ulukent Sitesi B Blok Kat 7",
+    "city": "Aydın ",
+    "district": "Efeler ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
