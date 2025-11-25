@@ -14641,5 +14641,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1034,
+    "date": "25.11.2025 06:39:47",
+    "status": "Beklemede",
+    "ip": "176.238.213.111",
+    "customerName": "Mevlüt Şen",
+    "phone": "+905434671265",
+    "address": "Samsun.havza.huzur.evi.sondaj.mahallesi.havza",
+    "city": "Samsun ",
+    "district": "Havza",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
