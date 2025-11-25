@@ -14911,5 +14911,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1052,
+    "date": "25.11.2025 11:27:19",
+    "status": "Beklemede",
+    "ip": "88.247.20.208",
+    "customerName": "Recep ali Ertan",
+    "phone": "05334564219",
+    "address": "Adalet mahallesi 128056 sk no:6",
+    "city": "Konya",
+    "district": "Karapınar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
