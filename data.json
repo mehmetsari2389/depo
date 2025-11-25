@@ -16351,5 +16351,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1148,
+    "date": "25.11.2025 22:50:40",
+    "status": "Beklemede",
+    "ip": "95.14.58.83",
+    "customerName": "İsmail Yeşilyurt",
+    "phone": "05524500607",
+    "address": "Menderes mahallesi Şehit Sefa sok no 44 daire 1",
+    "city": "Burdur ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
