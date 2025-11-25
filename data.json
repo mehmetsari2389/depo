@@ -14866,5 +14866,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1049,
+    "date": "25.11.2025 11:12:15",
+    "status": "Beklemede",
+    "ip": "88.241.197.9",
+    "customerName": "Yücel Karakoç",
+    "phone": "5534071333",
+    "address": "Yıldırım mah.kiraz .sk. 1/21\nAkyurt/ Ankara ",
+    "city": "Ankara ",
+    "district": "Akyurt ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
