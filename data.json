@@ -16141,5 +16141,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1134,
+    "date": "25.11.2025 21:27:28",
+    "status": "Beklemede",
+    "ip": "176.219.157.110",
+    "customerName": "Şeref Cengiz ",
+    "phone": "+90 541 225 43 85",
+    "address": "Mesudiye mahallesi Batı Gazi bulvarı 154 Bahar apartmanı daire 7",
+    "city": "Aydın",
+    "district": "Efeler",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
