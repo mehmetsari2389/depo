@@ -16246,5 +16246,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1141,
+    "date": "25.11.2025 21:53:45",
+    "status": "Beklemede",
+    "ip": "178.243.118.162",
+    "customerName": "Emine  Yeşilkuş",
+    "phone": "05374281338",
+    "address": "Şirin evler mahallesi gül 2 sokak no 6 ",
+    "city": "Diyarbakır ",
+    "district": "Ergani ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
