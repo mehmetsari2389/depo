@@ -15976,5 +15976,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1122,
+    "date": "25.11.2025 20:27:35",
+    "status": "Beklemede",
+    "ip": "46.221.106.31",
+    "customerName": "Mehmet Köşe ",
+    "phone": "5379357020",
+    "address": "Kaplıca mahallesı bıldırcın sokak nalkıran apartmanı kat eksı ıkı daire beş rıze merkez",
+    "city": "Rize'de",
+    "district": "Merkez",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
