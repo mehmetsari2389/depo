@@ -15946,5 +15946,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1121,
+    "date": "25.11.2025 20:26:47",
+    "status": "Beklemede",
+    "ip": "188.57.152.58",
+    "customerName": "Ersin Dagdeviren ",
+    "phone": "5302295693",
+    "address": "Huzurevleri  mahallesi sokak 77005.no 32",
+    "city": "Adana",
+    "district": "Çukurova ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
