@@ -15826,5 +15826,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1111,
+    "date": "25.11.2025 20:02:39",
+    "status": "Beklemede",
+    "ip": "93.131.55.13",
+    "customerName": "Sait Günaydın ",
+    "phone": "0531266743",
+    "address": "Yayla nah. 110Cad No:4 kat:2\nIsparta ",
+    "city": "Isparta ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
