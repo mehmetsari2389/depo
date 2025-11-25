@@ -15076,5 +15076,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1063,
+    "date": "25.11.2025 12:32:32",
+    "status": "Beklemede",
+    "ip": "88.242.138.94",
+    "customerName": "yıldıray Cömert",
+    "phone": "05513794320",
+    "address": "İstasyomagelesi.  Volkan. Daire.  12?   Kapı. Numarası. 1",
+    "city": "Manisa",
+    "district": "Saruhanlı",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
