@@ -14941,5 +14941,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1054,
+    "date": "25.11.2025 11:40:43",
+    "status": "Beklemede",
+    "ip": "46.106.86.203",
+    "customerName": "Medine  Demir ",
+    "phone": "5421125937",
+    "address": "Karaköprü Şenevler mahallesi 6108. Sokak no 1A Şanlıurfa",
+    "city": "Şanlıurfa",
+    "district": "Karaköprü ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
