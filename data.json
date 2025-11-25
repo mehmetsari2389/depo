@@ -16411,5 +16411,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1152,
+    "date": "25.11.2025 23:00:25",
+    "status": "Beklemede",
+    "ip": "85.97.73.98",
+    "customerName": "muzaffer odalı",
+    "phone": "05446792437",
+    "address": "15 temmuz mah.toki konutları  yazıköy caddesi 17/18",
+    "city": "KARABÜK",
+    "district": "SAFRANBOLU",
+    "product": "Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
