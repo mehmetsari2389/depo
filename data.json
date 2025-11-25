@@ -15691,5 +15691,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1104,
+    "date": "25.11.2025 19:14:47",
+    "status": "Beklemede",
+    "ip": "178.244.119.242",
+    "customerName": "Bilal  Ulaş",
+    "phone": "05358731406",
+    "address": "Umut mahallesi  Maçka Sk. No:2",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "product": "Adidas Kırmızı Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
