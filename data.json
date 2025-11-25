@@ -15226,5 +15226,20 @@
     "size": "5XL",
     "quantity": "10",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1073,
+    "date": "25.11.2025 13:57:20",
+    "status": "Beklemede",
+    "ip": "5.176.46.143",
+    "customerName": "Zeki Hoşgör",
+    "phone": "5522813407",
+    "address": "SANDIKCILAR SİTESİ KAT 1 H1 KAPI CENNETLER  SOKKAK SİDE MANAVGAT ",
+    "city": "Antalya ",
+    "district": "Manavgat ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
