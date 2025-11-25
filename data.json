@@ -15196,5 +15196,20 @@
     "size": "5XL",
     "quantity": "10",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1070,
+    "date": "25.11.2025 13:36:41",
+    "status": "Beklemede",
+    "ip": "88.242.195.56",
+    "customerName": "Ergün  Dağ ",
+    "phone": "+905557540511",
+    "address": "Döşeme, Seyhan Belediyesi",
+    "city": "Adanaq",
+    "district": "Seyhan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "2",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
