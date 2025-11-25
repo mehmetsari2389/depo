@@ -15241,5 +15241,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1074,
+    "date": "25.11.2025 14:02:27",
+    "status": "Beklemede",
+    "ip": "78.164.96.55",
+    "customerName": "Cahit Aka",
+    "phone": "+905314092362",
+    "address": "Cumhuriyet CD fuar mahallesi  çalışkan ap kat 5daire19 ",
+    "city": "Bitlis",
+    "district": "Tatvan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
