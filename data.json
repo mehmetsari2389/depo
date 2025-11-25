@@ -16231,5 +16231,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1140,
+    "date": "25.11.2025 21:50:38",
+    "status": "Beklemede",
+    "ip": "46.154.197.220",
+    "customerName": "Hayati Ergun",
+    "phone": "05366493215",
+    "address": "Zonguldak Devrek PTT kargo",
+    "city": "Zonguldak",
+    "district": "Devrek",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
