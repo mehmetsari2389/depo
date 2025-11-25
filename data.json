@@ -15016,5 +15016,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1059,
+    "date": "25.11.2025 12:21:28",
+    "status": "Beklemede",
+    "ip": "85.97.221.135",
+    "customerName": "Yasin  Gülver",
+    "phone": "5415564822",
+    "address": "Aydoğan MH.İstiklal CD.no:41 Beyendik beldesi Keşan/Edirne ",
+    "city": "Edirne ",
+    "district": "Keşan ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
