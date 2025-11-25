@@ -16096,5 +16096,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1129,
+    "date": "25.11.2025 21:06:13",
+    "status": "Beklemede",
+    "ip": "95.5.116.67",
+    "customerName": "Ünal Uzun",
+    "phone": "+905367045158",
+    "address": "Balık yolu balıkyolu caddesi no 39\nEsenyurt istanbul",
+    "city": "İstanbul",
+    "district": "Esenyurt",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
