@@ -15466,5 +15466,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1089,
+    "date": "25.11.2025 15:51:51",
+    "status": "Beklemede",
+    "ip": "78.173.120.209",
+    "customerName": "Murat Uslu",
+    "phone": "05397400258",
+    "address": "Seyrantepe mahallesi Altınay caddesi panayır sokak no 6 daire 1 Kağıthane istanbul",
+    "city": "İstanbul",
+    "district": "Kağıthane ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
