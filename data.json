@@ -15571,5 +15571,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1096,
+    "date": "25.11.2025 16:46:14",
+    "status": "Beklemede",
+    "ip": "195.174.54.66",
+    "customerName": "Kaan  Yılmaz ",
+    "phone": "+905389244332",
+    "address": "Kapuz uzunkum cad adatepe küme evleri no 24 kat 2 daire 3",
+    "city": "Zonguldak ",
+    "district": "Merkez ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
