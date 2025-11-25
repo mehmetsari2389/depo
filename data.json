@@ -15841,5 +15841,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1114,
+    "date": "25.11.2025 20:06:23",
+    "status": "Beklemede",
+    "ip": "88.242.131.84",
+    "customerName": "Yüksel İmal",
+    "phone": "+905413309684",
+    "address": "Ahmet Bedevi mahallesi 515sokak No15/2 Manisa şehzadeler ",
+    "city": "Manisa ",
+    "district": "Şehzadeler ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
