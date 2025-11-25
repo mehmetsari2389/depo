@@ -14746,5 +14746,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1041,
+    "date": "25.11.2025 08:51:21",
+    "status": "Beklemede",
+    "ip": "176.89.77.200",
+    "customerName": "Serkan  Kocabay",
+    "phone": "5385125039",
+    "address": "İstiklal mahallesi udi sokak no 9 daire 12",
+    "city": "İstanbul",
+    "district": "Esenyurt",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
