@@ -15991,5 +15991,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1124,
+    "date": "25.11.2025 20:32:48",
+    "status": "Beklemede",
+    "ip": "176.89.104.158",
+    "customerName": "Canan Top",
+    "phone": "5303477048",
+    "address": "Orhantepe mah. No 11 cevizli kartal",
+    "city": "İstanbul",
+    "district": "Kartal",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
