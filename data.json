@@ -14926,5 +14926,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1053,
+    "date": "25.11.2025 11:29:31",
+    "status": "Beklemede",
+    "ip": "5.24.144.199",
+    "customerName": "Umut  Çelebi ",
+    "phone": "5356021938",
+    "address": "Aydın kuyucak Büyük şehir belediyesi kuyucak arıtma tesisi ",
+    "city": "Aydın ",
+    "district": "Kuyucak ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
