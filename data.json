@@ -17146,5 +17146,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1201,
+    "date": "26.11.2025 11:25:12",
+    "status": "Beklemede",
+    "ip": "176.219.156.176",
+    "customerName": "Adnan Hasırcı ",
+    "phone": "5337274646",
+    "address": "Neopol otel 2324sokak kesedagı Kuşadası ",
+    "city": "Aydın ",
+    "district": "Kuşadası",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
