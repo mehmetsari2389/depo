@@ -18046,5 +18046,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1261,
+    "date": "26.11.2025 19:23:09",
+    "status": "Beklemede",
+    "ip": "176.89.114.200",
+    "customerName": "adnan muharremoğlu",
+    "phone": "+905392377342",
+    "address": "Koza, 1655. Sk",
+    "city": "İstanbul",
+    "district": "Esenyurt",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
