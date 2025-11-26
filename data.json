@@ -18856,5 +18856,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1315,
+    "date": "26.11.2025 23:55:59",
+    "status": "Beklemede",
+    "ip": "176.88.82.126",
+    "customerName": "Hakan Dursun",
+    "phone": "05327005344",
+    "address": "Pınartepe Mahallesi Orhan Gazi Caddesi Vista 3 Residence H Blok Daire 2",
+    "city": "İstanbul",
+    "district": "Büyükçekmece",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
