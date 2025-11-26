@@ -17776,5 +17776,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1243,
+    "date": "26.11.2025 17:11:28",
+    "status": "Beklemede",
+    "ip": "5.27.200.107",
+    "customerName": "Oktay Özlem",
+    "phone": "05322543237",
+    "address": "Davutlar mah gönül sok no18\nBimaş yapı c blok k3 daire7\nKuşadası/davutlar\n",
+    "city": "Aydın",
+    "district": "Kuşadası",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
