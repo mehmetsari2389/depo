@@ -18721,5 +18721,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1306,
+    "date": "26.11.2025 22:43:03",
+    "status": "Beklemede",
+    "ip": "88.230.154.34",
+    "customerName": "Tahir  Dıramalı",
+    "phone": "05366669776",
+    "address": "159 sok no 34 kat 3 kazım dirik mahallesi",
+    "city": "İzmir",
+    "district": "Bornova",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
