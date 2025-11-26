@@ -18976,5 +18976,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1323,
+    "date": "27.11.2025 01:17:18",
+    "status": "Beklemede",
+    "ip": "176.41.53.33",
+    "customerName": "Murat Şimşek",
+    "phone": "05467783705",
+    "address": "Söke yenikent mah \nAçelya sokak\nAneon rezidans \nA blok görevli dairesi",
+    "city": "Aydın ",
+    "district": "Söke ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
