@@ -17836,5 +17836,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1247,
+    "date": "26.11.2025 17:39:45",
+    "status": "Beklemede",
+    "ip": "88.234.216.92",
+    "customerName": "Bayram  Kızıltaş",
+    "phone": "05434472528",
+    "address": "Isparta merkez çünür 1002 toki konutları 273 cad c/3 1/A blok kat 3 no 16",
+    "city": "Isparta ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
