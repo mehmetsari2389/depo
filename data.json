@@ -17011,5 +17011,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1190,
+    "date": "26.11.2025 10:14:19",
+    "status": "Beklemede",
+    "ip": "212.253.118.38",
+    "customerName": "Kemal Göndür",
+    "phone": "05318879345",
+    "address": "52/100 sk. Metin Oktay Mah. No:5 Özel Sıcak Yuvam Bakım Merkezi",
+    "city": "İzmir",
+    "district": "Karabağlar",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
