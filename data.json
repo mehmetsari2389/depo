@@ -17506,5 +17506,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1224,
+    "date": "26.11.2025 15:07:54",
+    "status": "Beklemede",
+    "ip": "88.230.140.34",
+    "customerName": "ESHAT bozkurt Bozkurt",
+    "phone": "05323593563",
+    "address": "Cumhuriyet cad mersinalanı mah no 123 ürkmez İPEKKUM Seferihisar\n",
+    "city": "İzmir",
+    "district": "Seferihisar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
