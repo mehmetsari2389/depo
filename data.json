@@ -17026,5 +17026,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1193,
+    "date": "26.11.2025 10:18:02",
+    "status": "Beklemede",
+    "ip": "178.240.87.36",
+    "customerName": "Hasan  İlhan ",
+    "phone": "5375509352",
+    "address": "Kahvelipinar mah.34.nolu.sok.no.3 Gaziantep.şahinbey",
+    "city": "Gaziantep ",
+    "district": "Şahinbey ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
