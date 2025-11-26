@@ -16711,5 +16711,20 @@
     "size": "3XL",
     "quantity": "10",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1172,
+    "date": "26.11.2025 05:52:36",
+    "status": "Beklemede",
+    "ip": "176.54.249.70",
+    "customerName": "İbrahim  Kartal",
+    "phone": "5376418240",
+    "address": "İgdeli  köyü",
+    "city": "Burdur",
+    "district": "Merkez",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
