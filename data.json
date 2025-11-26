@@ -18076,5 +18076,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1262,
+    "date": "26.11.2025 19:31:10",
+    "status": "Beklemede",
+    "ip": "176.54.175.23",
+    "customerName": "Rifat Güldaş ",
+    "phone": "5414685020",
+    "address": "Yenice mahallesi \nNo.61 edincik/Bandırma/\nBalıkesir ",
+    "city": "Balikesir",
+    "district": "Bandırma ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
