@@ -18286,5 +18286,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1275,
+    "date": "26.11.2025 20:07:04",
+    "status": "Beklemede",
+    "ip": "31.155.16.37",
+    "customerName": "Nazım Sönmez",
+    "phone": "05319610657",
+    "address": "İstanbul büyük çekmece Hürriyet mahallesi Şirin CD no.13.dr.3 lütuf sitesi ",
+    "city": "İstanbul ",
+    "district": "büyük çekmece ",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
