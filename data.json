@@ -17596,5 +17596,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1230,
+    "date": "26.11.2025 15:43:20",
+    "status": "Beklemede",
+    "ip": "5.229.114.234",
+    "customerName": "Ayşegül Öztürk",
+    "phone": "05526048392",
+    "address": "Cumhuriyet mah Ahmet yardım cad no48",
+    "city": "Trabzon",
+    "district": "Beşikdüzü",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
