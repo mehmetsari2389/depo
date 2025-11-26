@@ -16846,5 +16846,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1181,
+    "date": "26.11.2025 09:28:08",
+    "status": "Beklemede",
+    "ip": "95.5.189.60",
+    "customerName": "Murat  Dalkılıç ",
+    "phone": "05325884401",
+    "address": "Altay Çeşme mah.bağdat Caddesi No 335/B  Maltepe ",
+    "city": "İstanbul ",
+    "district": "Maltepe ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
