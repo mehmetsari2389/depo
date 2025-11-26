@@ -19036,5 +19036,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1327,
+    "date": "27.11.2025 01:48:30",
+    "status": "Beklemede",
+    "ip": "37.155.180.123",
+    "customerName": "Senai Özoğlu",
+    "phone": "O5318644061",
+    "address": "Makam dağı mahallesi kıralan dink mevki 30 Luk yol Nur Yıldız 10 sitesi I blok No: 3",
+    "city": "Diyarbakır",
+    "district": "Ergani ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
