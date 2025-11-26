@@ -17401,5 +17401,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1218,
+    "date": "26.11.2025 14:33:01",
+    "status": "Beklemede",
+    "ip": "46.154.169.221",
+    "customerName": "Akın Yüksel",
+    "phone": "05367138352",
+    "address": "Ordu ulubey şeyhlermahallesi elikpınarı sokak no 32",
+    "city": "Ordu",
+    "district": "Ulubey",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
