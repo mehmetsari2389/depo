@@ -16936,5 +16936,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1187,
+    "date": "26.11.2025 10:06:41",
+    "status": "Beklemede",
+    "ip": "46.221.140.61",
+    "customerName": "Barış Yüce",
+    "phone": "5426987903",
+    "address": "Medrese mahallesi imaret caddesi ülker apaetmanı no 7/4",
+    "city": "Kırşehir",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
