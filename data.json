@@ -18871,5 +18871,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1316,
+    "date": "26.11.2025 23:58:20",
+    "status": "Beklemede",
+    "ip": "78.184.97.4",
+    "customerName": "Bayram  Yardımcı ",
+    "phone": "05382704606",
+    "address": "Mimar Sinan mahallesi volkan sokak 9 10 ",
+    "city": "Ankara ",
+    "district": "Pursaklar ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
