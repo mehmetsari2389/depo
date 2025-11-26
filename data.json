@@ -18661,5 +18661,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1302,
+    "date": "26.11.2025 22:24:05",
+    "status": "Beklemede",
+    "ip": "46.106.141.18",
+    "customerName": "Habib Şen",
+    "phone": "5400115228",
+    "address": "Eren Mahallesi Ordu Caddesi No 12/C Şen Market ",
+    "city": "Giresun ",
+    "district": "Piraziz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
