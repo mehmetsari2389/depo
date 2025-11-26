@@ -18841,5 +18841,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1313,
+    "date": "26.11.2025 23:52:30",
+    "status": "Beklemede",
+    "ip": "176.55.175.188",
+    "customerName": "Yılmaz Ozmen",
+    "phone": "05353096575",
+    "address": "31",
+    "city": "Hakkari ",
+    "district": "Derecik ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
