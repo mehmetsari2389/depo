@@ -17926,5 +17926,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1252,
+    "date": "26.11.2025 17:59:23",
+    "status": "Beklemede",
+    "ip": "5.229.100.253",
+    "customerName": "Mehmet  Kara",
+    "phone": "05355814386",
+    "address": "Bagişli mah aşagi küme evleri no 39 Maçka Trabzon ",
+    "city": "Trabzon ",
+    "district": "Maçka ",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
