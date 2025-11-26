@@ -17476,5 +17476,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1223,
+    "date": "26.11.2025 15:04:46",
+    "status": "Beklemede",
+    "ip": "176.219.121.96",
+    "customerName": "Kadir  Özkan ",
+    "phone": "5467442149",
+    "address": "Muş merkez imamı Şafi camii yani Bahçe market ",
+    "city": "Mus",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
