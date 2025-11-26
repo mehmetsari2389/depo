@@ -18736,5 +18736,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1307,
+    "date": "26.11.2025 22:46:35",
+    "status": "Beklemede",
+    "ip": "176.232.182.237",
+    "customerName": "Feramuz  Düzgünoğlu ",
+    "phone": "5325965776",
+    "address": "Esenkent Mah Karakaş sokak no7 \nSuner Metal",
+    "city": "İstanbul ",
+    "district": "Ümraniye",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
