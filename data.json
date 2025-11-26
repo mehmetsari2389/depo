@@ -16861,5 +16861,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1182,
+    "date": "26.11.2025 09:31:32",
+    "status": "Beklemede",
+    "ip": "78.186.201.233",
+    "customerName": "Erkan  Demirci",
+    "phone": "5322449860",
+    "address": "Yukarı Dudullu mahallesi.necip Fazıl bulvarı No 26 A2 ",
+    "city": "İstanbul ",
+    "district": "Ümraniye ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
