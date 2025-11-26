@@ -18706,5 +18706,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1305,
+    "date": "26.11.2025 22:40:06",
+    "status": "Beklemede",
+    "ip": "176.238.251.122",
+    "customerName": "Ufuk  Altıntaş ",
+    "phone": "+905309981015",
+    "address": "Ankara Sincan hürriyet mahallesi temelli TOKİ altıntaş market no 11 ",
+    "city": "Ankara ",
+    "district": "Sincan ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
