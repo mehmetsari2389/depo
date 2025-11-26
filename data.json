@@ -18601,5 +18601,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1298,
+    "date": "26.11.2025 21:53:52",
+    "status": "Beklemede",
+    "ip": "178.246.202.82",
+    "customerName": "Zahid Ahundov",
+    "phone": "05380794990",
+    "address": "Saruhanlar Köyü",
+    "city": "KÜTAHYA",
+    "district": "DOMANİÇ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
