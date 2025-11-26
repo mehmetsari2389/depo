@@ -18571,5 +18571,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1296,
+    "date": "26.11.2025 21:39:25",
+    "status": "Beklemede",
+    "ip": "188.57.117.28",
+    "customerName": "Hüseyin  Tokmak ",
+    "phone": "(554) 380-8985",
+    "address": "Orçun köyü.hacimehmet.mah.no.57",
+    "city": "Kocaeli ",
+    "district": "Gölcük ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
