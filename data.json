@@ -16951,5 +16951,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1188,
+    "date": "26.11.2025 10:08:37",
+    "status": "Beklemede",
+    "ip": "79.123.220.221",
+    "customerName": "Nevzat  Çiftçi",
+    "phone": "05305857230",
+    "address": "Orhangazi mahallesi 500 CD düzce üniversitesi no 1",
+    "city": "Düzce ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
