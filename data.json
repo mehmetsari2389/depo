@@ -17086,5 +17086,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1197,
+    "date": "26.11.2025 10:34:21",
+    "status": "Beklemede",
+    "ip": "85.102.10.53",
+    "customerName": "Barış Çelik",
+    "phone": "05324199810",
+    "address": "Kuştepe mah İnönü cad no 9 abide sitesi a1 blok Şişli istanbul",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
