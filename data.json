@@ -18481,5 +18481,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1290,
+    "date": "26.11.2025 20:46:56",
+    "status": "Beklemede",
+    "ip": "151.135.130.115",
+    "customerName": "Nermin Uzun",
+    "phone": "05079191047",
+    "address": "Atakent mahallesi 1478.cadde 14/2 şehit apartmanı elvankent etimesgut ankara",
+    "city": "Ankara",
+    "district": "Etimesgut",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
