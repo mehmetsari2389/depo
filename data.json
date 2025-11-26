@@ -17041,5 +17041,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1194,
+    "date": "26.11.2025 10:23:19",
+    "status": "Beklemede",
+    "ip": "88.232.173.61",
+    "customerName": "Bilal ÇETİN",
+    "phone": "05064068450",
+    "address": "Ulusoy eczanesiilli Egemenlik mah.Hastane CAD.no.73/1z ",
+    "city": "Antalya",
+    "district": "Manavgat",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
