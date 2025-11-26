@@ -16981,5 +16981,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1190,
+    "date": "26.11.2025 10:14:05",
+    "status": "Beklemede",
+    "ip": "88.232.172.92",
+    "customerName": "Orhan Etli",
+    "phone": "5497488275",
+    "address": "Avsallar mahallesi Atatürk caddesi no 43 termo petrol",
+    "city": "Antalya",
+    "district": "Alanya ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
