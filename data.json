@@ -19021,5 +19021,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1325,
+    "date": "27.11.2025 01:46:01",
+    "status": "Beklemede",
+    "ip": "46.221.185.137",
+    "customerName": "Aziz Dereli ",
+    "phone": "05455319073",
+    "address": "Şırnak Beytüşşebap Aşağıdereköyü",
+    "city": "Şırnak ",
+    "district": "Beytüşşebap ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
