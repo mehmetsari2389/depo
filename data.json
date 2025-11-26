@@ -18391,5 +18391,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1284,
+    "date": "26.11.2025 20:20:30",
+    "status": "Beklemede",
+    "ip": "46.104.19.237",
+    "customerName": "Hayati Yüksel",
+    "phone": "05305732634",
+    "address": "Kemal Türkler mahallesi Sümer caddesi Ebru sokak no 10 daire 2",
+    "city": "İstanbul ",
+    "district": "Sancaktepe ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
