@@ -17206,5 +17206,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1204,
+    "date": "26.11.2025 11:49:58",
+    "status": "Beklemede",
+    "ip": "78.173.134.74",
+    "customerName": "ERDİNÇ TINAS",
+    "phone": "05323658823",
+    "address": "Alaçatı mah 16016 no 4",
+    "city": "İZMİR",
+    "district": "ÇEŞME",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
