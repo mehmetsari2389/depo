@@ -17371,5 +17371,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1216,
+    "date": "26.11.2025 13:44:22",
+    "status": "Beklemede",
+    "ip": "37.155.129.34",
+    "customerName": "Özgür  Demirok",
+    "phone": "5313933943",
+    "address": "Kiğı öğretmen evi ",
+    "city": "Bingöl ",
+    "district": "Kiğı ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
