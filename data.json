@@ -18526,5 +18526,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1292,
+    "date": "26.11.2025 21:32:51",
+    "status": "Beklemede",
+    "ip": "88.229.198.216",
+    "customerName": "Ahmet Bayraktar",
+    "phone": "05330676150",
+    "address": "Karaelmas küçük sanayi sitesi enson blok no4 üzülmez",
+    "city": "Zonguldak",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
