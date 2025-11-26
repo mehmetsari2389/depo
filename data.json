@@ -16831,5 +16831,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1180,
+    "date": "26.11.2025 09:26:05",
+    "status": "Beklemede",
+    "ip": "188.3.65.113",
+    "customerName": "Orhan Kaya",
+    "phone": "05354596169",
+    "address": "Guldiken mah sehitetismn koca cad   no 20",
+    "city": "Kirsehir",
+    "district": "Merkez",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
