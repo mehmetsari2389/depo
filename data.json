@@ -17686,5 +17686,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1237,
+    "date": "26.11.2025 16:34:59",
+    "status": "Beklemede",
+    "ip": "176.54.142.216",
+    "customerName": "Cemil Sahan",
+    "phone": "5428968703",
+    "address": "Muğla Marmaris Elegance otel",
+    "city": "Marmaris",
+    "district": "Mar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
