@@ -18376,5 +18376,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1283,
+    "date": "26.11.2025 20:16:18",
+    "status": "Beklemede",
+    "ip": "37.154.35.70",
+    "customerName": "Abdullah Çitil",
+    "phone": "+905550914887",
+    "address": "Karacaahmet mahallesi adanalıoğlu apartmanı 38020 cadde no 24 daire 16\nŞehitkamil/Gaziantep",
+    "city": "Gaziantep",
+    "district": "Şehitkamil",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
