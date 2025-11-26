@@ -18931,5 +18931,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1320,
+    "date": "27.11.2025 00:35:56",
+    "status": "Beklemede",
+    "ip": "95.65.217.93",
+    "customerName": "Bayram  Yoludoğru ",
+    "phone": "5401330619",
+    "address": "Mustafa Kemal Mh. VIA GREEN İş Merkezi, 2079. Sk. 2C/8, 06530 Çankaya/Ankara",
+    "city": "Ankara ",
+    "district": "Çankaya ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "2",
+    "cargoPayment": "aras-nakit"
   }
 ]
