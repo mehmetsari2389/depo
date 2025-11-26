@@ -16966,5 +16966,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1189,
+    "date": "26.11.2025 10:09:05",
+    "status": "Beklemede",
+    "ip": "151.135.69.145",
+    "customerName": "Metin Biçkioğlu ",
+    "phone": "5453904930",
+    "address": "İskenderpaşa mahallesi karakadı sok no 19 duygu emlak ",
+    "city": "İstanbul ",
+    "district": "Fatih ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
