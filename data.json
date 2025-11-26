@@ -18676,5 +18676,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1303,
+    "date": "26.11.2025 22:38:02",
+    "status": "Beklemede",
+    "ip": "85.153.232.136",
+    "customerName": "Durmuş Gündüz",
+    "phone": "05333642907",
+    "address": "Merkez mahalesi yağmur sokak Pınar apartmanı kat 4 daire 11",
+    "city": "Mersin",
+    "district": "Erdemli",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
