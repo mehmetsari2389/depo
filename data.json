@@ -17221,5 +17221,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1206,
+    "date": "26.11.2025 12:04:18",
+    "status": "Beklemede",
+    "ip": "31.142.37.56",
+    "customerName": "Hayrettin  Gencer",
+    "phone": "5456257975",
+    "address": "Hacı ishak mah TOKİ konutları Y1-3 kat:1 no:3",
+    "city": "Manisa ",
+    "district": "Akhisar",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
