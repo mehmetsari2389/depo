@@ -18061,5 +18061,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1262,
+    "date": "26.11.2025 19:31:05",
+    "status": "Beklemede",
+    "ip": "178.233.45.27",
+    "customerName": "Mehmet Ali  Akşit ",
+    "phone": "05346841668",
+    "address": "Değirmen önü mahallesi. 1380 sok. No:3 ",
+    "city": "Denizli",
+    "district": "Merkezefendi ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
