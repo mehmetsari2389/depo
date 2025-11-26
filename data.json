@@ -18781,5 +18781,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1310,
+    "date": "26.11.2025 23:17:33",
+    "status": "Beklemede",
+    "ip": "78.187.71.204",
+    "customerName": "Fırat  Altun ",
+    "phone": "5352965127",
+    "address": "GAP mah.kafeler CAD yasemin AP no:51 kat4 daire 7 ",
+    "city": "Batman",
+    "district": "Batman Merkez",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
