@@ -18031,5 +18031,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1260,
+    "date": "26.11.2025 19:22:39",
+    "status": "Beklemede",
+    "ip": "176.216.99.40",
+    "customerName": "Doğan  Çakılcıoğlu ",
+    "phone": "05438416966",
+    "address": "Rami atatürk anadolu lisesi Reşadiye cad no.17 eyup sultan istanbul ",
+    "city": "İstanbul ",
+    "district": "Eyüpsultan",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
