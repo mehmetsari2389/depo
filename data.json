@@ -17431,5 +17431,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1220,
+    "date": "26.11.2025 14:45:53",
+    "status": "Beklemede",
+    "ip": "5.47.106.4",
+    "customerName": "Ahmet Zafer",
+    "phone": "+905373463923",
+    "address": "Yeni mahalle 335 Nolu sokak kapı no 25D8",
+    "city": "Ordu ",
+    "district": "Altiordu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
