@@ -16726,5 +16726,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1173,
+    "date": "26.11.2025 07:23:30",
+    "status": "Beklemede",
+    "ip": "5.47.200.25",
+    "customerName": "Berk Yılmaz ",
+    "phone": "05102202034",
+    "address": "Sakarya mahallesi Beykalfa sokak no:23 daire:1",
+    "city": "Sakarya",
+    "district": "Adapazarı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
