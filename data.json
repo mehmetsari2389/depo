@@ -18766,5 +18766,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1309,
+    "date": "26.11.2025 23:03:09",
+    "status": "Beklemede",
+    "ip": "46.2.204.5",
+    "customerName": "Gökhan Gülsoy",
+    "phone": "5367900427",
+    "address": "Güzeltepe, Baki Sk. No:48",
+    "city": "İstanbul",
+    "district": "Şişli ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
