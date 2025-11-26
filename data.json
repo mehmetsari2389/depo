@@ -18751,5 +18751,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1308,
+    "date": "26.11.2025 22:59:07",
+    "status": "Beklemede",
+    "ip": "78.163.111.134",
+    "customerName": "Nihayi Taş",
+    "phone": "5513427343",
+    "address": "Yeni mahalle 5331 sokak no21 kat 1 Akdeniz mersin\n",
+    "city": "Mersin",
+    "district": "Akdeniz",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
