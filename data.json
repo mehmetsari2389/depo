@@ -18946,5 +18946,20 @@
     "size": "S",
     "quantity": "2",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1321,
+    "date": "27.11.2025 00:45:24",
+    "status": "Beklemede",
+    "ip": "31.155.166.216",
+    "customerName": "Yunus Aktürk",
+    "phone": "05436500444",
+    "address": "Şerefiye mahallesi gaziantep caddesi no 11/a",
+    "city": "Düzce",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
