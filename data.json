@@ -18196,5 +18196,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1271,
+    "date": "26.11.2025 19:50:11",
+    "status": "Beklemede",
+    "ip": "217.131.67.27",
+    "customerName": "Osman Ceylan",
+    "phone": "5324712027",
+    "address": "Ata mah.3498 CAD .7/B blok no 46 armoni life sitesi ",
+    "city": "Ankara",
+    "district": "Yenimahalle ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
