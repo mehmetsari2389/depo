@@ -17176,5 +17176,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1203,
+    "date": "26.11.2025 11:35:05",
+    "status": "Beklemede",
+    "ip": "94.235.230.115",
+    "customerName": "Sultan İnlerkoca",
+    "phone": "05014805987",
+    "address": "Gaziantep karşı yaka ptt",
+    "city": "Gaziantep",
+    "district": "Şehitkamil",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
