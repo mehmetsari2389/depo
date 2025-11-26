@@ -18166,5 +18166,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1269,
+    "date": "26.11.2025 19:45:59",
+    "status": "Beklemede",
+    "ip": "188.58.65.145",
+    "customerName": "Mustafa Karpuz",
+    "phone": "05339194798",
+    "address": "Adnan Menderes caddesi resul dayı fırını no98 ",
+    "city": "Sakarya ",
+    "district": "Adapazarı ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
