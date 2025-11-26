@@ -18646,5 +18646,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1301,
+    "date": "26.11.2025 22:13:50",
+    "status": "Beklemede",
+    "ip": "176.55.62.205",
+    "customerName": "Yusuf  Olgaç ",
+    "phone": "5465201588",
+    "address": "2.nci hudut tugay komutanlığı hakkari çukurca",
+    "city": "Hakkari",
+    "district": "Çukurca",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
