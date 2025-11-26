@@ -17941,5 +17941,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1254,
+    "date": "26.11.2025 18:10:22",
+    "status": "Beklemede",
+    "ip": "46.154.195.197",
+    "customerName": "Ali Gazi ",
+    "phone": "5447387208",
+    "address": "Yenidogan mah 3877 sok iç kapı 3/1",
+    "city": "Aydın ",
+    "district": "Söke ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
