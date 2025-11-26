@@ -18001,5 +18001,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1258,
+    "date": "26.11.2025 19:03:57",
+    "status": "Beklemede",
+    "ip": "176.237.192.233",
+    "customerName": "Adnab Yıglımcı ",
+    "phone": "05423233500",
+    "address": "Kışla mahallesi 4426 sokak Seyhanpark evleri L blok 1/1",
+    "city": "Adana",
+    "district": "yüregir",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
