@@ -18316,5 +18316,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1278,
+    "date": "26.11.2025 20:11:30",
+    "status": "Beklemede",
+    "ip": "37.154.73.111",
+    "customerName": "İsmet Gokdere",
+    "phone": "05330249597",
+    "address": "Keben merkez mahallesi degirmendere Silifke Mersin ki",
+    "city": "Mersin ",
+    "district": "Silifke ",
+    "product": "Trabzonspor Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
