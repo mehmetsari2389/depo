@@ -16741,5 +16741,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1174,
+    "date": "26.11.2025 07:32:06",
+    "status": "Beklemede",
+    "ip": "46.154.219.245",
+    "customerName": "Ömer Tuğluk",
+    "phone": "05438003233",
+    "address": "Sanlı Urfa akçakale yukarı deren mh 89 küme evleri ",
+    "city": "Şanlı Urfa ",
+    "district": "Akçakale ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
