@@ -17806,5 +17806,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1245,
+    "date": "26.11.2025 17:13:40",
+    "status": "Beklemede",
+    "ip": "31.206.143.139",
+    "customerName": "Ahmet  Yıldırım ",
+    "phone": "5458381326",
+    "address": "Abdulhalik Renda mahallesi Refik saydam caddesi murat apartmanı daire 1 çankırı merkez ",
+    "city": "ÇANKIRI ",
+    "district": "MERKEZ ",
+    "product": "Puma Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
