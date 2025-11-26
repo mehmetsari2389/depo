@@ -17536,5 +17536,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1227,
+    "date": "26.11.2025 15:13:07",
+    "status": "Beklemede",
+    "ip": "95.5.123.253",
+    "customerName": "Olgun  Keleş ",
+    "phone": "05556108739",
+    "address": "Yukarı kırzı köyü Aydıntepe BAYBURT ",
+    "city": "Bayburt ",
+    "district": "Aydıntepe ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
