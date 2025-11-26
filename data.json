@@ -17821,5 +17821,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1246,
+    "date": "26.11.2025 17:25:41",
+    "status": "Beklemede",
+    "ip": "5.176.83.87",
+    "customerName": "Mehmet  Gökçe ",
+    "phone": "5527982406",
+    "address": "Atatürk mahallesi konak sokak no.31\nMercan/ Erzincan ",
+    "city": "Erzincan ",
+    "district": "Tercan",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
