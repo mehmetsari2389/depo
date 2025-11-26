@@ -18211,5 +18211,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1272,
+    "date": "26.11.2025 19:50:29",
+    "status": "Beklemede",
+    "ip": "31.145.166.136",
+    "customerName": "ORHAN  ÖZBEK ",
+    "phone": "05413745884",
+    "address": "Kocaeli Gölcük kavaklı mahallesi ",
+    "city": "Kocaeli ",
+    "district": "Gölcük ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
