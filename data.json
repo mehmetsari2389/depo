@@ -17641,5 +17641,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1234,
+    "date": "26.11.2025 16:07:59",
+    "status": "Beklemede",
+    "ip": "178.243.25.44",
+    "customerName": "Celal Çetinel",
+    "phone": "5335019076",
+    "address": "1443.Cadde No:22/1 Green Office \nÇukurambar ",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
