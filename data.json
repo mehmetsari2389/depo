@@ -18226,5 +18226,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1273,
+    "date": "26.11.2025 19:54:08",
+    "status": "Beklemede",
+    "ip": "176.227.7.92",
+    "customerName": "Eray  Kemaneci",
+    "phone": "05331602054",
+    "address": "SAKARYA ADAPAZARI 15 TEMMUZ CAMİLİ MAHALLESİ 1542 ADA F 7 BOK KAT 3 DAİRE 12",
+    "city": "Sakarya ",
+    "district": "Adapazarı camili ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
