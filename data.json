@@ -17611,5 +17611,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1232,
+    "date": "26.11.2025 15:53:52",
+    "status": "Beklemede",
+    "ip": "78.175.222.132",
+    "customerName": "İbrahim Kasarcı",
+    "phone": "05426936343",
+    "address": "Düzköy köyü no 92 merkez RİZE",
+    "city": "Rize",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
