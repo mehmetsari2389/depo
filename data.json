@@ -17251,5 +17251,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1208,
+    "date": "26.11.2025 12:07:28",
+    "status": "Beklemede",
+    "ip": "5.176.61.92",
+    "customerName": "Musa Tekin",
+    "phone": "05520018395",
+    "address": "Mareşal Fevzi çakmak mahallesi 386 sokak no 44 kat 3 daire 6 Atakent sitesi A blok A giriş ",
+    "city": "Afyonkarahisar ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
