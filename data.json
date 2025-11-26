@@ -17461,5 +17461,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1222,
+    "date": "26.11.2025 15:03:14",
+    "status": "Beklemede",
+    "ip": "31.142.18.147",
+    "customerName": "Hüseyin Akça",
+    "phone": "+905416228677",
+    "address": "Antalya Muratpaşa güllük postanesi",
+    "city": "Antalya",
+    "district": "Muratpaşa ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
