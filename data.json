@@ -18121,5 +18121,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1265,
+    "date": "26.11.2025 19:45:03",
+    "status": "Beklemede",
+    "ip": "5.46.52.90",
+    "customerName": "Şevki Ekmekçi",
+    "phone": "05379552107",
+    "address": "Karşıyaka çay salonu  yenice, karabük",
+    "city": "Karabük",
+    "district": "Yenice",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
