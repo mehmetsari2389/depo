@@ -17716,5 +17716,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1238,
+    "date": "26.11.2025 16:50:58",
+    "status": "Beklemede",
+    "ip": "46.221.249.105",
+    "customerName": "Ramazan  Turan",
+    "phone": "5398138872",
+    "address": "Sultan Mehmet caddesi no 29",
+    "city": "İstanbul ",
+    "district": "Çatalca ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
