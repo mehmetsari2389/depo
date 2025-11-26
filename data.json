@@ -18466,5 +18466,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1289,
+    "date": "26.11.2025 20:44:55",
+    "status": "Beklemede",
+    "ip": "46.154.73.90",
+    "customerName": "Mehmet Şükrü KAYACAN",
+    "phone": "05326215556",
+    "address": "Teleferik Mah.Enverpaşa Sok.No:2/13  Kat:5",
+    "city": "İZMİR",
+    "district": "Balçova",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
