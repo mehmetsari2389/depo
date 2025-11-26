@@ -17746,5 +17746,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1240,
+    "date": "26.11.2025 17:10:13",
+    "status": "Beklemede",
+    "ip": "78.188.227.155",
+    "customerName": "Furkan Argun",
+    "phone": "+905317205173",
+    "address": "Elazığ' merkez karşıyaka mahallesi önder sokak no 7 kat 3 ",
+    "city": "Elazığ'da ",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
