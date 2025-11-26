@@ -17326,5 +17326,20 @@
     "size": "5XL",
     "quantity": "10",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1213,
+    "date": "26.11.2025 13:25:58",
+    "status": "Beklemede",
+    "ip": "212.252.18.98",
+    "customerName": "Aliye Türk",
+    "phone": "5303477048",
+    "address": "Barem şok no 20",
+    "city": "İstanbul",
+    "district": "Kartal",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
