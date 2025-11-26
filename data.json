@@ -16906,5 +16906,20 @@
     "size": "M",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1185,
+    "date": "26.11.2025 09:59:48",
+    "status": "Beklemede",
+    "ip": "46.154.0.102",
+    "customerName": "Sevcan  Öztop ",
+    "phone": "+905334462037",
+    "address": "Atatürk mah Gözde sitesi B 9 Daire 13 Manyas Balıkesir ",
+    "city": "Balıkesir",
+    "district": "Manyas ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
