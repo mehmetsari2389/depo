@@ -18406,5 +18406,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1285,
+    "date": "26.11.2025 20:21:05",
+    "status": "Beklemede",
+    "ip": "151.135.0.176",
+    "customerName": "Nazim Boztepe",
+    "phone": "05301515308",
+    "address": "Akpınar mah. Cesur sokak Dogan apartmanı Bina no:61 Daire no 4 kat1 Sancaktepe ",
+    "city": "İstanbul",
+    "district": "Sancaktepe",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
