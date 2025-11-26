@@ -17116,5 +17116,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1199,
+    "date": "26.11.2025 11:00:46",
+    "status": "Beklemede",
+    "ip": "5.47.27.246",
+    "customerName": "Levent Şahin ",
+    "phone": "05424903565",
+    "address": "Hisar ardı cad Hisar ardı mahallesi Özer apt no 105kat 2",
+    "city": "Kütahya ",
+    "district": "Simav ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
