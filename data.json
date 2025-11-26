@@ -16801,5 +16801,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1178,
+    "date": "26.11.2025 09:20:22",
+    "status": "Beklemede",
+    "ip": "46.221.225.36",
+    "customerName": "Metin Güler ",
+    "phone": "05539882061",
+    "address": "Yenidoğan, Taşlı Sk. No:16",
+    "city": "İstanbul",
+    "district": "Güngören ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
