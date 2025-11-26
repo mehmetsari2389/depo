@@ -16921,5 +16921,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1186,
+    "date": "26.11.2025 10:03:53",
+    "status": "Beklemede",
+    "ip": "176.220.225.24",
+    "customerName": "Turgut Kandemir",
+    "phone": "(546)-949-49-40",
+    "address": "Fatih mahallesi 3403 sokak no72 kepez Antakya kandemir iletisim",
+    "city": "An6",
+    "district": "Kepez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
