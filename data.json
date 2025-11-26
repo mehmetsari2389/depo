@@ -18796,5 +18796,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1311,
+    "date": "26.11.2025 23:22:08",
+    "status": "Beklemede",
+    "ip": "94.235.115.85",
+    "customerName": "Gülfidan Özkara",
+    "phone": "+905536024090",
+    "address": "Altıparmak mahallesi 1 altıparmak sokak Zümrüt apartmanı a blok no 29 kat 2 dayre 4 Osman Gazi bursa ",
+    "city": "Bursa",
+    "district": "Osman Gazi bursa ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
