@@ -18811,5 +18811,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1312,
+    "date": "26.11.2025 23:27:31",
+    "status": "Beklemede",
+    "ip": "95.15.0.13",
+    "customerName": "Ferhat  Kılıç",
+    "phone": "05437630927",
+    "address": "Melih Gökçek Cd.",
+    "city": "Şanlıurfa ",
+    "district": "Birecik",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
