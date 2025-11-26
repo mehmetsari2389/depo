@@ -17581,5 +17581,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1230,
+    "date": "26.11.2025 15:43:05",
+    "status": "Beklemede",
+    "ip": "176.235.125.132",
+    "customerName": "Emel  Doğan ",
+    "phone": "05362611437",
+    "address": "Göksu mahallesi saybaşı sokak no 35",
+    "city": "Mersin ",
+    "district": "Mut",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
