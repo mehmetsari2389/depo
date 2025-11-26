@@ -18436,5 +18436,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1287,
+    "date": "26.11.2025 20:28:24",
+    "status": "Beklemede",
+    "ip": "95.5.99.80",
+    "customerName": "İbrahim  Köklü ",
+    "phone": "05453613732",
+    "address": "Mustafa Kemal sokak no 3 Yeniçiftlik mahallesi Tire İzmir PTT kargo ile ",
+    "city": "İzmir ",
+    "district": "Tire ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
