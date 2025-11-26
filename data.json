@@ -16771,5 +16771,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1176,
+    "date": "26.11.2025 07:53:00",
+    "status": "Beklemede",
+    "ip": "94.235.240.202",
+    "customerName": "Muharrem  Özel",
+    "phone": "5343735822",
+    "address": "75. Yıl caddesi Antakya Hatay ek hizmet bina karşısı oda başı mahallesi 31000",
+    "city": "Hatay ",
+    "district": "Antakya",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
