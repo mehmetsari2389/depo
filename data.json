@@ -17101,5 +17101,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1198,
+    "date": "26.11.2025 10:54:15",
+    "status": "Beklemede",
+    "ip": "5.25.30.222",
+    "customerName": "Orhan  Ulukaya",
+    "phone": "05411040923",
+    "address": "Salı baba mah.yücetepe sok no 28 Elazığ merkez Aygün oto Tamir ",
+    "city": "Elazığ ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
