@@ -18916,5 +18916,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1318,
+    "date": "27.11.2025 00:23:41",
+    "status": "Beklemede",
+    "ip": "46.2.221.45",
+    "customerName": "bedri yılmaz doğğu",
+    "phone": "05383030460",
+    "address": "DEVLET MAHALLESİ DEĞİRMEN SOKAK NO 76 VİZE KONAKLARI B BLOK KAT 2 DAİRE 10 VİZE",
+    "city": "kırklareli",
+    "district": "vize ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
