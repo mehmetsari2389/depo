@@ -18331,5 +18331,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1280,
+    "date": "26.11.2025 20:13:00",
+    "status": "Beklemede",
+    "ip": "88.238.52.35",
+    "customerName": "Ali Ogut",
+    "phone": "+905302228986",
+    "address": "İstasyon, Adnan Menderes Cd.Çetin apt. No 117 k 5",
+    "city": "Manisa",
+    "district": "Alaşehir",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
