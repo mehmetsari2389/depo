@@ -17266,5 +17266,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1209,
+    "date": "26.11.2025 12:22:52",
+    "status": "Beklemede",
+    "ip": "176.234.92.248",
+    "customerName": "Ali Polat",
+    "phone": "5376162760",
+    "address": "Sancaktepe İnönü mah Erdoğan sok no 6 dayre 2 ",
+    "city": "İstanbul ",
+    "district": "Sancaktepe ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
