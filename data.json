@@ -17356,5 +17356,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1214,
+    "date": "26.11.2025 13:37:07",
+    "status": "Beklemede",
+    "ip": "46.104.26.111",
+    "customerName": "Senol Akgul",
+    "phone": "+905050922380",
+    "address": "Batı mahallesi gezi boyu caddesi birlik taksi durağı ",
+    "city": "İstanbul ",
+    "district": "Pendik ",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
