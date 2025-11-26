@@ -18451,5 +18451,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1288,
+    "date": "26.11.2025 20:30:02",
+    "status": "Beklemede",
+    "ip": "85.102.46.198",
+    "customerName": "Faysal  Aydın",
+    "phone": "5376537223",
+    "address": " Belde mahallesi Ataullah hamidi caddesi no.16 AD ",
+    "city": "Batman ",
+    "district": "Merkes",
+    "product": "North Face Haki Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
