@@ -17791,5 +17791,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1244,
+    "date": "26.11.2025 17:12:35",
+    "status": "Beklemede",
+    "ip": "45.195.224.232",
+    "customerName": "Gamze  Yerli",
+    "phone": "5364180096",
+    "address": "İzmir tire İhsaniye mahallesi Kazım Dirik caddesi no 28 kat 3 ",
+    "city": "İzmir ",
+    "district": "Tire",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
