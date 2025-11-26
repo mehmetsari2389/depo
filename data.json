@@ -18961,5 +18961,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1322,
+    "date": "27.11.2025 00:57:37",
+    "status": "Beklemede",
+    "ip": "88.235.215.120",
+    "customerName": "Muhammed  Cengizhan ",
+    "phone": "05423191365",
+    "address": "Sair Nabi mh. 176. Sk. Kayalar. Apt. No:4/E. TIC Bamyasuyu Mah/Haliliye/Sanliurfa",
+    "city": "Şanlıurfa ",
+    "district": "Haliliye ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
