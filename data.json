@@ -17056,5 +17056,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1195,
+    "date": "26.11.2025 10:25:00",
+    "status": "Beklemede",
+    "ip": "213.238.188.112",
+    "customerName": "Cihan Civek",
+    "phone": "546504 9808",
+    "address": "Mehmet Akif Ersoy Mahallesi şehit Burak Kapucuoğlu sokak Doğu Konutları A21/1 daire 34 merkez Kastamonu",
+    "city": "Kastamonu",
+    "district": "Merkez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
