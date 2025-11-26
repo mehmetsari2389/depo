@@ -18496,5 +18496,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1291,
+    "date": "26.11.2025 21:03:27",
+    "status": "Beklemede",
+    "ip": "64.62.219.31",
+    "customerName": "eymen önal",
+    "phone": "5405010193",
+    "address": "Aydın Adnan Menderes üniversitesi Hastanesi Acil yoğunbakım",
+    "city": "Efeler Mahallesi",
+    "district": "Efeler",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
