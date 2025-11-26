@@ -17521,5 +17521,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1226,
+    "date": "26.11.2025 15:11:48",
+    "status": "Beklemede",
+    "ip": "78.190.13.18",
+    "customerName": "Mustafa ÖZCAN",
+    "phone": "05558187361",
+    "address": "Terakki mah bakkaloğlu sokak no6/6",
+    "city": "Zonguldak ",
+    "district": "Merkez ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
