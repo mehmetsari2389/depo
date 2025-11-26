@@ -18886,5 +18886,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1317,
+    "date": "27.11.2025 00:16:54",
+    "status": "Beklemede",
+    "ip": "178.244.79.220",
+    "customerName": "Mehmet  Koyuncu ",
+    "phone": "5453060700",
+    "address": "Cumhuriyet mah. Recep tayyip Erdoğan cad.no 4/sultanhanı\nBal küpü şerek fabrikası",
+    "city": "Aksaray ",
+    "district": "Eskil",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
