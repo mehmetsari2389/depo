@@ -17986,5 +17986,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1257,
+    "date": "26.11.2025 18:52:33",
+    "status": "Beklemede",
+    "ip": "88.234.234.99",
+    "customerName": "Erkut  Akkoy ",
+    "phone": "05062348022",
+    "address": "Ertuğrulgazi mahallesi Cevahir cadde Eskent Sitesi No 4 D 3\nMerkez - BİLECİK ",
+    "city": "Bilecik ",
+    "district": "Merkez ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
