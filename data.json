@@ -17626,5 +17626,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1233,
+    "date": "26.11.2025 15:55:09",
+    "status": "Beklemede",
+    "ip": "151.135.220.39",
+    "customerName": "Önder  Demir ",
+    "phone": "5078464374",
+    "address": "Atatürk bulvarı asagı Mah no 79 Acıpayam Denizli ",
+    "city": "Denizli",
+    "district": "Acıpayam",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
