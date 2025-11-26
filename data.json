@@ -18181,5 +18181,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1270,
+    "date": "26.11.2025 19:49:31",
+    "status": "Beklemede",
+    "ip": "78.174.207.237",
+    "customerName": "İsmail Çağrıcı ",
+    "phone": "05307461457",
+    "address": "Yıldırım mahallesi alper tunga caddesi yamur Sitesi  E Bılok no 5 Dare 8",
+    "city": "Sivas ",
+    "district": "Şarkışla ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
