@@ -17671,5 +17671,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1236,
+    "date": "26.11.2025 16:10:40",
+    "status": "Beklemede",
+    "ip": "85.106.111.253",
+    "customerName": "UĞUR GÖKHAN DÖNGEL",
+    "phone": "5536275946",
+    "address": "Balıkesir ivrindi gökçeyazı köyü orta mah.köseağalar CAD.no 4/1 10095 pk.",
+    "city": "Balıkesir",
+    "district": "İvrindi",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
