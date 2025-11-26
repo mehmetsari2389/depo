@@ -18541,5 +18541,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1294,
+    "date": "26.11.2025 21:38:00",
+    "status": "Beklemede",
+    "ip": "5.47.36.6",
+    "customerName": "Edipov  Salanos",
+    "phone": "(541) 621-87-31",
+    "address": "Sarıcalar mah 505 sokak no 37 kat 1no 2 ",
+    "city": "Mersin ",
+    "district": "Silifke ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
