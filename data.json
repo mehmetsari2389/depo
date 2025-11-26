@@ -17446,5 +17446,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1221,
+    "date": "26.11.2025 14:58:53",
+    "status": "Beklemede",
+    "ip": "5.229.112.185",
+    "customerName": "Halil Ağca",
+    "phone": "+905467188324",
+    "address": "Kuru köp mahallesi sefa özler caddesi no:35/a Şengül çanta ",
+    "city": "Adana",
+    "district": "Seyhan",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
