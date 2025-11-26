@@ -17566,5 +17566,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1229,
+    "date": "26.11.2025 15:19:54",
+    "status": "Beklemede",
+    "ip": "5.229.58.146",
+    "customerName": "Eray  Soydan ",
+    "phone": "5437488738",
+    "address": "Şükrüpaşa Mahallesi İbrahim Emiroğlu Caddesi No 53",
+    "city": "Hatay",
+    "district": "Erzin",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
