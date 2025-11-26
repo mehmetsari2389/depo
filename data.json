@@ -17956,5 +17956,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1255,
+    "date": "26.11.2025 18:34:10",
+    "status": "Beklemede",
+    "ip": "46.2.137.169",
+    "customerName": "Kahraman  Karaöz",
+    "phone": "+905456373346",
+    "address": "Önen büfe",
+    "city": "Çanakkale ",
+    "district": "Ayvacık ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
