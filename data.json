@@ -19876,5 +19876,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1383,
+    "date": "27.11.2025 15:17:55",
+    "status": "Beklemede",
+    "ip": "5.46.52.90",
+    "customerName": "Şevki Ekmekci",
+    "phone": "05379552107",
+    "address": "Karşıyaka ah çamlık sok58A Karabük, yenice",
+    "city": "Karabük",
+    "district": "Yenice",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
