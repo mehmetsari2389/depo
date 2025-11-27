@@ -19366,5 +19366,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1349,
+    "date": "27.11.2025 10:25:05",
+    "status": "Beklemede",
+    "ip": "176.240.68.71",
+    "customerName": "Tekin Öztürk",
+    "phone": "5323367061",
+    "address": "Ali sepici bulvarı Toros mahallesi zippolounge cafe",
+    "city": "Adana",
+    "district": "Çukurova",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
