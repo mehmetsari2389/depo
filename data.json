@@ -20536,5 +20536,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1427,
+    "date": "27.11.2025 21:58:57",
+    "status": "Beklemede",
+    "ip": "85.104.200.39",
+    "customerName": "Kenan Bolluk",
+    "phone": "5530312333",
+    "address": "Kocaeli izmit merkez",
+    "city": "Koceli",
+    "district": "İzmit",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
