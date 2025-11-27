@@ -19471,5 +19471,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1356,
+    "date": "27.11.2025 10:58:02",
+    "status": "Beklemede",
+    "ip": "88.236.236.189",
+    "customerName": "Özgür  Meriç",
+    "phone": "5015285064",
+    "address": "Noter sk no 24 kat 5 daire 10 caddebostan",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
