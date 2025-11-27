@@ -19201,5 +19201,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1337,
+    "date": "27.11.2025 08:44:34",
+    "status": "Beklemede",
+    "ip": "37.155.170.197",
+    "customerName": "Van Gevaş Erkek",
+    "phone": "05452055548",
+    "address": "Van",
+    "city": "Van",
+    "district": "L",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
