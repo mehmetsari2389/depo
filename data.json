@@ -20776,5 +20776,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1443,
+    "date": "27.11.2025 23:35:02",
+    "status": "Beklemede",
+    "ip": "78.175.239.79",
+    "customerName": "Cahit IŞIKGÜL",
+    "phone": "+905352522046",
+    "address": "Plevne mah.Bosna cad. Işıkgül Ap.No:89/1 Sincan/ANKARA",
+    "city": "ANKARA",
+    "district": "SİNCAN",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
