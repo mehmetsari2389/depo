@@ -20176,5 +20176,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1402,
+    "date": "27.11.2025 18:35:21",
+    "status": "Beklemede",
+    "ip": "31.142.150.189",
+    "customerName": "Mustafa Besir",
+    "phone": "5353732336",
+    "address": "Guzelyali mah 3047 şok no9/1",
+    "city": "Samsun",
+    "district": "Atakum",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
