@@ -19231,5 +19231,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1340,
+    "date": "27.11.2025 08:59:26",
+    "status": "Beklemede",
+    "ip": "176.88.29.210",
+    "customerName": "Ömer  Sak",
+    "phone": "05325604414",
+    "address": "Semerkant mahallesi dumanoğlu Sokak numara 3/3 merkez bolu ",
+    "city": "Bolu ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
