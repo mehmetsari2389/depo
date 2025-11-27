@@ -19051,5 +19051,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1328,
+    "date": "27.11.2025 03:03:48",
+    "status": "Beklemede",
+    "ip": "188.3.173.169",
+    "customerName": "Sercan Yılmaz",
+    "phone": "+905071296429",
+    "address": "Atatürk caddesi no 20",
+    "city": "İzmir",
+    "district": "Gaziemir",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
