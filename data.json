@@ -20311,5 +20311,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1412,
+    "date": "27.11.2025 20:07:10",
+    "status": "Beklemede",
+    "ip": "85.106.113.188",
+    "customerName": "Ajlan Barut",
+    "phone": "5548201965",
+    "address": "Okullar mah kırlangıç şok no 8 marmara",
+    "city": "Balikesir",
+    "district": "Marmara",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
