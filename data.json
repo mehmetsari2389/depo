@@ -19411,5 +19411,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1352,
+    "date": "27.11.2025 10:38:23",
+    "status": "Beklemede",
+    "ip": "188.58.60.81",
+    "customerName": "CİHAN GÜL",
+    "phone": "5303089440",
+    "address": "10046 sokak no 14 baylan aosb çiğli izmir",
+    "city": "İzmir",
+    "district": "Çiğli",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
