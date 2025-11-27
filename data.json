@@ -20251,5 +20251,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1408,
+    "date": "27.11.2025 19:02:57",
+    "status": "Beklemede",
+    "ip": "176.89.230.245",
+    "customerName": "Yunus Kalayci",
+    "phone": "+5353405133",
+    "address": "Beyoren köyü küme evleri no 57",
+    "city": "DÜZCE",
+    "district": "Akcakoca",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
