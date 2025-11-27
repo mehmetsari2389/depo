@@ -20701,5 +20701,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1436,
+    "date": "27.11.2025 23:03:31",
+    "status": "Beklemede",
+    "ip": "5.176.39.236",
+    "customerName": "Mahmut Kabadayı",
+    "phone": "05012669600",
+    "address": "Dumlupınar mahallesi asım İzmirli CD dilek apt B blok No 25 1 ",
+    "city": "Afyonkarahisar ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
