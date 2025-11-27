@@ -20446,5 +20446,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1421,
+    "date": "27.11.2025 21:24:18",
+    "status": "Beklemede",
+    "ip": "85.107.110.174",
+    "customerName": "Alaattin Batu",
+    "phone": "05462108518",
+    "address": "Aslanbey şevkatiye mahallesi hasan yilmas caddesi Merve sokak no 11 kat 3 ",
+    "city": "İzmit",
+    "district": "Kartepe ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
