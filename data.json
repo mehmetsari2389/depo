@@ -20566,5 +20566,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1429,
+    "date": "27.11.2025 22:09:31",
+    "status": "Beklemede",
+    "ip": "5.47.135.205",
+    "customerName": "Mehmet Azim",
+    "phone": "5528901554",
+    "address": "Kocaali yalı mahallesi biryan oğlu kereste",
+    "city": "Sakarya",
+    "district": "Kocaali",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
