@@ -20611,5 +20611,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1432,
+    "date": "27.11.2025 22:21:12",
+    "status": "Beklemede",
+    "ip": "5.46.11.193",
+    "customerName": "Cemal Celep",
+    "phone": "05349445242",
+    "address": "Konya kulu karacadag mahlsi no 11",
+    "city": "Konya",
+    "district": "Kulu",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
