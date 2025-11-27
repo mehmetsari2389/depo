@@ -19801,5 +19801,20 @@
     "size": "XL",
     "quantity": "10",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1378,
+    "date": "27.11.2025 14:23:51",
+    "status": "Beklemede",
+    "ip": "178.243.33.16",
+    "customerName": "Yusuf Hacceablagil",
+    "phone": "+5347169450",
+    "address": "Yusuf Hacceablagil ",
+    "city": "Yusuf Hacceablagil ",
+    "district": "10000",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "10",
+    "cargoPayment": "ptt-nakit"
   }
 ]
