@@ -20716,5 +20716,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1439,
+    "date": "27.11.2025 23:11:00",
+    "status": "Beklemede",
+    "ip": "5.25.17.112",
+    "customerName": "Arif Can",
+    "phone": "5372069580",
+    "address": "İnönü üniversitesi sağlık bilimleri fakültesi üniversite mahallesi şifa caddesi no 2 Battalgazi Malatya ",
+    "city": "Malatya",
+    "district": "Battalgazi ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
