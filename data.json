@@ -19981,5 +19981,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1389,
+    "date": "27.11.2025 16:10:35",
+    "status": "Beklemede",
+    "ip": "85.105.195.48",
+    "customerName": "İlhan  Çiftci",
+    "phone": "05368116917",
+    "address": "Tatlı su  mahallesi Okay Caddesi  no 43 ",
+    "city": "İstanbul ",
+    "district": "Ataşehir ",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
