@@ -19546,5 +19546,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1361,
+    "date": "27.11.2025 11:41:48",
+    "status": "Beklemede",
+    "ip": "5.24.11.164",
+    "customerName": "Ahmet  Kayışkıran",
+    "phone": "05335263794",
+    "address": "Ş Urfa siverek",
+    "city": "Şanlı Urfa ",
+    "district": "Siverek",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
