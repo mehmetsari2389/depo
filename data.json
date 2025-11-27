@@ -19426,5 +19426,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1353,
+    "date": "27.11.2025 10:45:45",
+    "status": "Beklemede",
+    "ip": "176.54.218.250",
+    "customerName": "Abdurrahman  Gürcan",
+    "phone": "05396867098",
+    "address": "Yuva mah yuva sok no 108 Çivril denizli",
+    "city": "Denizli",
+    "district": "Çivril",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
