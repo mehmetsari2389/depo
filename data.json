@@ -19951,5 +19951,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1388,
+    "date": "27.11.2025 15:58:36",
+    "status": "Beklemede",
+    "ip": "85.99.16.211",
+    "customerName": "Uğur Bulut",
+    "phone": "+905535833846",
+    "address": "Mimar Sinan, Yaşar Doğu Sk. No:3 D:10 Akyüzler apt. Tuzla",
+    "city": "İstanbul",
+    "district": "Tuzla",
+    "product": "Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
