@@ -19831,5 +19831,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1380,
+    "date": "27.11.2025 15:04:45",
+    "status": "Beklemede",
+    "ip": "176.54.214.124",
+    "customerName": "Ali  Güven ",
+    "phone": "05389331577",
+    "address": "Toygar mahallesi vatan sokak no 23 ",
+    "city": "Balıkesir ",
+    "district": "Karesi ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
