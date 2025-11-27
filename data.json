@@ -20746,5 +20746,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1441,
+    "date": "27.11.2025 23:17:17",
+    "status": "Beklemede",
+    "ip": "88.230.125.174",
+    "customerName": "Emin Arslan",
+    "phone": "5323311805",
+    "address": "Karaagaç mah. 1.küçük aralık sokak no. 33 yıldırım /bursa",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
