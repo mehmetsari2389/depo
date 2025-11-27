@@ -20881,5 +20881,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1450,
+    "date": "28.11.2025 01:04:19",
+    "status": "Beklemede",
+    "ip": "188.132.156.102",
+    "customerName": "Yusuf  Koç",
+    "phone": "05550243824",
+    "address": "Barbaros mahallesi yeşil demet Sokak arven Sitesi c blok 7/2",
+    "city": "Kayseri ",
+    "district": "Kocasinan ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
