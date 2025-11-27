@@ -19351,5 +19351,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1347,
+    "date": "27.11.2025 10:18:19",
+    "status": "Beklemede",
+    "ip": "151.135.108.143",
+    "customerName": "İlyas  Seyhan ",
+    "phone": "5365579135",
+    "address": "İstanbul esenyurt \n423 sokak no 6 daire 2",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
