@@ -19621,5 +19621,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1366,
+    "date": "27.11.2025 12:26:59",
+    "status": "Beklemede",
+    "ip": "178.240.87.44",
+    "customerName": "halil şahin",
+    "phone": "+905336891086",
+    "address": "Mersin erdemli ",
+    "city": "Mersin ",
+    "district": "Erdemli ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
