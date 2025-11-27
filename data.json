@@ -19216,5 +19216,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1339,
+    "date": "27.11.2025 08:48:21",
+    "status": "Beklemede",
+    "ip": "5.176.145.152",
+    "customerName": "Doğan  Akburu ",
+    "phone": "05431799687",
+    "address": "Bahçelievler mah. Şehit ilhan çaylan cad. 7/4 ÇORUM/sungurlu ",
+    "city": "Çorum ",
+    "district": "Sungurlu ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
