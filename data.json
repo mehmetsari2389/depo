@@ -20236,5 +20236,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1406,
+    "date": "27.11.2025 19:02:42",
+    "status": "Beklemede",
+    "ip": "5.46.12.94",
+    "customerName": "Ali murat Kaplan",
+    "phone": "5528956971",
+    "address": "Hacı Halil mahallesi gümüş sokak no 15 ",
+    "city": "Karabük ",
+    "district": "Safranbolu ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
