@@ -19786,5 +19786,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1377,
+    "date": "27.11.2025 14:22:21",
+    "status": "Beklemede",
+    "ip": "178.243.33.16",
+    "customerName": "Yusuf Yusuf Hacceablagil",
+    "phone": "+5347169450",
+    "address": "Yusuf Hacceablagil MELEK ",
+    "city": "Yusuf ",
+    "district": "Yusuf Hacceablagil ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "10",
+    "cargoPayment": "ptt-nakit"
   }
 ]
