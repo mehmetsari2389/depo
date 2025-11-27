@@ -19501,5 +19501,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1358,
+    "date": "27.11.2025 11:32:23",
+    "status": "Beklemede",
+    "ip": "5.46.140.235",
+    "customerName": "Fatma  Cebeci ",
+    "phone": "5397340861",
+    "address": "Ulubatlı Hasan caddesi siavus pasa mah sarmasik sok senol ap no 27kat 3daire 9",
+    "city": "ISTANBUL ",
+    "district": "Bahçelievler ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
