@@ -19741,5 +19741,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1374,
+    "date": "27.11.2025 13:31:00",
+    "status": "Beklemede",
+    "ip": "88.234.229.64",
+    "customerName": "Ekrem  Aydoğan",
+    "phone": "5558513470",
+    "address": "Yıldırım Beyazıt mah 1.yayla sk çağdaş kent sitesi b1 blok daire5\n",
+    "city": "Kütahya ",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
