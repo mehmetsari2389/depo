@@ -20911,5 +20911,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1452,
+    "date": "28.11.2025 01:07:52",
+    "status": "Beklemede",
+    "ip": "88.236.167.37",
+    "customerName": "Abdurrahman  Korkmaz ",
+    "phone": "05529367262",
+    "address": "Mevlana Halit Mah 448 sok Kaya kent sitesi C blok kat 2 no7 bağlar Diyarbakir ",
+    "city": "DİYARBAKİR ",
+    "district": "BAGLAR ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
