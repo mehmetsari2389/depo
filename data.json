@@ -20431,5 +20431,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1420,
+    "date": "27.11.2025 21:15:40",
+    "status": "Beklemede",
+    "ip": "176.90.160.63",
+    "customerName": "Mustafa Aktaş",
+    "phone": "+905437102763",
+    "address": "Birecik aras karko",
+    "city": "Şanlıurfa",
+    "district": "Birecik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
