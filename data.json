@@ -20206,5 +20206,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1405,
+    "date": "27.11.2025 18:58:59",
+    "status": "Beklemede",
+    "ip": "5.46.12.94",
+    "customerName": "Ali murat  Kaplan ",
+    "phone": "5528956971",
+    "address": "Hacı Halil mahallesi gümüş sokak no 15 ",
+    "city": "Karabük ",
+    "district": "Safranbolu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "2",
+    "cargoPayment": "aras-nakit"
   }
 ]
