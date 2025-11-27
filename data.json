@@ -19651,5 +19651,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1368,
+    "date": "27.11.2025 12:34:03",
+    "status": "Beklemede",
+    "ip": "176.240.213.8",
+    "customerName": "Çalap Kirlioğlu",
+    "phone": "0(551) 087 65 35",
+    "address": "Cumhuriyet, 668. Sk. No:2",
+    "city": "Antalya",
+    "district": "Kepez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
