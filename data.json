@@ -20026,5 +20026,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1393,
+    "date": "27.11.2025 16:52:39",
+    "status": "Beklemede",
+    "ip": "78.184.189.184",
+    "customerName": "İsmail Avlar",
+    "phone": "+905303148483",
+    "address": "İstasyon mah ürgüplu cad no 11hadımkoy  arnavutköy istanbul bereket döner",
+    "city": "İstanbul",
+    "district": "Arnavutköy",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
