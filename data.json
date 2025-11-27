@@ -20851,5 +20851,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1448,
+    "date": "28.11.2025 00:26:09",
+    "status": "Beklemede",
+    "ip": "46.104.12.144",
+    "customerName": "Faruk  Aydın ",
+    "phone": "5015507647",
+    "address": "Mengi SK no/6 c Sahrayıcedit Kadıköy \nSahra yunus balıkçılık ",
+    "city": "İstanbul ",
+    "district": "Kadıköy ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
