@@ -19171,5 +19171,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1336,
+    "date": "27.11.2025 08:08:53",
+    "status": "Beklemede",
+    "ip": "176.227.104.157",
+    "customerName": "Salih Tangut ",
+    "phone": "+9005332530669",
+    "address": "Kazancı yokuşu No:39/3 Emek Apt.Gümüşsuyu mah.Taksim-Beyoğlu/İstanbul ",
+    "city": "İstanbul",
+    "district": "Beyoğlu",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
