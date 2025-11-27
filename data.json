@@ -20416,5 +20416,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1419,
+    "date": "27.11.2025 21:13:47",
+    "status": "Beklemede",
+    "ip": "46.221.156.244",
+    "customerName": "Yasin Ayan",
+    "phone": "05468548284",
+    "address": "Karşıyaka Ptt  Posta kargo binası Merkez Tokat",
+    "city": "Tokat",
+    "district": "Tokat Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
