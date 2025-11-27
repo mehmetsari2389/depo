@@ -20371,5 +20371,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1416,
+    "date": "27.11.2025 20:33:47",
+    "status": "Beklemede",
+    "ip": "78.190.162.69",
+    "customerName": "umit sarigenc",
+    "phone": "5320637465",
+    "address": "Perinthos emlak",
+    "city": "Tekirdağ",
+    "district": "Marmara ereğlisi",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
