@@ -20506,5 +20506,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1424,
+    "date": "27.11.2025 21:52:46",
+    "status": "Beklemede",
+    "ip": "95.12.121.166",
+    "customerName": "Halil Tas",
+    "phone": "5448198731",
+    "address": "Hüsnü Karakaş, 3639. Sk. No:19",
+    "city": "Antalya",
+    "district": "Kepez",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
