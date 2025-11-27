@@ -20806,5 +20806,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1445,
+    "date": "27.11.2025 23:57:08",
+    "status": "Beklemede",
+    "ip": "88.228.64.5",
+    "customerName": "Aydın Kaan",
+    "phone": "05426693046",
+    "address": "Şirinevler mahallesi 23.sok no 5/1/1",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
