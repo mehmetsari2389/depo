@@ -20281,5 +20281,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1410,
+    "date": "27.11.2025 20:02:01",
+    "status": "Beklemede",
+    "ip": "176.88.111.154",
+    "customerName": "Murat Uçar",
+    "phone": "5369588192",
+    "address": "Serdar mah. Molla hüsrev cad. 2. Ada 5. Blok No:27 Daire:12 Başiskele/Kocaeli",
+    "city": "Kocaeli",
+    "district": "Başiskele",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
