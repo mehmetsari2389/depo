@@ -19081,5 +19081,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1330,
+    "date": "27.11.2025 04:24:25",
+    "status": "Beklemede",
+    "ip": "176.220.139.154",
+    "customerName": "Fatih Arslan",
+    "phone": "5052305880",
+    "address": "Tefikiye mah 88 sokak çağdaş sitesi no 42 kat 1",
+    "city": "Manisa ",
+    "district": "Kırkağaç",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
