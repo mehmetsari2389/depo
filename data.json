@@ -19681,5 +19681,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1370,
+    "date": "27.11.2025 13:04:44",
+    "status": "Beklemede",
+    "ip": "78.163.119.226",
+    "customerName": "Zehra  Akar ",
+    "phone": "5394724039",
+    "address": "Mehterçeşme mh 1870 SK no 17 daire 2 Esenyurt İstanbul Zehra akar ",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
