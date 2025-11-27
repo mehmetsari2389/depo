@@ -19396,5 +19396,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1351,
+    "date": "27.11.2025 10:27:11",
+    "status": "Beklemede",
+    "ip": "37.155.147.5",
+    "customerName": "Mesut  Işık ",
+    "phone": "5452523371",
+    "address": "Aşağı mahalle Cami altı mesut bakkal ",
+    "city": "Batman ",
+    "district": "Sason ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
