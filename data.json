@@ -19456,5 +19456,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1355,
+    "date": "27.11.2025 10:51:51",
+    "status": "Beklemede",
+    "ip": "149.34.198.1",
+    "customerName": "Tuncay  Atar ",
+    "phone": "05333314650",
+    "address": "Atatürk mahallesi özgür sokak no 27 kat1",
+    "city": "İzmir ",
+    "district": "Beydağ ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
