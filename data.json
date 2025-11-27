@@ -19306,5 +19306,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1345,
+    "date": "27.11.2025 09:55:10",
+    "status": "Beklemede",
+    "ip": "176.219.232.8",
+    "customerName": "Lütfullah  Bektaş ",
+    "phone": "05368366840",
+    "address": "Elazığ merkez ",
+    "city": "Elazığ ",
+    "district": "Palu ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
