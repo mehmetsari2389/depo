@@ -20821,5 +20821,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1446,
+    "date": "28.11.2025 00:22:53",
+    "status": "Beklemede",
+    "ip": "178.240.186.217",
+    "customerName": "Ahmet  Yıldız ",
+    "phone": "5360290324",
+    "address": "Çürür mah 102 nolu cadde çam halı Isparta Merkez",
+    "city": "Isparta",
+    "district": "Merkez",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
