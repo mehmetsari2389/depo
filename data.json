@@ -19561,5 +19561,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1362,
+    "date": "27.11.2025 11:43:05",
+    "status": "Beklemede",
+    "ip": "5.47.158.193",
+    "customerName": "Oğuzhan  Sevindik",
+    "phone": "05426208919",
+    "address": "Akşemsettin mahallesi Orhangazi caddesi No:144 D.3",
+    "city": "İSTANBUL",
+    "district": "Sultanbeyli",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
