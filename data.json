@@ -20671,5 +20671,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1436,
+    "date": "27.11.2025 23:03:12",
+    "status": "Beklemede",
+    "ip": "88.251.233.155",
+    "customerName": "Talha  Mavigök ",
+    "phone": "5528917776",
+    "address": "Kalyoncu kulluğu mah ömerhayyam cad no_37 D3 ",
+    "city": "İstanbul ",
+    "district": "Beyoğlu ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
