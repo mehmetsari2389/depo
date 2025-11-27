@@ -20581,5 +20581,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1430,
+    "date": "27.11.2025 22:10:39",
+    "status": "Beklemede",
+    "ip": "188.58.60.111",
+    "customerName": "Serdar Topal",
+    "phone": "5425998982",
+    "address": "Akkuyu mah 1021 sok no 3 d barış apt ",
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
