@@ -19531,5 +19531,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1359,
+    "date": "27.11.2025 11:37:27",
+    "status": "Beklemede",
+    "ip": "5.229.188.36",
+    "customerName": "Aslan Konak",
+    "phone": "5436609638",
+    "address": "Kıratlı mah. Siyah taş sokak 1 ipekyolu van",
+    "city": "Van",
+    "district": "İpekyolu",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
