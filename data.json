@@ -19291,5 +19291,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1344,
+    "date": "27.11.2025 09:53:20",
+    "status": "Beklemede",
+    "ip": "46.154.16.158",
+    "customerName": "Ahmet Yetim",
+    "phone": "05056729249",
+    "address": "Sehi tsamiakbulut CAD.Gazipasa Mah.Gulfidan Apt. 93/2Dikli",
+    "city": "İzmir",
+    "district": "Dikili",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
