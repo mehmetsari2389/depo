@@ -19591,5 +19591,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1364,
+    "date": "27.11.2025 12:04:48",
+    "status": "Beklemede",
+    "ip": "176.220.131.16",
+    "customerName": "Hüsyin Dursun",
+    "phone": "+905379474873",
+    "address": "İzmir Konak göztepe mahallesi 88 sokak no 2 daire 45",
+    "city": "İzmir",
+    "district": "Konak",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
