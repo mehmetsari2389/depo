@@ -19771,5 +19771,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1375,
+    "date": "27.11.2025 14:19:33",
+    "status": "Beklemede",
+    "ip": "178.243.33.16",
+    "customerName": "Yusuf Hacceablagil",
+    "phone": "+5347169450",
+    "address": "Yusuf Hacceablagil MELEK demek ki neymiş bu ",
+    "city": "Yusuf Hacceablagil ",
+    "district": "Yusuf Hacceablagil ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
