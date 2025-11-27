@@ -19441,5 +19441,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1354,
+    "date": "27.11.2025 10:47:59",
+    "status": "Beklemede",
+    "ip": "5.177.129.72",
+    "customerName": "Ahmet  Bilgiç",
+    "phone": "5445601167",
+    "address": "Şamlı mah .3000.bağlar sokağı hacı mehmet bilgiç apt. Kat 3 no:5 merkez /Aksaray ",
+    "city": "AKSARAY",
+    "district": "MERKEZ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
