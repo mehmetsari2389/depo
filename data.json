@@ -20956,5 +20956,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1455,
+    "date": "28.11.2025 01:55:08",
+    "status": "Beklemede",
+    "ip": "79.127.141.113",
+    "customerName": "İsmail pınar",
+    "phone": "05327629551",
+    "address": "Karargahtepe mahallesi atış caddesi 10 /A Keçiören Ankara Volkan kırtasiye",
+    "city": "ankara",
+    "district": "keçiören",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
