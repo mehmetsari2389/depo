@@ -20866,5 +20866,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1449,
+    "date": "28.11.2025 00:31:36",
+    "status": "Beklemede",
+    "ip": "178.246.85.145",
+    "customerName": "Emrullah  Şimşek ",
+    "phone": "05396044519",
+    "address": "Saraykent mahallesi primall avm karşısı karagönler kasap fırın",
+    "city": "Hatay",
+    "district": "Antakya",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
