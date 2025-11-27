@@ -20521,5 +20521,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1426,
+    "date": "27.11.2025 21:54:32",
+    "status": "Beklemede",
+    "ip": "5.229.53.62",
+    "customerName": "sunay sahin",
+    "phone": "+905444943305",
+    "address": "Aydınlar, Aydınlar Köyü Yolu",
+    "city": "Mersin",
+    "district": "Erdemli",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
