@@ -20356,5 +20356,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1415,
+    "date": "27.11.2025 20:26:14",
+    "status": "Beklemede",
+    "ip": "176.54.161.48",
+    "customerName": "Serkan Gavaz",
+    "phone": "05362053708",
+    "address": "Salgamlı Mah Menders Cad No39",
+    "city": "Tekirdağ",
+    "district": "Hayrabolu",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
