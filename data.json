@@ -19126,5 +19126,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1332,
+    "date": "27.11.2025 06:32:23",
+    "status": "Beklemede",
+    "ip": "178.243.203.18",
+    "customerName": "Okan Dedemen",
+    "phone": "05413967467",
+    "address": "Dumlupınar mah.63 sokak no iç kapı 5",
+    "city": "Kocaeli",
+    "district": "Gölcük ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
