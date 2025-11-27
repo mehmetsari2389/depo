@@ -19156,5 +19156,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1335,
+    "date": "27.11.2025 08:03:11",
+    "status": "Beklemede",
+    "ip": "188.57.40.220",
+    "customerName": "Mehmet  Kasımoğlu ",
+    "phone": "05354580578",
+    "address": "Orta Hopa mah liman taksi durağı ",
+    "city": "Artvin ",
+    "district": "Hopa",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
