@@ -20296,5 +20296,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1411,
+    "date": "27.11.2025 20:06:49",
+    "status": "Beklemede",
+    "ip": "46.155.243.128",
+    "customerName": "Atif Baskaya",
+    "phone": "05415002587",
+    "address": "Belen TOKİ a5 ",
+    "city": "Karabük",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
