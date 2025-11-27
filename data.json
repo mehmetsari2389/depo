@@ -20941,5 +20941,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1453,
+    "date": "28.11.2025 01:35:07",
+    "status": "Beklemede",
+    "ip": "31.143.200.162",
+    "customerName": "Dogan Gologlu",
+    "phone": "05459385177",
+    "address": "Karakaş mahallesi Fevzi çakmak geçidi Gürpınar pasajı no 6 Burcu Çay Evi ",
+    "city": "Kırklareli ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
