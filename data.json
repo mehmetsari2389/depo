@@ -20551,5 +20551,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1428,
+    "date": "27.11.2025 21:59:10",
+    "status": "Beklemede",
+    "ip": "5.229.53.62",
+    "customerName": "sunay sahin",
+    "phone": "+905444943305",
+    "address": "kocahasanli mah okul cad no 7/3",
+    "city": "Mersin",
+    "district": "Erdemli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
