@@ -20041,5 +20041,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1394,
+    "date": "27.11.2025 17:38:47",
+    "status": "Beklemede",
+    "ip": "176.227.52.4",
+    "customerName": "Çapan Kızıl",
+    "phone": "5398323462",
+    "address": "Tatlıkuyu mah 1308sokak no21 kızıl apt kat 4 daire 6",
+    "city": "Kocaeli",
+    "district": "Gebze",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
