@@ -19096,5 +19096,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1331,
+    "date": "27.11.2025 04:48:05",
+    "status": "Beklemede",
+    "ip": "78.182.153.33",
+    "customerName": "Azmi İstıpoğlu",
+    "phone": "5384317398",
+    "address": "Selımpasamah ıstıf kent sıtesı 3094sok otel family",
+    "city": "Istanbul",
+    "district": "Sılıvrı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
