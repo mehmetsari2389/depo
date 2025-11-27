@@ -20596,5 +20596,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1431,
+    "date": "27.11.2025 22:14:23",
+    "status": "Beklemede",
+    "ip": "88.249.140.209",
+    "customerName": "Selçuk Kaya",
+    "phone": "5075696935",
+    "address": "Gülbahar mah. Recep teyyip erdoğan bulvarı çınarkent sitesi B blok kat.11 No.31",
+    "city": "Rize",
+    "district": "Merkez",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
