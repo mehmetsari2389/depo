@@ -20146,5 +20146,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1401,
+    "date": "27.11.2025 18:33:54",
+    "status": "Beklemede",
+    "ip": "78.190.252.88",
+    "customerName": "Mehmet İmga",
+    "phone": "05326247811",
+    "address": "Siz utanmadınızmı beni dolandırdız ben hakımı helal etmiyorum aldığınız param heram olsun size. Mehmet imga Malatya ",
+    "city": "Malatya ",
+    "district": "Battalgazi ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
