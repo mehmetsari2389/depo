@@ -19816,5 +19816,20 @@
     "size": "M",
     "quantity": "10",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1379,
+    "date": "27.11.2025 14:43:20",
+    "status": "Beklemede",
+    "ip": "176.216.146.233",
+    "customerName": "Halis Perindag",
+    "phone": "05323766410",
+    "address": "Gungoren cd 66:A NARLIDERE IZMIR",
+    "city": "Izmir",
+    "district": "Narlidere",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
