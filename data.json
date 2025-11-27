@@ -20656,5 +20656,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1434,
+    "date": "27.11.2025 22:53:24",
+    "status": "Beklemede",
+    "ip": "188.3.112.199",
+    "customerName": "Mehmet Koşar",
+    "phone": "0 (534) 492 7590",
+    "address": "Bahçelievler mah 3081 şok 494 ada A blok No 60 dayre 9 ",
+    "city": "Balıkesir",
+    "district": "Burhaniye",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
