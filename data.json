@@ -20401,5 +20401,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1418,
+    "date": "27.11.2025 20:51:57",
+    "status": "Beklemede",
+    "ip": "88.229.102.48",
+    "customerName": "Muhammed  Cakar",
+    "phone": "0(536) 620 73 00",
+    "address": "AB-513/21.5\nTOKi\nŞırnak merkez\nGaratasray PTT Kargo gelsin",
+    "city": "Şırnak",
+    "district": "Şırnak Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
