@@ -20011,5 +20011,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1392,
+    "date": "27.11.2025 16:36:45",
+    "status": "Beklemede",
+    "ip": "149.140.15.101",
+    "customerName": "Faruk  Demir",
+    "phone": "05414004704",
+    "address": "Ağrı merkez",
+    "city": "L",
+    "district": "Merkes",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
