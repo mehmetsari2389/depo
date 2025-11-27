@@ -19891,5 +19891,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1384,
+    "date": "27.11.2025 15:21:05",
+    "status": "Beklemede",
+    "ip": "85.153.237.193",
+    "customerName": "Ekrem Sahin",
+    "phone": "+905324257493",
+    "address": "Toros MH 78200no 3 talip apt ",
+    "city": "Adana",
+    "district": "Çukurova",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
