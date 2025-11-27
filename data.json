@@ -19936,5 +19936,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1387,
+    "date": "27.11.2025 15:32:40",
+    "status": "Beklemede",
+    "ip": "88.229.134.128",
+    "customerName": "İsmail Dirican",
+    "phone": "5416832039",
+    "address": "Yenikent mahallesi kazım çağlayan sokak no 58 Kırşehir AKÇAKENT ",
+    "city": "Kırşehir ",
+    "district": "Akçakent ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
