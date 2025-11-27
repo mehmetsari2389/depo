@@ -19861,5 +19861,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1382,
+    "date": "27.11.2025 15:14:48",
+    "status": "Beklemede",
+    "ip": "46.106.122.36",
+    "customerName": "Murat  Kuzgunoğlu ",
+    "phone": "05015559839",
+    "address": "50. yıl mahallesi 2036 sokak no 20 kat üç Sultangazi İstanbul",
+    "city": "İstanbul ",
+    "district": "Sultangazi ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
