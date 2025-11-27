@@ -20086,5 +20086,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1397,
+    "date": "27.11.2025 18:00:42",
+    "status": "Beklemede",
+    "ip": "149.140.130.180",
+    "customerName": "Hasan Demir",
+    "phone": "05454775773",
+    "address": "Malkara kozyörük karaçay caddesi no.62/1",
+    "city": "Tekirdağ",
+    "district": "Malkara",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
