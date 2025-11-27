@@ -19246,5 +19246,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1341,
+    "date": "27.11.2025 09:02:59",
+    "status": "Beklemede",
+    "ip": "176.234.184.158",
+    "customerName": "Recep şaban  Yakar ",
+    "phone": "05323100227",
+    "address": "Seyrantepe, 65003. Cd21apt 43",
+    "city": "Gaziantep",
+    "district": "Şehitkamil",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
