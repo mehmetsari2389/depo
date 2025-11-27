@@ -19921,5 +19921,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1385,
+    "date": "27.11.2025 15:21:41",
+    "status": "Beklemede",
+    "ip": "78.186.245.82",
+    "customerName": "Erkan  Ural ",
+    "phone": "5464089160",
+    "address": "Lalapaşa mah 3603 sok 48/4 nazar apt Manisa yunusemre ",
+    "city": "Manisa ",
+    "district": "Yunusemre ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
