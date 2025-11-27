@@ -20071,5 +20071,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1396,
+    "date": "27.11.2025 17:40:20",
+    "status": "Beklemede",
+    "ip": "46.106.10.9",
+    "customerName": "Maşallah  Özel",
+    "phone": "05416730450",
+    "address": "Kazım dırık caddesi eski Mutki durağı yıldız market no 120",
+    "city": "Bitlis",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
