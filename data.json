@@ -20326,5 +20326,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1413,
+    "date": "27.11.2025 20:10:10",
+    "status": "Beklemede",
+    "ip": "5.176.98.100",
+    "customerName": "Yılmaz  Ersidar ",
+    "phone": "05518986477",
+    "address": "Dikilitaş mah 2ci bigin sok no 7 ",
+    "city": "Uşak ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
