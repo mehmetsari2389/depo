@@ -20461,5 +20461,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1422,
+    "date": "27.11.2025 21:47:37",
+    "status": "Beklemede",
+    "ip": "78.162.41.253",
+    "customerName": "Ali Rıza  Ozer",
+    "phone": "05336562287",
+    "address": "Kizlar punar949  Ali nazim sokak  no dot dayre bir akman apartmanı ",
+    "city": "Antalya ",
+    "district": "Alanya",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
