@@ -20986,5 +20986,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1456,
+    "date": "28.11.2025 02:29:06",
+    "status": "Beklemede",
+    "ip": "78.181.151.236",
+    "customerName": "Emre Dikici",
+    "phone": "5454802353",
+    "address": "Gemici mahallesi doktor cihat aytac caddesi 2 mantıkdede sokak no.22",
+    "city": "Çorum ",
+    "district": "Osmancık ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
