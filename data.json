@@ -20101,5 +20101,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1398,
+    "date": "27.11.2025 18:05:03",
+    "status": "Beklemede",
+    "ip": "5.47.88.159",
+    "customerName": "Ecevit  Duraklı",
+    "phone": "05078575453",
+    "address": "Agacbeyli köyü Sivaslı Uşak\n",
+    "city": "Uşak'",
+    "district": "Sivaslı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
