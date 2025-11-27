@@ -19486,5 +19486,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1357,
+    "date": "27.11.2025 11:22:26",
+    "status": "Beklemede",
+    "ip": "31.206.106.157",
+    "customerName": "Fatma Teker",
+    "phone": "5458645263",
+    "address": "Kuzeyyaka mahallesi 2508 sokak İnci apartmanı kat 4 daire 8 Kepez Antalya ",
+    "city": "Antalya ",
+    "district": "Kepez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
