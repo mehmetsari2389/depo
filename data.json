@@ -20386,5 +20386,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1417,
+    "date": "27.11.2025 20:42:39",
+    "status": "Beklemede",
+    "ip": "88.230.170.208",
+    "customerName": "Şenol  Yüksel ",
+    "phone": "05330938654",
+    "address": "Pazar taksi durağı sapanca sakarya ",
+    "city": "Sakarya ",
+    "district": "Sapanca ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
