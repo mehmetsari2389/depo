@@ -20191,5 +20191,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1404,
+    "date": "27.11.2025 18:39:57",
+    "status": "Beklemede",
+    "ip": "31.223.109.225",
+    "customerName": "Mehmet Atilgan",
+    "phone": "+90 550 603 6104",
+    "address": "Ertuğrul Gazi Mahallesi Kartal Sokak No 6 Daire 1",
+    "city": "Bursa ",
+    "district": "İnegöl ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
