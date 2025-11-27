@@ -19606,5 +19606,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1365,
+    "date": "27.11.2025 12:17:57",
+    "status": "Beklemede",
+    "ip": "78.176.98.127",
+    "customerName": "Mirhat  Budak ",
+    "phone": "5227893957",
+    "address": "Kooperatifler mahallesi şair sırrı hanım sokak Hilal Apartmanı kat 6 no 27 Yenişehir Diyarbakır ",
+    "city": "Yenişehir",
+    "district": "Diyarbakır ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
