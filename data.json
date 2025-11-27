@@ -19381,5 +19381,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1350,
+    "date": "27.11.2025 10:25:58",
+    "status": "Beklemede",
+    "ip": "176.240.68.71",
+    "customerName": "Tekin Öztürk",
+    "phone": "5323367061",
+    "address": "Ali sepici bulvarı Toros mahallesi zippolounge cafe",
+    "city": "Adana",
+    "district": "Çukurova",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
