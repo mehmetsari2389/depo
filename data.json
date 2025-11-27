@@ -19141,5 +19141,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1334,
+    "date": "27.11.2025 07:02:15",
+    "status": "Beklemede",
+    "ip": "94.123.232.175",
+    "customerName": "Soner Taçyıldız ",
+    "phone": "05015797134",
+    "address": "Aydınlar mahallesi cumhuriyet caddesi çay sokak no 4 daire 4",
+    "city": "İstanbul ",
+    "district": "Cekmekoy",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
