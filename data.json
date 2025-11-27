@@ -20791,5 +20791,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1444,
+    "date": "27.11.2025 23:37:57",
+    "status": "Beklemede",
+    "ip": "88.234.235.164",
+    "customerName": "Oğuzhan Şeftalici",
+    "phone": "05414938233",
+    "address": "Seytan mah.bostan sk no 20/1 Yeşilyurt malatya",
+    "city": "Malatya",
+    "district": "Yeşilyurt",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
