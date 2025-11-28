@@ -22051,5 +22051,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1528,
+    "date": "28.11.2025 17:53:48",
+    "status": "Beklemede",
+    "ip": "46.221.202.8",
+    "customerName": "MUSTAFA  ÖNALAN ",
+    "phone": "(542) 594-2141",
+    "address": "Biga Kadastro Birimi  Hamdibey Mahallesi İstiklal Caddesi No:260/1 Biga/Çanakkale ",
+    "city": "Çanakkale",
+    "district": "Biga ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
