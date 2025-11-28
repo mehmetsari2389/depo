@@ -21511,5 +21511,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1490,
+    "date": "28.11.2025 12:27:13",
+    "status": "Beklemede",
+    "ip": "151.135.127.39",
+    "customerName": "Emrah Aslan",
+    "phone": "5526552851",
+    "address": "Mahmutbey mah.karaoğlanoğlu CAD no 15 DOĞUŞ KALIP \nBağcılar  İstanbul ",
+    "city": "İstanbul ",
+    "district": "Bağcılar ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
