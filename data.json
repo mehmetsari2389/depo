@@ -21946,5 +21946,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1520,
+    "date": "28.11.2025 17:01:04",
+    "status": "Beklemede",
+    "ip": "85.108.176.110",
+    "customerName": "Muhammet  GÖRÜN ",
+    "phone": "05305106781",
+    "address": "Çay mah 581 sokak no 4 merkez düzce ",
+    "city": "Düzce ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
