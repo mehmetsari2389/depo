@@ -21871,5 +21871,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1516,
+    "date": "28.11.2025 16:49:31",
+    "status": "Beklemede",
+    "ip": "176.227.73.238",
+    "customerName": "Gokhan keser Keser",
+    "phone": "5345299356",
+    "address": "Fethiye mah gonca sok no 7 d1",
+    "city": "Bursa",
+    "district": "Nilufer",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
