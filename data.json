@@ -21796,5 +21796,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1511,
+    "date": "28.11.2025 16:17:09",
+    "status": "Beklemede",
+    "ip": "5.46.56.84",
+    "customerName": "Engin Kalkancı",
+    "phone": "05010100678",
+    "address": "Karabük merkeze bağlı cumayanı köyü no 121",
+    "city": "Karabük",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
