@@ -21631,5 +21631,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1500,
+    "date": "28.11.2025 13:56:52",
+    "status": "Beklemede",
+    "ip": "188.57.20.210",
+    "customerName": "Turan Güzem",
+    "phone": "5434463897",
+    "address": "Van ipekyolu şerifte mah ayaz 4 sok",
+    "city": "Van",
+    "district": "İpekyolu",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
