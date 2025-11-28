@@ -21526,5 +21526,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1493,
+    "date": "28.11.2025 12:28:38",
+    "status": "Beklemede",
+    "ip": "82.222.170.42",
+    "customerName": "İlhami anac",
+    "phone": "5462264984",
+    "address": "Balık yol mal 476 sok \nNo 8 daire 8\nEsenyurt istanbul",
+    "city": "İstambul",
+    "district": "Esebyurt",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
