@@ -22171,5 +22171,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1536,
+    "date": "28.11.2025 18:55:27",
+    "status": "Beklemede",
+    "ip": "78.174.153.251",
+    "customerName": "Figen  Yıldırım ",
+    "phone": "05058123230",
+    "address": "Kursunluk MH yağmur SK 1A blok d 12 merkez UŞAK ",
+    "city": "Uşak ",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
