@@ -22456,5 +22456,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1555,
+    "date": "28.11.2025 23:02:39",
+    "status": "Beklemede",
+    "ip": "213.194.117.82",
+    "customerName": "Sedat Başaran ",
+    "phone": "05359563847",
+    "address": "Bulut tepe 343/11/no11",
+    "city": "Hatay ",
+    "district": "İskenderun ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
