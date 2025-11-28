@@ -22006,5 +22006,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1525,
+    "date": "28.11.2025 17:35:08",
+    "status": "Beklemede",
+    "ip": "178.240.143.254",
+    "customerName": "Ayhan  Arıman ",
+    "phone": "05360572207",
+    "address": "Zeytinlik mahallesi 7916 sokak numara altı Sesa tente çadır.",
+    "city": "Antalya ",
+    "district": "Kepez ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
