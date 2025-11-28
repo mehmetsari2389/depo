@@ -22636,5 +22636,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1567,
+    "date": "29.11.2025 02:00:38",
+    "status": "Beklemede",
+    "ip": "5.47.124.72",
+    "customerName": "Hasan  Karaman ",
+    "phone": "5530510628",
+    "address": "Gazi Mustafa Kemal Caddesi N0.152.Espiye Güven çay.ocağı.",
+    "city": "Giresun ",
+    "district": "Espiye ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
