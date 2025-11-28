@@ -22066,5 +22066,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1529,
+    "date": "28.11.2025 18:05:05",
+    "status": "Beklemede",
+    "ip": "24.133.154.164",
+    "customerName": "Birol  Sarıteke ",
+    "phone": "0535 249 21 21",
+    "address": "Server",
+    "city": "Denizli il",
+    "district": "Merkezefendi ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
