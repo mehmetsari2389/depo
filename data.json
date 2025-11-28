@@ -21001,5 +21001,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1458,
+    "date": "28.11.2025 03:20:56",
+    "status": "Beklemede",
+    "ip": "5.229.51.219",
+    "customerName": "Metehan  Han",
+    "phone": "5454561861",
+    "address": "Yasin haşimoğlu mahallesi coşkun sokak demir evler b blok bodrum kat",
+    "city": "Erzurum ",
+    "district": "Oltu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
