@@ -22291,5 +22291,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1544,
+    "date": "28.11.2025 20:41:42",
+    "status": "Beklemede",
+    "ip": "176.54.211.104",
+    "customerName": "Naci Dönüş",
+    "phone": "05455210415",
+    "address": "Aras kargo\n",
+    "city": "K. Maraş",
+    "district": "Afşin",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
