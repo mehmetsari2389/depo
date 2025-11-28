@@ -21046,5 +21046,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1461,
+    "date": "28.11.2025 07:14:43",
+    "status": "Beklemede",
+    "ip": "5.47.156.162",
+    "customerName": "Mücahit  Erikçi",
+    "phone": "5515566182",
+    "address": "Osman gazi mah Polat caddesi sancaktepe istanbul ",
+    "city": "İstanbul ",
+    "district": "Sancaktepe",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
