@@ -21271,5 +21271,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1476,
+    "date": "28.11.2025 10:05:40",
+    "status": "Beklemede",
+    "ip": "31.143.203.134",
+    "customerName": "Ahmet Gurbuz",
+    "phone": "05303442960",
+    "address": "İitelli o s b aykosan. San sit 4lü D blk no 220 kat 5  Başakşehir İstanbul ",
+    "city": "İstanbul",
+    "district": "Başakşehir ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
