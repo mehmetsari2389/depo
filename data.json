@@ -21406,5 +21406,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1485,
+    "date": "28.11.2025 12:18:17",
+    "status": "Beklemede",
+    "ip": "176.55.221.95",
+    "customerName": "Metin  Algūl ",
+    "phone": "5454345506",
+    "address": "Uşak cumhuriyet mahallesi yıldırım sanayi sitesi2 sanayi site sokak no 2 ",
+    "city": "Uşak",
+    "district": "Merkez",
+    "product": "Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
