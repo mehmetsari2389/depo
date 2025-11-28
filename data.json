@@ -22321,5 +22321,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1546,
+    "date": "28.11.2025 20:51:42",
+    "status": "Beklemede",
+    "ip": "85.100.77.17",
+    "customerName": "Haşim Şahin",
+    "phone": "05389179676",
+    "address": "Aşağı mahalle atatürk bulvarı no 116 Serinhisar Denizli öztadım taşfırın",
+    "city": "Denizli ",
+    "district": "Serinhisar ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
