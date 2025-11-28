@@ -21061,5 +21061,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1462,
+    "date": "28.11.2025 07:26:30",
+    "status": "Beklemede",
+    "ip": "176.54.58.1",
+    "customerName": "Hüseyin  Yıldız",
+    "phone": "5427422644",
+    "address": "Ocaklar mahallesi fikri paşa caddesi no 139 sokak 45 ",
+    "city": "Gaziantep ",
+    "district": "Şahinbey ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
