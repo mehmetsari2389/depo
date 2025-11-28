@@ -21121,5 +21121,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1466,
+    "date": "28.11.2025 07:57:51",
+    "status": "Beklemede",
+    "ip": "188.57.72.45",
+    "customerName": "Furkan Yılmaz",
+    "phone": "05349606314",
+    "address": "Bursa nilüfer dumlupınar mah. Cemre SK hilton12 evleri C blok kat1   daire 21",
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
