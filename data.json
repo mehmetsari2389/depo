@@ -22561,5 +22561,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1562,
+    "date": "29.11.2025 00:51:54",
+    "status": "Beklemede",
+    "ip": "178.244.199.32",
+    "customerName": "Abdullah  Peker",
+    "phone": "0 (544) 832 43 37",
+    "address": "Çukurbağ Mah. Gebeşoğlu Sok. Akıntaş Ap.45.  Kat.1 Daire.3\nİzmit.Kocaeli",
+    "city": "Kocaeli",
+    "district": "İzmit",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
