@@ -22486,5 +22486,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1556,
+    "date": "28.11.2025 23:43:02",
+    "status": "Beklemede",
+    "ip": "159.146.57.203",
+    "customerName": "Ramazan  Özdemir ",
+    "phone": "05417799228",
+    "address": "Barbaros Hayrettin paşa mahallesi 1988 sokak papatya 1 rezidans kat 14 d 193",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
