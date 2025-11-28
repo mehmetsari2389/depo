@@ -22036,5 +22036,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1527,
+    "date": "28.11.2025 17:47:44",
+    "status": "Beklemede",
+    "ip": "178.247.173.152",
+    "customerName": "Ali  Kılınç ",
+    "phone": "+905393834110",
+    "address": "Bağalan mahallesi şelale sokak no 6",
+    "city": "izmir ",
+    "district": "Kınık ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
