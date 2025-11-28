@@ -21091,5 +21091,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1464,
+    "date": "28.11.2025 07:36:20",
+    "status": "Beklemede",
+    "ip": "88.241.70.59",
+    "customerName": "Mustafa Denktaş ",
+    "phone": "05423753758",
+    "address": "Serdaroglu mahallesi bülbül sokak no:6 kat :1",
+    "city": "Aydın",
+    "district": "Köşk",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
