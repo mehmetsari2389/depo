@@ -22531,5 +22531,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1559,
+    "date": "29.11.2025 00:25:12",
+    "status": "Beklemede",
+    "ip": "46.106.223.84",
+    "customerName": "Nuri Boçkır",
+    "phone": "05338756599",
+    "address": "Silifke yeni male 334 sok no 1",
+    "city": "Mersin",
+    "district": "Silifke",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
