@@ -21571,5 +21571,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1496,
+    "date": "28.11.2025 12:58:39",
+    "status": "Beklemede",
+    "ip": "176.237.66.170",
+    "customerName": "Selim Murali",
+    "phone": "0532 740 38 73",
+    "address": "Kavaklı konakları kavaklı mah kavaklı cad no 42 ",
+    "city": "İstanbul ",
+    "district": "Beylikdüzü ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
