@@ -22111,5 +22111,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1530,
+    "date": "28.11.2025 18:17:04",
+    "status": "Beklemede",
+    "ip": "78.190.130.206",
+    "customerName": "İlhan  Alkan",
+    "phone": "05308678008",
+    "address": "Hürriyet mahallesi 2016 sokak no 14 kat 2",
+    "city": "Kocaeli",
+    "district": "Gebze",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
