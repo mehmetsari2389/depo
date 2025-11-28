@@ -21601,5 +21601,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1498,
+    "date": "28.11.2025 13:31:12",
+    "status": "Beklemede",
+    "ip": "212.20.145.16",
+    "customerName": "Gökhan  Saygılı ",
+    "phone": "05070428390",
+    "address": "FEVZİ çakmak mahallesi 1ci çelebi sokak no 116 kat 1 daire 1",
+    "city": "Uşak ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
