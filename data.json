@@ -21166,5 +21166,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1469,
+    "date": "28.11.2025 08:42:32",
+    "status": "Beklemede",
+    "ip": "46.155.54.80",
+    "customerName": "Serhat Çelikok",
+    "phone": "5415359860",
+    "address": "Ankara üniversitesi\n",
+    "city": "Ankara",
+    "district": "Evet",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
