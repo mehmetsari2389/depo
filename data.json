@@ -21376,5 +21376,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1483,
+    "date": "28.11.2025 11:18:35",
+    "status": "Beklemede",
+    "ip": "78.174.69.81",
+    "customerName": "alipaşa başkanzade",
+    "phone": "05425855905",
+    "address": "Aksu Vergi Daresi Yamaçtepe mah. Dr.Mustafa Bey Cad. No:11/A Onikişubat/K.MARAŞ",
+    "city": "Kahramanmaraş",
+    "district": "Onikişubat",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
