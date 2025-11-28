@@ -21256,5 +21256,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1475,
+    "date": "28.11.2025 09:53:09",
+    "status": "Beklemede",
+    "ip": "185.241.101.49",
+    "customerName": "hakan çarkcı",
+    "phone": "5469187972",
+    "address": "şamlar mh ismail topçam sok no 19                                                            amasya",
+    "city": "amasya",
+    "district": "merkez",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
