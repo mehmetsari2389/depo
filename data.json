@@ -21856,5 +21856,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1515,
+    "date": "28.11.2025 16:39:09",
+    "status": "Beklemede",
+    "ip": "88.231.56.240",
+    "customerName": "Furkan  Can",
+    "phone": "05384319561",
+    "address": "Nuroğlu mah.Arsin Organize sanayi 8 nolu cad. no:3 mekap Deri ayakkabı Arsin/Trabzon",
+    "city": "Trabzon ",
+    "district": "Arsin",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
