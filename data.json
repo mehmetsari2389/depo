@@ -21346,5 +21346,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1481,
+    "date": "28.11.2025 10:45:00",
+    "status": "Beklemede",
+    "ip": "5.47.64.239",
+    "customerName": "Muhammet Bayram",
+    "phone": "5417728974",
+    "address": "Ahmed Bedevi mahallesi 551 sokak no.57 kat.1",
+    "city": "Manisa ",
+    "district": "Şehzadeler ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
