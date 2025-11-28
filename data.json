@@ -22441,5 +22441,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1554,
+    "date": "28.11.2025 22:29:05",
+    "status": "Beklemede",
+    "ip": "176.54.187.32",
+    "customerName": "Murat Dursun",
+    "phone": "5358664470",
+    "address": "Yenidoğan mahallesi neşe sokak no 11",
+    "city": "Amasya",
+    "district": "Suluova ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
