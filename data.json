@@ -21031,5 +21031,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1459,
+    "date": "28.11.2025 07:06:19",
+    "status": "Beklemede",
+    "ip": "88.234.38.195",
+    "customerName": "İsmail  Köçet",
+    "phone": "5443206022",
+    "address": "Aşçıoğlu mahallesi kazım karabekir çıkmazı no3 uzunköprü Edirne ",
+    "city": "Edirne ",
+    "district": "Uzunköprü ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
