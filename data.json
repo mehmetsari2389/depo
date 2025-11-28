@@ -22351,5 +22351,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1548,
+    "date": "28.11.2025 21:43:55",
+    "status": "Beklemede",
+    "ip": "78.160.203.64",
+    "customerName": "İbrahim  Çelik",
+    "phone": "05418228916",
+    "address": "General Zeki doğan mah 518 CAD 28/11 eken apartmanı",
+    "city": "Ankara",
+    "district": "Mamak",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
