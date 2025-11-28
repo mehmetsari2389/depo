@@ -22246,5 +22246,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1541,
+    "date": "28.11.2025 19:34:29",
+    "status": "Beklemede",
+    "ip": "31.145.250.243",
+    "customerName": "Abdulkadir  Esen ",
+    "phone": "05418878829",
+    "address": "İskele Mah Doktor Turgut Dündar Cad No 26/1",
+    "city": "Muğla ",
+    "district": "Datca ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
