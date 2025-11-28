@@ -21781,5 +21781,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1509,
+    "date": "28.11.2025 16:01:50",
+    "status": "Beklemede",
+    "ip": "151.250.130.166",
+    "customerName": "Selim  Murali ",
+    "phone": "0532 740 38 73",
+    "address": "Arkadaşlar beden küçük geldi XXL değişim istiyorum acil dönüş yaparmısınız ",
+    "city": "İstanbul ",
+    "district": "Beylikdüzü ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
