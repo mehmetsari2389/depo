@@ -21676,5 +21676,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1503,
+    "date": "28.11.2025 15:02:39",
+    "status": "Beklemede",
+    "ip": "176.220.155.100",
+    "customerName": "Mevlüt  Uyar ",
+    "phone": "5534261827",
+    "address": "Zafer mh Zeytinoğlu cd no 33 ",
+    "city": "Aydın ",
+    "district": "Buharkent ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
