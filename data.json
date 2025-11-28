@@ -22426,5 +22426,20 @@
     "size": "S",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1553,
+    "date": "28.11.2025 22:13:08",
+    "status": "Beklemede",
+    "ip": "46.155.86.216",
+    "customerName": "Bayram Baysu",
+    "phone": "05313381723",
+    "address": "Aktepe, mahalesi\nIkincietap\nToki ler, dilek\nApirtiman\nC, dört, dayre, dort",
+    "city": "Denizli",
+    "district": "Pamukkale",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
