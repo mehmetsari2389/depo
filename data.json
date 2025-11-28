@@ -22186,5 +22186,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1537,
+    "date": "28.11.2025 19:03:52",
+    "status": "Beklemede",
+    "ip": "176.216.167.24",
+    "customerName": "Ibrahim  Güler ",
+    "phone": "05327732195",
+    "address": "Karşıyaka Mah. Kuğukent Sitesi E.13 Blok daire 3",
+    "city": "Ordu",
+    "district": "Altınordu ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
