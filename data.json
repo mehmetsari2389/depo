@@ -21241,5 +21241,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1474,
+    "date": "28.11.2025 09:22:10",
+    "status": "Beklemede",
+    "ip": "37.155.18.118",
+    "customerName": "Salih bugra  tosunyeles",
+    "phone": "5468340199",
+    "address": "Bosna hersek mah hurkan sok no 10 /d1 selcuklu konya",
+    "city": "Konya",
+    "district": "Selcuklu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
