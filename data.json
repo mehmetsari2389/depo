@@ -21841,5 +21841,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1514,
+    "date": "28.11.2025 16:36:40",
+    "status": "Beklemede",
+    "ip": "88.231.56.240",
+    "customerName": "Furkan  Can ",
+    "phone": "05384319561",
+    "address": "Nuroğlu mah.Arsin Organize sanayi 8 nolu cad. no:3 mekap Deri ayakkabı Arsin/Trabzon",
+    "city": "Trabzon ",
+    "district": "Arsin",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
