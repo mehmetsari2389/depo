@@ -21556,5 +21556,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1495,
+    "date": "28.11.2025 12:31:51",
+    "status": "Beklemede",
+    "ip": "176.220.159.148",
+    "customerName": "Ali Kazım  Kuran ",
+    "phone": "05374292471",
+    "address": "15000 SOK No 2. Bademler Mah Urla İzmir ",
+    "city": "İzmir ",
+    "district": "Urla ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
