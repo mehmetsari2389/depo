@@ -21751,5 +21751,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1508,
+    "date": "28.11.2025 15:56:06",
+    "status": "Beklemede",
+    "ip": "5.176.50.209",
+    "customerName": "Duygu Gök Şeker",
+    "phone": "05330392042",
+    "address": "Berry blue hotel sorgun Manavgat Antalya ",
+    "city": "Antalya ",
+    "district": "Manavgat",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
