@@ -22201,5 +22201,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1538,
+    "date": "28.11.2025 19:27:26",
+    "status": "Beklemede",
+    "ip": "5.47.187.55",
+    "customerName": "Ali  Akdağ",
+    "phone": "536 646 02 70",
+    "address": "Şeyh hayati harrani mahallesi 604 sokak no 3",
+    "city": "Şanlıurfa ",
+    "district": "Harran ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
