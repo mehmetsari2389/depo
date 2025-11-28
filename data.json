@@ -21076,5 +21076,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1463,
+    "date": "28.11.2025 07:28:03",
+    "status": "Beklemede",
+    "ip": "5.229.74.57",
+    "customerName": "ishak Gumus",
+    "phone": "0(5454257157",
+    "address": "Sinop/ Boyabat yesilyurt köyü, tepedelik mah ,no 62",
+    "city": "Sinop",
+    "district": "Boyabat",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
