@@ -22591,5 +22591,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1562,
+    "date": "29.11.2025 00:51:57",
+    "status": "Beklemede",
+    "ip": "31.155.251.27",
+    "customerName": "Fikri Çim",
+    "phone": "(553)-835-18-05",
+    "address": "Güzelyurt mahallesi 26207 sokak no 1/1A Aksu Antalya ",
+    "city": "Antalya ",
+    "district": "Aksu ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
