@@ -21586,5 +21586,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1497,
+    "date": "28.11.2025 12:59:25",
+    "status": "Beklemede",
+    "ip": "78.173.38.89",
+    "customerName": "Adem Çakır",
+    "phone": "+905308734753",
+    "address": "Güneykent mah 102239 sok. no 31. Mehmet Zeynep askan evleri.kat.6.daire62 ŞAHİNBEY. GAZİANTEP",
+    "city": "Gaziantep",
+    "district": "Şahinbey",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
