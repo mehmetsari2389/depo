@@ -22666,5 +22666,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1569,
+    "date": "29.11.2025 02:09:22",
+    "status": "Beklemede",
+    "ip": "178.246.159.93",
+    "customerName": "Samet Yüksel",
+    "phone": "(534) 502 16 34",
+    "address": "Meşrutiyet mahallesi baytar Ahmet sokak no 49 Ilgaz büfe",
+    "city": "İstanbul",
+    "district": "Sisli",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
