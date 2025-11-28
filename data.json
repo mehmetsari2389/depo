@@ -22606,5 +22606,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1565,
+    "date": "29.11.2025 00:54:48",
+    "status": "Beklemede",
+    "ip": "178.233.70.244",
+    "customerName": "Hasan Hepşen",
+    "phone": "05334545354",
+    "address": "İkitelli OSB mutsan sanayi sitesi M:7 blok No:16-18",
+    "city": "İstanbul",
+    "district": "Başakşehir",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
