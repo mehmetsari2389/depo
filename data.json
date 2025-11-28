@@ -21901,5 +21901,20 @@
     "size": "XL",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1518,
+    "date": "28.11.2025 16:54:58",
+    "status": "Beklemede",
+    "ip": "88.242.202.16",
+    "customerName": "Süleyman  Buluter",
+    "phone": "05387308692",
+    "address": "Karşıyaka mahallesi Korutürk caddesi no 188 daire2",
+    "city": "Gaziantep ",
+    "district": "Şehitkamil ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
