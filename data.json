@@ -21106,5 +21106,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1465,
+    "date": "28.11.2025 07:44:41",
+    "status": "Beklemede",
+    "ip": "176.237.100.160",
+    "customerName": "Oğuzhan  SÖYLEMEZ ",
+    "phone": "5435818635",
+    "address": "tepe sokak no 3 Düzce merkez ",
+    "city": "düzce",
+    "district": "düzce merkez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
