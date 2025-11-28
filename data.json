@@ -21466,5 +21466,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1488,
+    "date": "28.11.2025 12:26:09",
+    "status": "Beklemede",
+    "ip": "77.67.244.87",
+    "customerName": "Menaf Yasan",
+    "phone": "05452567832",
+    "address": "İkizce mah Magim TOKİ şantiyesi 3. Etap yeşilyurt Malatya",
+    "city": "Malatya",
+    "district": "Yeşilyurt",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
