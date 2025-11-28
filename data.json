@@ -21976,5 +21976,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1523,
+    "date": "28.11.2025 17:29:06",
+    "status": "Beklemede",
+    "ip": "95.70.244.60",
+    "customerName": "Vedat gözüşirin",
+    "phone": "05375160261",
+    "address": "Yakuplu mahallesi 72'sokak no12 daire 4 Beylikdüzü ",
+    "city": "İstanbul ",
+    "district": "Beylikdüzü ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
