@@ -22501,5 +22501,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1558,
+    "date": "28.11.2025 23:46:28",
+    "status": "Beklemede",
+    "ip": "37.154.62.209",
+    "customerName": "Ramazan Çoker",
+    "phone": "05068717868",
+    "address": "Ihlara bel. Harmanlık mah. Turizim sok. No:48 ",
+    "city": "Aksaray",
+    "district": "Güzelyurt",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
