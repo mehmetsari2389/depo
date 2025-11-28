@@ -22411,5 +22411,20 @@
     "size": "S",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1550,
+    "date": "28.11.2025 22:10:10",
+    "status": "Beklemede",
+    "ip": "85.98.61.30",
+    "customerName": "Zaferazman  Azman",
+    "phone": "5355259359",
+    "address": "A101",
+    "city": "Zaferazman ",
+    "district": "Azman ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
