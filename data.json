@@ -21886,5 +21886,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1517,
+    "date": "28.11.2025 16:49:50",
+    "status": "Beklemede",
+    "ip": "31.142.31.95",
+    "customerName": "Şakir akil Akil",
+    "phone": "+905350855781",
+    "address": "1660 sokak no 8 daire 2",
+    "city": "İzmir",
+    "district": "Bornova ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
