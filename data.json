@@ -22276,5 +22276,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1543,
+    "date": "28.11.2025 20:23:42",
+    "status": "Beklemede",
+    "ip": "88.230.18.143",
+    "customerName": "Mustafa Aktan",
+    "phone": "05412838986",
+    "address": "Mustafa asım köksal mah şifa cad develi ekrem karakaya devlet hastanesi danışma",
+    "city": "Kayseri",
+    "district": "Develi",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
