@@ -21826,5 +21826,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1512,
+    "date": "28.11.2025 16:26:46",
+    "status": "Beklemede",
+    "ip": "195.142.68.50",
+    "customerName": "Oğuztan Şimşek",
+    "phone": "05322718367",
+    "address": "Ümit mahallesi 2494 cad Çamlıca Bulvar Sitesi A1 blok no 3 ",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
