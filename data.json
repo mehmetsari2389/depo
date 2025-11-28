@@ -22471,5 +22471,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1556,
+    "date": "28.11.2025 23:42:46",
+    "status": "Beklemede",
+    "ip": "46.154.127.33",
+    "customerName": "Dursun Taş",
+    "phone": "05462360945",
+    "address": "Dikili taş mah taş kent caddasi no 79  uşak merkez",
+    "city": "Uşak",
+    "district": "Merkez",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
