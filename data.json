@@ -21361,5 +21361,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1482,
+    "date": "28.11.2025 10:46:57",
+    "status": "Beklemede",
+    "ip": "78.176.98.127",
+    "customerName": "Mirhat  Budak ",
+    "phone": "5327893957",
+    "address": "Kooperatifler mahallesi şair sırrı hanım sokak Hilal Apartmanı kat 6 no 27 Yenişehir Diyarbakır ",
+    "city": "Diyarbakır ",
+    "district": "Yenişehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
