@@ -21211,5 +21211,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1472,
+    "date": "28.11.2025 08:50:47",
+    "status": "Beklemede",
+    "ip": "88.230.202.96",
+    "customerName": "Murat Öztürk ",
+    "phone": "05324584394",
+    "address": "Sultan Abdülhamit mahallesi Nacar hanifi sok no 5",
+    "city": "Gaziantep ",
+    "district": "Nizip ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
