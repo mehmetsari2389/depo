@@ -22231,5 +22231,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1538,
+    "date": "28.11.2025 19:27:45",
+    "status": "Beklemede",
+    "ip": "176.220.135.246",
+    "customerName": "Ömer Kaya",
+    "phone": "5514548269",
+    "address": "Uşak nuri şeker caddesi no 72/A köylüm pide salonu uşak",
+    "city": "Uşak",
+    "district": "Merkez",
+    "product": "Adidas Kırmızı Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
