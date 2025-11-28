@@ -22366,5 +22366,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1549,
+    "date": "28.11.2025 22:06:11",
+    "status": "Beklemede",
+    "ip": "178.241.80.111",
+    "customerName": "Abdullah Avci",
+    "phone": "+905348187657",
+    "address": "Ufuktepe mah 1225 sok 5/23",
+    "city": "Ankara",
+    "district": "Keçiören",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
