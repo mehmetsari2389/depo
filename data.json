@@ -21541,5 +21541,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1494,
+    "date": "28.11.2025 12:28:59",
+    "status": "Beklemede",
+    "ip": "176.54.237.18",
+    "customerName": "Ali Gülsoy ",
+    "phone": "05050540201",
+    "address": "Avsallar mahallesi İnce kum cad Özkaymak select otel ",
+    "city": "Antalya ",
+    "district": "Alanya ",
+    "product": "Nike Kırmızı Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
