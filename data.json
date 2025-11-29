@@ -24466,5 +24466,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1689,
+    "date": "29.11.2025 20:46:22",
+    "status": "Beklemede",
+    "ip": "78.182.204.74",
+    "customerName": "İhsan Tilki",
+    "phone": "05322277113",
+    "address": "Güzelyurt mahallesi 2112.sok. No 1 Daire 16",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
