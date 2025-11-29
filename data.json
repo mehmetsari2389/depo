@@ -23626,5 +23626,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1633,
+    "date": "29.11.2025 15:20:11",
+    "status": "Beklemede",
+    "ip": "88.238.60.112",
+    "customerName": "Hasret Kaplangiray",
+    "phone": "05335814996",
+    "address": "1147 Sokak No 29 Yenişehir Konak İzmir Güney Mahallesi",
+    "city": "İzmir",
+    "district": "Konak",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
