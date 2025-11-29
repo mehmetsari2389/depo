@@ -24916,5 +24916,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1719,
+    "date": "30.11.2025 00:31:38",
+    "status": "Beklemede",
+    "ip": "188.58.85.39",
+    "customerName": "Melih Demir",
+    "phone": "05336363767",
+    "address": "Tuzla Aydınlı Mh Toki inşaatı İsmail DEMİRTAŞ BETON TESİSLERİ TUZLA/ İSTANBUL",
+    "city": "İstanbul",
+    "district": "Tuzla",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
