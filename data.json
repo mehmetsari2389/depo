@@ -24436,5 +24436,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1687,
+    "date": "29.11.2025 20:39:01",
+    "status": "Beklemede",
+    "ip": "78.182.204.74",
+    "customerName": "İhsan  Tilki ",
+    "phone": "05322277113",
+    "address": "Güzelyurt mahallesi 2112.sok no 1 daire 16",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
