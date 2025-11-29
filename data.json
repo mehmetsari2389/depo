@@ -24886,5 +24886,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1717,
+    "date": "30.11.2025 00:26:54",
+    "status": "Beklemede",
+    "ip": "78.174.136.157",
+    "customerName": "Hamza Altay",
+    "phone": "05431126793",
+    "address": "Sarayaltı mah 1 yeni oymak sok hamzaoğlu apart no 15 kat 2 daire 9. Uşak merkez ",
+    "city": "Uşak",
+    "district": "Merkez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
