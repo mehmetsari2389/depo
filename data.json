@@ -23521,5 +23521,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1626,
+    "date": "29.11.2025 14:19:29",
+    "status": "Beklemede",
+    "ip": "5.177.155.211",
+    "customerName": "Fatih  Yazıcı ",
+    "phone": "0535 496 91 55",
+    "address": "Kütahya Tavşanlı merkez şubesine gelecek fatih yazıcı adına ",
+    "city": "Kütahya ",
+    "district": "Tavşanlı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
