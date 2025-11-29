@@ -24076,5 +24076,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1663,
+    "date": "29.11.2025 17:13:03",
+    "status": "Beklemede",
+    "ip": "78.191.233.207",
+    "customerName": "Şengür Saikan",
+    "phone": "05350750875",
+    "address": "Stadyum mahallesi osmanli sokak no 13 ",
+    "city": "Denizli",
+    "district": "Civril",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
