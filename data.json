@@ -23971,5 +23971,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1655,
+    "date": "29.11.2025 16:56:33",
+    "status": "Beklemede",
+    "ip": "31.142.2.190",
+    "customerName": "Ayaz yağız  Özyıldırım",
+    "phone": "5317384002",
+    "address": "Ata Caddesi no 6 kat3 daire 3 onur Mahallesi ",
+    "city": "İzmir",
+    "district": "Balçova",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
