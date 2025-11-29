@@ -23041,5 +23041,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1594,
+    "date": "29.11.2025 10:46:21",
+    "status": "Beklemede",
+    "ip": "188.3.97.203",
+    "customerName": "Olcay  Akbaş",
+    "phone": "05395415783",
+    "address": "Girne Mah Girne BlvNo111 Girişkat",
+    "city": "AYDIN",
+    "district": "EFELER",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
