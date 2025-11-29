@@ -22966,5 +22966,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1589,
+    "date": "29.11.2025 10:18:18",
+    "status": "Beklemede",
+    "ip": "46.221.76.37",
+    "customerName": "Serdar  Ötünçtemur ",
+    "phone": "5459758701",
+    "address": "Harbiş 3 sitesi Uğur mumcu mahallesi 1616. Sokak Ada No 1 No:3 batıkent Ankara ",
+    "city": "Ankara ",
+    "district": "Yenimahalle ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
