@@ -23371,5 +23371,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1616,
+    "date": "29.11.2025 13:16:21",
+    "status": "Beklemede",
+    "ip": "31.143.247.60",
+    "customerName": "Hasan Erdoğan",
+    "phone": "05399409860",
+    "address": "Çağlayan, Vatan Cd. No:42, 34403 Kağıthane/İstanbul/yeni çağlayan otel",
+    "city": "İstanbul ",
+    "district": "Kağıthane ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
