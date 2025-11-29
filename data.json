@@ -22831,5 +22831,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1580,
+    "date": "29.11.2025 09:03:09",
+    "status": "Beklemede",
+    "ip": "88.234.235.106",
+    "customerName": "Mevlüt  Gürsu ",
+    "phone": "05441799500",
+    "address": "Bahçeli Evler Mahallesi 630. Sokak No.8",
+    "city": "Nevşehir ",
+    "district": "Avanos ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
