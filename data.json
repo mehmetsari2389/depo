@@ -24316,5 +24316,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1678,
+    "date": "29.11.2025 19:18:20",
+    "status": "Beklemede",
+    "ip": "159.146.41.141",
+    "customerName": "Akan  Söğütcü ",
+    "phone": "+90308999136",
+    "address": "Arapçeşme mah kavak cad1058sokak no 14 kat4 ",
+    "city": "Kocelli ",
+    "district": "Gebze ",
+    "product": "Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
