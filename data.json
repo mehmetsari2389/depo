@@ -23656,5 +23656,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1635,
+    "date": "29.11.2025 15:30:02",
+    "status": "Beklemede",
+    "ip": "176.89.168.173",
+    "customerName": "EYYUP ARAPOGLU",
+    "phone": "5339684698",
+    "address": "VAN ERCiS van yotu cad no ankara MOBiLYA HALkBANK 12.25.2025 FB XNN  38",
+    "city": "Van",
+    "district": "ERCiS",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
