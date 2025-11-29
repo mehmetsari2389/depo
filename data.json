@@ -22801,5 +22801,20 @@
     "size": "XS",
     "quantity": "2",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1578,
+    "date": "29.11.2025 08:50:38",
+    "status": "Beklemede",
+    "ip": "176.54.134.241",
+    "customerName": "Fevzi Lütfi Taşkın",
+    "phone": "05526930493",
+    "address": "Aydoğdu mah.1263 şok.no5 evka1 Buca/İzmir",
+    "city": "İzmir",
+    "district": "Buca",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
