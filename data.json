@@ -23266,5 +23266,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1609,
+    "date": "29.11.2025 12:28:07",
+    "status": "Beklemede",
+    "ip": "77.67.221.166",
+    "customerName": "Sezgin Şahin",
+    "phone": "05072107393",
+    "address": "Merkez Mh Atatürk cd no6 çanakçı giresun merkez ekmek fırın",
+    "city": "Giresun",
+    "district": "Çanakçı",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
