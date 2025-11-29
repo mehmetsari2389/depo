@@ -23176,5 +23176,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1602,
+    "date": "29.11.2025 11:50:18",
+    "status": "Beklemede",
+    "ip": "78.182.68.62",
+    "customerName": "Hakim Çevik ",
+    "phone": "5423033673",
+    "address": "Yenimahalle 124. Sokak Yasemin apartmanı 5/18 Şırnak merkez",
+    "city": "Şırnak ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
