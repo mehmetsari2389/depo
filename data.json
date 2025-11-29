@@ -22906,5 +22906,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1585,
+    "date": "29.11.2025 09:38:35",
+    "status": "Beklemede",
+    "ip": "46.221.154.154",
+    "customerName": "Hüseyin  Özsoy ",
+    "phone": "+905313310370",
+    "address": "Durasıllı mahallesi toki sitesi K-3 D:12",
+    "city": "Manisa ",
+    "district": "Salihli ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
