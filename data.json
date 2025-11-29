@@ -25156,5 +25156,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1735,
+    "date": "30.11.2025 02:05:04",
+    "status": "Beklemede",
+    "ip": "46.2.152.173",
+    "customerName": "Hasan Turan",
+    "phone": "5455469757",
+    "address": "Veliköy",
+    "city": "Tekirdağ",
+    "district": "Kapaklı",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
