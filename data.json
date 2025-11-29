@@ -23836,5 +23836,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1647,
+    "date": "29.11.2025 16:25:31",
+    "status": "Beklemede",
+    "ip": "176.227.65.39",
+    "customerName": "Abdullah Acar",
+    "phone": "05323410762",
+    "address": "Bahçelievler mahallesi Savaştepe caddesi acar süt ürünleri no 72/A",
+    "city": "Balıkesir",
+    "district": "6 Eylül şimdi",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
