@@ -23761,5 +23761,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1642,
+    "date": "29.11.2025 16:04:50",
+    "status": "Beklemede",
+    "ip": "176.236.88.114",
+    "customerName": "Bayram  Çavdar ",
+    "phone": "05413293178",
+    "address": "DİRMİL MAH YEMİŞ CAD NO:3/A   BODRUM  /MUĞLA ",
+    "city": "Muğla ",
+    "district": "Bodrum ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
