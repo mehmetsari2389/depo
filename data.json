@@ -24841,5 +24841,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1713,
+    "date": "30.11.2025 00:10:27",
+    "status": "Beklemede",
+    "ip": "88.234.220.210",
+    "customerName": "Adnan  Kaya",
+    "phone": "05318488867",
+    "address": "Hızırbey mahallesi 1541 sokak No 12/4\nIsparta Merkez 3200",
+    "city": "Isparta ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
