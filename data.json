@@ -24271,5 +24271,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1676,
+    "date": "29.11.2025 18:51:43",
+    "status": "Beklemede",
+    "ip": "212.253.200.234",
+    "customerName": "Ali Öz",
+    "phone": "5055628257",
+    "address": "Kılıç reis mah 281 SOK no 72 ucyol konak izmir",
+    "city": "İzmir",
+    "district": "Konak",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
