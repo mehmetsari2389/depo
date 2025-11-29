@@ -24676,5 +24676,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1703,
+    "date": "29.11.2025 22:49:29",
+    "status": "Beklemede",
+    "ip": "193.108.118.211",
+    "customerName": "Serhat Avcı o. ",
+    "phone": "05011015435",
+    "address": "Sakarya hendek soğuksu mahallesi merkez sokak no59",
+    "city": "Sakarya",
+    "district": "Hendek",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
