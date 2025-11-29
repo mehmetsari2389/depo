@@ -24241,5 +24241,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1674,
+    "date": "29.11.2025 18:28:01",
+    "status": "Beklemede",
+    "ip": "176.240.128.123",
+    "customerName": "TURCAN BAYRAM",
+    "phone": "+905365146779",
+    "address": "PAŞA ALANI  MAH. SABRİ UĞUR CAD. 184 SOKAK.    YAĞMUR APT. NO.4 DAİRE  5 KARESİ- BALIKESİR",
+    "city": "BALIKESİR",
+    "district": "KARESİ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
