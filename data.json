@@ -23026,5 +23026,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1593,
+    "date": "29.11.2025 10:35:55",
+    "status": "Beklemede",
+    "ip": "176.232.182.221",
+    "customerName": "cem  gürsoy",
+    "phone": "+905322712797",
+    "address": "küçükbakkalköy mah kocaceviz cad no:8/1.  ataşehir/istanbul",
+    "city": "istanbul",
+    "district": "ataşehir",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
