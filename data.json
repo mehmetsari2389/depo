@@ -22681,5 +22681,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1570,
+    "date": "29.11.2025 04:44:45",
+    "status": "Beklemede",
+    "ip": "78.189.223.148",
+    "customerName": "Hasan Çelen",
+    "phone": ",05066571668",
+    "address": "Rumeli Hisarı, Yahya Kemal Cd. No: 42",
+    "city": "İstanbul",
+    "district": "Üsküdar",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
