@@ -22951,5 +22951,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1588,
+    "date": "29.11.2025 10:12:48",
+    "status": "Beklemede",
+    "ip": "88.243.67.121",
+    "customerName": "ÖNER MUSTAFAOĞLU ",
+    "phone": "05342787820",
+    "address": "İsmetiye mah 2.ilkbahar cad.no:36\nİSMETİYE TEKEL ",
+    "city": "Bursa",
+    "district": "Osmangazi ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
