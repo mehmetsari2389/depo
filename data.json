@@ -24421,5 +24421,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1686,
+    "date": "29.11.2025 20:33:01",
+    "status": "Beklemede",
+    "ip": "78.173.132.125",
+    "customerName": "Halit Aksu",
+    "phone": "5396386583",
+    "address": "İzmir ödemiş",
+    "city": "Izmir",
+    "district": "Ödemiş",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
