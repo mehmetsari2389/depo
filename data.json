@@ -23101,5 +23101,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1598,
+    "date": "29.11.2025 11:03:12",
+    "status": "Beklemede",
+    "ip": "31.223.57.189",
+    "customerName": "Ersan  Oral ",
+    "phone": "5353777592",
+    "address": "Yıldırım mahallesi saray sok no 33 35 D12 Bayrampaşa İstanbul ",
+    "city": "İstanbul ",
+    "district": "Bayrampaşa ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
