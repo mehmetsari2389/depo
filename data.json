@@ -23146,5 +23146,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1601,
+    "date": "29.11.2025 11:44:58",
+    "status": "Beklemede",
+    "ip": "176.238.174.107",
+    "customerName": "Fatih  Yücel",
+    "phone": "05467408119",
+    "address": "Ulukavak Mahallesi Sakarya 3. Cadde Sakarya apt 14/9 Çorum merkez ",
+    "city": "Çorum ",
+    "district": "Merkez",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
