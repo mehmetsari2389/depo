@@ -23926,5 +23926,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1653,
+    "date": "29.11.2025 16:55:20",
+    "status": "Beklemede",
+    "ip": "31.142.57.206",
+    "customerName": "Duran Çoşkun ",
+    "phone": "05343129767",
+    "address": "Muğla Marmaris taşlica MH no 314",
+    "city": "Mugla",
+    "district": "Marmaris ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
