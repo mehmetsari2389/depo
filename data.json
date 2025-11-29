@@ -24526,5 +24526,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1693,
+    "date": "29.11.2025 22:03:40",
+    "status": "Beklemede",
+    "ip": "46.104.18.109",
+    "customerName": "Güney Sultan",
+    "phone": "05523992057",
+    "address": "Aras kargo şubesi",
+    "city": "Sakarya",
+    "district": "Sapanca",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
