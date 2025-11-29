@@ -23536,5 +23536,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1627,
+    "date": "29.11.2025 14:28:41",
+    "status": "Beklemede",
+    "ip": "95.12.117.51",
+    "customerName": "Ercan Gürkan",
+    "phone": "(532) 368 16 38",
+    "address": "Yeni mahalle 15013 Sokak NO/9Beşiktaş OlmazGalatasaray yoksa Ablemsiz olsun",
+    "city": "Antalya",
+    "district": "Gazipaa",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
