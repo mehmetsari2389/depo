@@ -24751,5 +24751,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1708,
+    "date": "29.11.2025 23:05:32",
+    "status": "Beklemede",
+    "ip": "5.229.50.184",
+    "customerName": "Ahmet  Ovalı ",
+    "phone": "05423079295",
+    "address": "Karakaş mh hasanpaşa cd merkez ap no 35 kat1 daire3 ",
+    "city": "Kırklareli ",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
