@@ -23011,5 +23011,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1592,
+    "date": "29.11.2025 10:32:05",
+    "status": "Beklemede",
+    "ip": "88.230.60.245",
+    "customerName": "Özay  Akıl ",
+    "phone": "5369339464",
+    "address": "Muğla Bodrum Konacık  PTT alacam",
+    "city": "Muğla ",
+    "district": "Bodrum ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
