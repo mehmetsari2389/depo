@@ -23731,5 +23731,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1640,
+    "date": "29.11.2025 15:52:50",
+    "status": "Beklemede",
+    "ip": "149.140.73.86",
+    "customerName": "Mustafa  Güleç ",
+    "phone": "05543239095",
+    "address": "Turgutalp mahallesi Bergama caddesi numara 39/3",
+    "city": "Manisa ",
+    "district": "Soma",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
