@@ -24181,5 +24181,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1670,
+    "date": "29.11.2025 17:57:49",
+    "status": "Beklemede",
+    "ip": "176.88.102.58",
+    "customerName": "oktay sancar ",
+    "phone": "05523190583",
+    "address": "Kaynarca mahallesi Aydınlı yolu CADDESİ ELİAÇİK SOKAK NO 2/2 ",
+    "city": "İstanbul ",
+    "district": "Pendik ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
