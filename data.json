@@ -23866,5 +23866,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1649,
+    "date": "29.11.2025 16:33:34",
+    "status": "Beklemede",
+    "ip": "212.252.119.38",
+    "customerName": "Mehmet  ŞENER ",
+    "phone": "05358285527",
+    "address": "Camii kebir mahallesi Arasta Caddesi Karaburun Apt. No/12 Kat /4D/7 ",
+    "city": "İzmir ",
+    "district": "Menemen ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
