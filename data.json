@@ -23716,5 +23716,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1639,
+    "date": "29.11.2025 15:37:36",
+    "status": "Beklemede",
+    "ip": "176.89.168.173",
+    "customerName": "EYYUP ARAPOGLU",
+    "phone": "05339684698",
+    "address": "Van YOtu ERCiS ankara MOBiLYA HALkBANK 14 yas GS M",
+    "city": "Van",
+    "district": "ERCiS",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
