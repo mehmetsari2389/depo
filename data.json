@@ -22936,5 +22936,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1587,
+    "date": "29.11.2025 10:05:11",
+    "status": "Beklemede",
+    "ip": "46.155.73.91",
+    "customerName": "Mustafa Eteş",
+    "phone": "05377458306",
+    "address": "M. Kemal paşa mah yediyüz evler TOKİ 5 c 1 blok zemin kat k daire keşan edirne",
+    "city": "Edirne",
+    "district": "Keşan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
