@@ -22786,5 +22786,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1577,
+    "date": "29.11.2025 08:21:27",
+    "status": "Beklemede",
+    "ip": "178.246.120.99",
+    "customerName": "AYHAN GÜNDÜZ",
+    "phone": "05334348224",
+    "address": "ÖREN KÖY KULCALI KÜME EVLERİ SİLİFKE MERSİN",
+    "city": "MERSİN",
+    "district": "SİLİFKE",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "2",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
