@@ -24331,5 +24331,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1680,
+    "date": "29.11.2025 19:24:30",
+    "status": "Beklemede",
+    "ip": "141.196.12.151",
+    "customerName": "Ahmet Koç",
+    "phone": "5308862687",
+    "address": "Atatürk mahallesi Sahil kent sitesi hanım eli sok no 2 D blok kat 3 D8 Ünye/ Ordu ",
+    "city": "Ordu ",
+    "district": "Ünye ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
