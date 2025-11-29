@@ -24226,5 +24226,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1673,
+    "date": "29.11.2025 18:11:47",
+    "status": "Beklemede",
+    "ip": "78.169.36.219",
+    "customerName": "Bülent Boydacı",
+    "phone": "05527496290",
+    "address": "Yıldırım hacı sarraf mah dirhemsiz aralık çık. sok. No. 7.EDİRNE",
+    "city": "Edirne",
+    "district": "Merkez",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
