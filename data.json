@@ -24601,5 +24601,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1698,
+    "date": "29.11.2025 22:31:21",
+    "status": "Beklemede",
+    "ip": "188.58.113.166",
+    "customerName": "Safiye Genc",
+    "phone": "0533.269.29.54",
+    "address": "Sakarya.akyazi.postanesine.gonderim.yapa.bilirmisiniz",
+    "city": "Sakarya",
+    "district": "Akyazi",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
