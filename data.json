@@ -24256,5 +24256,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1675,
+    "date": "29.11.2025 18:50:34",
+    "status": "Beklemede",
+    "ip": "78.173.24.172",
+    "customerName": "Ahmet  Özkaraca ",
+    "phone": "05399357286",
+    "address": "Çakır mah.Ofis caddesi no.59 kat.2 ",
+    "city": "Afyon ",
+    "district": "Sandıklı ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
