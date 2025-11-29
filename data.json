@@ -23596,5 +23596,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1631,
+    "date": "29.11.2025 14:46:27",
+    "status": "Beklemede",
+    "ip": "176.54.251.240",
+    "customerName": "Sadık Kayabaşı",
+    "phone": "5331557885",
+    "address": "Hacı kaplanlar mah 886/1 sok no 3 kısa oğlu apt ",
+    "city": "Denizli",
+    "district": "Pamukkale",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
