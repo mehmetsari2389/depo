@@ -22726,5 +22726,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1573,
+    "date": "29.11.2025 05:00:03",
+    "status": "Beklemede",
+    "ip": "85.106.175.9",
+    "customerName": "Muhammet  Malkoç ",
+    "phone": "5399314721",
+    "address": "Mitannia otel Diyarbakır ",
+    "city": "Diyarbakır ",
+    "district": "Yenişehir ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
