@@ -24361,5 +24361,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1682,
+    "date": "29.11.2025 20:10:40",
+    "status": "Beklemede",
+    "ip": "85.102.114.194",
+    "customerName": "Ahmet aydın Akyüz",
+    "phone": "5323640260",
+    "address": "3 Nolu Erdoğdu",
+    "city": "Trabzon",
+    "district": "Ortahisar",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
