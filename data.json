@@ -23881,5 +23881,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1650,
+    "date": "29.11.2025 16:45:34",
+    "status": "Beklemede",
+    "ip": "178.247.35.166",
+    "customerName": "Haci Usta",
+    "phone": "5358304311",
+    "address": "Pette kargo",
+    "city": "ARTVİN",
+    "district": "Hopa",
+    "product": "Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
