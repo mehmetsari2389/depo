@@ -23806,5 +23806,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1645,
+    "date": "29.11.2025 16:11:15",
+    "status": "Beklemede",
+    "ip": "85.107.87.28",
+    "customerName": "Fikret  Şeker ",
+    "phone": "05436389818",
+    "address": "Öğretenler mahallesi yeni hal no:141 arkadaş komisyon evi ",
+    "city": "Mersin",
+    "district": "Tarsus ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
