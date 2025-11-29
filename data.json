@@ -22861,5 +22861,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1582,
+    "date": "29.11.2025 09:18:53",
+    "status": "Beklemede",
+    "ip": "151.135.159.94",
+    "customerName": "Durmuş Gündüz",
+    "phone": "05368623139",
+    "address": "Harmancık mahallesi hatıp caddesi no 165",
+    "city": "Konya ",
+    "district": "Meram ",
+    "product": "Kırmızı Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
