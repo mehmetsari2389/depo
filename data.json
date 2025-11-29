@@ -22846,5 +22846,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1581,
+    "date": "29.11.2025 09:03:50",
+    "status": "Beklemede",
+    "ip": "176.227.91.3",
+    "customerName": "EYÜP  Güler",
+    "phone": "0544 110 2993",
+    "address": "Altınova, sahil yolu caddesi, no 10",
+    "city": "Balıkesir",
+    "district": "Ayvalık",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
