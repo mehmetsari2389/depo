@@ -24736,5 +24736,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1707,
+    "date": "29.11.2025 23:02:40",
+    "status": "Beklemede",
+    "ip": "85.99.167.207",
+    "customerName": "Huseyin Kılıç",
+    "phone": "5558804077",
+    "address": "2446/1 sok no4 C2blok dai 25 kat6 Yenitokiler Karsiyaka mah ",
+    "city": "Denizli ",
+    "district": "Pamukkale",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
