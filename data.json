@@ -23551,5 +23551,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1628,
+    "date": "29.11.2025 14:30:36",
+    "status": "Beklemede",
+    "ip": "46.106.51.23",
+    "customerName": "Süleyman  İlhan ",
+    "phone": "0(544) 339-78-79",
+    "address": "Babataşı mahallesi cahit gündüz cad deniz atı restorant yanı Fethiye Belediyesi tuvalet işletmeciliği ",
+    "city": "Muğla ",
+    "district": "Fethiye ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
