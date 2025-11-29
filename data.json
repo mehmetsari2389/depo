@@ -24691,5 +24691,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1704,
+    "date": "29.11.2025 22:57:46",
+    "status": "Beklemede",
+    "ip": "176.238.32.135",
+    "customerName": "Görkem Köker",
+    "phone": "05303701554",
+    "address": "Sakarya akyazı vakıf mahallesi ada caddesi no 918 daire 2 kuzey marmara köprüsü yanı ",
+    "city": "Sakarya",
+    "district": "Akyazı",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
