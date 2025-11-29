@@ -23581,5 +23581,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1630,
+    "date": "29.11.2025 14:31:51",
+    "status": "Beklemede",
+    "ip": "95.70.244.60",
+    "customerName": "Lütfen arayın kargo yanlış  geldi 3xl diye l beden gelmiş arayın lutfen Gözüşirin",
+    "phone": "0 (537) 516 02 61",
+    "address": "Yakuplu Mahallesi 72'sokak no12 daire Beylikdüzü ",
+    "city": "İstanbul",
+    "district": "Beylikdüzü",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
