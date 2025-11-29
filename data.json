@@ -23776,5 +23776,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1643,
+    "date": "29.11.2025 16:08:53",
+    "status": "Beklemede",
+    "ip": "176.88.101.193",
+    "customerName": "Birdal  Kaynak ",
+    "phone": "(532) 561 02 23",
+    "address": "Yenişehir, 29 Ekim sk.atapol konutları c BLK k 5 dai 11 ",
+    "city": "İstanbul",
+    "district": "Ataşehir",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
