@@ -23641,5 +23641,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1634,
+    "date": "29.11.2025 15:24:37",
+    "status": "Beklemede",
+    "ip": "37.154.79.152",
+    "customerName": "Mehmet  şaşmaz",
+    "phone": "5358960886",
+    "address": "Düz içi yemekçilik ticaret ltd şti gökçeler mah turhan cemal beriker  blvçukobirlik yağ fab Seyhan. ADANA ",
+    "city": "Adana ",
+    "district": "Seyhan",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
