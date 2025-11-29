@@ -24661,5 +24661,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1701,
+    "date": "29.11.2025 22:48:36",
+    "status": "Beklemede",
+    "ip": "5.229.97.50",
+    "customerName": "Bayram Baysu",
+    "phone": "05313381723",
+    "address": "Aktepe, mahalesi\nİkinci, etap\nTaki, dilek, partiman\nCe, dört,, dayre, dort",
+    "city": "Denizli",
+    "district": "Pamukkale",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
