@@ -24901,5 +24901,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1718,
+    "date": "30.11.2025 00:31:04",
+    "status": "Beklemede",
+    "ip": "78.174.136.157",
+    "customerName": "Hamza  Altay",
+    "phone": "05431126793",
+    "address": "Saray altı mahallesi 1 yeni oymak sok.hamzaoglu apart no 15 kat 2 daire 9 ",
+    "city": "Uşak",
+    "district": "Merkez",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
