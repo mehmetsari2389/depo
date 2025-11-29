@@ -23746,5 +23746,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1641,
+    "date": "29.11.2025 16:04:28",
+    "status": "Beklemede",
+    "ip": "178.244.144.82",
+    "customerName": "Ahmet  Nas",
+    "phone": "5412564122",
+    "address": "Değirmendere  mahallesi  ğöçek  kavşağı  yolu  temizlik  işleri  şantiyesi  standart  katı  atık  no5/1Kuşadası/Aydın ",
+    "city": "Aydın ",
+    "district": "Kuşadası",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
