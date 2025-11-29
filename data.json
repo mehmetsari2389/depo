@@ -23506,5 +23506,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1625,
+    "date": "29.11.2025 14:10:19",
+    "status": "Beklemede",
+    "ip": "31.143.190.45",
+    "customerName": "Berkant  Esmer ",
+    "phone": "5319462593",
+    "address": "Kooperatifler mah kışla sok yekzan apt altı no 17/A \nDİYARBAKIR/YENİŞEHİR ",
+    "city": "Diyarbakir",
+    "district": "Yenişehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
