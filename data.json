@@ -25021,5 +25021,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1726,
+    "date": "30.11.2025 00:58:11",
+    "status": "Beklemede",
+    "ip": "82.222.236.252",
+    "customerName": "İsmail  Mercan",
+    "phone": "(532) 264 19 53",
+    "address": "Adnan mend mah.5065 sok no 6 karesi blk",
+    "city": "Balıkesir",
+    "district": "Karesi",
+    "product": "North Face Haki Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
