@@ -23416,5 +23416,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1619,
+    "date": "29.11.2025 13:22:56",
+    "status": "Beklemede",
+    "ip": "176.219.28.1",
+    "customerName": "Ziyattin  Önal ",
+    "phone": "05466090076",
+    "address": "Mehmet akif ersoy mah 100 yıl orta okulu karşısı can market melekli köyü ığdır ",
+    "city": "Iğdır ",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
