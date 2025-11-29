@@ -24091,5 +24091,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1664,
+    "date": "29.11.2025 17:25:42",
+    "status": "Beklemede",
+    "ip": "176.54.192.51",
+    "customerName": "Ayşen  Sakcı ",
+    "phone": "05524346670",
+    "address": "Sadık paşa mah.hacı sinan cad.no.7 bayındır saraçoğlu özel eğitim ve rehabilitasyon merkezi ",
+    "city": "İzmir ",
+    "district": "Bayındır ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
