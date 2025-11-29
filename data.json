@@ -24706,5 +24706,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1705,
+    "date": "29.11.2025 23:01:27",
+    "status": "Beklemede",
+    "ip": "46.106.67.130",
+    "customerName": "Nedim  Aslan ",
+    "phone": "5417623484",
+    "address": "Mustafa Kemal Atatürk mahallesi maliyeciler CAD no 59",
+    "city": "İzmir ",
+    "district": "Yenifoca",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
