@@ -23386,5 +23386,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1617,
+    "date": "29.11.2025 13:18:15",
+    "status": "Beklemede",
+    "ip": "37.155.239.205",
+    "customerName": "Emre  Özcan",
+    "phone": "5355883621",
+    "address": "Karargah tepe Mahallesi Gelinkaya sokak 4/4 Keçiören/Meteoroloji ",
+    "city": "Ankara ",
+    "district": "Keçiören",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
