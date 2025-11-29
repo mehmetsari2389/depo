@@ -22756,5 +22756,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1575,
+    "date": "29.11.2025 07:01:38",
+    "status": "Beklemede",
+    "ip": "46.155.244.69",
+    "customerName": "Şakir Alp",
+    "phone": "+90 (542) 333 79 09",
+    "address": "Meydan mah balıkçılar cad Bayramoğlu işhanı kat 1 no 6 batman merkez",
+    "city": "Batman",
+    "district": "Merkez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
