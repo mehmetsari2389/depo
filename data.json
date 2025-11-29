@@ -24211,5 +24211,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1671,
+    "date": "29.11.2025 18:05:30",
+    "status": "Beklemede",
+    "ip": "5.46.202.6",
+    "customerName": "murat  aydemir ",
+    "phone": "05326277328",
+    "address": "bahçeşehir 2.kısım mahallesi boğazköy caddesi tümçevrekent sitesi no 57. daire 1 başakşehir istanbul ",
+    "city": "istanbul ",
+    "district": "başakşehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
