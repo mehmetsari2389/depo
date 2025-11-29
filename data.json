@@ -23611,5 +23611,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1632,
+    "date": "29.11.2025 14:50:50",
+    "status": "Beklemede",
+    "ip": "46.221.99.255",
+    "customerName": "Serpil Dagtas3",
+    "phone": "05342656619",
+    "address": "Karaova mh gençlik CD can evleri no 11 kat2 Mumcular bodrum mugla ",
+    "city": "Mugla",
+    "district": "Bodrum ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
