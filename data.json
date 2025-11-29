@@ -24946,5 +24946,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1721,
+    "date": "30.11.2025 00:33:40",
+    "status": "Beklemede",
+    "ip": "37.155.168.12",
+    "customerName": "Hakan  Aydın",
+    "phone": "5411927034",
+    "address": "Malatya  Yeşilyurt yeni yapılan TOKİ şantiyesi mekanikci hakan aydın\n",
+    "city": "Malatya ",
+    "district": "Yeşilyurt ",
+    "product": "North Face Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
