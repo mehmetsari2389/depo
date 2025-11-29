@@ -25096,5 +25096,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1730,
+    "date": "30.11.2025 01:27:56",
+    "status": "Beklemede",
+    "ip": "78.190.5.24",
+    "customerName": "Hakkı  Yiğit ",
+    "phone": "05402116781",
+    "address": "Murtaza mah. Haciosman cd.no.16 B/blok daire 3\n",
+    "city": "Zonguldak ",
+    "district": "Ereğli ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
