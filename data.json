@@ -22891,5 +22891,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1584,
+    "date": "29.11.2025 09:36:01",
+    "status": "Beklemede",
+    "ip": "178.233.152.109",
+    "customerName": "Zeki Coşkun",
+    "phone": "05365151537",
+    "address": "Barışmuh964sokno14",
+    "city": "Manisa",
+    "district": "Salihli",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
