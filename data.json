@@ -25171,5 +25171,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1736,
+    "date": "30.11.2025 02:37:42",
+    "status": "Beklemede",
+    "ip": "104.28.216.174",
+    "customerName": "uğur köksal",
+    "phone": "05315263877",
+    "address": "çamlık mah.bldye loj bblk noo 5",
+    "city": "Artvin",
+    "district": "Artvin Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
