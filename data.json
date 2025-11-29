@@ -24811,5 +24811,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1712,
+    "date": "30.11.2025 00:02:23",
+    "status": "Beklemede",
+    "ip": "178.247.158.235",
+    "customerName": "Tayfun Kaya",
+    "phone": "5376312754",
+    "address": "Başakşehir onurkent mahallesi şehzade sokak Şirinköyüm çayyaka sitesi 10 B kat 1 daire 3 ",
+    "city": "İstanbul",
+    "district": "Başakşehir",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
