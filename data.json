@@ -23191,5 +23191,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1604,
+    "date": "29.11.2025 11:51:00",
+    "status": "Beklemede",
+    "ip": "95.0.123.182",
+    "customerName": "Vedat Koca ",
+    "phone": "05338886993",
+    "address": "Kınık mahallesi halfeti/Şanlıurfa no 34 ",
+    "city": "Şanlıurfa ",
+    "district": "Halfeti ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
