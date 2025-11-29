@@ -23281,5 +23281,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1610,
+    "date": "29.11.2025 12:30:56",
+    "status": "Beklemede",
+    "ip": "95.70.244.60",
+    "customerName": "Lütfen arayın kargo yanlış  geldi 3xl diye l beden gelmiş arayın lutfen Gözüşirin ",
+    "phone": "0 (537) 516 02 61",
+    "address": "Yakuplu mahallesi 72'sokak no12 daire 4 Beylikdüzü ",
+    "city": "İstanbul ",
+    "district": "Beylikdüzü ",
+    "product": "Kırmızı Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
