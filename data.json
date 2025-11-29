@@ -24556,5 +24556,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1695,
+    "date": "29.11.2025 22:24:15",
+    "status": "Beklemede",
+    "ip": "176.41.180.173",
+    "customerName": "Şansal  Işık ",
+    "phone": "5346138187",
+    "address": "17 Eylül mahallesi hal caddesi no 5/A",
+    "city": "Balıkesir ",
+    "district": "Bandırma ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
