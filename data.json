@@ -25141,5 +25141,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1734,
+    "date": "30.11.2025 01:40:54",
+    "status": "Beklemede",
+    "ip": "85.104.203.218",
+    "customerName": "Sefer Dikbayır",
+    "phone": "+905365001897",
+    "address": "Dört temiz mahalesi Atilla sokak no 18 Karamürsel kocaeli",
+    "city": "Kocaeli",
+    "district": "Karamürsel ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
