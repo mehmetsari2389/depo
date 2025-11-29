@@ -23986,5 +23986,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1657,
+    "date": "29.11.2025 16:57:19",
+    "status": "Beklemede",
+    "ip": "78.174.102.43",
+    "customerName": "Ömer yıldızlı Yıldızlı",
+    "phone": "05327213008",
+    "address": "Yeni mahalle  bağ yolu edebali sok onur sit  c blok  kat 4no 7",
+    "city": "Kocaeli",
+    "district": "İzmit",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
