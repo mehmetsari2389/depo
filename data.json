@@ -24766,5 +24766,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1709,
+    "date": "29.11.2025 23:38:55",
+    "status": "Beklemede",
+    "ip": "85.109.104.217",
+    "customerName": "Fikret Ak",
+    "phone": "5547837143",
+    "address": "Hakkari Yüksekova merkez  kargo",
+    "city": "Hakkari ",
+    "district": "Yüksekova ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
