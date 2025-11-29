@@ -24511,5 +24511,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1692,
+    "date": "29.11.2025 22:00:10",
+    "status": "Beklemede",
+    "ip": "37.154.47.112",
+    "customerName": "Mümtaz  Ünal ",
+    "phone": "05375760871",
+    "address": "Sarıaydın mrkz 5. küme evleri no 71/a Silifke Mersin ",
+    "city": "Mersin ",
+    "district": "Silifke ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
