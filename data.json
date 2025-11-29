@@ -24031,5 +24031,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1660,
+    "date": "29.11.2025 17:00:49",
+    "status": "Beklemede",
+    "ip": "88.229.195.153",
+    "customerName": "Zeynel Başkaya",
+    "phone": "+905355978455",
+    "address": "YILDIRIM BEYAZIT MH GÜLBAHAR SK NO 11 ERBAA TOKAT",
+    "city": "TOKAT",
+    "district": "ERBAA",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
