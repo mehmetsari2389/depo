@@ -23311,5 +23311,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1612,
+    "date": "29.11.2025 12:52:29",
+    "status": "Beklemede",
+    "ip": "88.236.110.206",
+    "customerName": "Selçuk  Ertürk ",
+    "phone": "05522952500",
+    "address": "Yunus Emre Mahallesi Müftü Yaşar İşcan Sokak Anakent Yapı kooperatifi C Blok no: 2 Kat:2 Daire no: 6",
+    "city": "Erzurum ",
+    "district": "Palandöken ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
