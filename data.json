@@ -24931,5 +24931,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1720,
+    "date": "30.11.2025 00:32:02",
+    "status": "Beklemede",
+    "ip": "46.155.75.15",
+    "customerName": "Ramazan  Emer",
+    "phone": "05411154328",
+    "address": "Edırne merkez ",
+    "city": "Edirne ",
+    "district": "Ayşekadın ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
