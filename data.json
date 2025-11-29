@@ -24166,5 +24166,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1669,
+    "date": "29.11.2025 17:34:15",
+    "status": "Beklemede",
+    "ip": "88.245.103.140",
+    "customerName": "Levent  Şahin ",
+    "phone": "+905424903565",
+    "address": "Oto gar Simav ",
+    "city": "Kütahya ",
+    "district": "Simav ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
