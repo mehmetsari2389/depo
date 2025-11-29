@@ -24121,5 +24121,20 @@
     "size": "3XL",
     "quantity": "2",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1666,
+    "date": "29.11.2025 17:29:31",
+    "status": "Beklemede",
+    "ip": "5.47.83.203",
+    "customerName": "Ali Uçan",
+    "phone": "553 369 69 17",
+    "address": "Sasalı Merkez Mah 24 sk no 6 kat 2 Sasalı Çiğli İzmir ",
+    "city": "İzmir ",
+    "district": "Çiğli",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
