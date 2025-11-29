@@ -24586,5 +24586,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1696,
+    "date": "29.11.2025 22:26:22",
+    "status": "Beklemede",
+    "ip": "176.41.180.173",
+    "customerName": "Şansal  Işık ",
+    "phone": "5346138187",
+    "address": "17 Eylül mahallesi hal caddesi no 5/A",
+    "city": "Balıkesir ",
+    "district": "Bandırma ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
