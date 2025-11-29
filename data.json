@@ -22771,5 +22771,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1576,
+    "date": "29.11.2025 07:37:39",
+    "status": "Beklemede",
+    "ip": "82.222.253.216",
+    "customerName": "Cabir Dikel",
+    "phone": "5372721073",
+    "address": "Hatay Samandağ Koyunoğlu mahallesi Çamlıca sokak no 40",
+    "city": "Hatay ",
+    "district": "Samandağ ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
