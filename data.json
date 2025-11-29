@@ -24991,5 +24991,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1724,
+    "date": "30.11.2025 00:49:10",
+    "status": "Beklemede",
+    "ip": "78.183.107.46",
+    "customerName": "Serkan Yurdagül",
+    "phone": "+905332554010",
+    "address": "Abdurrahmangazi mahallesi Sevenler caddesi lagün Sitesi E5 daire 2",
+    "city": "İstanbul",
+    "district": "Sancaktepe",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
