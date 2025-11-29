@@ -24046,5 +24046,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1661,
+    "date": "29.11.2025 17:01:26",
+    "status": "Beklemede",
+    "ip": "37.155.183.163",
+    "customerName": "Şefik Sağlık",
+    "phone": "5550766573",
+    "address": "Çaldıran Van ",
+    "city": "Van",
+    "district": "Çaldıran ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
