@@ -24976,5 +24976,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1723,
+    "date": "30.11.2025 00:41:20",
+    "status": "Beklemede",
+    "ip": "176.220.197.47",
+    "customerName": "Muharrem Enver Uslu",
+    "phone": "05386971353",
+    "address": "Bursa Mudanya Dereköy Mudanya dan Aras kargo dan taslim alırım ",
+    "city": "Bursa ",
+    "district": "Mudanya ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
