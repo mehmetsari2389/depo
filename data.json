@@ -24016,5 +24016,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1659,
+    "date": "29.11.2025 16:58:54",
+    "status": "Beklemede",
+    "ip": "212.115.4.116",
+    "customerName": "Yusuf  Kulaksız",
+    "phone": "+905315915316",
+    "address": "Manisa kula nergis sk 4 Eylül mahallesi \nNo.3 A",
+    "city": "Manisa",
+    "district": "Kula",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
