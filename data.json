@@ -23446,5 +23446,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1621,
+    "date": "29.11.2025 13:33:03",
+    "status": "Beklemede",
+    "ip": "5.177.204.136",
+    "customerName": "Bekir Celep",
+    "phone": "+905452498052",
+    "address": "Ekonomi market. O 19 şiran",
+    "city": "Gümüshane",
+    "district": "Şiran",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
