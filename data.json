@@ -23341,5 +23341,20 @@
     "size": "4XL",
     "quantity": "2",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1614,
+    "date": "29.11.2025 13:06:50",
+    "status": "Beklemede",
+    "ip": "31.142.32.30",
+    "customerName": "Ali Sarıyiğit",
+    "phone": "(535) 968 01 75",
+    "address": "Aksoy MH 235/1 SK  No 21 ışık AP.",
+    "city": "Manisa",
+    "district": "Salihli",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
