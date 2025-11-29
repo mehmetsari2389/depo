@@ -24061,5 +24061,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1662,
+    "date": "29.11.2025 17:07:29",
+    "status": "Beklemede",
+    "ip": "176.219.162.23",
+    "customerName": "Adem  Ceylan",
+    "phone": "05525818210",
+    "address": " Kızıl toprak mah 921 sok No 15 ",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
