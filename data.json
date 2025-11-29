@@ -23086,5 +23086,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1597,
+    "date": "29.11.2025 10:58:52",
+    "status": "Beklemede",
+    "ip": "176.89.3.77",
+    "customerName": "Oktay Okur",
+    "phone": "05345788494",
+    "address": "Stüdyo Melas \nAşağı pazarcı mahallesi Atatürk caddesi eryıldız iş merkezi no 19 Manavgat Antalya",
+    "city": "Antalya",
+    "district": "Manavgat",
+    "product": "Adidas Kırmızı Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
