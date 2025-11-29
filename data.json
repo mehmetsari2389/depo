@@ -24346,5 +24346,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1681,
+    "date": "29.11.2025 20:08:30",
+    "status": "Beklemede",
+    "ip": "176.216.186.247",
+    "customerName": "Ergun  Usta",
+    "phone": "05058406537",
+    "address": "Merkez Mahallesi Atatürk Bulvarı No:108",
+    "city": "Kastamonu ",
+    "district": "Çatalzeytin ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
