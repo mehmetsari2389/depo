@@ -23821,5 +23821,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1646,
+    "date": "29.11.2025 16:18:04",
+    "status": "Beklemede",
+    "ip": "176.216.77.44",
+    "customerName": "İLHAN  ÖZÇELİK ",
+    "phone": "05354178352",
+    "address": "Gedik mahallesi alemdar sokak no 12",
+    "city": "Malatya",
+    "district": "YEŞİLYURT ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
