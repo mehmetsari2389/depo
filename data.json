@@ -23251,5 +23251,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1608,
+    "date": "29.11.2025 12:24:19",
+    "status": "Beklemede",
+    "ip": "37.154.168.89",
+    "customerName": "Ahmet Yıldırım",
+    "phone": "543 895 85 11",
+    "address": "İstanbul Göktürk ebru sokak no 13 villa inşaat kaynakçı önce beni arayın görüşelim görüşmeden onay vermem ",
+    "city": "İstanbul ",
+    "district": "Göktürk ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
