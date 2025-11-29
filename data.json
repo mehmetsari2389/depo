@@ -24571,5 +24571,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1696,
+    "date": "29.11.2025 22:26:15",
+    "status": "Beklemede",
+    "ip": "178.233.216.8",
+    "customerName": "Gültekin  Duran ",
+    "phone": "05327462743",
+    "address": "Çağlayan mahallesi hamam Sokak no iki tekin oto Kağıthane İstanbul ",
+    "city": "İstanbul ",
+    "district": "Kağıthane ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
