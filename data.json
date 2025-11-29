@@ -24496,5 +24496,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1691,
+    "date": "29.11.2025 21:27:07",
+    "status": "Beklemede",
+    "ip": "88.235.214.109",
+    "customerName": "Yakup Kayretli",
+    "phone": "5061194156",
+    "address": "Ankara Altındağ Başpınar mah 1223.3.14",
+    "city": "Ankara",
+    "district": "Altındag",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
