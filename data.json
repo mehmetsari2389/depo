@@ -24406,5 +24406,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1685,
+    "date": "29.11.2025 20:25:49",
+    "status": "Beklemede",
+    "ip": "178.247.35.166",
+    "customerName": "Haci Usta",
+    "phone": "5358304311",
+    "address": "Petete kargodan alınacak\n\n",
+    "city": "ARTVİN",
+    "district": "Hopa",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
