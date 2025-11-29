@@ -23401,5 +23401,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1618,
+    "date": "29.11.2025 13:19:38",
+    "status": "Beklemede",
+    "ip": "176.219.28.1",
+    "customerName": "Ziyattin Önal",
+    "phone": "05466090076",
+    "address": "Mehmet akif ersoy mah 100 yıl orta okul karşısı can market melekli köyü ığdır ",
+    "city": "Iğdır ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
