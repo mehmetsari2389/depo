@@ -23911,5 +23911,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1651,
+    "date": "29.11.2025 16:46:52",
+    "status": "Beklemede",
+    "ip": "88.240.214.198",
+    "customerName": "Taner Dizman",
+    "phone": "05387055496",
+    "address": "Atatürk mahallesi Nadi  sokak No 20",
+    "city": "Manisa",
+    "district": "Turgutlu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
