@@ -25036,5 +25036,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1727,
+    "date": "30.11.2025 01:08:05",
+    "status": "Beklemede",
+    "ip": "178.243.106.27",
+    "customerName": "Şehmus  Gümüş ",
+    "phone": "05317407915",
+    "address": "Koopratif mahallesi Aralık caddesi no 26 zeki market manav",
+    "city": "Diyarbakır ",
+    "district": "Bismil ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
