@@ -23686,5 +23686,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1637,
+    "date": "29.11.2025 15:33:02",
+    "status": "Beklemede",
+    "ip": "176.89.168.173",
+    "customerName": "EYYUP ARAPOGLU",
+    "phone": "05339684698",
+    "address": "VAN YOtu ERCiS ankara MOBiLYA HALkBANK 38 xnn FB 12.27 2025 ",
+    "city": "VAN",
+    "district": "ERCiS",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
