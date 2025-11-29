@@ -23236,5 +23236,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1607,
+    "date": "29.11.2025 12:18:26",
+    "status": "Beklemede",
+    "ip": "78.188.192.66",
+    "customerName": "Erdem  Karanfil ",
+    "phone": "+905392872615",
+    "address": "Üncü Bozköy MH mimarsinan bulvarı 209 Taylan restaurant Yunus Emre Manisa ",
+    "city": "Manisa",
+    "district": "Yunus Emre ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
