@@ -23206,5 +23206,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "29.11.2025 11:55:08",
+    "status": "Beklemede",
+    "ip": "95.5.167.243",
+    "customerName": "Serafettin Ozdemir",
+    "phone": "05456508376",
+    "address": "Lala köyü tavukçu mah no 3",
+    "city": "SİNOP ",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
