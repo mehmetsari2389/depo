@@ -23326,5 +23326,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1613,
+    "date": "29.11.2025 13:05:28",
+    "status": "Beklemede",
+    "ip": "94.235.98.27",
+    "customerName": "Remzi  Oruç ",
+    "phone": "05300859450",
+    "address": "Çiftlikköy belediye SK Boztaş AP no 32 .8 Çiftlikköy Yalova ",
+    "city": "Yalova ",
+    "district": "Çiftlikköy ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "2",
+    "cargoPayment": "aras-nakit"
   }
 ]
