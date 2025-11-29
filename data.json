@@ -22921,5 +22921,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1586,
+    "date": "29.11.2025 09:55:18",
+    "status": "Beklemede",
+    "ip": "88.247.134.91",
+    "customerName": "Sezgin  Türkcan",
+    "phone": "+905344667971",
+    "address": "Mesihpaşa cad kızıltaş sokak no:10 laleli",
+    "city": "İstanbul ",
+    "district": "Fatih",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
