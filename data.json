@@ -24481,5 +24481,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "29.11.2025 21:23:32",
+    "status": "Beklemede",
+    "ip": "195.174.244.166",
+    "customerName": "Hüseyin Taskin",
+    "phone": "5363429316",
+    "address": "Hurriyet nah t.rustem baskaner catte no 33",
+    "city": "Konya",
+    "district": "Cumra",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
