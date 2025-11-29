@@ -24136,5 +24136,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1666,
+    "date": "29.11.2025 17:29:34",
+    "status": "Beklemede",
+    "ip": "176.88.120.140",
+    "customerName": "Safa Güney",
+    "phone": "5523017838",
+    "address": "Hunat Mah.Nuh Naci Yazgan Cad. Melikgazi / KAYSERİ No:38 Posta Kodu: 38030",
+    "city": "Kayseri",
+    "district": "Melikgazi",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
