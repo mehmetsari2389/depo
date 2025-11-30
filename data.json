@@ -25486,5 +25486,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1757,
+    "date": "30.11.2025 09:49:25",
+    "status": "Beklemede",
+    "ip": "178.244.151.106",
+    "customerName": "Engin  Ünal ",
+    "phone": "5322065761",
+    "address": "İstasyon mahallesi sümer sokak no:13",
+    "city": "Uşak ",
+    "district": "Eşme ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
