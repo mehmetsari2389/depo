@@ -26251,5 +26251,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1808,
+    "date": "30.11.2025 15:08:46",
+    "status": "Beklemede",
+    "ip": "46.106.158.74",
+    "customerName": "Bülent  Dörman ",
+    "phone": "05462759139",
+    "address": "Eleşkirt Ağrı esentepe malesi küme altı evler no 10",
+    "city": "Ağrı ",
+    "district": "Eleşkirt ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
