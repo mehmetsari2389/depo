@@ -25756,5 +25756,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1774,
+    "date": "30.11.2025 12:04:01",
+    "status": "Beklemede",
+    "ip": "176.238.182.120",
+    "customerName": "Mustafa  Atakoğlu ",
+    "phone": "05436811658",
+    "address": "Salar köyü küme evleri no kırk sekiz ",
+    "city": "Sinop ",
+    "district": "Boyabat ",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
