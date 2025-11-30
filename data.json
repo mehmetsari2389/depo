@@ -26881,5 +26881,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1850,
+    "date": "30.11.2025 18:55:44",
+    "status": "Beklemede",
+    "ip": "78.173.16.187",
+    "customerName": "Ahmet  Duman",
+    "phone": "05319170989",
+    "address": "Sirinevler mh. Evren cd. No/8 Alpay gıda",
+    "city": "Afyonkarahisar",
+    "district": "Sandıklı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
