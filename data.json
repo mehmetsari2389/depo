@@ -27316,5 +27316,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1879,
+    "date": "30.11.2025 21:31:59",
+    "status": "Beklemede",
+    "ip": "149.140.233.211",
+    "customerName": "Emrullah Özel",
+    "phone": "05432988751",
+    "address": "İstanbul sultangazi Habibler yayla mahallesi iğde sokak iç kapı kat 3 no 7",
+    "city": "İstanbul",
+    "district": "Sultangazi habibler",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
