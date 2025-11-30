@@ -27706,5 +27706,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1905,
+    "date": "30.11.2025 22:51:06",
+    "status": "Beklemede",
+    "ip": "176.219.148.3",
+    "customerName": "Adem  Erdoğan ",
+    "phone": "+905419727009",
+    "address": "Gaziler mahallesi 1744/2 sk. no/43",
+    "city": "Kocaeli ",
+    "district": "Gebze",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
