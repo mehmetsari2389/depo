@@ -25906,5 +25906,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1785,
+    "date": "30.11.2025 12:39:06",
+    "status": "Beklemede",
+    "ip": "176.237.238.243",
+    "customerName": "Murat  Akdağ",
+    "phone": "5323132475",
+    "address": "Tavaklı 137. Sok no:4AT özmavi kent sitesi Tavaklı iskelesi ezine Çanakkale ",
+    "city": "Çanakkale",
+    "district": "Ezine",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
