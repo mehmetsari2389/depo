@@ -25246,5 +25246,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1741,
+    "date": "30.11.2025 05:56:33",
+    "status": "Beklemede",
+    "ip": "188.57.18.92",
+    "customerName": "FATİH  ŞAHİN ",
+    "phone": "5332069618",
+    "address": "Muş merkez şubesi ",
+    "city": "Muş ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
