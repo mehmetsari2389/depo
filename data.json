@@ -26941,5 +26941,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1853,
+    "date": "30.11.2025 19:10:07",
+    "status": "Beklemede",
+    "ip": "46.106.56.243",
+    "customerName": "İsmet Yılmaz",
+    "phone": "05348921516",
+    "address": "6001sok manolya 3 daire 2 ",
+    "city": "Sakarya",
+    "district": "Erenler",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
