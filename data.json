@@ -27106,5 +27106,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1865,
+    "date": "30.11.2025 20:33:27",
+    "status": "Beklemede",
+    "ip": "176.220.130.49",
+    "customerName": "İbrahim  Tuncay",
+    "phone": "5306089130",
+    "address": "Ege mahallesi 1301.sokak no 16 daire 6 şehzadeler Manisa",
+    "city": "Manisa",
+    "district": "Şehzadeler ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
