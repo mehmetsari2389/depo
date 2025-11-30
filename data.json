@@ -27421,5 +27421,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1886,
+    "date": "30.11.2025 21:51:20",
+    "status": "Beklemede",
+    "ip": "88.240.233.248",
+    "customerName": "Kubilay  Budak ",
+    "phone": "0 (533) 978 5030",
+    "address": "Hürriyet mah.yeni 1sk.özen apt.A blok  19/6",
+    "city": "Kırklareli ",
+    "district": "Lüleburgaz ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
