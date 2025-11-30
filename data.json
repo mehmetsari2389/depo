@@ -27001,5 +27001,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1858,
+    "date": "30.11.2025 19:52:38",
+    "status": "Beklemede",
+    "ip": "46.2.121.237",
+    "customerName": "Metin Genç",
+    "phone": "05383029408",
+    "address": "Kücücek inçi sokak no 1",
+    "city": "Adapazarı",
+    "district": "Akyazı",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
