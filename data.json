@@ -26131,5 +26131,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1799,
+    "date": "30.11.2025 14:19:37",
+    "status": "Beklemede",
+    "ip": "95.70.233.135",
+    "customerName": "Süleyman Aydın",
+    "phone": "5312230458",
+    "address": "Ece Mh fürize sok no 27daire2",
+    "city": "Afyonkarahisar",
+    "district": "Sandıklı",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
