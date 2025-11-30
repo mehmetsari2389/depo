@@ -25546,5 +25546,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1760,
+    "date": "30.11.2025 10:27:29",
+    "status": "Beklemede",
+    "ip": "176.220.156.48",
+    "customerName": "Sami Cengiz",
+    "phone": "0553 850 8985",
+    "address": "Türkmen mah \nÇalıkuşu sok no 5/2.\n",
+    "city": "Aydın",
+    "district": "Kuşadası ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
