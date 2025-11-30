@@ -27211,5 +27211,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1872,
+    "date": "30.11.2025 21:00:40",
+    "status": "Beklemede",
+    "ip": "88.243.82.162",
+    "customerName": "Erdinç Çakmak",
+    "phone": "05330380923",
+    "address": "Yunus mahallesi sade sanayi sitesi no 28 c 4",
+    "city": "İstanbul",
+    "district": "Kartal",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
