@@ -25981,5 +25981,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1790,
+    "date": "30.11.2025 12:59:28",
+    "status": "Beklemede",
+    "ip": "46.221.223.142",
+    "customerName": "Yasin Akyüz",
+    "phone": "(0544) 839 26 38",
+    "address": "İstanbul çatalca karacaköy mah no25 huzur sokak yasin akyüz",
+    "city": "İstanbul",
+    "district": "Çatalca",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
