@@ -25366,5 +25366,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1749,
+    "date": "30.11.2025 07:50:04",
+    "status": "Beklemede",
+    "ip": "46.154.41.168",
+    "customerName": "Barış  İlgin ",
+    "phone": "05367732761",
+    "address": "Ulus vadi konutları ortaköy Beşiktaş ",
+    "city": "İstanbul ",
+    "district": "Beşiktaş ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
