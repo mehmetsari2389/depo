@@ -27406,5 +27406,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1885,
+    "date": "30.11.2025 21:48:04",
+    "status": "Beklemede",
+    "ip": "88.245.221.248",
+    "customerName": "Hulusi Caner  Demircioğlu ",
+    "phone": "505 349 05 89",
+    "address": "Topselvi Mah. Fikret Sok. Deniz Ap. No:14-16 Kat:3 Daire No:7",
+    "city": "İstanbul ",
+    "district": "Kartal ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
