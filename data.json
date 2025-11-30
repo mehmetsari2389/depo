@@ -27616,5 +27616,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1898,
+    "date": "30.11.2025 22:34:17",
+    "status": "Beklemede",
+    "ip": "95.3.23.30",
+    "customerName": "Tugay  Cücün",
+    "phone": "05340230272",
+    "address": "Adıyaman ipekli küme evleri K6 konteyner kent no 886 merkez ",
+    "city": "Adıyaman ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
