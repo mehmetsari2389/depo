@@ -26221,5 +26221,20 @@
     "size": "M",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1806,
+    "date": "30.11.2025 14:50:04",
+    "status": "Beklemede",
+    "ip": "5.176.35.23",
+    "customerName": "Ahmet  Akan",
+    "phone": "05374996892",
+    "address": "Saray mah.damlatas cad hazırlık sok H.Akman apt no.6 alanya ",
+    "city": "Antalya ",
+    "district": "Alanya",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
