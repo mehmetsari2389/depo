@@ -28096,5 +28096,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1931,
+    "date": "01.12.2025 00:43:04",
+    "status": "Beklemede",
+    "ip": "95.10.236.122",
+    "customerName": "Yener  Polat ",
+    "phone": "05456462560",
+    "address": "Atatürk mahallesi vatan caddesi no 3",
+    "city": "İstanbul ",
+    "district": "Ataşehir ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
