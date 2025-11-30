@@ -26101,5 +26101,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1798,
+    "date": "30.11.2025 14:19:04",
+    "status": "Beklemede",
+    "ip": "78.162.46.193",
+    "customerName": "MUSTAFA KÜÇÜK",
+    "phone": "05308482607",
+    "address": "KORKUTELİ ASKERLİK ŞUBESİ BAŞKANLIĞI KORKUTELİ/ANTALYS",
+    "city": "ANTALYA",
+    "district": "KORKUTELİ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
