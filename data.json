@@ -25381,5 +25381,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1750,
+    "date": "30.11.2025 08:06:16",
+    "status": "Beklemede",
+    "ip": "176.55.110.180",
+    "customerName": "Osman Özdemir",
+    "phone": "5336367401",
+    "address": "İnönü Mah. Yeşil Sk. No:15/30 Ataşehir",
+    "city": "İstanbul ",
+    "district": "Ataşehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
