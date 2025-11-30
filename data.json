@@ -27586,5 +27586,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1897,
+    "date": "30.11.2025 22:33:07",
+    "status": "Beklemede",
+    "ip": "176.89.207.106",
+    "customerName": "Sedat  Ayhan ",
+    "phone": "5372990907",
+    "address": "Dogankent  39 evler  a a  A.blok kat  4 daire 8",
+    "city": "Giresun ",
+    "district": "Dogankent ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
