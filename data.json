@@ -26236,5 +26236,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1807,
+    "date": "30.11.2025 15:03:21",
+    "status": "Beklemede",
+    "ip": "176.219.88.116",
+    "customerName": "Mustafa Ankarali",
+    "phone": "5426260836",
+    "address": "Çeltek mahallesi 398sk no 22/1",
+    "city": "Karaman ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
