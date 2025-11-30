@@ -27346,5 +27346,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1881,
+    "date": "30.11.2025 21:41:10",
+    "status": "Beklemede",
+    "ip": "141.196.53.85",
+    "customerName": "Nurettin  Elikara ",
+    "phone": "0 545 593 80 87",
+    "address": "Baruthane mah makber sokak no 19 samsun ilkadım ",
+    "city": "Samsun ",
+    "district": "İlkadım",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
