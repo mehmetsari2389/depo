@@ -27841,5 +27841,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1913,
+    "date": "01.12.2025 00:17:46",
+    "status": "Beklemede",
+    "ip": "94.55.180.204",
+    "customerName": "Yaşar Oğraş",
+    "phone": "0545110750",
+    "address": "Cumhuriyet mahallesi 4843 sokak Ulukent sitesi 90 3 YUNUSEMRE MANİSA ",
+    "city": "Manisa",
+    "district": "YUNUSEMRE",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
