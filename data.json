@@ -26356,5 +26356,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1815,
+    "date": "30.11.2025 15:58:15",
+    "status": "Beklemede",
+    "ip": "5.47.146.101",
+    "customerName": "Muhsin Şahin",
+    "phone": "536 779 97 37",
+    "address": "FEYZULLAH   MAH  KARTALLİ  SOK  KÖŞEM  AP  NO  14  KAPİ  7 MALTEPE",
+    "city": "İstanbul ",
+    "district": "Maltepe",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
