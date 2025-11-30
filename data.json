@@ -27226,5 +27226,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1873,
+    "date": "30.11.2025 21:05:10",
+    "status": "Beklemede",
+    "ip": "188.132.207.19",
+    "customerName": "İbrahim Aydoğduoğlu",
+    "phone": "05309094033",
+    "address": "Aras kargo şubesinden alınaca dörtyol hatay",
+    "city": "Hatay",
+    "district": "Dörtyol",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
