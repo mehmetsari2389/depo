@@ -28201,5 +28201,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1937,
+    "date": "01.12.2025 02:46:51",
+    "status": "Beklemede",
+    "ip": "176.54.172.197",
+    "customerName": "Ahmet  Tufan ",
+    "phone": "5385655356",
+    "address": "Cigli egekent corbaci ali usta cigli izmir ",
+    "city": "İzmir ",
+    "district": "Cigli ",
+    "product": "Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
