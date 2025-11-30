@@ -27046,5 +27046,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1861,
+    "date": "30.11.2025 20:16:42",
+    "status": "Beklemede",
+    "ip": "176.234.225.118",
+    "customerName": "Mahmut Yamaç",
+    "phone": "501 098 31 21",
+    "address": "Seyrantepe Sanayi, Sanayi 8. Sk. 7 b",
+    "city": "Diyarbakır",
+    "district": "Yenişehir",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
