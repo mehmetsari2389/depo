@@ -28171,5 +28171,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1935,
+    "date": "01.12.2025 02:39:39",
+    "status": "Beklemede",
+    "ip": "37.154.38.146",
+    "customerName": "Mahmut Toklu ",
+    "phone": "0 (536) 268 64 71",
+    "address": "Huzurevleri mah Alpaslan turkeş bul 77148 sok Alper apt kat 4 daire 8 /cukurova /Adana ",
+    "city": "Adana ",
+    "district": "Cukurova ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
