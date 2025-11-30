@@ -26461,5 +26461,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1822,
+    "date": "30.11.2025 16:22:36",
+    "status": "Beklemede",
+    "ip": "92.45.44.214",
+    "customerName": "Ramazan  Sakın ",
+    "phone": "5374224328",
+    "address": "Fatsa kaymakamlık binası İŞKUR hizmet merkezi ",
+    "city": "Ordu ",
+    "district": "Fatsa ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
