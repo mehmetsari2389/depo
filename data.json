@@ -26326,5 +26326,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1813,
+    "date": "30.11.2025 15:51:31",
+    "status": "Beklemede",
+    "ip": "178.241.83.79",
+    "customerName": "Turgut Sargın",
+    "phone": "05438079619",
+    "address": "Yunus.emre.mahallesi.belediye sokak.peteksitesi.no.19/8 ankara./sincan ",
+    "city": "Ankara",
+    "district": "Sincan",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
