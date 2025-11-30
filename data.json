@@ -25351,5 +25351,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1747,
+    "date": "30.11.2025 07:34:05",
+    "status": "Beklemede",
+    "ip": "85.105.20.246",
+    "customerName": "Hasan  Durak",
+    "phone": "05442041700",
+    "address": "Maşukiye mah.garaj yolu 11  maşukiye/Kartepe /Kocaeli",
+    "city": "Kocaeli",
+    "district": "Kartepe",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
