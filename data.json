@@ -26521,5 +26521,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1826,
+    "date": "30.11.2025 16:36:18",
+    "status": "Beklemede",
+    "ip": "88.236.185.24",
+    "customerName": "İdris Can",
+    "phone": "0(531) 208-29-25",
+    "address": "Sivas merkez ",
+    "city": "Sivas ",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
