@@ -26791,5 +26791,20 @@
     "size": "XL",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1844,
+    "date": "30.11.2025 18:24:32",
+    "status": "Beklemede",
+    "ip": "88.231.132.179",
+    "customerName": "Ali Osman Karaağaç",
+    "phone": "5530989344",
+    "address": "Güney mobilyacılar Sanayi Sitesi 1191 sokak No/1 Erenler (Vahdet Cami yanı) Erenler Sakarya",
+    "city": "Sakarya",
+    "district": "Erenler",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
