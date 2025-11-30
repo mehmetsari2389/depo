@@ -25996,5 +25996,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1791,
+    "date": "30.11.2025 13:05:30",
+    "status": "Beklemede",
+    "ip": "46.155.233.81",
+    "customerName": "Veysel  Anli ",
+    "phone": "05530861912",
+    "address": "Şehit mustafa gündogdu mah Akdeniz caddesi ğüzide sokak MOD'ANLI market ",
+    "city": "Bingöl ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
