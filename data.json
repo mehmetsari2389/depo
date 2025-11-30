@@ -25231,5 +25231,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1740,
+    "date": "30.11.2025 04:02:55",
+    "status": "Beklemede",
+    "ip": "176.88.121.32",
+    "customerName": "Samet Emeksiz",
+    "phone": "05382568038",
+    "address": "Gültepe mahallesi okul sokak kayseri tapu ve kadastro 11. Bölge müdürlüğü binası kocasınan tapu müdürlüğü ",
+    "city": "Kayseri",
+    "district": "Melikgazi ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
