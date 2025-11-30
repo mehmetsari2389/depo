@@ -27541,5 +27541,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1894,
+    "date": "30.11.2025 22:22:31",
+    "status": "Beklemede",
+    "ip": "188.57.102.95",
+    "customerName": "Zübeyir  Eşlegül",
+    "phone": "+905377981334",
+    "address": "Anadolu adliyesi Esentepe mahallesi  E5 güney yan yol no 39 \nB blok -2 danışma ",
+    "city": "İstanbul ",
+    "district": "Kartal ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
