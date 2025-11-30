@@ -26026,5 +26026,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1793,
+    "date": "30.11.2025 13:22:38",
+    "status": "Beklemede",
+    "ip": "176.236.74.229",
+    "customerName": "Bayram Erdoğan ",
+    "phone": "0516 162 1971",
+    "address": "Hamitler mahallesi gür cad yunuseli toki c 1 5 no 49",
+    "city": "Bursa",
+    "district": "Osmangazi ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
