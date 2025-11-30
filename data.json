@@ -25561,5 +25561,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1762,
+    "date": "30.11.2025 10:52:26",
+    "status": "Beklemede",
+    "ip": "178.240.77.110",
+    "customerName": "Kadir Ok",
+    "phone": "05372922147",
+    "address": "Mardin Ömerli yeni mahalle hürriyet caddesi acar market ",
+    "city": "Mardin",
+    "district": "Ömerli",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
