@@ -26731,5 +26731,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1839,
+    "date": "30.11.2025 18:11:11",
+    "status": "Beklemede",
+    "ip": "88.227.129.217",
+    "customerName": "Orhan  Karadeniz ",
+    "phone": "5378264368",
+    "address": "Yıldırım mahallesi Nurettin cankurtaran caddesi no 113/1",
+    "city": "Ankara ",
+    "district": "Akyurt ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
