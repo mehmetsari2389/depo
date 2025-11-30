@@ -26821,5 +26821,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1846,
+    "date": "30.11.2025 18:45:31",
+    "status": "Beklemede",
+    "ip": "5.176.122.164",
+    "customerName": "Bekir  Celep",
+    "phone": "5452498052",
+    "address": "Ekonomi market no 16 ",
+    "city": "Gümushane",
+    "district": "Şiran",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
