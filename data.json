@@ -25216,5 +25216,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1739,
+    "date": "30.11.2025 03:39:54",
+    "status": "Beklemede",
+    "ip": "78.182.137.105",
+    "customerName": "Mehmet DOĞAN",
+    "phone": "5445139255",
+    "address": "Zuhuratbaba mah Şükran çiftliği sok no 51A Berna apt Kuaför bakırköy İstanbul ",
+    "city": "İstanbul ",
+    "district": "Bakırköy ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
