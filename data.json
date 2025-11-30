@@ -26656,5 +26656,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1835,
+    "date": "30.11.2025 17:54:57",
+    "status": "Beklemede",
+    "ip": "88.230.98.42",
+    "customerName": "Gökhan  Semerci ",
+    "phone": "5536547478",
+    "address": "Baglarbası mah 3.papatya sok 45/1",
+    "city": "Bursa ",
+    "district": "Osmangazı ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
