@@ -26836,5 +26836,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1847,
+    "date": "30.11.2025 18:50:57",
+    "status": "Beklemede",
+    "ip": "178.241.29.222",
+    "customerName": "Berivan  Özer ",
+    "phone": "05342395773",
+    "address": "Bağlar bağcılar mahallesi sosyal kent sitesi b blok kat 3no11 diyarbakır ",
+    "city": "Bağlar ",
+    "district": "Diyarbakır ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
