@@ -28036,5 +28036,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1927,
+    "date": "01.12.2025 00:34:00",
+    "status": "Beklemede",
+    "ip": "176.238.246.61",
+    "customerName": "Halil Çokyaşar ",
+    "phone": "+905301590986",
+    "address": "Kurtuluş Mahallesi Köroğlu Sokak 9/4 Beypazarı Ankara",
+    "city": "Ankara",
+    "district": "Beypazarı",
+    "product": "Puma Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
