@@ -26296,5 +26296,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1811,
+    "date": "30.11.2025 15:39:20",
+    "status": "Beklemede",
+    "ip": "176.89.4.72",
+    "customerName": "Selahattin Ozmen",
+    "phone": "5367322171222*",
+    "address": "\nBuca postanesi buca izmir",
+    "city": "Izmir",
+    "district": "Buca",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
