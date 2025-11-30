@@ -25711,5 +25711,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "30.11.2025 11:58:24",
+    "status": "Beklemede",
+    "ip": "159.146.81.101",
+    "customerName": "Gurcan5352314164 Buyuksuzer",
+    "phone": "05352314164",
+    "address": "Çanakkale Gelibolu Camikebir mahallesi Züverin kahvesi ",
+    "city": "Çanakkale ",
+    "district": "Gelibolu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
