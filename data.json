@@ -25621,5 +25621,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1766,
+    "date": "30.11.2025 11:16:01",
+    "status": "Beklemede",
+    "ip": "5.47.201.139",
+    "customerName": "Mehmet Arslan",
+    "phone": "05536131544",
+    "address": "Finanskent mh 3116 sk no 4 daire 8 Ümraniye istanbul ",
+    "city": "İstanbul ",
+    "district": "Ümraniye ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
