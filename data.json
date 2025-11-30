@@ -27301,5 +27301,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1878,
+    "date": "30.11.2025 21:30:20",
+    "status": "Beklemede",
+    "ip": "46.221.252.123",
+    "customerName": "Adnan  Babayiğit ",
+    "phone": "05541319887",
+    "address": "KALKIM PTT şubesi ne yollanmasini istiyorum olurmu KALKIM yenice köyü Çanakkale Yenice köyü KALKIM PTT şubesi ne yollanmasini istiyorum olurmu Yenice köyü Çanakkale \nÇanakkale Yenice köyü KALKIM \n\n",
+    "city": "Çanakkale ",
+    "district": "Yenice ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
