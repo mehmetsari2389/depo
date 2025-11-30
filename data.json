@@ -26431,5 +26431,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1820,
+    "date": "30.11.2025 16:12:57",
+    "status": "Beklemede",
+    "ip": "178.245.64.181",
+    "customerName": "Ramadan Guleryuz",
+    "phone": "0(538)-624-6602",
+    "address": "Tayakadın mah celalbayar CAD no65",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
