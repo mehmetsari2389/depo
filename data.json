@@ -28021,5 +28021,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1926,
+    "date": "01.12.2025 00:32:01",
+    "status": "Beklemede",
+    "ip": "88.241.79.199",
+    "customerName": "Hayati  Yağcı ",
+    "phone": "05468041885",
+    "address": "Başçayrı köy ",
+    "city": "Aydın ",
+    "district": "Köşk ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
