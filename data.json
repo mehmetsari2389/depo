@@ -25951,5 +25951,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1787,
+    "date": "30.11.2025 12:56:18",
+    "status": "Beklemede",
+    "ip": "151.250.9.228",
+    "customerName": "Erdal Doğru",
+    "phone": "0533 705 99 21",
+    "address": "Erdal doğru \nGümüşyaka mah mehbare sokak Ağu apartmanı 25.d Gültekin erkek kuaförü  silivri /İstanbul",
+    "city": "Istanbul",
+    "district": "Silivri",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
