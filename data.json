@@ -27166,5 +27166,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1867,
+    "date": "30.11.2025 20:35:43",
+    "status": "Beklemede",
+    "ip": "37.170.250.123",
+    "customerName": "Hidayet  Kaya ",
+    "phone": "0698062002",
+    "address": "19, rue de papillon 38070 Saint-Quentin Fallavier",
+    "city": "Grenoble",
+    "district": "Saint-Quentin, Fallavier",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
