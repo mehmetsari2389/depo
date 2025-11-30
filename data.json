@@ -27676,5 +27676,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1903,
+    "date": "30.11.2025 22:43:05",
+    "status": "Beklemede",
+    "ip": "78.190.220.166",
+    "customerName": "Nergis Şato ",
+    "phone": "+905540090120",
+    "address": "Ayvansaray mahallesi kahkaha Sokak No:2 D:2",
+    "city": "İstanbul",
+    "district": "Fatih",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
