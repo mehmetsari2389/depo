@@ -26281,5 +26281,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1810,
+    "date": "30.11.2025 15:31:59",
+    "status": "Beklemede",
+    "ip": "178.240.85.144",
+    "customerName": "Salih Nağaş ",
+    "phone": "05324569263",
+    "address": "Yeni mahalle 5349sok kaya apt 32kat 1 no 1 Akdeniz Mersin ",
+    "city": "Mersin ",
+    "district": "Akdeniz ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
