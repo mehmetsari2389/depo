@@ -27511,5 +27511,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1892,
+    "date": "30.11.2025 22:11:40",
+    "status": "Beklemede",
+    "ip": "46.155.88.78",
+    "customerName": "ERDOĞAN DAĞKIRAN",
+    "phone": "5524431667",
+    "address": "Merkez çırgan köyü Kozlu ZONGULDAK",
+    "city": "Zonguldak",
+    "district": "Kozlu",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
