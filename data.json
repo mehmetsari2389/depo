@@ -26266,5 +26266,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1809,
+    "date": "30.11.2025 15:30:01",
+    "status": "Beklemede",
+    "ip": "5.47.26.66",
+    "customerName": "Engin Akgün",
+    "phone": "05448159916",
+    "address": "Yenikent mahallesi Leyla Eriş caddesi Kanarya Apt:23/4",
+    "city": "Aydın",
+    "district": "Söke ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
