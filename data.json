@@ -26206,5 +26206,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1805,
+    "date": "30.11.2025 14:37:12",
+    "status": "Beklemede",
+    "ip": "88.230.12.168",
+    "customerName": "Hasan Altıok",
+    "phone": "05378419220",
+    "address": "Cumhuriyet mahallesi Gümüşlük sokak No 18 Daire 1 Kat 1 Muğla Kavaklıdere ",
+    "city": "Muğla",
+    "district": "Kavaklıdere ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
