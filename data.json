@@ -28081,5 +28081,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1929,
+    "date": "01.12.2025 00:39:21",
+    "status": "Beklemede",
+    "ip": "178.241.29.222",
+    "customerName": "Recep  Özer ",
+    "phone": "05342395773",
+    "address": "Bağlar bağcılar mahallesi sosyal kent sitesi b kat 3no11 ",
+    "city": "Bağlar ",
+    "district": "Diyarbakır ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
