@@ -26851,5 +26851,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1848,
+    "date": "30.11.2025 18:51:42",
+    "status": "Beklemede",
+    "ip": "178.240.178.246",
+    "customerName": "Erkan  Koşar ",
+    "phone": "05372072004",
+    "address": "Daha öncede sipariz verdim niye bana \neğerci mah.3çüncü küme evleri no 33 daire 1",
+    "city": "İzmir ",
+    "district": "Torbalı ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
