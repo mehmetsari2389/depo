@@ -27991,5 +27991,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1923,
+    "date": "01.12.2025 00:30:38",
+    "status": "Beklemede",
+    "ip": "176.238.246.61",
+    "customerName": "H ibrahim Çokyaşar ",
+    "phone": "+905301590986",
+    "address": "Kurtuluş mah Köroğlu şok 9/4 beypazarı ankara",
+    "city": "Ankara",
+    "district": "İlce",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
