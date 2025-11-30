@@ -25396,5 +25396,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1751,
+    "date": "30.11.2025 08:17:20",
+    "status": "Beklemede",
+    "ip": "46.155.70.11",
+    "customerName": "Dian  Puspita dewi",
+    "phone": "5367881283",
+    "address": "\n\nAddres : AKKA HOTELS ANTEDON \n\nBeldibi Mahallesi. 1 mevkii  07994. AKKA HOTEL ANTEDON. Kemer _ Antalya\n\nNOTE : BERAKTIM RECEPTIONIS / GUVENLIK",
+    "city": "Sudeya spa",
+    "district": "Akka Antedon hotel",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
