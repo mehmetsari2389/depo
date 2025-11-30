@@ -26761,5 +26761,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1841,
+    "date": "30.11.2025 18:13:31",
+    "status": "Beklemede",
+    "ip": "178.233.64.2",
+    "customerName": "Mustafa  Eser",
+    "phone": "5344846800",
+    "address": "Edirne merkez cumhuriyet mahallesi Hüseyin alkaya sokak no 8 güneş Park evleri Ablok B girişi 1. Kat kapıcı dairesi ",
+    "city": "Edirne",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
