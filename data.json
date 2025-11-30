@@ -28051,5 +28051,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1928,
+    "date": "01.12.2025 00:37:06",
+    "status": "Beklemede",
+    "ip": "88.241.79.199",
+    "customerName": "Hayati  Yağcı ",
+    "phone": "05468041885",
+    "address": "Başçayrı köy ",
+    "city": "Aydın ",
+    "district": "Köşk ",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
