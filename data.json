@@ -27361,5 +27361,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1882,
+    "date": "30.11.2025 21:41:30",
+    "status": "Beklemede",
+    "ip": "88.224.52.145",
+    "customerName": "Mehmet  KARAHAN ",
+    "phone": "5462858034",
+    "address": "Sağlık mahallesi güvenlik sokak beyaz apartmanı no 2-daire 3 Bolu Merkez ",
+    "city": "Bolu",
+    "district": "Merkez ",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
