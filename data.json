@@ -27076,5 +27076,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1863,
+    "date": "30.11.2025 20:25:45",
+    "status": "Beklemede",
+    "ip": "88.247.239.192",
+    "customerName": "Onur Bozdağ ",
+    "phone": "+905330242848",
+    "address": "Koyuncu sokak no:37 Akyaka ula Muğla ",
+    "city": "Muğla",
+    "district": "Ula",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
