@@ -26341,5 +26341,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1814,
+    "date": "30.11.2025 15:57:34",
+    "status": "Beklemede",
+    "ip": "85.100.0.136",
+    "customerName": "İbrahim  KARAGÜR",
+    "phone": "05367120834",
+    "address": "Uşak Banaz Hatipler köyü no 2 Aşağı Mevki ",
+    "city": "Uşak ",
+    "district": "Banaz ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
