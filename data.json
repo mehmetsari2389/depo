@@ -25966,5 +25966,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1789,
+    "date": "30.11.2025 12:56:42",
+    "status": "Beklemede",
+    "ip": "178.241.226.133",
+    "customerName": "Emir  Başkaya",
+    "phone": "+905378613907",
+    "address": "Atatürk mahallesi dubaz sokak no4 daire 5 A1 koyuncu apartmanı",
+    "city": "Tekirdağ ",
+    "district": "Kapaklı ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
