@@ -28111,5 +28111,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1932,
+    "date": "01.12.2025 00:59:49",
+    "status": "Beklemede",
+    "ip": "31.143.84.116",
+    "customerName": "Veysel  Uşgun ",
+    "phone": "5322253737",
+    "address": "Kücükkale köyü küme evleri yeşil ket no31",
+    "city": "İzmir'e ",
+    "district": "Tire ",
+    "product": "Puma Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
