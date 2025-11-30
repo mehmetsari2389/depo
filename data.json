@@ -26401,5 +26401,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1815,
+    "date": "30.11.2025 15:58:17",
+    "status": "Beklemede",
+    "ip": "78.172.215.228",
+    "customerName": "Ufuk  Aytekin ",
+    "phone": "+905448813835",
+    "address": "AKÇABURGAZ MAHALLESİ 3035/Sk NO:12. DAİRE NO:3",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
