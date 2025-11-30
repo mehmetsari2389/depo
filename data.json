@@ -25921,5 +25921,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1786,
+    "date": "30.11.2025 12:52:05",
+    "status": "Beklemede",
+    "ip": "95.10.185.194",
+    "customerName": "Kenan Güleç",
+    "phone": "5362195671",
+    "address": "Cumriyet mahallesi şahin sokak no 12 d blok daire 1 çardak sitesi ",
+    "city": "Bursa ",
+    "district": "Mustafakemalpaşa ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
