@@ -27451,5 +27451,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1888,
+    "date": "30.11.2025 21:53:09",
+    "status": "Beklemede",
+    "ip": "88.235.202.5",
+    "customerName": "Süleyman  Balcı ",
+    "phone": "05437720038",
+    "address": "cumhuriyet mahallesi alişandikdaş caddesi no 83 b öztürk döner tokat erbaa ",
+    "city": "tokat ",
+    "district": "erbaa ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
