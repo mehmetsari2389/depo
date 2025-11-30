@@ -28141,5 +28141,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1934,
+    "date": "01.12.2025 02:00:04",
+    "status": "Beklemede",
+    "ip": "88.230.60.41",
+    "customerName": "Nigar damla Ertuğrul",
+    "phone": "05528507648",
+    "address": "Gülpınar mah Özbek sok no 6-1A ",
+    "city": "Muğla ",
+    "district": "Köyceğiz ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
