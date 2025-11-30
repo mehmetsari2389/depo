@@ -27061,5 +27061,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1862,
+    "date": "30.11.2025 20:19:42",
+    "status": "Beklemede",
+    "ip": "78.190.127.158",
+    "customerName": "Alptekin  Kayaalp",
+    "phone": "5436209179",
+    "address": "19 sk no40 daire 3 güzelyalı/izmir",
+    "city": "İzmir",
+    "district": "Konak",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
