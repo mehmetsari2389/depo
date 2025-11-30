@@ -27181,5 +27181,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1870,
+    "date": "30.11.2025 20:37:04",
+    "status": "Beklemede",
+    "ip": "94.123.199.22",
+    "customerName": "hakan kaya",
+    "phone": "5412711814",
+    "address": "Meltem sokak iskule kule 3 levent besiktas istanbul",
+    "city": "İstanbul",
+    "district": "Besiktas",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
