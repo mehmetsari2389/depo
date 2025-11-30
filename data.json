@@ -25501,5 +25501,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1758,
+    "date": "30.11.2025 10:17:30",
+    "status": "Beklemede",
+    "ip": "37.155.173.81",
+    "customerName": "Eyyüp ışık",
+    "phone": "05426957733",
+    "address": "Seyit Fehim Arvasi mahallesi meteroloji 13 sokak dış kapı 2no 2 İpekyolu van",
+    "city": "Van",
+    "district": "İpekyolu ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
