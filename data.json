@@ -25771,5 +25771,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1774,
+    "date": "30.11.2025 12:04:14",
+    "status": "Beklemede",
+    "ip": "176.219.74.44",
+    "customerName": "Serkan  Kavuk oğlu ",
+    "phone": "05448651133",
+    "address": "Esentepe mahallesi 348sokak no 28",
+    "city": "Hatay ",
+    "district": "İskenderun ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
