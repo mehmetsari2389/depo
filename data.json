@@ -27196,5 +27196,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1871,
+    "date": "30.11.2025 20:47:23",
+    "status": "Beklemede",
+    "ip": "85.99.176.172",
+    "customerName": "İhsan  Işak",
+    "phone": "05320537215",
+    "address": "Kavacık mah .serpil şok.no.28 D.3",
+    "city": "İstanbul",
+    "district": "Beykoz",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
