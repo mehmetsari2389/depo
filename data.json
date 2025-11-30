@@ -25261,5 +25261,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1742,
+    "date": "30.11.2025 06:56:50",
+    "status": "Beklemede",
+    "ip": "178.241.135.212",
+    "customerName": "Mehmet  Şahin",
+    "phone": "05374883257",
+    "address": "Mersin Akdeniz hebilli koyu",
+    "city": "İçel mersin",
+    "district": "Akdeniz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
