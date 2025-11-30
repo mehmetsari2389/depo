@@ -25786,5 +25786,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1777,
+    "date": "30.11.2025 12:12:16",
+    "status": "Beklemede",
+    "ip": "151.135.28.78",
+    "customerName": "Ali ismet Börekci",
+    "phone": "5339673951",
+    "address": "Dünya Bankası konutları Malta mah,4.ada E,14 kat,2, Daire 7,",
+    "city": "Kocaeli ",
+    "district": "Bekir paşa ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
