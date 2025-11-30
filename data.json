@@ -27661,5 +27661,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1900,
+    "date": "30.11.2025 22:41:35",
+    "status": "Beklemede",
+    "ip": "151.250.11.166",
+    "customerName": "Fatma Saygılı",
+    "phone": "05440375068",
+    "address": "Necatıye koyu havsa edırne kume evlerı no. 33",
+    "city": "Havsa",
+    "district": "Edırne",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
