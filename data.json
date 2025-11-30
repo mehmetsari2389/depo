@@ -26806,5 +26806,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1845,
+    "date": "30.11.2025 18:42:32",
+    "status": "Beklemede",
+    "ip": "85.98.16.57",
+    "customerName": "Mehmet Demir",
+    "phone": "5324756615",
+    "address": "Fevzi Çakmak, Öztuna Sk. No:6Bblok D 25",
+    "city": "İstanbul",
+    "district": "Pendik",
+    "product": "Haki Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
