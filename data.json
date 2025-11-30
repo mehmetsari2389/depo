@@ -26626,5 +26626,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1832,
+    "date": "30.11.2025 17:30:13",
+    "status": "Beklemede",
+    "ip": "31.143.80.240",
+    "customerName": "Mustafa  Erdem",
+    "phone": "5358773300",
+    "address": "İzmir çeşme",
+    "city": "İzmir ",
+    "district": "Çeşme ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
