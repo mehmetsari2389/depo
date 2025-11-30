@@ -27766,5 +27766,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1909,
+    "date": "30.11.2025 23:32:35",
+    "status": "Beklemede",
+    "ip": "176.237.73.167",
+    "customerName": "Savaş Onur",
+    "phone": "5345672748",
+    "address": "15 temmuz mahallesi Ceylan sokak no 19 daire 4",
+    "city": "Güneşli İstanbul",
+    "district": "Kırmızı tifik'te",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "3",
+    "cargoPayment": "ptt-nakit"
   }
 ]
