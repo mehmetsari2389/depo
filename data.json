@@ -26911,5 +26911,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1852,
+    "date": "30.11.2025 19:06:54",
+    "status": "Beklemede",
+    "ip": "188.58.17.92",
+    "customerName": "Yaşar  Pahna",
+    "phone": "05347168095",
+    "address": "Mazılı mah sok1 no2",
+    "city": "Izmır ",
+    "district": "Dikili",
+    "product": "Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
