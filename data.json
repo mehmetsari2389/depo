@@ -26071,5 +26071,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1796,
+    "date": "30.11.2025 14:01:42",
+    "status": "Beklemede",
+    "ip": "176.233.65.236",
+    "customerName": "Ramazan  Tunç ",
+    "phone": "05372215138",
+    "address": "Ali Paşa mahallesi selvi sokak no 42 ",
+    "city": "Kütahya ",
+    "district": "Merkez ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
