@@ -27811,5 +27811,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1912,
+    "date": "01.12.2025 00:12:24",
+    "status": "Beklemede",
+    "ip": "88.230.95.212",
+    "customerName": "Ceyhun Yalçın",
+    "phone": "05325176740",
+    "address": "Kavacık mh özkan sk varışlı plaza no:2/5 ",
+    "city": "İstanbul",
+    "district": "Beykoz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
