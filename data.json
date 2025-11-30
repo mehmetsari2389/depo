@@ -25411,5 +25411,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1752,
+    "date": "30.11.2025 09:26:33",
+    "status": "Beklemede",
+    "ip": "176.54.119.42",
+    "customerName": "Osman Karademir",
+    "phone": "5378756494",
+    "address": "Manisa Salihli köseali mahallesi no 114",
+    "city": "Manisa ",
+    "district": "Salihli ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
