@@ -26041,5 +26041,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1,
+    "date": "30.11.2025 13:45:51",
+    "status": "Beklemede",
+    "ip": "46.106.134.105",
+    "customerName": "İbrahim  Yıldız ",
+    "phone": "0541 323 9415",
+    "address": "Hisar mahallesi 1013 8/2 didim",
+    "city": "Aydin",
+    "district": "Didim",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
