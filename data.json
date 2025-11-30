@@ -25891,5 +25891,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1784,
+    "date": "30.11.2025 12:35:18",
+    "status": "Beklemede",
+    "ip": "5.176.41.195",
+    "customerName": "Zeki Hoşgör",
+    "phone": "5522813407",
+    "address": "Cennetler mahhallesi sandıkcı sitesi kat 1 Kapı no H 1",
+    "city": "Antalya ",
+    "district": "Manavgat ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
