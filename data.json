@@ -25741,5 +25741,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1774,
+    "date": "30.11.2025 12:03:59",
+    "status": "Beklemede",
+    "ip": "176.89.93.171",
+    "customerName": "İbrahim  Cetin",
+    "phone": "05345754527",
+    "address": "Edirne kesan",
+    "city": "Edirne",
+    "district": "Kesan",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
