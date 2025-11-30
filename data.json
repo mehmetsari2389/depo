@@ -25516,5 +25516,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1759,
+    "date": "30.11.2025 10:23:26",
+    "status": "Beklemede",
+    "ip": "151.135.176.188",
+    "customerName": "Yavuz  Dimlioğlu ",
+    "phone": "5415583368",
+    "address": "Ardickaya köyü Orta mahalle ",
+    "city": "Karaman",
+    "district": "Ermenek",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
