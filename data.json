@@ -27271,5 +27271,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1876,
+    "date": "30.11.2025 21:20:51",
+    "status": "Beklemede",
+    "ip": "94.235.125.10",
+    "customerName": "Şeref Yanar",
+    "phone": "5323308030",
+    "address": "Buski şantiysi\nNot ürün göründügü gibi olmassa kesinlikle almam",
+    "city": "BURSA",
+    "district": "Harmancık",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
