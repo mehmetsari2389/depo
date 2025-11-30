@@ -27721,5 +27721,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1906,
+    "date": "30.11.2025 23:09:48",
+    "status": "Beklemede",
+    "ip": "46.154.173.40",
+    "customerName": "Mikail Bakan ",
+    "phone": "5161666334",
+    "address": "Dumlupınar mahallesi yaldız Sokak no 6 daire 1",
+    "city": "Kütahya ",
+    "district": "Merkez ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
