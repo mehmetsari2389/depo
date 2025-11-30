@@ -27016,5 +27016,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1859,
+    "date": "30.11.2025 19:59:02",
+    "status": "Beklemede",
+    "ip": "46.155.224.246",
+    "customerName": "İsmet  Manul ",
+    "phone": "05448822532",
+    "address": "Kapı no 31 2 cade E 90 Kale mahallesi Viranşehir Şanlıurfa ",
+    "city": "Şanlıurfa ",
+    "district": "Viranşehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
