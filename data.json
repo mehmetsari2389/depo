@@ -26491,5 +26491,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1824,
+    "date": "30.11.2025 16:35:29",
+    "status": "Beklemede",
+    "ip": "46.106.230.143",
+    "customerName": "Ramazan'a Çankırlı",
+    "phone": "+905350788117",
+    "address": "Yeniceköy mahallesi Mahmut kuşcan caddesi no 28/11",
+    "city": "Bursa",
+    "district": "İnegöl",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
