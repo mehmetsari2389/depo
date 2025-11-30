@@ -25576,5 +25576,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1763,
+    "date": "30.11.2025 10:59:56",
+    "status": "Beklemede",
+    "ip": "88.234.239.35",
+    "customerName": "Remzi Saka",
+    "phone": "0(530) 962 61 50",
+    "address": "İncilli mah eski hastane cad no.50/1 kat.3",
+    "city": "Sakarya",
+    "district": "Karasu",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
