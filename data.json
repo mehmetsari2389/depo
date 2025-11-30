@@ -25291,5 +25291,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1743,
+    "date": "30.11.2025 07:28:23",
+    "status": "Beklemede",
+    "ip": "37.155.40.207",
+    "customerName": "Nurettin Türk",
+    "phone": "05532470727",
+    "address": "Gülağzı mahallesi halimle sok no 18/1 menteşe /muğla",
+    "city": "Muğla",
+    "district": "Menteşe",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
