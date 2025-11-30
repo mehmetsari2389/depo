@@ -27241,5 +27241,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1874,
+    "date": "30.11.2025 21:08:01",
+    "status": "Beklemede",
+    "ip": "46.106.228.143",
+    "customerName": "Emre imdat Karaboğa",
+    "phone": "05385129885",
+    "address": "Özgür mahallesi Aktaş caddesi bahar Sokak no 26 Iğdır merkez",
+    "city": "Iğdır",
+    "district": "Merkez",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
