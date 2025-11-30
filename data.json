@@ -25861,5 +25861,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1781,
+    "date": "30.11.2025 12:28:04",
+    "status": "Beklemede",
+    "ip": "78.163.118.147",
+    "customerName": "Sultan dikmen Dikmen",
+    "phone": "05358303827",
+    "address": "Yonca mah Eylül sokak no 12 4 ",
+    "city": "İstanbul",
+    "district": "Avcilar",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
