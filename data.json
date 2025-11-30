@@ -26971,5 +26971,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1856,
+    "date": "30.11.2025 19:36:52",
+    "status": "Beklemede",
+    "ip": "176.43.111.87",
+    "customerName": "Yılmaz  Yanık",
+    "phone": "+5322200063",
+    "address": "Demir lavida evleri Alkent erkek kuaförü ",
+    "city": "İstanbul’",
+    "district": "Büyükçekmece ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
