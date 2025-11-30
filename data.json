@@ -25606,5 +25606,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1764,
+    "date": "30.11.2025 11:12:43",
+    "status": "Beklemede",
+    "ip": "31.142.101.13",
+    "customerName": "Davut Parmaksız ",
+    "phone": "5338987142",
+    "address": "Muğla Kavaklıdere cayboyu mah seç market ",
+    "city": "Muğla",
+    "district": "Kavaklıdere ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
