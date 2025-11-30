@@ -26161,5 +26161,20 @@
     "size": "M",
     "quantity": "5",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1802,
+    "date": "30.11.2025 14:33:58",
+    "status": "Beklemede",
+    "ip": "185.43.231.174",
+    "customerName": "Ali KIRMIZI ",
+    "phone": "05461505535",
+    "address": "173. Sokak,no 6, kat 2, daire 3\nKazımdirik\n",
+    "city": "İzmir",
+    "district": "Bornova ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
