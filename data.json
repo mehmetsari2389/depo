@@ -26176,5 +26176,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1803,
+    "date": "30.11.2025 14:35:50",
+    "status": "Beklemede",
+    "ip": "185.43.231.174",
+    "customerName": "Ali KIRMIZI ",
+    "phone": "05461505535",
+    "address": "173. Sokak,no 6, kat 2, daire 3",
+    "city": "İzmir",
+    "district": "Bornova",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
