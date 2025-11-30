@@ -26956,5 +26956,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1855,
+    "date": "30.11.2025 19:31:17",
+    "status": "Beklemede",
+    "ip": "37.155.14.91",
+    "customerName": "ibrahim yılmaz",
+    "phone": "5543420372",
+    "address": "emirdag",
+    "city": "afyon ",
+    "district": "emirdag",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
