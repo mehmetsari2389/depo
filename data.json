@@ -27091,5 +27091,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1864,
+    "date": "30.11.2025 20:32:06",
+    "status": "Beklemede",
+    "ip": "88.241.66.223",
+    "customerName": "Mehmet  Başpınar",
+    "phone": "905375135733",
+    "address": "Bekirler mah ",
+    "city": "Aydın ",
+    "district": "Nazilli ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
