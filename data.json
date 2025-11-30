@@ -25801,5 +25801,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1778,
+    "date": "30.11.2025 12:19:48",
+    "status": "Beklemede",
+    "ip": "188.3.115.6",
+    "customerName": "Şaban Kocabıyık",
+    "phone": "(543) 801 48 85",
+    "address": "Karşıyaka mah 4075 sokak no:6/2",
+    "city": "Balıkesir",
+    "district": "Gönen",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
