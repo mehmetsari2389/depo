@@ -25651,5 +25651,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1767,
+    "date": "30.11.2025 11:21:11",
+    "status": "Beklemede",
+    "ip": "78.177.182.18",
+    "customerName": "Hüseyin Kızıltaş",
+    "phone": "05322240710",
+    "address": "PTT BAŞMÜDÜRLÜĞÜ\n",
+    "city": "AFYONKARAHİSAR",
+    "district": "Merkez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
