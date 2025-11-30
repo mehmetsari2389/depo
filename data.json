@@ -27931,5 +27931,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1920,
+    "date": "01.12.2025 00:19:40",
+    "status": "Beklemede",
+    "ip": "5.229.98.43",
+    "customerName": "Kerim Yildiz",
+    "phone": "5518685244",
+    "address": "Gaziahmet, Bülbül Sk. No:70",
+    "city": "Tokat",
+    "district": "Niksar",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "3",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
