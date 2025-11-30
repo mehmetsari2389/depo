@@ -27376,5 +27376,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1883,
+    "date": "30.11.2025 21:44:23",
+    "status": "Beklemede",
+    "ip": "88.236.183.226",
+    "customerName": "Burak Alkan",
+    "phone": "0(534) 886 33 98",
+    "address": "Sivas Gemerek sızır",
+    "city": "Sivas",
+    "district": "Gemerek ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
