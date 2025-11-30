@@ -27796,5 +27796,20 @@
     "size": "XXL",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1911,
+    "date": "01.12.2025 00:06:51",
+    "status": "Beklemede",
+    "ip": "195.142.228.105",
+    "customerName": "Görkem Kocabıyik",
+    "phone": "05368614227",
+    "address": "Altınova mah. Cumhuriyet cad doğa apartmanı no.24 zihni elektrik ",
+    "city": "Balıkesir ",
+    "district": "Ayvalık ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
