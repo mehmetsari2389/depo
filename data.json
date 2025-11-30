@@ -26566,5 +26566,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1828,
+    "date": "30.11.2025 17:03:43",
+    "status": "Beklemede",
+    "ip": "46.155.87.253",
+    "customerName": "Abdullah  Özdemir",
+    "phone": "05462530073",
+    "address": "Kaklık mahallesi güneş sitesi no 108 e blok kat 1 daire 1 honaz denizli",
+    "city": "Denizli",
+    "district": "Honaz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
