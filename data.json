@@ -26416,5 +26416,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1819,
+    "date": "30.11.2025 15:59:47",
+    "status": "Beklemede",
+    "ip": "46.155.84.159",
+    "customerName": "aliona soysal",
+    "phone": "5352225673",
+    "address": "Altınova mahallesi cevizli sokak no 5 ",
+    "city": "Balıkesir ",
+    "district": "Ayvalık ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
