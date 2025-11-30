@@ -26476,5 +26476,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1823,
+    "date": "30.11.2025 16:28:21",
+    "status": "Beklemede",
+    "ip": "78.175.226.21",
+    "customerName": "Duha Boduroglu",
+    "phone": "05322741075",
+    "address": "Gōlpark sitesi 29 gölbaší Ankara 05322741075",
+    "city": "Ankara",
+    "district": "Gölbasi",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
