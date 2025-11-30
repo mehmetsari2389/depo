@@ -26581,5 +26581,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1830,
+    "date": "30.11.2025 17:18:47",
+    "status": "Beklemede",
+    "ip": "78.190.224.96",
+    "customerName": "Muharrem  Açar",
+    "phone": "05412837051",
+    "address": "Türkmenli köyü no 140 /b Sem market ",
+    "city": "Çanakkale",
+    "district": "Bayramiç",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
