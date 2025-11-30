@@ -27526,5 +27526,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1893,
+    "date": "30.11.2025 22:18:01",
+    "status": "Beklemede",
+    "ip": "46.196.144.107",
+    "customerName": "Furkan  Yılmaz",
+    "phone": "+905427192635",
+    "address": "Gaziantep/Şahinbey 60.yıl mahallesi 19 nolu sokak no 18 kat 1",
+    "city": "Gaziantep ",
+    "district": "Şahinbey ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
