@@ -25201,5 +25201,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1738,
+    "date": "30.11.2025 03:11:34",
+    "status": "Beklemede",
+    "ip": "149.140.33.117",
+    "customerName": "Ugur  Guler  ",
+    "phone": "055375202892",
+    "address": "İzmır kemalpasa  Atatürk  mahallesi 17 sokak no 2",
+    "city": "İzmır ",
+    "district": "Kemalpasa",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
