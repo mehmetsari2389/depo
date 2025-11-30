@@ -26746,5 +26746,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1841,
+    "date": "30.11.2025 18:13:16",
+    "status": "Beklemede",
+    "ip": "176.216.212.117",
+    "customerName": "Kamil Tunca",
+    "phone": "05357477376",
+    "address": "Demirci MH bozyer SK no 22 nilüfer bursa ",
+    "city": "Bursa",
+    "district": "Ni̇lüfer",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
