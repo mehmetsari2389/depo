@@ -25471,5 +25471,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1756,
+    "date": "30.11.2025 09:46:39",
+    "status": "Beklemede",
+    "ip": "78.163.141.252",
+    "customerName": "Cumhur Badem",
+    "phone": "05426742473",
+    "address": "Umurbey mahallesi üzümlü caddesı no 17 kat 1",
+    "city": "Izmir",
+    "district": "Odemis",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
