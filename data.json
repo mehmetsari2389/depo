@@ -26311,5 +26311,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1812,
+    "date": "30.11.2025 15:46:06",
+    "status": "Beklemede",
+    "ip": "176.33.187.69",
+    "customerName": "Mert Özeray",
+    "phone": "05324548393",
+    "address": "Akıncı Hava lojmanları Fethiye mah. Ersöz1/4 ",
+    "city": "Ankara",
+    "district": "Kahramankazan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
