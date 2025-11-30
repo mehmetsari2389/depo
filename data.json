@@ -25321,5 +25321,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1746,
+    "date": "30.11.2025 07:32:37",
+    "status": "Beklemede",
+    "ip": "46.106.169.132",
+    "customerName": "Alaattin  Baş",
+    "phone": "05442645255",
+    "address": "Osmangazi mahallesi küçükayazma caddesi no 30 daire 1",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
