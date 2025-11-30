@@ -25831,5 +25831,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1780,
+    "date": "30.11.2025 12:20:51",
+    "status": "Beklemede",
+    "ip": "94.121.243.241",
+    "customerName": "Fetih Orman",
+    "phone": "05510711581",
+    "address": "Şübedenalıcam Alipaşahşübesindenalıcam",
+    "city": "Tekirdağ",
+    "district": "Corlu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
