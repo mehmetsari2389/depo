@@ -26086,5 +26086,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1797,
+    "date": "30.11.2025 14:17:11",
+    "status": "Beklemede",
+    "ip": "212.87.196.18",
+    "customerName": "Galip  Süllü",
+    "phone": "5426268459",
+    "address": "Deremahallesi esenttepe caddesi no 75/2",
+    "city": "Muğla ",
+    "district": "Yatağan ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
