@@ -27781,5 +27781,20 @@
     "size": "4XL",
     "quantity": "3",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1910,
+    "date": "30.11.2025 23:46:13",
+    "status": "Beklemede",
+    "ip": "141.196.44.177",
+    "customerName": "Hamit Altın ",
+    "phone": "0(507) 030 65 00",
+    "address": "Anıt Mh dibek başı sokak no 4/5",
+    "city": "Konya",
+    "district": "Akşehir ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
