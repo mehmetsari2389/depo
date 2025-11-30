@@ -26536,5 +26536,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1827,
+    "date": "30.11.2025 16:51:28",
+    "status": "Beklemede",
+    "ip": "88.236.112.75",
+    "customerName": "Ahmet Çiçek",
+    "phone": "5305023040",
+    "address": "Sürsürü Mah.imam Efendi Bulvari.Total Benzinlik Karşısı Yeşfin paça ve Çorba salonu ",
+    "city": "Elazığ ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
