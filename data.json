@@ -26011,5 +26011,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1792,
+    "date": "30.11.2025 13:10:47",
+    "status": "Beklemede",
+    "ip": "141.196.1.87",
+    "customerName": "Zafer Dilbirliği",
+    "phone": "05365930484",
+    "address": "M",
+    "city": "K maras",
+    "district": "12 şubat",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
