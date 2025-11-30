@@ -27946,5 +27946,20 @@
     "size": "M",
     "quantity": "3",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1921,
+    "date": "01.12.2025 00:26:15",
+    "status": "Beklemede",
+    "ip": "85.110.210.213",
+    "customerName": "Mesut Karakuş",
+    "phone": "05519590150",
+    "address": "Atatürk caddesi Yıldırım sokak no 1aile fırını ",
+    "city": "Hatay",
+    "district": "Yayladağı ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
