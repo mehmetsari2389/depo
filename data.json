@@ -25441,5 +25441,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1754,
+    "date": "30.11.2025 09:30:33",
+    "status": "Beklemede",
+    "ip": "88.232.243.46",
+    "customerName": "Ahmet  Çin",
+    "phone": "05349832365",
+    "address": "Odabaşı mh ismet İnönü cd no 98 adk tuning ",
+    "city": "Hatay ",
+    "district": "Antakya ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
