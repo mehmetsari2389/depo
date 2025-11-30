@@ -27736,5 +27736,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1907,
+    "date": "30.11.2025 23:29:28",
+    "status": "Beklemede",
+    "ip": "212.154.85.134",
+    "customerName": "İrfan Çetin",
+    "phone": "5326608878",
+    "address": "Azak otel saray mah Atatürk CAD no 149 Alanya",
+    "city": "Antalya ",
+    "district": "Alanya",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
