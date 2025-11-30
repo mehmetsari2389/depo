@@ -25846,5 +25846,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1781,
+    "date": "30.11.2025 12:27:55",
+    "status": "Beklemede",
+    "ip": "78.173.133.252",
+    "customerName": "Mustafa Birkan",
+    "phone": "+90 5343228684",
+    "address": "İpekcile mah güçlüler cat no 19 tire izmir",
+    "city": "İzmir",
+    "district": "Tire",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
