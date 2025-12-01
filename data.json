@@ -29641,5 +29641,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2034,
+    "date": "01.12.2025 19:23:11",
+    "status": "Beklemede",
+    "ip": "5.176.44.233",
+    "customerName": "Muhammet  Öztürk ",
+    "phone": "5061721731",
+    "address": "Karacaahmet sutcoglu ",
+    "city": "Afyonkarahısar ",
+    "district": "İhsaniye ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
