@@ -29491,5 +29491,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2024,
+    "date": "01.12.2025 18:20:58",
+    "status": "Beklemede",
+    "ip": "78.173.43.234",
+    "customerName": "Bülent Turaçoğlu",
+    "phone": "05305055450",
+    "address": "Şehitmustafa, 3506 Sk. No:19 Mersin/ tarsus",
+    "city": "Mersin",
+    "district": "Tarsus",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
