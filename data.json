@@ -30121,5 +30121,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2066,
+    "date": "02.12.2025 01:32:43",
+    "status": "Beklemede",
+    "ip": "149.140.249.158",
+    "customerName": "Kadir Özçelik",
+    "phone": "05317096952",
+    "address": "2393 sokak ürün kent sitesi A blok 6 no 40 kat 1 daire 2 Esentepe mahallesi ",
+    "city": "İstanbul ",
+    "district": "Sultangazi ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
