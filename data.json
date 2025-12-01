@@ -28981,5 +28981,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1989,
+    "date": "01.12.2025 13:52:20",
+    "status": "Beklemede",
+    "ip": "46.155.255.212",
+    "customerName": "Mustafa  Budak ",
+    "phone": "05422079118",
+    "address": "15 temmuz mahallesi gümüş apartmanı c blok no 19",
+    "city": "Şanlıurfa ",
+    "district": "Ceylanpınar ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
