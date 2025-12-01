@@ -28471,5 +28471,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1956,
+    "date": "01.12.2025 09:58:10",
+    "status": "Beklemede",
+    "ip": "212.252.138.16",
+    "customerName": "Oğuz Kabakcı",
+    "phone": "05442405878",
+    "address": "Konak mah.muhterem sok.özen sitesi 6.blok no.13 kat.2 daire.4",
+    "city": "Aydın",
+    "district": "Söke",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
