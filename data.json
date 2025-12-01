@@ -29311,5 +29311,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2012,
+    "date": "01.12.2025 16:30:26",
+    "status": "Beklemede",
+    "ip": "88.254.176.122",
+    "customerName": "Selami Babacan",
+    "phone": "5312314579",
+    "address": "Yusuf Ziyabey mahallesi Babacan sok no 12 Oltu Erzurum ",
+    "city": "Erzurum ",
+    "district": "Oltu",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
