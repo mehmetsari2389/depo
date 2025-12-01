@@ -28456,5 +28456,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1955,
+    "date": "01.12.2025 09:52:09",
+    "status": "Beklemede",
+    "ip": "31.143.41.176",
+    "customerName": "RAHMİ ACINAL",
+    "phone": "05537122979",
+    "address": "Demet sokak Poyraz apartmanı No 7 görevli dairesi",
+    "city": "İstanbul ",
+    "district": "Kadıköy ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
