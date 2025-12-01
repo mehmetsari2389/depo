@@ -29566,5 +29566,20 @@
     "size": "M",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2029,
+    "date": "01.12.2025 18:52:14",
+    "status": "Beklemede",
+    "ip": "31.155.255.37",
+    "customerName": "İSMAİL ÇETİN ",
+    "phone": "(533) 357 77 67",
+    "address": "ZAFER  MAH. 5010 SK. NO: 11/3  MERKEZ -ISPARTA ",
+    "city": "ISPARTA",
+    "district": "MERKEZ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
