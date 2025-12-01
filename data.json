@@ -28996,5 +28996,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1991,
+    "date": "01.12.2025 13:54:45",
+    "status": "Beklemede",
+    "ip": "176.89.228.191",
+    "customerName": "Eşref  Sökmen ",
+    "phone": "5330371209",
+    "address": "Plevne mahallesi Timuçin sok no 47 6 Sincan Ankara ",
+    "city": "Ankara ",
+    "district": "Sincan ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
