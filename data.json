@@ -28291,5 +28291,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1944,
+    "date": "01.12.2025 06:58:44",
+    "status": "Beklemede",
+    "ip": "188.57.6.8",
+    "customerName": "Fırat  Durmaz",
+    "phone": "05072404465",
+    "address": "Abdurrahman Gazi mahallesi Bediüzzaman caddesi no 33 ",
+    "city": "Van ",
+    "district": "Tuşba ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
