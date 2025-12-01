@@ -28606,5 +28606,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1965,
+    "date": "01.12.2025 11:52:17",
+    "status": "Beklemede",
+    "ip": "24.133.157.156",
+    "customerName": "Oktay Çevik",
+    "phone": "5068804384",
+    "address": "1195/4 no 4 daire 3 İncil'i pınar mahalle pamukkale denizli",
+    "city": "Denizli",
+    "district": "Pamukkale",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
