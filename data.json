@@ -28666,5 +28666,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1968,
+    "date": "01.12.2025 12:17:27",
+    "status": "Beklemede",
+    "ip": "88.231.61.243",
+    "customerName": "Ilhan Salantur",
+    "phone": "05364560229",
+    "address": "Kirmizi koltuk gumushane pazar yeri",
+    "city": "Il",
+    "district": "Il",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
