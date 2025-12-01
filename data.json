@@ -29446,5 +29446,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2021,
+    "date": "01.12.2025 18:04:00",
+    "status": "Beklemede",
+    "ip": "149.86.132.1",
+    "customerName": "Yusuf Akin",
+    "phone": "05317769007",
+    "address": "Avcılar ve atıcılar dernegi",
+    "city": "Antalya",
+    "district": "Demre",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
