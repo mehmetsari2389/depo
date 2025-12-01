@@ -28621,5 +28621,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1966,
+    "date": "01.12.2025 11:56:59",
+    "status": "Beklemede",
+    "ip": "31.143.96.87",
+    "customerName": "Bayram Temel",
+    "phone": "05399157387",
+    "address": "Korucuk köyü rahmanlı mahalesi Zonguldak mekez ",
+    "city": "Zonguldak ",
+    "district": "Merkez ",
+    "product": "Adidas Haki Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
