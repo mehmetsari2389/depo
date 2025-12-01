@@ -30136,5 +30136,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2067,
+    "date": "02.12.2025 02:38:35",
+    "status": "Beklemede",
+    "ip": "176.54.136.14",
+    "customerName": "Bedrettin  Pülat",
+    "phone": "05461092582",
+    "address": "Beyüzümü mahallesi mercan sokak no 16 ",
+    "city": "Van",
+    "district": "Tuşba",
+    "product": "Puma Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
