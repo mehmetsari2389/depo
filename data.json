@@ -29821,5 +29821,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2046,
+    "date": "01.12.2025 21:59:11",
+    "status": "Beklemede",
+    "ip": "85.106.134.194",
+    "customerName": "MEHMET TIRKAZ",
+    "phone": "0(535)-348-0509",
+    "address": "Kiremithane mahallesi 2657. Sk. ev no : 9 . PK : 01260 Bahçeli müstakil ev.",
+    "city": "Adana",
+    "district": "Yüreğir",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
