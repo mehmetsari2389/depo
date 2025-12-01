@@ -28891,5 +28891,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1984,
+    "date": "01.12.2025 13:14:21",
+    "status": "Beklemede",
+    "ip": "176.89.6.111",
+    "customerName": "Orhan  Üstündağ ",
+    "phone": "5353604076",
+    "address": "Elvanlar mh 1047sk no10 eşme uşak ",
+    "city": "Uşak ",
+    "district": "Eşme",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
