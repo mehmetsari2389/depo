@@ -29011,5 +29011,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1992,
+    "date": "01.12.2025 14:14:41",
+    "status": "Beklemede",
+    "ip": "88.232.76.104",
+    "customerName": "Ali Erdoğdu",
+    "phone": "+905415792357",
+    "address": "Cabikebir mah Adnan Menderes CAD no3/3 Sinop Boyabat ",
+    "city": "Sinop",
+    "district": "Boyabat",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
