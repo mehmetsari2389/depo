@@ -28801,5 +28801,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1977,
+    "date": "01.12.2025 12:32:50",
+    "status": "Beklemede",
+    "ip": "91.93.238.167",
+    "customerName": "Mehmet Ferhat",
+    "phone": "0531 290 8746",
+    "address": "Konaklar Mah.şebboy sokak hukukçular sitesi b/8 blok daire 0 ",
+    "city": "Istanbul",
+    "district": "Beşiktaş ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
