@@ -30016,5 +30016,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2059,
+    "date": "01.12.2025 23:33:23",
+    "status": "Beklemede",
+    "ip": "92.44.184.178",
+    "customerName": "Erol Arslan",
+    "phone": "5327231272",
+    "address": "İnegöl Gençlergücü Spor Kulübü Burhaniye Mahallesi Park Yolu Caddesi No 35-C ",
+    "city": "Bursa",
+    "district": "İnegöl",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
