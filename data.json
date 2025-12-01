@@ -29071,5 +29071,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1995,
+    "date": "01.12.2025 14:42:51",
+    "status": "Beklemede",
+    "ip": "88.234.248.15",
+    "customerName": "Hüseyin  Canpolat ",
+    "phone": "5061595762",
+    "address": "Fahri korutürk mah şehitler Çad 72/a",
+    "city": "Ankara",
+    "district": "Mamak",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
