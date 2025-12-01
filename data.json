@@ -29791,5 +29791,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2044,
+    "date": "01.12.2025 21:37:10",
+    "status": "Beklemede",
+    "ip": "88.253.251.102",
+    "customerName": "Nazım Baysak",
+    "phone": "5368995410",
+    "address": "Hacıbektaşlı mh no 205",
+    "city": "Manısa",
+    "district": "Salihli",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
