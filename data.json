@@ -28261,5 +28261,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1942,
+    "date": "01.12.2025 04:50:04",
+    "status": "Beklemede",
+    "ip": "94.235.120.236",
+    "customerName": "Ünal  Kozılkaya",
+    "phone": "5324384722",
+    "address": "Memet akifersoy mah .mızrak sokak    41 /1 Çiflikkö  Ylova",
+    "city": "Yalova",
+    "district": "Çiflikköy",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
