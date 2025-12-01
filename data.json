@@ -29806,5 +29806,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2045,
+    "date": "01.12.2025 21:54:35",
+    "status": "Beklemede",
+    "ip": "94.235.194.55",
+    "customerName": "Yunus Soykiran",
+    "phone": "05373111185",
+    "address": " Muş Bulanık PTT ",
+    "city": "Muş",
+    "district": "Bulanık ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
