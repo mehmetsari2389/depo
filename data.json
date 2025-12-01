@@ -30106,5 +30106,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2065,
+    "date": "01.12.2025 23:59:14",
+    "status": "Beklemede",
+    "ip": "95.15.82.98",
+    "customerName": "tugay  ölmez",
+    "phone": "5465668970",
+    "address": "konak mahallesi stadyum caddesi no:49 kat 2 BUCAK/BURDUR",
+    "city": "burdur",
+    "district": "bucak",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
