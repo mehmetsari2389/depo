@@ -29281,5 +29281,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2010,
+    "date": "01.12.2025 16:08:15",
+    "status": "Beklemede",
+    "ip": "5.46.2.202",
+    "customerName": "Recep Yaman",
+    "phone": "05350288474",
+    "address": "Ulus apdipasa ",
+    "city": "Bartın ",
+    "district": "Ulus ",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "4",
+    "cargoPayment": "aras-nakit"
   }
 ]
