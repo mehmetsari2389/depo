@@ -28831,5 +28831,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1980,
+    "date": "01.12.2025 12:33:51",
+    "status": "Beklemede",
+    "ip": "176.227.54.66",
+    "customerName": "Yılmaz  Sağır ",
+    "phone": "05437241656",
+    "address": "Nenehatun mahallesi fikret sokak no 2 Darıca/kocaeli, (Darıca ortaokulu)",
+    "city": "Kocaeli ",
+    "district": "Darıca ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
