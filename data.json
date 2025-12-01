@@ -29701,5 +29701,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2038,
+    "date": "01.12.2025 20:00:50",
+    "status": "Beklemede",
+    "ip": "85.107.127.169",
+    "customerName": "Tamer Yolalan",
+    "phone": "5313151330",
+    "address": "Adnan Menderes otogarı Nevşehir seyahat Nevşehir merkez ",
+    "city": "Nevşehir ",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
