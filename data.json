@@ -28591,5 +28591,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1963,
+    "date": "01.12.2025 11:17:13",
+    "status": "Beklemede",
+    "ip": "94.235.241.2",
+    "customerName": "Fevzi Kürklü",
+    "phone": "+905367979980",
+    "address": "Uzun banı mh şehit Selçuk can sk namoğlu apt kat:3 daire:11",
+    "city": "Osmaniye",
+    "district": "Düziçi",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
