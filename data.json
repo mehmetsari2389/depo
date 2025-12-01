@@ -28876,5 +28876,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1983,
+    "date": "01.12.2025 13:05:54",
+    "status": "Beklemede",
+    "ip": "78.187.156.115",
+    "customerName": "Selim Korkmaz",
+    "phone": "05335522430",
+    "address": "Küsget sanayi mahallesi B blok\n60003 cad. No.98 Şehitkamil/Gaziantep ",
+    "city": "Gaziantep ",
+    "district": "Şehitkamil ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
