@@ -29191,5 +29191,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2004,
+    "date": "01.12.2025 15:37:16",
+    "status": "Beklemede",
+    "ip": "95.65.135.57",
+    "customerName": "Güner Namlı",
+    "phone": "05464620991",
+    "address": "Esenkent mahallesi Adem yavuz sakak no 12 melek porselen Maltepe istanbul",
+    "city": "İstanbul ",
+    "district": "Maltepe",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
