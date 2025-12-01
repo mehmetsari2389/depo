@@ -29986,5 +29986,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2057,
+    "date": "01.12.2025 23:29:21",
+    "status": "Beklemede",
+    "ip": "95.5.118.129",
+    "customerName": "Hamit  Deveci",
+    "phone": "05380814471",
+    "address": "İosb Metaliş plaza no 1 başakşehir İstanbul ",
+    "city": "İstambul",
+    "district": "Başakşehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
