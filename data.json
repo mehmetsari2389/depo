@@ -29776,5 +29776,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2043,
+    "date": "01.12.2025 21:19:54",
+    "status": "Beklemede",
+    "ip": "141.196.29.108",
+    "customerName": "Yasin Şahin ",
+    "phone": "05342854790",
+    "address": "Meydan mahallesi 25 Mart caddesi şirinler sitesi B blok no 9 ",
+    "city": "Çorum ",
+    "district": "İskilip ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
