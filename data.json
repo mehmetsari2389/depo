@@ -28276,5 +28276,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1943,
+    "date": "01.12.2025 06:25:59",
+    "status": "Beklemede",
+    "ip": "95.5.99.80",
+    "customerName": "İbrahim  Köklü ",
+    "phone": "05453613732",
+    "address": "Mustafa Kemal sokak no 3 Yeniçiftlik mahallesi Tire İzmir PTT kargo ",
+    "city": "İzmir ",
+    "district": "Tire ",
+    "product": "Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
