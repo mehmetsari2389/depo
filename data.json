@@ -30061,5 +30061,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2062,
+    "date": "01.12.2025 23:48:01",
+    "status": "Beklemede",
+    "ip": "88.230.8.103",
+    "customerName": "Celal cengiz  Yavux",
+    "phone": "05392974376",
+    "address": "Yeni mahalle 1166 sokak No:15",
+    "city": "Muğla ",
+    "district": "Fethiye",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
