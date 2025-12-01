@@ -29131,5 +29131,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2000,
+    "date": "01.12.2025 15:13:27",
+    "status": "Beklemede",
+    "ip": "178.246.212.222",
+    "customerName": "Selim  Gunduz ",
+    "phone": "0533 383 85 66",
+    "address": "Harman mah abdulhak hamit cad no 181 /A mamak Ankara ",
+    "city": "Ankara ",
+    "district": "Mamak ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
