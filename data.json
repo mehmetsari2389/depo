@@ -29431,5 +29431,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2020,
+    "date": "01.12.2025 17:45:52",
+    "status": "Beklemede",
+    "ip": "78.190.225.195",
+    "customerName": "Erkan  DURAK",
+    "phone": "05535978637",
+    "address": "Sakarya mah.331 sok.Baş Yapı B blok no:12 giriş kat D:3 Biga/ÇANAKKALE ",
+    "city": "ÇANAKKALE ",
+    "district": "BİGA",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
