@@ -28516,5 +28516,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1959,
+    "date": "01.12.2025 10:36:23",
+    "status": "Beklemede",
+    "ip": "46.155.84.156",
+    "customerName": "Hasan Işık",
+    "phone": "+905362050728",
+    "address": "Sarılar mhl 3004 SK. Manavgat/Antalya",
+    "city": "Antalya",
+    "district": "Manavgat",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
