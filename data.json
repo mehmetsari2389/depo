@@ -28411,5 +28411,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1952,
+    "date": "01.12.2025 09:07:09",
+    "status": "Beklemede",
+    "ip": "178.241.184.47",
+    "customerName": "Aydın  Dinibütün ",
+    "phone": "5302126987",
+    "address": "Hadırlı mahallesi sk 10048 no 19",
+    "city": "Adana ",
+    "district": "Seyhan ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
