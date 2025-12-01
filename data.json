@@ -28486,5 +28486,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1957,
+    "date": "01.12.2025 10:04:33",
+    "status": "Beklemede",
+    "ip": "78.190.124.87",
+    "customerName": "Murat Uztemur",
+    "phone": "05356163517",
+    "address": "3758 Sokak No 4 İzmir Karabağlar Devrim Mahallesi",
+    "city": "Konak",
+    "district": "Karabağlar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
