@@ -29911,5 +29911,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2052,
+    "date": "01.12.2025 23:03:50",
+    "status": "Beklemede",
+    "ip": "95.10.181.162",
+    "customerName": "Ümmühan Karahan ",
+    "phone": "5360537906",
+    "address": "Osmaniye mh değirmen sok birgün apt 34/16 Gemlik Bursa ",
+    "city": "Bursa ",
+    "district": "Gemlik ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
