@@ -28396,5 +28396,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1951,
+    "date": "01.12.2025 09:05:30",
+    "status": "Beklemede",
+    "ip": "5.47.9.65",
+    "customerName": "Hasan Selvi",
+    "phone": "05452872328",
+    "address": "Akhisar Eroğlu mhlesi no 152 7 ",
+    "city": "Manisa ",
+    "district": "Akhisar ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
