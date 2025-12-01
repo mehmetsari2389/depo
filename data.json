@@ -28546,5 +28546,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1961,
+    "date": "01.12.2025 10:59:24",
+    "status": "Beklemede",
+    "ip": "91.93.234.128",
+    "customerName": "Veli Özdeş",
+    "phone": "05537678638",
+    "address": "Reşadiye mah. Şinasi kurşun cad. 14.sok.no 5 daire13 kat3 Yurtseven apt. ",
+    "city": "Tekirdağ",
+    "district": "Çorlu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
