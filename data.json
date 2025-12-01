@@ -28531,5 +28531,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1960,
+    "date": "01.12.2025 10:56:13",
+    "status": "Beklemede",
+    "ip": "176.216.38.96",
+    "customerName": "Abdullah  SIĞIRTMAÇ ",
+    "phone": "5458054867",
+    "address": "Esentepe mahallesi 182 sokak Sima apartmanı no 11 kat 2 daire 4 ",
+    "city": "Bursa ",
+    "district": "Karacabey ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
