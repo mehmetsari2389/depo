@@ -29851,5 +29851,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2047,
+    "date": "01.12.2025 22:25:05",
+    "status": "Beklemede",
+    "ip": "78.173.128.101",
+    "customerName": "Abdurrahman kaya  Kaya ",
+    "phone": "0(537) 627 29 21",
+    "address": "Uc eylul mh mevlana CD no 21 kat 3 ",
+    "city": "İzmir ",
+    "district": "Ödemiş ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
