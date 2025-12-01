@@ -28426,5 +28426,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1953,
+    "date": "01.12.2025 09:23:49",
+    "status": "Beklemede",
+    "ip": "37.155.9.197",
+    "customerName": "Yılay Pekel",
+    "phone": "5547230668",
+    "address": "Emir beyazıt mah uğur mumcu bulvar rüya AVM Le Paris kafe menteşe muğla",
+    "city": "Muğla",
+    "district": "Menteşe",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
