@@ -29206,5 +29206,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2005,
+    "date": "01.12.2025 15:41:32",
+    "status": "Beklemede",
+    "ip": "85.106.110.148",
+    "customerName": "Serkan İzlemek",
+    "phone": "05439147781",
+    "address": "İskele mah. Ulu Önder Atatürk caddesi no: 6G\nEdremit/ Balikesir",
+    "city": "Balıkesir ",
+    "district": "Edremit ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
