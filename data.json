@@ -29581,5 +29581,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2030,
+    "date": "01.12.2025 18:53:08",
+    "status": "Beklemede",
+    "ip": "78.176.99.109",
+    "customerName": "Abuzer  Ülger ",
+    "phone": "05466181897",
+    "address": "Altınşehir mahallesi K1.konteyner  kent no 41",
+    "city": "Adıyaman ",
+    "district": "Merkez ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
