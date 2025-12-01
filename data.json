@@ -29236,5 +29236,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2007,
+    "date": "01.12.2025 15:49:33",
+    "status": "Beklemede",
+    "ip": "149.140.214.63",
+    "customerName": "Yasin Özmen",
+    "phone": "+905415419753",
+    "address": "Kaleiçi mah.şehit nabi Özkan sok.gönç ap. No:3 daire:8 ",
+    "city": "İstanbul",
+    "district": "Çatalca",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
