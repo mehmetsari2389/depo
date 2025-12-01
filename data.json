@@ -29176,5 +29176,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2002,
+    "date": "01.12.2025 15:28:11",
+    "status": "Beklemede",
+    "ip": "151.135.92.10",
+    "customerName": "Murat  Balcı",
+    "phone": "05010543937",
+    "address": "Turgut reis mahallesi 429.sokak no21 daire 8",
+    "city": "İstanbul",
+    "district": "Esenler",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
