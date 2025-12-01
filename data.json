@@ -28561,5 +28561,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1962,
+    "date": "01.12.2025 11:05:29",
+    "status": "Beklemede",
+    "ip": "176.237.8.164",
+    "customerName": "yasin ekmekçi ",
+    "phone": "+905419161834",
+    "address": "Hürriyet mahallesi bülbül sokak no 4 d 14 kıraç esenyurt istanbul ",
+    "city": "İstanbul ",
+    "district": "esenyurt ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
