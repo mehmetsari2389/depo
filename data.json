@@ -28216,5 +28216,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1939,
+    "date": "01.12.2025 03:25:04",
+    "status": "Beklemede",
+    "ip": "78.173.20.24",
+    "customerName": "Mahmut  Türk ",
+    "phone": "05444345896",
+    "address": "Çağlayan mahallesi karaadilli kasabası Şuhut Afyonkarahisar ",
+    "city": "Afyon ",
+    "district": "Şuhut ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
