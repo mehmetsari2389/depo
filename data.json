@@ -28381,5 +28381,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1950,
+    "date": "01.12.2025 08:48:48",
+    "status": "Beklemede",
+    "ip": "176.219.232.6",
+    "customerName": "Mehmet  Uğrağ ",
+    "phone": "05468122243",
+    "address": "Van Çaldıran ",
+    "city": "Çaldıran ",
+    "district": "Van",
+    "product": "Haki Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
