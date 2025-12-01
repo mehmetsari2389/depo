@@ -28366,5 +28366,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1948,
+    "date": "01.12.2025 08:47:35",
+    "status": "Beklemede",
+    "ip": "85.102.7.243",
+    "customerName": "Oğuz  Haspolat ",
+    "phone": "05356849978",
+    "address": "Ardahan göle şube teslim",
+    "city": "Ardahan",
+    "district": "Göle",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
