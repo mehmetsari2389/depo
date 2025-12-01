@@ -29881,5 +29881,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2050,
+    "date": "01.12.2025 22:53:05",
+    "status": "Beklemede",
+    "ip": "149.140.213.252",
+    "customerName": "Alican Sakarya",
+    "phone": "05467606670",
+    "address": "Edirne. Keşan. Kadıkoy no 83",
+    "city": "Edirne",
+    "district": "Kesan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
