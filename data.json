@@ -29971,5 +29971,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2056,
+    "date": "01.12.2025 23:22:03",
+    "status": "Beklemede",
+    "ip": "5.47.55.251",
+    "customerName": "Suat Kılıç",
+    "phone": "+905077661833",
+    "address": " Akkent mah.34.cad.onuk modern apt.no 36/C \nYENİŞEHİR/MERSİN",
+    "city": "Yenişehir ",
+    "district": "mersin",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
