@@ -29956,5 +29956,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2055,
+    "date": "01.12.2025 23:20:10",
+    "status": "Beklemede",
+    "ip": "94.55.172.114",
+    "customerName": "cemal tavlan",
+    "phone": "05323510949",
+    "address": "konevi mh.turgutoğlu sk.11-7",
+    "city": "KONYA",
+    "district": "MERAM",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
