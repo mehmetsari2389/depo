@@ -28501,5 +28501,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1958,
+    "date": "01.12.2025 10:30:39",
+    "status": "Beklemede",
+    "ip": "88.234.81.13",
+    "customerName": "HİLMİ  ŞENER",
+    "phone": "0 545 542 11 16",
+    "address": "Şeyhmüftü Mah.Şehit Mustafa Yılmaz Sok.no.28 kat,1",
+    "city": "BURSA",
+    "district": "Mustafakemalpaşa",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
