@@ -28741,5 +28741,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1974,
+    "date": "01.12.2025 12:29:00",
+    "status": "Beklemede",
+    "ip": "81.214.160.153",
+    "customerName": "Bahattin  Kalkan ",
+    "phone": "531-474-7605",
+    "address": "Kaynarca kavakpınar mah  gülyalı cd Avrupa sk no 9 d 1",
+    "city": "İstanbul ",
+    "district": "Pendik ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
