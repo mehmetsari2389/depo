@@ -29926,5 +29926,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2053,
+    "date": "01.12.2025 23:15:20",
+    "status": "Beklemede",
+    "ip": "5.47.160.118",
+    "customerName": "Oktay Genç",
+    "phone": "05314601586",
+    "address": "Köşebaşı mahallesi muhtarlığı",
+    "city": "Van",
+    "district": "İpekyolu",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
