@@ -30091,5 +30091,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2064,
+    "date": "01.12.2025 23:54:19",
+    "status": "Beklemede",
+    "ip": "93.182.106.210",
+    "customerName": "Metin Dağaşaner",
+    "phone": "05428771951",
+    "address": "MLS Hotel beyoğlu istanbul.\n06/12/2025 Cumartesi günü teslim alabilirim.mümkünmü?",
+    "city": "İstanbul",
+    "district": "Beyoğlu- MLS otel",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
