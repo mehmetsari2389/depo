@@ -28726,5 +28726,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1973,
+    "date": "01.12.2025 12:23:02",
+    "status": "Beklemede",
+    "ip": "5.46.5.32",
+    "customerName": "Yusuf  Altun ",
+    "phone": "(533) 929-48-85_",
+    "address": "Yenidogan mahallesi ragipgumuspala cad.no89 Kütahya ",
+    "city": "Kütahya ",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
