@@ -28936,5 +28936,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1987,
+    "date": "01.12.2025 13:39:15",
+    "status": "Beklemede",
+    "ip": "176.54.234.215",
+    "customerName": "Özer Acar",
+    "phone": "05426960639",
+    "address": "Hükümet konağı çay ocağı ",
+    "city": "Muğla ",
+    "district": "Ula ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
