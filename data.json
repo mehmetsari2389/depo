@@ -29041,5 +29041,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1994,
+    "date": "01.12.2025 14:37:34",
+    "status": "Beklemede",
+    "ip": "37.155.132.92",
+    "customerName": "Özkan Pala",
+    "phone": "05525657121",
+    "address": "Diyarbakır Ergani aras kargo",
+    "city": "Diyarbakır ",
+    "district": "Ergani ",
+    "product": "North Face Haki Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
