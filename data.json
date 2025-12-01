@@ -29296,5 +29296,20 @@
     "size": "S",
     "quantity": "4",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2011,
+    "date": "01.12.2025 16:16:42",
+    "status": "Beklemede",
+    "ip": "176.234.57.134",
+    "customerName": "Erkan Öztekin",
+    "phone": "05395490933",
+    "address": "Toros mh 78006 sk meriç sitesi b blok kat 11 no 34",
+    "city": "Adana",
+    "district": "Çukurova",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
