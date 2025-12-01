@@ -29536,5 +29536,20 @@
     "size": "M",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2025,
+    "date": "01.12.2025 18:46:51",
+    "status": "Beklemede",
+    "ip": "176.54.181.7",
+    "customerName": "Mühittin Beyaz",
+    "phone": "+905416450263",
+    "address": "Cumhuriyet mahallesi İnönü caddesi Tüm Türk Aparmanı No61/19",
+    "city": "Ankara ",
+    "district": "Polatlı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
