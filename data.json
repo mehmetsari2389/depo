@@ -29746,5 +29746,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2041,
+    "date": "01.12.2025 21:03:04",
+    "status": "Beklemede",
+    "ip": "178.243.3.153",
+    "customerName": "Ayşe  Çakır",
+    "phone": "05348822386",
+    "address": "Menderes mahallesi 156 sokak no 9/7 Buca  İZMİR ",
+    "city": "İzmir ",
+    "district": "Buca",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
