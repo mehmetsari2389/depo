@@ -29731,5 +29731,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2040,
+    "date": "01.12.2025 20:33:53",
+    "status": "Beklemede",
+    "ip": "78.174.207.237",
+    "customerName": "İsmail  Çağrıcı ",
+    "phone": "05307461457",
+    "address": "Yıldırım mahallesi alper tunga Cad yamur sitesı E Bılok no 5 Daire 8 şarkışla ",
+    "city": "Sivas",
+    "district": "Şarkışla ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
