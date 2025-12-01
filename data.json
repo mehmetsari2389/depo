@@ -29026,5 +29026,20 @@
     "size": "L",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1993,
+    "date": "01.12.2025 14:25:24",
+    "status": "Beklemede",
+    "ip": "83.66.109.157",
+    "customerName": "CEM ORHON",
+    "phone": "5545840805",
+    "address": "FULYA MAH.ESENLER SOK. AKINÖZYUVAM SİTESİ E1 BLOK NO:5 D:A YCY GRUP SİGORTA",
+    "city": "İSTANBUL",
+    "district": "ŞİŞLİ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
