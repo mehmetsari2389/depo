@@ -29221,5 +29221,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2006,
+    "date": "01.12.2025 15:47:21",
+    "status": "Beklemede",
+    "ip": "178.241.80.237",
+    "customerName": "İsmail  Dağdelen ",
+    "phone": "5445437143",
+    "address": "Fatih mahallesi kadir Efe sok no 18 Simav Kütahya ",
+    "city": "Kütahya ",
+    "district": "Simav ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
