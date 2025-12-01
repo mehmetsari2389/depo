@@ -28921,5 +28921,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1986,
+    "date": "01.12.2025 13:30:08",
+    "status": "Beklemede",
+    "ip": "46.221.105.144",
+    "customerName": "Serkan  Uyar",
+    "phone": "05427876699",
+    "address": "Haşimkılım Mah şehit osmanaltunkuyu cadde no14 delşcefidancılık Yerköy yozgat",
+    "city": "Yozgat",
+    "district": "Yerköy",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
