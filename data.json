@@ -29761,5 +29761,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2042,
+    "date": "01.12.2025 21:09:48",
+    "status": "Beklemede",
+    "ip": "77.67.145.69",
+    "customerName": "Tahir Koralı",
+    "phone": "5399682472",
+    "address": "Yukarı kayacık mah.efeler Aydın",
+    "city": "Aydın ",
+    "district": "Efeler",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
