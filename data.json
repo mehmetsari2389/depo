@@ -30076,5 +30076,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2063,
+    "date": "01.12.2025 23:49:11",
+    "status": "Beklemede",
+    "ip": "88.230.8.103",
+    "customerName": "Celal cengiz Yavuz ",
+    "phone": "05392974376",
+    "address": "Yeni mahalle 1166 sokak No:15",
+    "city": "Muğla ",
+    "district": "Fethiye ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
