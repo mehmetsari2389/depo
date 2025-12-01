@@ -29416,5 +29416,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2019,
+    "date": "01.12.2025 17:41:08",
+    "status": "Beklemede",
+    "ip": "176.55.213.9",
+    "customerName": "Zafer  Yıldız",
+    "phone": "05421166955",
+    "address": "Hastane mah Balkanlar şok akın AP no18 d23 Hadımköy Arnavutköy İSTANBUL ",
+    "city": "İstanbul ",
+    "district": "Arnavutköy ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
