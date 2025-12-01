@@ -29476,5 +29476,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2023,
+    "date": "01.12.2025 18:16:54",
+    "status": "Beklemede",
+    "ip": "85.109.140.179",
+    "customerName": "Vahit  Bican ",
+    "phone": "05055700808",
+    "address": "Zeytin köy MH 5077 sokak no 4 b ",
+    "city": "Denizli ",
+    "district": "Pamukkale ",
+    "product": "North Face Haki Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
