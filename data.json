@@ -29866,5 +29866,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2049,
+    "date": "01.12.2025 22:25:42",
+    "status": "Beklemede",
+    "ip": "31.155.132.97",
+    "customerName": "Aslan Kerelti",
+    "phone": "5336326304",
+    "address": "13 Mart mahalleai 77.cadde maryap 1 apt kat 10 no 39 Artuklu mardin",
+    "city": "Mardin",
+    "district": "Artuklu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
