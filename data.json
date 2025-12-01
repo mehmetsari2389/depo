@@ -29386,5 +29386,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2017,
+    "date": "01.12.2025 17:31:11",
+    "status": "Beklemede",
+    "ip": "85.102.196.193",
+    "customerName": "İsa Koparmal",
+    "phone": "05348238948",
+    "address": "Artvin arhavi Ahmet efendi caddesi boğaz içi mahallesi öztürk apartmanı kat 5 no 15",
+    "city": "Artvin",
+    "district": "arhavi",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
