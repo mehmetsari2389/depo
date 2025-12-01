@@ -29341,5 +29341,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2014,
+    "date": "01.12.2025 17:13:56",
+    "status": "Beklemede",
+    "ip": "46.221.241.197",
+    "customerName": "Nevzet Çılgın",
+    "phone": "+905423530340",
+    "address": "Cumhuriyet mahallesi Kurtalan spor tesisleri Kurtalan SİİRT ",
+    "city": "SİİRT ",
+    "district": "Kurtalan ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
