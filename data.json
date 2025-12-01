@@ -28906,5 +28906,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1985,
+    "date": "01.12.2025 13:21:49",
+    "status": "Beklemede",
+    "ip": "5.229.69.137",
+    "customerName": "Ahmet  Burme ",
+    "phone": "5348310359",
+    "address": "Cumhuriyet mahallesi sokak 5511 no 13 dogankent ",
+    "city": "Adana ",
+    "district": "Yüreğir ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
