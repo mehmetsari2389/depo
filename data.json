@@ -29686,5 +29686,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2037,
+    "date": "01.12.2025 19:49:00",
+    "status": "Beklemede",
+    "ip": "78.177.242.251",
+    "customerName": "Naciye Suludere",
+    "phone": "53040806088",
+    "address": "Zafer Mah merkez 1 nolu sağlık Ocağı ",
+    "city": "Aydın",
+    "district": "Nazilli",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
