@@ -29371,5 +29371,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 1,
+    "date": "01.12.2025 17:24:54",
+    "status": "Beklemede",
+    "ip": "149.140.88.20",
+    "customerName": "Çelebi tunç Tunç",
+    "phone": "0(544) 370 06 67",
+    "address": "Kırşehir çicekdag",
+    "city": "Kırşehir",
+    "district": "Çicekdag",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
