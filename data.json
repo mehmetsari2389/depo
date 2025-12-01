@@ -28696,5 +28696,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1970,
+    "date": "01.12.2025 12:18:00",
+    "status": "Beklemede",
+    "ip": "5.229.155.92",
+    "customerName": "Faik Gürel",
+    "phone": "05340595705",
+    "address": "Armuttepe küme evleri no2 52330 ordu ünye tekkiraz",
+    "city": "Ordu",
+    "district": "Ünye",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
