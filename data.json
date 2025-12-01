@@ -28441,5 +28441,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1954,
+    "date": "01.12.2025 09:44:16",
+    "status": "Beklemede",
+    "ip": "176.89.127.216",
+    "customerName": "Başar  Özkaya ",
+    "phone": "05372924372",
+    "address": "İkbal caddesi Şenli sokak no 5 daire 1",
+    "city": "İstanbul ",
+    "district": "Ataşehir ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
