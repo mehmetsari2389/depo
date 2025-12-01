@@ -29626,5 +29626,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2033,
+    "date": "01.12.2025 19:11:14",
+    "status": "Beklemede",
+    "ip": "93.182.76.170",
+    "customerName": "Hakan Ersev",
+    "phone": "+905338434071",
+    "address": "Baylikoy lefke kibris ",
+    "city": "Gemikonagi ",
+    "district": "Kibris ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
