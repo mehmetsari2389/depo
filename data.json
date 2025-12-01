@@ -29941,5 +29941,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2054,
+    "date": "01.12.2025 23:19:08",
+    "status": "Beklemede",
+    "ip": "195.174.70.202",
+    "customerName": "Murat Kılıçaslan",
+    "phone": "5359737466",
+    "address": "Bahçe şehir ",
+    "city": "Adana",
+    "district": "Seyhan",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
