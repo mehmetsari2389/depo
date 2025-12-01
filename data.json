@@ -29326,5 +29326,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2013,
+    "date": "01.12.2025 17:06:01",
+    "status": "Beklemede",
+    "ip": "93.182.104.11",
+    "customerName": "Mustafa  Ozdinak",
+    "phone": "5428512204",
+    "address": "Kuzey kibris turk cumhuriyeti",
+    "city": "Iskele",
+    "district": "Iskele",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
