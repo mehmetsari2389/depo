@@ -30046,5 +30046,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2060,
+    "date": "01.12.2025 23:47:12",
+    "status": "Beklemede",
+    "ip": "78.190.0.65",
+    "customerName": "Birol Arslan",
+    "phone": "05325778838",
+    "address": "Zonguldak Atatürk Devlet hastanesi Başhekimlik 2.kat",
+    "city": "Zonguldak",
+    "district": "Merkez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
