@@ -29086,5 +29086,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 1997,
+    "date": "01.12.2025 15:07:41",
+    "status": "Beklemede",
+    "ip": "151.135.215.207",
+    "customerName": "HALİL İBRAHİM KARAN",
+    "phone": "+905360162815",
+    "address": "Olukbaşı mah olukbaşı 2 sk no 27 ",
+    "city": "Denizli",
+    "district": "Acıpayam",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
