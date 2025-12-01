@@ -29656,5 +29656,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2035,
+    "date": "01.12.2025 19:35:25",
+    "status": "Beklemede",
+    "ip": "178.240.149.248",
+    "customerName": "İBRAHİM hazır",
+    "phone": "05332333567",
+    "address": "Mehmet Ali Akman Mahallesi.15 sok no 47",
+    "city": "İzmir",
+    "district": "Konak",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
