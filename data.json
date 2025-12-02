@@ -31681,5 +31681,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2169,
+    "date": "02.12.2025 18:38:23",
+    "status": "Beklemede",
+    "ip": "176.219.16.128",
+    "customerName": "Ahmet Körken",
+    "phone": "5419562389",
+    "address": "Şanlıurfa Suruç Cumhuriyet mah sara sok no 9 ",
+    "city": "Şanlıurfa ",
+    "district": "Suruç",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
