@@ -31006,5 +31006,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2125,
+    "date": "02.12.2025 13:46:35",
+    "status": "Beklemede",
+    "ip": "185.148.87.178",
+    "customerName": "CEMAL ÜLKÜ MERMEROLUK",
+    "phone": "05335419176",
+    "address": "PINARKENT MAH.CAFER SADIK ABALIOĞLU BULVARI NO:19-1",
+    "city": "Denizli",
+    "district": "PAMUKKALE",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
