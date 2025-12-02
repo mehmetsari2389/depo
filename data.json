@@ -31651,5 +31651,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2167,
+    "date": "02.12.2025 18:36:45",
+    "status": "Beklemede",
+    "ip": "5.46.142.59",
+    "customerName": "Sevinci Gurleyen",
+    "phone": "05073639057",
+    "address": "Akevler mah ..1067 sok ..no 12..Daire 18 ..Esenyurt ...İstanbul",
+    "city": "İstanbul",
+    "district": "Esenyurt",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
