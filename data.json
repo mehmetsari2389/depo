@@ -30466,5 +30466,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2089,
+    "date": "02.12.2025 09:52:31",
+    "status": "Beklemede",
+    "ip": "176.55.89.242",
+    "customerName": "Metin Yurdayanık",
+    "phone": "05334900436",
+    "address": "Nigde merkez",
+    "city": "Nigde",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
