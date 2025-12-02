@@ -31126,5 +31126,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2130,
+    "date": "02.12.2025 14:19:28",
+    "status": "Beklemede",
+    "ip": "88.242.221.224",
+    "customerName": "Mehmet Oruç",
+    "phone": "05368887169",
+    "address": "İlter kebap ve lahmacun  dervişler",
+    "city": "Adana",
+    "district": "Yüreğir",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
