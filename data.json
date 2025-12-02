@@ -30946,5 +30946,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2120,
+    "date": "02.12.2025 13:10:43",
+    "status": "Beklemede",
+    "ip": "46.155.35.166",
+    "customerName": "Onur Kıvrak",
+    "phone": "0545 419 1757",
+    "address": "Kütahya tavşanlı çobanköy no 53",
+    "city": "Kütahya",
+    "district": "Tavşanlı",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
