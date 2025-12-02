@@ -30976,5 +30976,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2123,
+    "date": "02.12.2025 13:44:10",
+    "status": "Beklemede",
+    "ip": "176.55.215.122",
+    "customerName": "Bircan Bulut",
+    "phone": "5322020292",
+    "address": "Hançerli mah Necipbey caddesi Sefa apt no 110-3 İlkadım samsun ",
+    "city": "Samsun ",
+    "district": "İlkadım ",
+    "product": "Trabzonspor Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
