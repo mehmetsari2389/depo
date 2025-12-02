@@ -32086,5 +32086,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2196,
+    "date": "02.12.2025 20:41:17",
+    "status": "Beklemede",
+    "ip": "78.172.142.138",
+    "customerName": "Behiç Şentürk",
+    "phone": "05337674510",
+    "address": "Yıldırım mahallesi yeşil ay Sokak no 12 \nBüyükkarıştran",
+    "city": "Kırıklareli",
+    "district": "Lüleburgaz",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
