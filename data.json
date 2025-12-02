@@ -30421,5 +30421,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2086,
+    "date": "02.12.2025 09:21:12",
+    "status": "Beklemede",
+    "ip": "176.55.89.242",
+    "customerName": "Metin Yurdayanık",
+    "phone": "05334900436",
+    "address": "Aras kargo",
+    "city": "Nigde",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
