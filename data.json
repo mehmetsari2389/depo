@@ -32206,5 +32206,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2205,
+    "date": "02.12.2025 21:31:08",
+    "status": "Beklemede",
+    "ip": "5.47.110.143",
+    "customerName": "Serdar  Bilek",
+    "phone": "(535) 888 95 61",
+    "address": "Yıldızlı TOKİ birinci bölge c.4.kat 7. Da aire 32 yıldızlı Akçaabat ",
+    "city": "Trabzon",
+    "district": "Akçaabat",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
