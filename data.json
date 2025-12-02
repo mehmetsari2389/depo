@@ -31051,5 +31051,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2128,
+    "date": "02.12.2025 14:10:36",
+    "status": "Beklemede",
+    "ip": "149.140.102.112",
+    "customerName": "Musa Güngör",
+    "phone": "+905414509993",
+    "address": "Kurtuluş, Ahmet Demirbaş Cd. No:16",
+    "city": "Çanakkale",
+    "district": "Yenice",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
