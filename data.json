@@ -32551,5 +32551,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2228,
+    "date": "02.12.2025 23:55:52",
+    "status": "Beklemede",
+    "ip": "37.155.92.36",
+    "customerName": "Şaban Tüfek",
+    "phone": "05538915069",
+    "address": "Antalya Korkuteli Karşıyaka mahallesi no 14 sokak 1206",
+    "city": "Antalya ",
+    "district": "Korkuteli ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
