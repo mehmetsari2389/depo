@@ -31936,5 +31936,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2187,
+    "date": "02.12.2025 20:09:55",
+    "status": "Beklemede",
+    "ip": "77.67.154.187",
+    "customerName": "EMRE ALTINDAL ",
+    "phone": "05522050715",
+    "address": "GÜNEŞ MAH. ÖMER BUYRUKCU CAD.  GÖKALP APT. NO:72 KEPEZ/ANTALYA ",
+    "city": "Antalya ",
+    "district": "Kepez ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
