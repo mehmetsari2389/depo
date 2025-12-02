@@ -31096,5 +31096,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2130,
+    "date": "02.12.2025 14:19:13",
+    "status": "Beklemede",
+    "ip": "88.227.19.110",
+    "customerName": "Ali Ustabaş",
+    "phone": "05389730896",
+    "address": "Artvin Kpaşa tjk bayii",
+    "city": "Artvin",
+    "district": "Hopa",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
