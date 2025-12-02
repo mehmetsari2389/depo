@@ -31021,5 +31021,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2126,
+    "date": "02.12.2025 14:09:32",
+    "status": "Beklemede",
+    "ip": "149.140.102.112",
+    "customerName": "Musa Güngör",
+    "phone": "05414509993",
+    "address": "Kurtuluş, Ahmet Demirbaş Cd. No:16",
+    "city": "Çanakkale",
+    "district": "Yenice",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
