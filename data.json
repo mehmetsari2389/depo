@@ -32026,5 +32026,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2193,
+    "date": "02.12.2025 20:32:11",
+    "status": "Beklemede",
+    "ip": "176.55.19.62",
+    "customerName": "Kurban  Gülmüş ",
+    "phone": "+905302751676",
+    "address": "Godeklikoyu küme evleri no217 Aralık ığdır ",
+    "city": "Iğdır ",
+    "district": "Aralık ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
