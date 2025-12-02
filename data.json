@@ -31846,5 +31846,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2181,
+    "date": "02.12.2025 19:40:07",
+    "status": "Beklemede",
+    "ip": "94.54.128.5",
+    "customerName": "Soner Yılmaz",
+    "phone": "+905397198173",
+    "address": "İncili pınar mah 1176 sok na 20",
+    "city": "Denizli",
+    "district": "Pamukkale",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
