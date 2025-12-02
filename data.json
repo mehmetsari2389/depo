@@ -31546,5 +31546,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2161,
+    "date": "02.12.2025 18:26:59",
+    "status": "Beklemede",
+    "ip": "176.238.227.51",
+    "customerName": "Erkan Öztoprak ",
+    "phone": "05325672552",
+    "address": "Sanayi 8. Cad 31/ A",
+    "city": "Yozgat ",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
