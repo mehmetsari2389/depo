@@ -30616,5 +30616,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2099,
+    "date": "02.12.2025 10:25:05",
+    "status": "Beklemede",
+    "ip": "151.135.221.169",
+    "customerName": "Mehmet İbrahimoğlu",
+    "phone": "+905052561931",
+    "address": "Yeni mah. Ortaokul cad.no57/a kral döner",
+    "city": "Aydın",
+    "district": "Didim",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
