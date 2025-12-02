@@ -32296,5 +32296,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2211,
+    "date": "02.12.2025 22:00:02",
+    "status": "Beklemede",
+    "ip": "178.241.18.123",
+    "customerName": "Faysal Aydın",
+    "phone": "5376537223",
+    "address": "Belde mahallesi Ataullah hamidi caddesi no.16 AD ",
+    "city": "Batman ",
+    "district": "Merkez",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
