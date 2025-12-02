@@ -30901,5 +30901,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2118,
+    "date": "02.12.2025 12:58:51",
+    "status": "Beklemede",
+    "ip": "37.130.70.125",
+    "customerName": "Bayram Kuslu ",
+    "phone": "05514854369",
+    "address": "Çaybaşı mahallesi Mehmet Akif Ersoy bulvarı no:1 Dişli kasabası /bolvadın ",
+    "city": "Afyonkarahisar ",
+    "district": "Bolvadin",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
