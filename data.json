@@ -31231,5 +31231,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2140,
+    "date": "02.12.2025 15:42:43",
+    "status": "Beklemede",
+    "ip": "213.153.146.232",
+    "customerName": "Ekrem Sahin",
+    "phone": "+905324257493",
+    "address": "Toros MH 78200 SK no3 talip apt",
+    "city": "Adana ",
+    "district": "Çukurova ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
