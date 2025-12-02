@@ -31636,5 +31636,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2167,
+    "date": "02.12.2025 18:36:37",
+    "status": "Beklemede",
+    "ip": "176.54.141.190",
+    "customerName": "Erkan Kalkan",
+    "phone": "5417480713",
+    "address": "Antalya Manavgat \nAras kargo",
+    "city": "Antalya ",
+    "district": "Manavgat ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
