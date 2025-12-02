@@ -32011,5 +32011,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2192,
+    "date": "02.12.2025 20:29:18",
+    "status": "Beklemede",
+    "ip": "176.220.145.60",
+    "customerName": "Onur Oztabak",
+    "phone": "+905363565550",
+    "address": "Hisarkapıuluyolu No:73, Atatürk Müzesi yanı, Işık mahallesi",
+    "city": "Uşak",
+    "district": "Uşak Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
