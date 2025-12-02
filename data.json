@@ -32251,5 +32251,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2208,
+    "date": "02.12.2025 21:37:21",
+    "status": "Beklemede",
+    "ip": "176.238.236.245",
+    "customerName": "İsmail NAMOĞLU ",
+    "phone": "5327479697",
+    "address": "Amıral hasan sarıoğlu Çad Fezakent b blok Kat 3 B blokDaıre 11 ÇAYELI RIZE",
+    "city": "Rıze",
+    "district": "Çayelı",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
