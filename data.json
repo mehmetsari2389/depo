@@ -31486,5 +31486,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2157,
+    "date": "02.12.2025 18:21:46",
+    "status": "Beklemede",
+    "ip": "94.54.173.60",
+    "customerName": "Celal  Becikoğlu ",
+    "phone": "+905333261414",
+    "address": "Beşkavaklar mahallesi kıbrıs sok. My dream sitesi, f blok no: 2 bolu",
+    "city": "bolu",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
