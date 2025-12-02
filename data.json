@@ -32506,5 +32506,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2225,
+    "date": "02.12.2025 23:30:23",
+    "status": "Beklemede",
+    "ip": "176.220.223.115",
+    "customerName": "Ali Üner",
+    "phone": "+905514678587",
+    "address": "Cumhuriyet Mahallesi Cemal Uruş Sokak Hira Apartmanı No:17/4",
+    "city": "Bursa",
+    "district": "Mustafakemalpaşa",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
