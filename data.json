@@ -31891,5 +31891,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2184,
+    "date": "02.12.2025 19:52:33",
+    "status": "Beklemede",
+    "ip": "141.196.61.153",
+    "customerName": "İsmail Bicer",
+    "phone": "+905395175237",
+    "address": "Hürriyet mahallesi temelli Toki 8blok daire 3",
+    "city": "Ankara",
+    "district": "Sincan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
