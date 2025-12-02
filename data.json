@@ -30751,5 +30751,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2108,
+    "date": "02.12.2025 11:43:34",
+    "status": "Beklemede",
+    "ip": "149.140.12.111",
+    "customerName": "Burhan Gündüz",
+    "phone": "5434650374",
+    "address": "Kayseri Pınarbaşı kaman köyü ",
+    "city": "Pınarbaşı ",
+    "district": "Kayseri ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
