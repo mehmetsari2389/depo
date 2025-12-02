@@ -30391,5 +30391,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2083,
+    "date": "02.12.2025 09:06:44",
+    "status": "Beklemede",
+    "ip": "176.220.220.242",
+    "customerName": "Atillad Aladağ",
+    "phone": "05555632495.",
+    "address": "Dumlupınar mahallesi Gelibolu CAD zeybek şok life point sitesi resepsiyon Bursa ",
+    "city": "Bursa",
+    "district": "Nilüfer ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
