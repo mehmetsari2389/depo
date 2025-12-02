@@ -32656,5 +32656,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2234,
+    "date": "03.12.2025 01:11:57",
+    "status": "Beklemede",
+    "ip": "88.238.37.236",
+    "customerName": "Erson  Durmaz ",
+    "phone": "05469150735",
+    "address": "İstiklal mahallesi Atatürk caddesi Mercan sokak no 8 D12 ",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
