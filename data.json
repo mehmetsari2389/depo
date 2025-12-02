@@ -30886,5 +30886,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2117,
+    "date": "02.12.2025 12:40:28",
+    "status": "Beklemede",
+    "ip": "95.5.185.24",
+    "customerName": "Eda Çarkçı",
+    "phone": "+905316000294",
+    "address": "Adil mah kıbrıs sokak no 6 kat 3",
+    "city": "İstanbul",
+    "district": "Sultanbeyli ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
