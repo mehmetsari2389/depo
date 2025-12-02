@@ -32176,5 +32176,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2203,
+    "date": "02.12.2025 21:08:00",
+    "status": "Beklemede",
+    "ip": "159.146.13.66",
+    "customerName": "Şebnem  Moray yiğit ",
+    "phone": "05346202663",
+    "address": "Feriköy mahallesi lalaşahin sokak erşen apartmanı no.83 kat.2 daire.5 şişli feriköy istanbul ",
+    "city": "İstanbul ",
+    "district": "Şişli ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
