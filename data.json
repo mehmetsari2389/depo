@@ -32116,5 +32116,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2199,
+    "date": "02.12.2025 20:44:23",
+    "status": "Beklemede",
+    "ip": "176.55.75.134",
+    "customerName": "Şeref Başoğlu",
+    "phone": "05330192868",
+    "address": "Küçüksu-1 cad no221 anadolu hisarı beykoz",
+    "city": "İstanbul",
+    "district": "Beykoz",
+    "product": "Adidas Kırmızı Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
