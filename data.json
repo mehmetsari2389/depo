@@ -30721,5 +30721,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2106,
+    "date": "02.12.2025 11:03:43",
+    "status": "Beklemede",
+    "ip": "5.47.170.69",
+    "customerName": "Fırat  Sanlı ",
+    "phone": "5464316772",
+    "address": "Korik mahallesi muhtarlığı ",
+    "city": "Batman ",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
