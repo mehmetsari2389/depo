@@ -32581,5 +32581,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2230,
+    "date": "03.12.2025 00:13:23",
+    "status": "Beklemede",
+    "ip": "5.27.221.185",
+    "customerName": "Hasan Hüseyin  Keman ",
+    "phone": "5394656284",
+    "address": "Aydın Karacasu ptt",
+    "city": "Aydın ",
+    "district": "Karacasu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
