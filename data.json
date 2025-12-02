@@ -32446,5 +32446,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2221,
+    "date": "02.12.2025 22:56:56",
+    "status": "Beklemede",
+    "ip": "188.3.244.199",
+    "customerName": "İbrahim  Ergün ",
+    "phone": "+90 055 59 96 7350",
+    "address": "Horozluhan mahallesi güven caddesi no 155",
+    "city": "Konya ",
+    "district": "Selçuklu ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
