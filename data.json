@@ -32191,5 +32191,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2204,
+    "date": "02.12.2025 21:12:03",
+    "status": "Beklemede",
+    "ip": "188.58.91.137",
+    "customerName": "Salim Turgut",
+    "phone": "5353352571",
+    "address": "Eyüp Sultan mahallesi deha caddesi no iki Suryapı lavender Sitesi d/6 Sancaktepe İstanbul ",
+    "city": "İstanbul ",
+    "district": "Sancaktepe ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
