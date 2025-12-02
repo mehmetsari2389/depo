@@ -31156,5 +31156,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2135,
+    "date": "02.12.2025 14:39:12",
+    "status": "Beklemede",
+    "ip": "78.190.106.87",
+    "customerName": "Sabri  Genç",
+    "phone": "05535247174",
+    "address": "İrfan boyuer sokak 9 A altınkapı restaurant alsancak",
+    "city": "İZMİR",
+    "district": "Konak",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
