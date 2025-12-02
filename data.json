@@ -32221,5 +32221,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2206,
+    "date": "02.12.2025 21:33:33",
+    "status": "Beklemede",
+    "ip": "176.237.12.226",
+    "customerName": "Haydar Yetişoğlu",
+    "phone": "5326051195",
+    "address": "Süleymaniye mah. Ispartakule cad. 735 şok No. 25/B ESENYURT",
+    "city": "İstanbul",
+    "district": "Esenyurt",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
