@@ -30796,5 +30796,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2111,
+    "date": "02.12.2025 11:59:17",
+    "status": "Beklemede",
+    "ip": "149.140.78.14",
+    "customerName": "Mustafa Gülmüş",
+    "phone": "05303044936",
+    "address": "Kuzdere Cd.",
+    "city": "Antalya",
+    "district": "Kemer",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
