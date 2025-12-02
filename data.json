@@ -31771,5 +31771,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2175,
+    "date": "02.12.2025 19:13:44",
+    "status": "Beklemede",
+    "ip": "176.220.144.15",
+    "customerName": "Hasan  Koçlu ",
+    "phone": "05322562443",
+    "address": "Pelitlibag mah.1093 sk no.8 d.3 pamukkale denizli ",
+    "city": "Denizli ",
+    "district": "Pamukkale ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
