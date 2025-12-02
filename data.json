@@ -30991,5 +30991,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2123,
+    "date": "02.12.2025 13:44:24",
+    "status": "Beklemede",
+    "ip": "46.155.28.153",
+    "customerName": "Osman  MACİT ",
+    "phone": "5433308951",
+    "address": "Uluoymak mah Mustafa Bağdatlı caddesi no 20 daire 2",
+    "city": "Kütahya",
+    "district": "Gediz ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
