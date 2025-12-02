@@ -32236,5 +32236,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2207,
+    "date": "02.12.2025 21:34:51",
+    "status": "Beklemede",
+    "ip": "31.206.137.119",
+    "customerName": "Seçkin  Gıran ",
+    "phone": "5366280646",
+    "address": "Parkeymir toki konutlari 1.etap c31/1 dogaevleri sitesi Golbasi/Ankara ",
+    "city": "Ankara ",
+    "district": "Gölbaşı ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
