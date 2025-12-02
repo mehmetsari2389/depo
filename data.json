@@ -30586,5 +30586,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2095,
+    "date": "02.12.2025 10:18:57",
+    "status": "Beklemede",
+    "ip": "93.182.79.244",
+    "customerName": "Violeta  Yayman",
+    "phone": "05488264698",
+    "address": "Kipriz ..Lefkoşa  Kūcūk Kaymaklı 3 ışık sokak no 1",
+    "city": "Lefkoşa ",
+    "district": "Kaymaklı ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
