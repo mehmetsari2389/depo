@@ -30286,5 +30286,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2077,
+    "date": "02.12.2025 07:43:23",
+    "status": "Beklemede",
+    "ip": "88.230.237.16",
+    "customerName": "Zehra  Sefer",
+    "phone": "05316005937",
+    "address": "1224 sokak no 30 kat 2 İzmir Bornova Naldöken mahallesi ",
+    "city": "İzmir ",
+    "district": "Bornova ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
