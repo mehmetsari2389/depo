@@ -31426,5 +31426,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2153,
+    "date": "02.12.2025 18:04:56",
+    "status": "Beklemede",
+    "ip": "94.120.74.207",
+    "customerName": "mumin  topçu ",
+    "phone": "05510524395",
+    "address": "Sakıp Sabancı cad no 43 kat 2 Kartepe ",
+    "city": "Kocaeli ",
+    "district": "Kartepe ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
