@@ -31876,5 +31876,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2182,
+    "date": "02.12.2025 19:41:44",
+    "status": "Beklemede",
+    "ip": "31.143.121.225",
+    "customerName": "PAŞA  KALENDER ",
+    "phone": "05313080948",
+    "address": "CEVDETPAŞA Mah.Şabaniye bulvarı NO.94 İPEKYOLU _VAN adresindeyim. ",
+    "city": "VAN ",
+    "district": "İPEKYOLU ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
