@@ -31726,5 +31726,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2173,
+    "date": "02.12.2025 18:51:44",
+    "status": "Beklemede",
+    "ip": "88.235.222.135",
+    "customerName": "Mustafa Çakır",
+    "phone": "05358480371",
+    "address": "Yunus emre mahallesi Damlalı sokak no:1 kat:1 ",
+    "city": "Samsun",
+    "district": "Terme",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
