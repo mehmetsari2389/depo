@@ -30691,5 +30691,20 @@
     "size": "M",
     "quantity": "9",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2104,
+    "date": "02.12.2025 10:51:44",
+    "status": "Beklemede",
+    "ip": "88.230.182.86",
+    "customerName": "Mehtap Kaymas ",
+    "phone": "05364027918",
+    "address": "İstiklal mah. Çark caddesi no 245 cavdar Plaza iç kapı 102 \nSerdivan/Sakarya ",
+    "city": "Sakarya",
+    "district": "Serdivan",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
