@@ -30736,5 +30736,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2107,
+    "date": "02.12.2025 11:42:54",
+    "status": "Beklemede",
+    "ip": "89.0.96.168",
+    "customerName": "Zekayi  Cömlekciogullari ",
+    "phone": "00491723630534",
+    "address": "Steinrutschweg 78\n51107 Köln",
+    "city": "Köln",
+    "district": "Ostheim",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
