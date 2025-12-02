@@ -32476,5 +32476,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2222,
+    "date": "02.12.2025 23:18:26",
+    "status": "Beklemede",
+    "ip": "151.135.76.181",
+    "customerName": "Kenan  Koçman",
+    "phone": "05327179280",
+    "address": "Gültepe mah bahlar Cad.T.Z.K sitesi .A.2.blk 63.2 salon sembol",
+    "city": "İstanbul ",
+    "district": "K.çekmece",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
