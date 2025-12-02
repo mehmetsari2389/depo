@@ -32161,5 +32161,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2202,
+    "date": "02.12.2025 21:05:55",
+    "status": "Beklemede",
+    "ip": "31.143.138.207",
+    "customerName": "Derya  Çaglar",
+    "phone": "05386657002",
+    "address": "Sagk mah 86039 sok no 13 kat bir ",
+    "city": "Mersin",
+    "district": "Toroslar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
