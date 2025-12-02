@@ -32326,5 +32326,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2213,
+    "date": "02.12.2025 22:22:00",
+    "status": "Beklemede",
+    "ip": "46.106.26.86",
+    "customerName": "Ahmet  Yaylacık ",
+    "phone": "5426921716",
+    "address": "Halkapınar tren istasyonu yanı folkart nova şantiyesi",
+    "city": "İzmir",
+    "district": "Alsancak",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
