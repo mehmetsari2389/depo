@@ -31411,5 +31411,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2152,
+    "date": "02.12.2025 17:59:31",
+    "status": "Beklemede",
+    "ip": "46.221.218.134",
+    "customerName": "İbrahim  Er",
+    "phone": "(545) 780 20 26",
+    "address": "Midyat  aras kargo",
+    "city": "Mardin ",
+    "district": "Midyat ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
