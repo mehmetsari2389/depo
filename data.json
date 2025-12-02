@@ -31441,5 +31441,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2154,
+    "date": "02.12.2025 18:08:45",
+    "status": "Beklemede",
+    "ip": "176.216.53.208",
+    "customerName": "Ömer kilis",
+    "phone": "0 (545) 217 49 85",
+    "address": "Sarıgül mah Şırnak cadde  no 48 ",
+    "city": "Siirt ",
+    "district": "Eruh",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
