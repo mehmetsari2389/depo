@@ -30841,5 +30841,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2114,
+    "date": "02.12.2025 12:25:39",
+    "status": "Beklemede",
+    "ip": "176.235.180.42",
+    "customerName": "Mustafa  Can ",
+    "phone": "05465129015",
+    "address": "Ben kendim kargodan alacağım",
+    "city": "Kilis ",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
