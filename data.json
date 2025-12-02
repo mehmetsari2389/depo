@@ -31366,5 +31366,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2148,
+    "date": "02.12.2025 17:35:12",
+    "status": "Beklemede",
+    "ip": "195.174.133.85",
+    "customerName": "Dursun Altun",
+    "phone": "05356158710",
+    "address": "Armağanevler mah. Kanaat şok. Hikmet apt. No:118 kat-2 daire-6 Ümraniye-İstanbul",
+    "city": "İstanbul",
+    "district": "Ümraniye",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
