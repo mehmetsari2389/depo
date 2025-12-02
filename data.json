@@ -31921,5 +31921,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2186,
+    "date": "02.12.2025 20:07:25",
+    "status": "Beklemede",
+    "ip": "88.234.241.186",
+    "customerName": "Gurkan Yildiz ",
+    "phone": "05459607682",
+    "address": "Hamdibey Mahallesi mustafa enengin cadesi no1 daire2 ",
+    "city": "Canakkale ",
+    "district": "Ayvacik",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
