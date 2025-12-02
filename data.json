@@ -30646,5 +30646,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2101,
+    "date": "02.12.2025 10:35:39",
+    "status": "Beklemede",
+    "ip": "176.238.237.53",
+    "customerName": "Oğuzhan Mensur ",
+    "phone": "5380390826",
+    "address": "Ulukavak mah.aksemseddin caddesi hak iş sitesi b blok no 2",
+    "city": "Çorum ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
