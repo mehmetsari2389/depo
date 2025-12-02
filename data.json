@@ -31471,5 +31471,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2156,
+    "date": "02.12.2025 18:16:46",
+    "status": "Beklemede",
+    "ip": "81.213.150.93",
+    "customerName": "Mehmet Oruç",
+    "phone": "05368887169",
+    "address": "Kozanyolu dervişler ilter kebsp ve lahmscun yütrğir Adana",
+    "city": "Adana",
+    "district": "Yürrğir",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
