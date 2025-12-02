@@ -31456,5 +31456,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2155,
+    "date": "02.12.2025 18:11:18",
+    "status": "Beklemede",
+    "ip": "178.243.47.94",
+    "customerName": "İbrahim  Akkaş ",
+    "phone": "5369774297",
+    "address": "Mersin Erdemli yağda mahallesi merkez 17 sokak no 01 ",
+    "city": "Mersin ",
+    "district": "Erdemli ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
