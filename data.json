@@ -31141,5 +31141,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2134,
+    "date": "02.12.2025 14:22:54",
+    "status": "Beklemede",
+    "ip": "176.238.0.159",
+    "customerName": "Nevzat Karaaslan",
+    "phone": "05334391183",
+    "address": "I. Oruç gazi mah.ayar sokak no 10/3",
+    "city": "Balıkesir",
+    "district": "Merkez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
