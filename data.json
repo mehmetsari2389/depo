@@ -30916,5 +30916,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2119,
+    "date": "02.12.2025 13:06:36",
+    "status": "Beklemede",
+    "ip": "5.47.166.40",
+    "customerName": "Nurettin  Aşkan ",
+    "phone": "5435827088",
+    "address": "Hacı Bekir mahallesi sürmeli mahir sokak no 23\n",
+    "city": "Van",
+    "district": "İpekyolu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
