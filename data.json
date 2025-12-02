@@ -32596,5 +32596,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2231,
+    "date": "03.12.2025 00:34:21",
+    "status": "Beklemede",
+    "ip": "94.235.97.213",
+    "customerName": "Resul Karaca",
+    "phone": "+905392832929",
+    "address": "ALTINŞEHİR MAHALLESİ ARINÇ SOKAK NO 15 DAİRE 3 CELİKLER ABARTMANI İSTANBUL ÜMRANİYE",
+    "city": "İstanbul ",
+    "district": "Ümraniye ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
