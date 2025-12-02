@@ -31201,5 +31201,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2138,
+    "date": "02.12.2025 15:06:02",
+    "status": "Beklemede",
+    "ip": "88.247.89.28",
+    "customerName": "İlknur Toz",
+    "phone": "+905378314176",
+    "address": "Abbasağa mahallesi uzuncaova caddesi no50daire 3 İstanbul besiktaş ",
+    "city": "İstanbul ",
+    "district": "Besiktaş",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
