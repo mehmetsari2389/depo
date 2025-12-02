@@ -30781,5 +30781,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2110,
+    "date": "02.12.2025 11:50:45",
+    "status": "Beklemede",
+    "ip": "176.55.15.241",
+    "customerName": "Ahmet  Yat",
+    "phone": "0541 184 20 16",
+    "address": "İstanbul sarigazi Atatürk mah sultangazi cad no 24.d6is",
+    "city": "İstanbul ",
+    "district": "Sancaktepe ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
