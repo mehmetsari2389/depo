@@ -31906,5 +31906,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2185,
+    "date": "02.12.2025 20:05:23",
+    "status": "Beklemede",
+    "ip": "31.206.164.193",
+    "customerName": "Murat Tüken",
+    "phone": "05436729908",
+    "address": "Atatürk Mahallesi İsmet demir sok. Yuvam Apartmanı no 14/7 İzmir/Aliağa",
+    "city": "İzmir",
+    "district": "Aliağa",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
