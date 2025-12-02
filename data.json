@@ -31831,5 +31831,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2179,
+    "date": "02.12.2025 19:37:36",
+    "status": "Beklemede",
+    "ip": "188.3.53.18",
+    "customerName": "Murat  Erol ",
+    "phone": "0 (532) 783 60 56",
+    "address": "Atatürk mahallesi Utku sok no 4D4 Sancaktepe İstanbul ",
+    "city": "İstanbul ",
+    "district": "Sancaktepe ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
