@@ -32626,5 +32626,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2233,
+    "date": "03.12.2025 00:45:33",
+    "status": "Beklemede",
+    "ip": "78.170.26.46",
+    "customerName": "ÜMİT  CANİKLİOĞLU ",
+    "phone": "5309654812",
+    "address": "19 EYLÜL SPOR SALONU HACISİYAM MAH.MERKEZ",
+    "city": "GİRESUN ",
+    "district": "MERKEZ ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
