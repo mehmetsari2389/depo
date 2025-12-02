@@ -30826,5 +30826,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2113,
+    "date": "02.12.2025 12:14:18",
+    "status": "Beklemede",
+    "ip": "176.237.120.2",
+    "customerName": "İrfan Şen",
+    "phone": "+905393210168",
+    "address": "Ulu cami mah. 164evler 4.sok. No30",
+    "city": "Kütahya",
+    "district": "Tavşanlı",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
