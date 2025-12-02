@@ -30451,5 +30451,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2088,
+    "date": "02.12.2025 09:38:23",
+    "status": "Beklemede",
+    "ip": "78.177.8.147",
+    "customerName": "Islim Kendirci",
+    "phone": "+905303206854",
+    "address": "Cumhuriyet mah 5028 sok no3 emirdag ",
+    "city": "Afyonkarahisar",
+    "district": "Emirdağ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
