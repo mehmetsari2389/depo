@@ -32416,5 +32416,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2219,
+    "date": "02.12.2025 22:40:26",
+    "status": "Beklemede",
+    "ip": "195.174.127.33",
+    "customerName": "Ümit  Oğurlu ",
+    "phone": "+905551817221",
+    "address": "Yenibosna zafer mahallesi teke sokak 65/7",
+    "city": "İstanbul ",
+    "district": "Bahçelievler ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
