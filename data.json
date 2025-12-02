@@ -30676,5 +30676,20 @@
     "size": "M",
     "quantity": "9",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2102,
+    "date": "02.12.2025 10:42:14",
+    "status": "Beklemede",
+    "ip": "85.100.112.103",
+    "customerName": "Ahmet Safa Yılmaz",
+    "phone": "5518127153",
+    "address": "Yeşilpe Antalya durdur Kepez mah kapı mah Hüseyin Bekir ",
+    "city": "Aksu ",
+    "district": "Antalya ",
+    "product": "Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "9",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
