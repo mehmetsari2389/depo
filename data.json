@@ -32386,5 +32386,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2217,
+    "date": "02.12.2025 22:30:37",
+    "status": "Beklemede",
+    "ip": "78.177.128.79",
+    "customerName": "Mehmet Yılmaz",
+    "phone": "05529404270",
+    "address": "Kadına pttye gelsin  ayın 20sinde kargoda olsun",
+    "city": "Afyonkarahisar",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
