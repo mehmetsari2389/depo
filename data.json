@@ -31606,5 +31606,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2165,
+    "date": "02.12.2025 18:31:54",
+    "status": "Beklemede",
+    "ip": "176.227.111.121",
+    "customerName": "Hüseyin Yılmaz",
+    "phone": "05312093254",
+    "address": "Söze mah Ankara cad no 142 kuzuluk ",
+    "city": "Sakarya",
+    "district": "Akyazı",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
