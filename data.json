@@ -32311,5 +32311,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2212,
+    "date": "02.12.2025 22:03:49",
+    "status": "Beklemede",
+    "ip": "78.190.28.243",
+    "customerName": "erkan salmancı",
+    "phone": "+905426298245",
+    "address": "Bahçelievler mah.civan sok.berrak apt.no:26/7",
+    "city": "eskişehir",
+    "district": "tepebaşı",
+    "product": "Adidas Kırmızı Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
