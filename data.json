@@ -32146,5 +32146,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2200,
+    "date": "02.12.2025 20:58:02",
+    "status": "Beklemede",
+    "ip": "31.206.202.236",
+    "customerName": "İsmail Özcan",
+    "phone": "5302565116",
+    "address": "Küçük balık li mah anılan sokak no 22 2 ",
+    "city": "Bursa ",
+    "district": "Osmangazi ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
