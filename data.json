@@ -31246,5 +31246,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2141,
+    "date": "02.12.2025 16:43:39",
+    "status": "Beklemede",
+    "ip": "78.189.102.238",
+    "customerName": "Ege Düzgünoğlu ",
+    "phone": "5325965776",
+    "address": "Esenkent mahallesi kurtuluş caddesi Karakaş sokak no.7 Ümraniye istanbul",
+    "city": "İstanbul",
+    "district": "Ümraniye",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
