@@ -30961,5 +30961,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2122,
+    "date": "02.12.2025 13:22:25",
+    "status": "Beklemede",
+    "ip": "46.106.156.240",
+    "customerName": "Serkanmeral Meral",
+    "phone": "05433576965",
+    "address": "valimithatbeycizliksokkat3.12nodaire",
+    "city": "Van ",
+    "district": "merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
