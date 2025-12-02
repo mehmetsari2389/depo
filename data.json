@@ -30316,5 +30316,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2078,
+    "date": "02.12.2025 08:14:17",
+    "status": "Beklemede",
+    "ip": "176.89.96.40",
+    "customerName": "Serkan Akkuş",
+    "phone": "5343979705",
+    "address": "Cevizli mahallesi hacılar caddesi  no 4 daire 6 kartal istanbul",
+    "city": "İstanbul",
+    "district": "Kartal",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
