@@ -31186,5 +31186,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2137,
+    "date": "02.12.2025 14:44:57",
+    "status": "Beklemede",
+    "ip": "85.104.195.113",
+    "customerName": "Şaban  Doğru ",
+    "phone": "05370156848",
+    "address": "Kocakonak mahallesi ıhlamur sokak no 17\r\nBalıkesir Sındırgı ",
+    "city": "Balıkesir ",
+    "district": "Sındırgı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
