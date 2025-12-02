@@ -32536,5 +32536,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2226,
+    "date": "02.12.2025 23:41:53",
+    "status": "Beklemede",
+    "ip": "37.154.231.188",
+    "customerName": "Bayram Bayer0",
+    "phone": "05519396422",
+    "address": "Camikebir mah fidanlık sok no 12 kat 1dire2",
+    "city": "Tekirdag",
+    "district": "Sarkoy",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
