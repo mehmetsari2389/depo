@@ -32356,5 +32356,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2214,
+    "date": "02.12.2025 22:23:32",
+    "status": "Beklemede",
+    "ip": "37.155.235.41",
+    "customerName": "İdris Tan",
+    "phone": "0(531) 208-29-25",
+    "address": "Sivas merkez ",
+    "city": "Sivas ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
