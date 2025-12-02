@@ -31531,5 +31531,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2159,
+    "date": "02.12.2025 18:25:09",
+    "status": "Beklemede",
+    "ip": "176.227.111.121",
+    "customerName": "Hüseyin Yılmaz",
+    "phone": "05312093254",
+    "address": "Ankara cad şase mah no142 kuzuluk Sakarya akyazı",
+    "city": "Sakarya",
+    "district": "Akyazı",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
