@@ -32041,5 +32041,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2194,
+    "date": "02.12.2025 20:40:11",
+    "status": "Beklemede",
+    "ip": "46.154.161.209",
+    "customerName": "Bülent Çinen",
+    "phone": "05336978291",
+    "address": "Sancaktepe mah altınçeşme CAD bahadırhan sitesi d5 blok d19 ",
+    "city": "İstanbul ",
+    "district": "Silivri ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
