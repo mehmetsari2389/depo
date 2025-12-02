@@ -30511,5 +30511,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2092,
+    "date": "02.12.2025 09:57:40",
+    "status": "Beklemede",
+    "ip": "176.89.242.69",
+    "customerName": "Mehmet Akcay",
+    "phone": "+905366732947",
+    "address": "Muratdede, Hüdai Oral Cd.mehmet Akif Ersoy mahallesinde 205 a4 blok kat 2 daire 2",
+    "city": "Denizli",
+    "district": "Denizli Merkezefendi",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
