@@ -30256,5 +30256,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2075,
+    "date": "02.12.2025 07:15:30",
+    "status": "Beklemede",
+    "ip": "24.133.197.36",
+    "customerName": "Şüheda Okumuş",
+    "phone": "5375867254",
+    "address": "Karabaş mah.okul geçidi sok. No6/4balıkcı apartmanı",
+    "city": "Kocaeli",
+    "district": "İzmit",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
