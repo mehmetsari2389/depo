@@ -32401,5 +32401,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2218,
+    "date": "02.12.2025 22:37:57",
+    "status": "Beklemede",
+    "ip": "185.34.130.94",
+    "customerName": "Bektaşcan DEVELİ",
+    "phone": "5357738790",
+    "address": "Süleymaniye mahallesi Ispartakule caddesi 742. Sokak no 37 daire 10 ",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
