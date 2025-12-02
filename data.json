@@ -32281,5 +32281,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2210,
+    "date": "02.12.2025 21:46:06",
+    "status": "Beklemede",
+    "ip": "88.243.85.209",
+    "customerName": "Varol Gürsoy",
+    "phone": "5549451941",
+    "address": "Sanayi mh çetin SK no 6 Anadolu Cam İstanbul Kurtköy ",
+    "city": "İstanbul ",
+    "district": "Pendik ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
