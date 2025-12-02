@@ -30406,5 +30406,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2085,
+    "date": "02.12.2025 09:14:27",
+    "status": "Beklemede",
+    "ip": "176.55.89.242",
+    "customerName": "Metin Yurdayanık",
+    "phone": "05334900436",
+    "address": "Hur mah kurt sok no 11 konakli kasabasi nigde",
+    "city": "Nigde",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
