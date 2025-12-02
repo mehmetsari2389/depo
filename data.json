@@ -30631,5 +30631,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2100,
+    "date": "02.12.2025 10:32:30",
+    "status": "Beklemede",
+    "ip": "46.221.166.211",
+    "customerName": "Ebuzer  Gürel ",
+    "phone": "05055015460",
+    "address": "Toki Turkuaz Mahallesi.4304.Cadde.AK.23.Blok.1/7.Etimesgut.ANKARA ",
+    "city": "ANKARA ",
+    "district": "Etimesgut ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
