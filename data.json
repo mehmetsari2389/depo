@@ -31066,5 +31066,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2129,
+    "date": "02.12.2025 14:17:11",
+    "status": "Beklemede",
+    "ip": "188.57.85.92",
+    "customerName": "Yücel Aydın",
+    "phone": "0532 724 98 89",
+    "address": "Güzelyalı. Yalı mahallesi 2.alay sokak otoma apt no 9 mudanya",
+    "city": "Bursa",
+    "district": "Mudanya",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
