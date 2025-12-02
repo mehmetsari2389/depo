@@ -31216,5 +31216,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2139,
+    "date": "02.12.2025 15:16:47",
+    "status": "Beklemede",
+    "ip": "5.47.135.124",
+    "customerName": "Engin Alkış ",
+    "phone": "05010327456",
+    "address": "Saklı göl kahramandere evrim caddesi no 14 İstanbul şile ",
+    "city": "İstanbul ",
+    "district": "Şile ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
