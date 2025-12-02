@@ -30811,5 +30811,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2112,
+    "date": "02.12.2025 12:00:53",
+    "status": "Beklemede",
+    "ip": "31.142.103.190",
+    "customerName": "Yusuf çeviren",
+    "phone": "533 474 45 15",
+    "address": "Güzeloba, 2107. Sk.",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
