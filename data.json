@@ -32671,5 +32671,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2236,
+    "date": "03.12.2025 01:30:09",
+    "status": "Beklemede",
+    "ip": "78.190.10.207",
+    "customerName": "Fatih Erdoğan",
+    "phone": "05397346167",
+    "address": "Zonguldak alaplı PTT şubesi",
+    "city": "Zonguldak",
+    "district": "Alaplı",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
