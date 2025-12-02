@@ -32371,5 +32371,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2216,
+    "date": "02.12.2025 22:26:11",
+    "status": "Beklemede",
+    "ip": "94.54.233.176",
+    "customerName": "Necati AVCI",
+    "phone": "05354244641",
+    "address": "Hekimdağ aras kargo",
+    "city": "Eskişehir",
+    "district": "Tepebaşı",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
