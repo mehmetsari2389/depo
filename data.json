@@ -32491,5 +32491,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2224,
+    "date": "02.12.2025 23:29:47",
+    "status": "Beklemede",
+    "ip": "188.125.171.52",
+    "customerName": "Arzu  Kaya",
+    "phone": "05447140123",
+    "address": "Çikcilli saray beleni mah kamil Kayhan ap no 13 Alanya",
+    "city": "Antalya",
+    "district": "Alanya",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
