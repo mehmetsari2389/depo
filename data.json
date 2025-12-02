@@ -30346,5 +30346,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2081,
+    "date": "02.12.2025 08:23:42",
+    "status": "Beklemede",
+    "ip": "176.89.28.118",
+    "customerName": "Mustafa  Duvarcı ",
+    "phone": "5310295919",
+    "address": "Soğuk kuyu mahallesi yonca Sokak no6 Aydın köşk",
+    "city": "Aydın ",
+    "district": "Köşk",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
