@@ -31321,5 +31321,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2146,
+    "date": "02.12.2025 17:30:45",
+    "status": "Beklemede",
+    "ip": "5.176.49.226",
+    "customerName": "Ömer Güncü",
+    "phone": "05333177723",
+    "address": "Kargalık mah 5050 sokak no 27 kapı2",
+    "city": "Antalya",
+    "district": "Korkuteli",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
