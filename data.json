@@ -33991,5 +33991,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2324,
+    "date": "03.12.2025 18:43:11",
+    "status": "Beklemede",
+    "ip": "178.241.92.80",
+    "customerName": "Mutlu  Demirboğa ",
+    "phone": "05314962201",
+    "address": "Selçuklu mh caymaz sokak no 27 Melikgazi Kayseri ",
+    "city": "Kayseri ",
+    "district": "Melikgazi ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
