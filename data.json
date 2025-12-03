@@ -34201,5 +34201,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2337,
+    "date": "03.12.2025 20:04:35",
+    "status": "Beklemede",
+    "ip": "85.153.239.212",
+    "customerName": "Orhan Kaptan",
+    "phone": "05428540194",
+    "address": "Mulla baglas cad .kombos villalari d 2 alsancak",
+    "city": "Girne",
+    "district": "Alsancak",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
