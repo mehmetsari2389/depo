@@ -33931,5 +33931,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2318,
+    "date": "03.12.2025 18:25:24",
+    "status": "Beklemede",
+    "ip": "176.216.231.158",
+    "customerName": "Gökmen Şıvgın ",
+    "phone": "05393770457",
+    "address": "Gündoğu mahallesi keskinkaya sokak no12 daire 1",
+    "city": "Kırklareli ",
+    "district": "Lüleburgaz ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
