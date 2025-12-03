@@ -34816,5 +34816,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2379,
+    "date": "03.12.2025 22:25:54",
+    "status": "Beklemede",
+    "ip": "46.154.242.21",
+    "customerName": "Bünyamin  Soğukpınar ",
+    "phone": "(545) 932 - 6206",
+    "address": "Denizli Çivril kızılcasöğüt mahallesi 124 sokak no : 3",
+    "city": "Denizli ",
+    "district": "Çivril ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
