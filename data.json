@@ -35056,5 +35056,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2394,
+    "date": "03.12.2025 23:37:32",
+    "status": "Beklemede",
+    "ip": "151.135.96.78",
+    "customerName": "Çiğdem  Yılmaz ",
+    "phone": "05434843163",
+    "address": "Karaburun mahallesi terkos karaburun caddesi no 382 karaburun arnavutköy",
+    "city": "İstanbul ",
+    "district": "Arnavutköy ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
