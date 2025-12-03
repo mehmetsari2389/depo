@@ -32896,5 +32896,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2251,
+    "date": "03.12.2025 10:00:40",
+    "status": "Beklemede",
+    "ip": "88.248.254.45",
+    "customerName": "ali koçumoglu",
+    "phone": "0532606812",
+    "address": "bugday pazarı mah elif cad 31.b.saygı ecz. çankırı",
+    "city": "ÇANKIRI",
+    "district": "MERKEZ",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
