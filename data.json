@@ -33601,5 +33601,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2298,
+    "date": "03.12.2025 16:42:33",
+    "status": "Beklemede",
+    "ip": "188.58.108.172",
+    "customerName": "Akan  Söğütcü ",
+    "phone": "+90308999136",
+    "address": "Arapçeşme mah 1058sok no14 kat4 ",
+    "city": "Kocelli ",
+    "district": "Gebze ",
+    "product": "Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
