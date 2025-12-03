@@ -34651,5 +34651,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2368,
+    "date": "03.12.2025 21:50:30",
+    "status": "Beklemede",
+    "ip": "178.247.75.164",
+    "customerName": "Onur  Şimşek ",
+    "phone": "5356115049",
+    "address": "Tayyareci Mehmet Ali CD. Aket et ürünleri no 106",
+    "city": "Bursa ",
+    "district": "Yıldırım ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
