@@ -35206,5 +35206,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2405,
+    "date": "04.12.2025 02:56:42",
+    "status": "Beklemede",
+    "ip": "85.98.227.248",
+    "customerName": "Sezai Boynuegrioglu",
+    "phone": "5389715814",
+    "address": "Merkez, Balçıkhisar Köyü Yolu iğdir",
+    "city": "Kastamonu",
+    "district": "Balçıkhisar/Araç",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
