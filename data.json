@@ -33211,5 +33211,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2271,
+    "date": "03.12.2025 12:49:46",
+    "status": "Beklemede",
+    "ip": "178.246.211.101",
+    "customerName": "Bülent Karakuş",
+    "phone": "5422185725",
+    "address": "Saray mh.2.Gümüşeşik sk.Günay apt.no.19 k2 d.3\nKütahya",
+    "city": "Kütahya",
+    "district": "Merkez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
