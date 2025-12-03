@@ -35161,5 +35161,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2402,
+    "date": "04.12.2025 01:13:37",
+    "status": "Beklemede",
+    "ip": "78.190.226.185",
+    "customerName": "ARZU SÜNGÜ",
+    "phone": "5327763259",
+    "address": "Çanakkale Onsekiz Mart Üniversitesi Anafartalar Kampüsü, Eğitim Fakültesi Binası 2. Kat LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ MÜDÜRLÜĞÜ  İnönü Cd. Çanakkale / Merkez",
+    "city": "Çanakkale ",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
