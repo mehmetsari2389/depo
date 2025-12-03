@@ -33841,5 +33841,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2314,
+    "date": "03.12.2025 18:12:58",
+    "status": "Beklemede",
+    "ip": "5.229.4.230",
+    "customerName": "Mehmet  AKTOPRAK ",
+    "phone": "05453187163",
+    "address": "Kaletepe Mah.1029 sokak Burcu Apt  31/ 4",
+    "city": "Kırıkkale ",
+    "district": "MERKEZ ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
