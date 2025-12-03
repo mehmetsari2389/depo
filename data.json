@@ -33436,5 +33436,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2287,
+    "date": "03.12.2025 14:10:34",
+    "status": "Beklemede",
+    "ip": "88.236.187.14",
+    "customerName": "İdris Tan",
+    "phone": "0(531) 208-29-25",
+    "address": "Sivas merkez ",
+    "city": "Sivas ",
+    "district": "Merkez ",
+    "product": "North Face Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
