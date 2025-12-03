@@ -33421,5 +33421,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2286,
+    "date": "03.12.2025 14:00:30",
+    "status": "Beklemede",
+    "ip": "46.106.169.163",
+    "customerName": "Alaattin Bas",
+    "phone": "0544 264 5255",
+    "address": "Osmangazi mahallesi küçükayazma caddesi no 7",
+    "city": "İstanbul ",
+    "district": "Esenyurt ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
