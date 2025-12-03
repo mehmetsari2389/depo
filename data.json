@@ -34126,5 +34126,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2333,
+    "date": "03.12.2025 19:48:42",
+    "status": "Beklemede",
+    "ip": "5.24.200.105",
+    "customerName": "Salıh Oral",
+    "phone": "5443425252",
+    "address": "Nazım tur Çad yagmur sk no 3 d3",
+    "city": "İstanbul ",
+    "district": "Beykoz",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
