@@ -33736,5 +33736,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2307,
+    "date": "03.12.2025 17:43:12",
+    "status": "Beklemede",
+    "ip": "176.238.198.172",
+    "customerName": "Veyis  Karakoç",
+    "phone": "0(544) 373 09 21",
+    "address": "Gürler mah 664 sok no 47",
+    "city": "Kırıkkale ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
