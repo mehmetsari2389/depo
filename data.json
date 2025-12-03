@@ -35026,5 +35026,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2393,
+    "date": "03.12.2025 23:29:55",
+    "status": "Beklemede",
+    "ip": "46.2.143.8",
+    "customerName": "Yaren  Irmak",
+    "phone": "05330333908",
+    "address": "Dr. Ziya kaya Mahallesi kavaklı sokak mehmet apartman no:43  Kat:4",
+    "city": "Bursa",
+    "district": "Gemlik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
