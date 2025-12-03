@@ -34141,5 +34141,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2334,
+    "date": "03.12.2025 19:51:31",
+    "status": "Beklemede",
+    "ip": "178.241.230.8",
+    "customerName": "Kemalettin  Demirel ",
+    "phone": "+905317952239",
+    "address": "Gazi Kemal Mahlesi Prof Muammer Aksoy Caddesi no 17",
+    "city": "Kirklareli ",
+    "district": "Babaeski ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
