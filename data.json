@@ -33166,5 +33166,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2269,
+    "date": "03.12.2025 12:48:23",
+    "status": "Beklemede",
+    "ip": "178.246.74.130",
+    "customerName": "Mustafa Günay  Günay ",
+    "phone": "5325642668",
+    "address": "İnönü mahallesi 6.cadde pozcu PLAZA taksi durağı ",
+    "city": "Mersin",
+    "district": "Yenişehir ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
