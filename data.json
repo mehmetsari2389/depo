@@ -32746,5 +32746,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2241,
+    "date": "03.12.2025 07:00:43",
+    "status": "Beklemede",
+    "ip": "85.99.19.208",
+    "customerName": "Tolga  Aydemir ",
+    "phone": "+9005511808664",
+    "address": "Kavakpınar MH aptiipekci CD Keles SK no 5 d.2",
+    "city": "İstanbul ",
+    "district": "Pendik",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
