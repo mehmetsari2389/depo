@@ -32851,5 +32851,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2248,
+    "date": "03.12.2025 08:36:18",
+    "status": "Beklemede",
+    "ip": "94.55.172.114",
+    "customerName": "cemal tavlan",
+    "phone": "05323510949",
+    "address": "konevi mh.turgutoğlu sk.11-7",
+    "city": "KONYA",
+    "district": "MERAM",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
