@@ -33886,5 +33886,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2317,
+    "date": "03.12.2025 18:18:29",
+    "status": "Beklemede",
+    "ip": "178.246.198.10",
+    "customerName": "Ahmet Dere",
+    "phone": "5317038022",
+    "address": "Zafertepe calkoy ptt acente ",
+    "city": "Kutahya ",
+    "district": "Altintas ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
