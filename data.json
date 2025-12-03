@@ -34876,5 +34876,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2383,
+    "date": "03.12.2025 22:34:19",
+    "status": "Beklemede",
+    "ip": "88.230.155.13",
+    "customerName": "mustafa özçelik",
+    "phone": "05353108682",
+    "address": "özinan sitesi aydın apatmanı no 2 daire 1",
+    "city": "izmir",
+    "district": "seferihisar",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
