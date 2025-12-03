@@ -34066,5 +34066,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2328,
+    "date": "03.12.2025 19:13:11",
+    "status": "Beklemede",
+    "ip": "188.3.169.148",
+    "customerName": "Abubekir baltakesen",
+    "phone": "05466056025",
+    "address": "Fatih Mahallesi 413 sokak No: 14",
+    "city": "izmir",
+    "district": "konak",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
