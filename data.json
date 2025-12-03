@@ -33496,5 +33496,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2291,
+    "date": "03.12.2025 14:57:26",
+    "status": "Beklemede",
+    "ip": "46.2.141.61",
+    "customerName": "Engin  Güçlü",
+    "phone": "05446762112",
+    "address": "Bursa İnegöl Mesudiye mah.birinci yavuz sokak kat 2daire 2",
+    "city": "Bursa",
+    "district": "İnegöl",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
