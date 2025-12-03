@@ -34546,5 +34546,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2361,
+    "date": "03.12.2025 21:12:56",
+    "status": "Beklemede",
+    "ip": "176.219.88.18",
+    "customerName": "Uğur ÖLÇER",
+    "phone": "05330381838",
+    "address": "ZÜLÜFLÜHAN mahallesi eski İskenderun yolu caddesi Ferit duran kız apartı altı Carrefoursa market",
+    "city": "Hatay",
+    "district": "Antakya ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
