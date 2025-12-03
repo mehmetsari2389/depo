@@ -34606,5 +34606,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2364,
+    "date": "03.12.2025 21:39:18",
+    "status": "Beklemede",
+    "ip": "176.219.88.117",
+    "customerName": "Osman  Cetin",
+    "phone": "5414504319",
+    "address": "Akcaova mahallesi Bahçelievler 4 sokak no 7",
+    "city": "Hatay ",
+    "district": "Antakya ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
