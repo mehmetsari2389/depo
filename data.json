@@ -35011,5 +35011,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2392,
+    "date": "03.12.2025 23:28:13",
+    "status": "Beklemede",
+    "ip": "46.2.139.101",
+    "customerName": "Nazmi Şen",
+    "phone": "05387302746",
+    "address": "Ovakça Santral mahallesi hilal sokak No 7",
+    "city": "Bursa ",
+    "district": "Osmangazi ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
