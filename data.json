@@ -33811,5 +33811,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2312,
+    "date": "03.12.2025 18:04:10",
+    "status": "Beklemede",
+    "ip": "95.10.215.22",
+    "customerName": "Ahmet Orhan",
+    "phone": "+905070078373",
+    "address": "Özyurt mah zafer sokak no 12 kat 3 daire 6",
+    "city": "Manisa ",
+    "district": "Turgutlu",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
