@@ -34951,5 +34951,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2387,
+    "date": "03.12.2025 22:58:17",
+    "status": "Beklemede",
+    "ip": "31.143.76.60",
+    "customerName": "Cemal Yardim",
+    "phone": "5394478831",
+    "address": "Miras  aras  kargo ",
+    "city": "Muğla ",
+    "district": "Milas ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
