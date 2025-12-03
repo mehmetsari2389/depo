@@ -34531,5 +34531,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2360,
+    "date": "03.12.2025 21:12:40",
+    "status": "Beklemede",
+    "ip": "88.226.222.27",
+    "customerName": "Recep Buldağ",
+    "phone": "05414881039",
+    "address": "Kargodan teslim",
+    "city": "Bingöl",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
