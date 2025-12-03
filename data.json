@@ -34921,5 +34921,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2386,
+    "date": "03.12.2025 22:41:39",
+    "status": "Beklemede",
+    "ip": "185.203.89.70",
+    "customerName": "Gürsel  Yorulmaz ",
+    "phone": "5348865275",
+    "address": "Zeytinalanı Mahallesi Tepeler 16 Sokak No:1 Köyceğiz/Muğla ",
+    "city": "Muğla",
+    "district": "Köyceğiz ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
