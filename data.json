@@ -32821,5 +32821,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2246,
+    "date": "03.12.2025 08:35:23",
+    "status": "Beklemede",
+    "ip": "88.236.104.212",
+    "customerName": "Cevahir Kılınç",
+    "phone": "0545 170 04 49",
+    "address": "Muş Bulanık Zafer mahallesi Osmanlı cafe no18 ",
+    "city": "Muş ",
+    "district": "Bulanık ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
