@@ -32716,5 +32716,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2239,
+    "date": "03.12.2025 04:17:28",
+    "status": "Beklemede",
+    "ip": "178.246.51.134",
+    "customerName": "Murat Kılıçaslan",
+    "phone": "5359737466",
+    "address": "Pinar",
+    "city": "Adana",
+    "district": "Seyhan ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
