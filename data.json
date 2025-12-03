@@ -33976,5 +33976,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2323,
+    "date": "03.12.2025 18:34:31",
+    "status": "Beklemede",
+    "ip": "78.167.167.134",
+    "customerName": "Aziz Dereli",
+    "phone": "05455319073",
+    "address": "Şırnak Beytüşşebap Aşağıdereköyü ",
+    "city": "Şırnak ",
+    "district": "Beytüşşebap ",
+    "product": "Puma Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
