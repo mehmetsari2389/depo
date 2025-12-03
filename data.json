@@ -34156,5 +34156,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2335,
+    "date": "03.12.2025 19:56:21",
+    "status": "Beklemede",
+    "ip": "95.15.116.154",
+    "customerName": "Celal Palaz",
+    "phone": "05327173655",
+    "address": "Cami mah bozkurt CAD 322 sok.no.26",
+    "city": "Burdur ",
+    "district": "Bucak ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
