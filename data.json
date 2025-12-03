@@ -35176,5 +35176,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2403,
+    "date": "04.12.2025 01:43:02",
+    "status": "Beklemede",
+    "ip": "46.154.121.146",
+    "customerName": "Ahmet Koçyiğit",
+    "phone": "+905396582272",
+    "address": "Turgutreis mh isabey sk eras siteleri Fırat apt kat:1   3/3 Kocasinan/Kayseri ",
+    "city": "Kayseri",
+    "district": "Kocasinan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
