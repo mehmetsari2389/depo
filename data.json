@@ -34246,5 +34246,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2340,
+    "date": "03.12.2025 20:12:16",
+    "status": "Beklemede",
+    "ip": "176.220.206.171",
+    "customerName": "Mehmet  Özseyhan ",
+    "phone": "5050166601",
+    "address": "Bursa mustafakemalpaşa ",
+    "city": "Bursa",
+    "district": "Mustafakemalpaşa ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
