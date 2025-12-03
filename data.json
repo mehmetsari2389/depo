@@ -33316,5 +33316,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2279,
+    "date": "03.12.2025 13:46:09",
+    "status": "Beklemede",
+    "ip": "46.154.118.143",
+    "customerName": "Ulvi Şimşek",
+    "phone": "5426530579",
+    "address": "Kayseri talas yenidoĝan mahallesi defne sokak merve apartmanı kat/6 no/11",
+    "city": "Kayseri ",
+    "district": "Talas",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
