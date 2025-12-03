@@ -34321,5 +34321,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2346,
+    "date": "03.12.2025 20:26:17",
+    "status": "Beklemede",
+    "ip": "212.98.220.155",
+    "customerName": "Ersen Karakurum",
+    "phone": "+90 531 626 1973",
+    "address": "Cedit Ali paşa Mahallesi Ali paşa sokak no 13 ",
+    "city": "Tekirdağ ",
+    "district": "Marmara Ereğlisi ",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
