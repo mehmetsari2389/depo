@@ -33631,5 +33631,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2300,
+    "date": "03.12.2025 16:55:27",
+    "status": "Beklemede",
+    "ip": "46.106.234.16",
+    "customerName": "Sadik Karardi",
+    "phone": "5413227453",
+    "address": "Tavşanlı 1453 sokak cagtir garaji",
+    "city": "Kocaeli ",
+    "district": "Gebze",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
