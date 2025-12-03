@@ -33781,5 +33781,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2310,
+    "date": "03.12.2025 18:00:03",
+    "status": "Beklemede",
+    "ip": "5.47.149.24",
+    "customerName": "Necat Arslan ",
+    "phone": "05436124557",
+    "address": "Mollafenari yolu üzeri karakazan mevkii pelitli köyü gebze kocaeli  özkurt otomotiv ",
+    "city": "Kocaeli ",
+    "district": "Gebze",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
