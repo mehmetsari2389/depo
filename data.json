@@ -34081,5 +34081,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2330,
+    "date": "03.12.2025 19:14:12",
+    "status": "Beklemede",
+    "ip": "176.216.98.241",
+    "customerName": "Yalçın  Çiçek ",
+    "phone": "05466266855",
+    "address": "Atatürk mahallesi İstiklal caddesi Kuzey kumaşçılık no 37 b",
+    "city": "Tekirdağ ",
+    "district": "Kapaklı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
