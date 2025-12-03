@@ -34756,5 +34756,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2375,
+    "date": "03.12.2025 22:05:14",
+    "status": "Beklemede",
+    "ip": "46.106.164.228",
+    "customerName": "Sezgin Soğancıoğlu",
+    "phone": "0(546) 912 00 37",
+    "address": "İnebolu postanesi",
+    "city": "Kastamonu",
+    "district": "İnebolu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
