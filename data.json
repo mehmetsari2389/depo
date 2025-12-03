@@ -34291,5 +34291,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2344,
+    "date": "03.12.2025 20:24:59",
+    "status": "Beklemede",
+    "ip": "176.237.108.120",
+    "customerName": "Ersin Çetinkaya",
+    "phone": "05468184921",
+    "address": "Kayabaşı Mahallesi Bişkek Caddesi No:54 Kat:1 Merkez/Karabük",
+    "city": "Karabük",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
