@@ -35191,5 +35191,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2404,
+    "date": "04.12.2025 02:29:15",
+    "status": "Beklemede",
+    "ip": "176.219.218.121",
+    "customerName": "Nihat Arslan ",
+    "phone": "05442778435",
+    "address": "Mugla mumcular ganyan bayi",
+    "city": "Mugla",
+    "district": "Mumcular ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
