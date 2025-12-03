@@ -34966,5 +34966,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2389,
+    "date": "03.12.2025 22:59:49",
+    "status": "Beklemede",
+    "ip": "46.221.177.118",
+    "customerName": "Huseyin Çetin",
+    "phone": "05324862361",
+    "address": "Karaağaçlı A101deposu",
+    "city": "Manisa",
+    "district": " Karaağaçlı A1001 deposu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
