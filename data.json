@@ -32866,5 +32866,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2249,
+    "date": "03.12.2025 08:49:56",
+    "status": "Beklemede",
+    "ip": "88.238.8.147",
+    "customerName": "Erhan Kelleci",
+    "phone": "05366568733",
+    "address": "Zahit mh baykent sk no 22 merkez bayburt",
+    "city": "Bayburt",
+    "district": "Mezkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
