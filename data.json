@@ -34216,5 +34216,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2339,
+    "date": "03.12.2025 20:05:40",
+    "status": "Beklemede",
+    "ip": "176.216.29.11",
+    "customerName": "Barış Zadsan",
+    "phone": "+905454728279",
+    "address": "Çevre yolu bulvarı sanayii sitesi no 606   Doğubeyazıt Ağrı ",
+    "city": "Ağrı ",
+    "district": "Doğubeyazıt ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
