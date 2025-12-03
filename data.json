@@ -34171,5 +34171,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2336,
+    "date": "03.12.2025 19:58:24",
+    "status": "Beklemede",
+    "ip": "46.1.158.232",
+    "customerName": "Erol Kalafat",
+    "phone": "5453469466",
+    "address": "Karadolap,mah Veysel Karani CAD metal iş bl no 72 d 13",
+    "city": "İstanbul",
+    "district": "Eyüpsultan",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
