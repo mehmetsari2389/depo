@@ -33511,5 +33511,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2292,
+    "date": "03.12.2025 15:01:44",
+    "status": "Beklemede",
+    "ip": "95.5.69.108",
+    "customerName": "Salih Karataş ",
+    "phone": "05366267419",
+    "address": "1800 Sokak Yavuz Selim Mahallesi Yeni Devlet Hastanesi Karşı si Bünyan Belediyesi Unlu mamulleri  No:8 K",
+    "city": "KAYSERİ ",
+    "district": "Bünyan ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
