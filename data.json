@@ -34441,5 +34441,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2354,
+    "date": "03.12.2025 20:41:18",
+    "status": "Beklemede",
+    "ip": "78.177.174.103",
+    "customerName": "Musa yılmaz Coşar",
+    "phone": "5055960636",
+    "address": "Akdeniz mh kazım karabekir cd coşar eczanesi",
+    "city": "Mersin",
+    "district": "Erdemli",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
