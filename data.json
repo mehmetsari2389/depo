@@ -33826,5 +33826,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2313,
+    "date": "03.12.2025 18:07:52",
+    "status": "Beklemede",
+    "ip": "178.244.17.232",
+    "customerName": "MUHAMMET OLGUN",
+    "phone": "5312265882",
+    "address": "İnönü mah.yeni bağlar sok.no 11kat 1 kelkit Gümüşhane ",
+    "city": "Gümüşhane ",
+    "district": "Kelkit ",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
