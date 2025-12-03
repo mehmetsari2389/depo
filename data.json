@@ -33751,5 +33751,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2308,
+    "date": "03.12.2025 17:48:38",
+    "status": "Beklemede",
+    "ip": "37.154.49.148",
+    "customerName": "Cafer  Başer",
+    "phone": "05337769022",
+    "address": "Kavacık subay evleri akşam sok no1/4 keçiören ANKARA",
+    "city": "Ankara",
+    "district": "Keçiören",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
