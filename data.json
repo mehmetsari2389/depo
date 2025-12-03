@@ -34696,5 +34696,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2369,
+    "date": "03.12.2025 21:59:43",
+    "status": "Beklemede",
+    "ip": "78.190.42.232",
+    "customerName": "Muhammet  Kenger ",
+    "phone": "+905069643757",
+    "address": "Kargipinari mah.cigerci ömer yani balcı oğlu oto yikama erdemli mersin",
+    "city": "Mersin",
+    "district": "Erdemli ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
