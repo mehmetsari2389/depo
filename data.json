@@ -33061,5 +33061,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2262,
+    "date": "03.12.2025 11:22:17",
+    "status": "Beklemede",
+    "ip": "78.180.14.42",
+    "customerName": "Mustafa Arı",
+    "phone": "5513462157",
+    "address": "Fevziçakmak mahallesi 1709 sokak no 48 Tarsus MERSİN ",
+    "city": "Mersin ",
+    "district": "Tarsus ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
