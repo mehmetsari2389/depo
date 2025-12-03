@@ -33586,5 +33586,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2297,
+    "date": "03.12.2025 16:41:54",
+    "status": "Beklemede",
+    "ip": "159.146.74.85",
+    "customerName": "test test",
+    "phone": "054020040",
+    "address": "ssafsaf",
+    "city": "sadfasdf",
+    "district": "sadfsdaf",
+    "product": "Fenerbahçe Eşofman Takımı",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
