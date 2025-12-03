@@ -33571,5 +33571,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2296,
+    "date": "03.12.2025 15:52:10",
+    "status": "Beklemede",
+    "ip": "188.57.143.85",
+    "customerName": "Cevdet Gökhan",
+    "phone": "05312055505",
+    "address": "Gözcüler Mahallesi  8 sok no:9",
+    "city": "Hatay",
+    "district": "Arsuz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
