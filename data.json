@@ -33136,5 +33136,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2266,
+    "date": "03.12.2025 11:55:43",
+    "status": "Beklemede",
+    "ip": "88.234.80.128",
+    "customerName": "ibrahim  yakşi",
+    "phone": "05544929956",
+    "address": "ibrahim yakşi cumhuriyet mah müjdat köstendim cad no 67/1demirtaş",
+    "city": "Bursa",
+    "district": "osmangazi",
+    "product": "Puma Haki Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
