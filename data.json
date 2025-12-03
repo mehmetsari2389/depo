@@ -33871,5 +33871,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2316,
+    "date": "03.12.2025 18:17:14",
+    "status": "Beklemede",
+    "ip": "178.246.198.10",
+    "customerName": "Ahmet Dere",
+    "phone": "5317038022",
+    "address": "Zaferyepe acenteptt",
+    "city": "Kutahya ",
+    "district": "Altintas ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
