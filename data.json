@@ -33706,5 +33706,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2305,
+    "date": "03.12.2025 17:37:03",
+    "status": "Beklemede",
+    "ip": "88.230.13.162",
+    "customerName": "Mehmet  Şahin ",
+    "phone": "05374357165",
+    "address": "Karşıyaka mah gülden sok no 8mentese Muğla ",
+    "city": "Muğla ",
+    "district": "Menteşe ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
