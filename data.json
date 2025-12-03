@@ -33256,5 +33256,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2274,
+    "date": "03.12.2025 13:19:33",
+    "status": "Beklemede",
+    "ip": "178.241.71.88",
+    "customerName": "Mustafa Yalçın ",
+    "phone": "5320518778",
+    "address": "Hamamlı köyü ismetpaşa mahallesi no 28 eskipazar Karabük ",
+    "city": "Karabük ",
+    "district": "Eskipazar ",
+    "product": "Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
