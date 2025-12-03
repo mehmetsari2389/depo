@@ -34396,5 +34396,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2351,
+    "date": "03.12.2025 20:37:12",
+    "status": "Beklemede",
+    "ip": "78.188.132.145",
+    "customerName": "Zeki Kul",
+    "phone": "0535 222 82 08",
+    "address": "Kurtuluş",
+    "city": "Kırklareli",
+    "district": "Lüleburgaz",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
