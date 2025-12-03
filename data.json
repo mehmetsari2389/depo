@@ -34786,5 +34786,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2377,
+    "date": "03.12.2025 22:14:07",
+    "status": "Beklemede",
+    "ip": "46.154.117.80",
+    "customerName": "Recep Derin",
+    "phone": "5447449578",
+    "address": "Gözlukuyu köyü Aksaray/Merkez",
+    "city": "Aksaray",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
