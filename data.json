@@ -33271,5 +33271,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2276,
+    "date": "03.12.2025 13:20:03",
+    "status": "Beklemede",
+    "ip": "88.238.212.193",
+    "customerName": "Metehan Han",
+    "phone": "+905454561861",
+    "address": "Yasin haşimoğlu mahallesi coşkun ",
+    "city": "Erzurum ",
+    "district": "Oltu ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
