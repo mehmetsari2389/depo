@@ -33466,5 +33466,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2289,
+    "date": "03.12.2025 14:51:43",
+    "status": "Beklemede",
+    "ip": "141.196.20.9",
+    "customerName": "Yener Ergül ",
+    "phone": "05316655992",
+    "address": "Artvin Merkez hastane caddesi Çarşı mahallesi no 13/1",
+    "city": "Artvin ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
