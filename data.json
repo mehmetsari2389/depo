@@ -32761,5 +32761,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2242,
+    "date": "03.12.2025 07:45:09",
+    "status": "Beklemede",
+    "ip": "176.55.12.210",
+    "customerName": "Emrah Yldlrlm",
+    "phone": "05459098114",
+    "address": "Merkezo petete",
+    "city": "Bolu",
+    "district": "Duzce",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
