@@ -33766,5 +33766,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2309,
+    "date": "03.12.2025 17:49:37",
+    "status": "Beklemede",
+    "ip": "176.42.136.15",
+    "customerName": "Ümit Kapancı",
+    "phone": "5310857220",
+    "address": "Denizköşkler mahallesi Derya blokları sokak no 14 daire 10 Avcılar İstanbul",
+    "city": "İstanbul ",
+    "district": "Avcılar ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
