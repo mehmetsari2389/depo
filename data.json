@@ -34741,5 +34741,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2374,
+    "date": "03.12.2025 22:02:58",
+    "status": "Beklemede",
+    "ip": "78.170.207.45",
+    "customerName": "Muammer Savcı",
+    "phone": "05370603570",
+    "address": "Mehmet Akif mh. 8033sk no.9 OSMANİYE ",
+    "city": "Osmaniye ",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
