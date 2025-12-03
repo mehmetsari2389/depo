@@ -32941,5 +32941,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2254,
+    "date": "03.12.2025 10:24:03",
+    "status": "Beklemede",
+    "ip": "78.190.164.168",
+    "customerName": "Cüneyt  Kılıçarslan ",
+    "phone": "+905067422031",
+    "address": "Silahtarağa mah üniversitesi 1.sk. no 13 çorlu ",
+    "city": "Tekirdağ ",
+    "district": "Çorlu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
