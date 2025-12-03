@@ -34426,5 +34426,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2353,
+    "date": "03.12.2025 20:38:13",
+    "status": "Beklemede",
+    "ip": "5.229.177.21",
+    "customerName": "Mehmet celil İşleyen",
+    "phone": "05422298739",
+    "address": "Fatih mahallesi çınar sokak no:10/1 tavsanli",
+    "city": "Yalova",
+    "district": "Altinova",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
