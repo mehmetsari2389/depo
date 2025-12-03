@@ -34276,5 +34276,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2343,
+    "date": "03.12.2025 20:23:03",
+    "status": "Beklemede",
+    "ip": "188.57.21.157",
+    "customerName": "Erol Guryeli",
+    "phone": "05469237766",
+    "address": "Alazlı köyü no 207",
+    "city": "Muş",
+    "district": "Kurkut",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
