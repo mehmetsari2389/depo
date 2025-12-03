@@ -34036,5 +34036,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2327,
+    "date": "03.12.2025 18:57:16",
+    "status": "Beklemede",
+    "ip": "78.163.151.124",
+    "customerName": "Bekir  Karabudak ",
+    "phone": "+905372338173",
+    "address": "Toros mahallesi 94481 sokak B-1/4 no 5 Ereğli Konya ",
+    "city": "Konya ",
+    "district": "Ereğli ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
