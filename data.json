@@ -34621,5 +34621,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2366,
+    "date": "03.12.2025 21:43:05",
+    "status": "Beklemede",
+    "ip": "176.216.46.17",
+    "customerName": "Emin Arslan",
+    "phone": "5323311805",
+    "address": "Karaagaç mah 1.küçük aralık sokak  no. 33 ",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
