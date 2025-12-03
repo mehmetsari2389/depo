@@ -35146,5 +35146,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2401,
+    "date": "04.12.2025 00:58:52",
+    "status": "Beklemede",
+    "ip": "151.135.88.69",
+    "customerName": "Mustafa Yücel",
+    "phone": "+905327306713",
+    "address": "İkitelli osb mahallesi, Sefaköy sanayi sitesi, 4.blok, no 11, Başakşehir, İstanbul ",
+    "city": "İstanbul",
+    "district": "Başakşehir",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
