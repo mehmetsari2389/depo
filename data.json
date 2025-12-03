@@ -32806,5 +32806,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2244,
+    "date": "03.12.2025 08:12:40",
+    "status": "Beklemede",
+    "ip": "176.238.243.85",
+    "customerName": "Fuat Şanlı ",
+    "phone": "05534706835",
+    "address": "Selimiye mah Zelve sok çınar ap 6/22 belsin Melikgazi Kayseri ",
+    "city": "Kayseri ",
+    "district": "Melikgaz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
