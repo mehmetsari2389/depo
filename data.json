@@ -33796,5 +33796,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2311,
+    "date": "03.12.2025 18:02:43",
+    "status": "Beklemede",
+    "ip": "46.154.168.118",
+    "customerName": "ÖMER orhan",
+    "phone": "(542) 2249505",
+    "address": "Bahçeli evler mah Seval sok no 15",
+    "city": "KARS",
+    "district": "Merkrz",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
