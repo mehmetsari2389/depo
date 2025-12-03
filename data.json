@@ -33526,5 +33526,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2293,
+    "date": "03.12.2025 15:19:14",
+    "status": "Beklemede",
+    "ip": "176.219.70.75",
+    "customerName": "Ümit Dinç ",
+    "phone": "05325155672",
+    "address": "Güzelburç MH. E 5 karayolu üzeri Tarbuş Restaurant yanı. Zelluhoğlu Sigorta No 85 Antakya Hatay ",
+    "city": "HATAY",
+    "district": "Antakya",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
