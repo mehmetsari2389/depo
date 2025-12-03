@@ -33481,5 +33481,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2290,
+    "date": "03.12.2025 14:53:27",
+    "status": "Beklemede",
+    "ip": "78.173.131.221",
+    "customerName": "Mehmet Emin  Çelik",
+    "phone": "05305837086",
+    "address": "İzmir cad no 20 hoget petrol petrol ofisi Mordoğan Karaburun izmir ",
+    "city": "İzmir",
+    "district": "Karaburun",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
