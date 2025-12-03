@@ -32911,5 +32911,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2252,
+    "date": "03.12.2025 10:17:01",
+    "status": "Beklemede",
+    "ip": "195.142.71.121",
+    "customerName": "umut büyükgenç",
+    "phone": "5464694111",
+    "address": "Gazi paşa mahallesi hükümet caddesi varoğlu fotoğrafçılık no 27 Bafra Samsun ",
+    "city": "Samsun ",
+    "district": "Bafra",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
