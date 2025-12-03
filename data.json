@@ -32986,5 +32986,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2256,
+    "date": "03.12.2025 10:32:54",
+    "status": "Beklemede",
+    "ip": "141.196.11.150",
+    "customerName": "Fatih Özden",
+    "phone": "05355821958",
+    "address": "Köprübaşı mahallesi hükümet konağı zemin kat ilçe tarım müdürlüğü ula/Muğla",
+    "city": "ULA",
+    "district": "MUĞLA",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
