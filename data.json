@@ -34006,5 +34006,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2325,
+    "date": "03.12.2025 18:43:21",
+    "status": "Beklemede",
+    "ip": "213.153.144.57",
+    "customerName": "vedat  sağır",
+    "phone": "+905461605900",
+    "address": "Karagac sarkonak mahallesi ali tumkaya caddesini No 132",
+    "city": "hatay",
+    "district": "iskenderun",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
