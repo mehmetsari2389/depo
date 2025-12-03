@@ -35101,5 +35101,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2398,
+    "date": "04.12.2025 00:20:28",
+    "status": "Beklemede",
+    "ip": "5.176.35.148",
+    "customerName": "Yasin Konukçu",
+    "phone": "05362481839",
+    "address": "Muğla seydikemer söğütlüdere mah merkez küme evler no 32 ",
+    "city": "Muğla",
+    "district": "Seydikemer",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
