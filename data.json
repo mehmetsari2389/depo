@@ -32731,5 +32731,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2240,
+    "date": "03.12.2025 05:17:11",
+    "status": "Beklemede",
+    "ip": "78.174.102.159",
+    "customerName": "Oktay  Erdin ",
+    "phone": "+905324607119",
+    "address": "Fatih Sultan mah tüfekci sok no 19 kat1",
+    "city": "Kocaeli ",
+    "district": "Derince ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
