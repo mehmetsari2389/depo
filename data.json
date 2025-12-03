@@ -34456,5 +34456,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2355,
+    "date": "03.12.2025 20:42:32",
+    "status": "Beklemede",
+    "ip": "88.238.63.49",
+    "customerName": "Abdülkerim  Akdemir ",
+    "phone": "+905382493220",
+    "address": "Atatürk mh ceylan sk no 5B ",
+    "city": "İzmir ",
+    "district": "Narlıdere ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
