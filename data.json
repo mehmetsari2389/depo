@@ -34381,5 +34381,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2350,
+    "date": "03.12.2025 20:36:15",
+    "status": "Beklemede",
+    "ip": "176.219.104.81",
+    "customerName": "Yiğit Polat",
+    "phone": "+905466149973",
+    "address": "Gebze balçık köy Kumtepe sokak no 35 Özdemir beton şantiyesi ",
+    "city": "Kocaeli ",
+    "district": "Gebze",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
