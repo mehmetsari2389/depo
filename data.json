@@ -33226,5 +33226,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2273,
+    "date": "03.12.2025 13:02:06",
+    "status": "Beklemede",
+    "ip": "176.219.129.91",
+    "customerName": "Burak Öztürk",
+    "phone": "05302899154",
+    "address": "Türk orman köy mahallesi no 8",
+    "city": "Sakarya",
+    "district": "Akyazı",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
