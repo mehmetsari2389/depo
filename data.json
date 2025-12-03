@@ -34111,5 +34111,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2332,
+    "date": "03.12.2025 19:30:14",
+    "status": "Beklemede",
+    "ip": "95.5.111.115",
+    "customerName": "Cemil ismet Kayaalp",
+    "phone": "05309477454",
+    "address": "Türkmen mahallesi Denizel sokak 19/3 09400",
+    "city": "Aydın",
+    "district": "Kuşadası",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
