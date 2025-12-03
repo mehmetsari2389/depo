@@ -34021,5 +34021,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2326,
+    "date": "03.12.2025 18:53:36",
+    "status": "Beklemede",
+    "ip": "185.252.113.102",
+    "customerName": "Muhsin Aslan",
+    "phone": "0(535) 702 32 03",
+    "address": "Ali hikmet paşa mah. Ömer alibey cad. 27/1a güven yufkacısı",
+    "city": "Balıkesir",
+    "district": "Karesi",
+    "product": "Columbia Haki Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
