@@ -33961,5 +33961,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2322,
+    "date": "03.12.2025 18:31:38",
+    "status": "Beklemede",
+    "ip": "78.185.197.124",
+    "customerName": "Hacı Ahmet Kibar",
+    "phone": "05335747180",
+    "address": "Hacı Miktat mah Orhan Yılmaz CAD no 96 kat 1 demet apt Şinasi kabacaoglu muhasebe ofisi ",
+    "city": "Giresun",
+    "district": "Merkez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
