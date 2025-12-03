@@ -35116,5 +35116,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2399,
+    "date": "04.12.2025 00:21:09",
+    "status": "Beklemede",
+    "ip": "31.223.52.135",
+    "customerName": "Özcan Aslan",
+    "phone": "+905304692813",
+    "address": "Güvercintepe mahallesi çaglayan sokak no 54 daire 1 istanbul basaksehir",
+    "city": "İstanbul",
+    "district": "Başaksehir",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
