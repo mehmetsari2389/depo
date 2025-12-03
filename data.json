@@ -32956,5 +32956,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2255,
+    "date": "03.12.2025 10:28:03",
+    "status": "Beklemede",
+    "ip": "88.235.99.158",
+    "customerName": "İlker Emir",
+    "phone": "05013254955",
+    "address": "4 EYLÜL MAH. 888 SK. IHLAMUR EVLERI  \nSİTESİ A1 BLOK  NO: 10  İÇ KAPI NO: 4  \nBOZÜYÜK / BİLECİK",
+    "city": "Bilecik",
+    "district": "Bozüyük",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
