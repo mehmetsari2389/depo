@@ -33556,5 +33556,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2294,
+    "date": "03.12.2025 15:22:58",
+    "status": "Beklemede",
+    "ip": "178.240.95.96",
+    "customerName": "Mehmet Göçkün",
+    "phone": "(0530) 733-5131",
+    "address": "Şubeden teslim ",
+    "city": "Hatay ",
+    "district": "Antakya",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
