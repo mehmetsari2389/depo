@@ -33001,5 +33001,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2258,
+    "date": "03.12.2025 10:34:55",
+    "status": "Beklemede",
+    "ip": "176.54.197.36",
+    "customerName": "Tuncay İleri",
+    "phone": "5477141907",
+    "address": "Altınkum Mah.1136 Sok Öztaş Apt No 12 Daire 04 Akçay Edremit Balıkesir ",
+    "city": "Balıkesir ",
+    "district": "Edremit",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
