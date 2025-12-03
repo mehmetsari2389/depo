@@ -34591,5 +34591,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2364,
+    "date": "03.12.2025 21:39:15",
+    "status": "Beklemede",
+    "ip": "78.189.255.34",
+    "customerName": "Cemil  Yüksel ",
+    "phone": "05417841534",
+    "address": "Amasya Taşova yerkozlu köyü ",
+    "city": "Amasya ",
+    "district": "Tasova ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
