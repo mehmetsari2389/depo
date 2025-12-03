@@ -34576,5 +34576,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2362,
+    "date": "03.12.2025 21:13:55",
+    "status": "Beklemede",
+    "ip": "176.219.168.232",
+    "customerName": "Mustafa Caran",
+    "phone": "5433115616",
+    "address": "Amasya ilkokulu",
+    "city": "Aydin",
+    "district": "Bozdogan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
