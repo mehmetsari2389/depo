@@ -34261,5 +34261,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2342,
+    "date": "03.12.2025 20:15:22",
+    "status": "Beklemede",
+    "ip": "178.240.156.100",
+    "customerName": "Kadir  Özgök",
+    "phone": "+905321311539",
+    "address": "Kazımdirik mahallesi no57/B suvari Caddesi Tadım döner",
+    "city": "İzmir ",
+    "district": "Bornova ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
