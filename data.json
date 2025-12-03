@@ -34516,5 +34516,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2359,
+    "date": "03.12.2025 21:04:39",
+    "status": "Beklemede",
+    "ip": "77.67.196.223",
+    "customerName": "Tarık  Altınok ",
+    "phone": "05301797185",
+    "address": "Sube  teslim ",
+    "city": "Aksaray ",
+    "district": "Aksaray ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
