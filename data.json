@@ -34771,5 +34771,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2376,
+    "date": "03.12.2025 22:09:28",
+    "status": "Beklemede",
+    "ip": "178.243.219.74",
+    "customerName": "Murat Kalkan",
+    "phone": "+905304010747",
+    "address": "İstanbul Beşiktaş meydan Bahçeşehir üniversitesi Murat Kalkan XXL beden ",
+    "city": "İstanbul Beşiktaş meydan Bahçeşehir üniversitesi Murat Kalkan XXL ",
+    "district": "Beşiktaş ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
