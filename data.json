@@ -32926,5 +32926,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2253,
+    "date": "03.12.2025 10:21:48",
+    "status": "Beklemede",
+    "ip": "176.220.248.89",
+    "customerName": "Hüseyin Akşit",
+    "phone": "05377865640",
+    "address": "Altınova Düden, PTT Cd. No:206",
+    "city": "Antalya",
+    "district": "Kepez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
