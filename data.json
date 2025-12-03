@@ -32881,5 +32881,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2250,
+    "date": "03.12.2025 09:57:36",
+    "status": "Beklemede",
+    "ip": "88.248.254.45",
+    "customerName": "ali koçumoglu",
+    "phone": "0532606812",
+    "address": "bugday pazarı mah elif cad 31.b.saygı ecz. çankırı",
+    "city": "ÇANKIRI",
+    "district": "MERKEZ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
