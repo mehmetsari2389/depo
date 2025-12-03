@@ -34501,5 +34501,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2358,
+    "date": "03.12.2025 20:50:32",
+    "status": "Beklemede",
+    "ip": "46.1.230.118",
+    "customerName": "Avni Küçük ",
+    "phone": "5423839662",
+    "address": "Algunmidpoint sitesi1 etap c blok daire 20 çavuşlar mah 3359 sokak Düzce ",
+    "city": "Düzce ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
