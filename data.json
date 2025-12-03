@@ -34711,5 +34711,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2372,
+    "date": "03.12.2025 22:02:35",
+    "status": "Beklemede",
+    "ip": "178.246.33.5",
+    "customerName": "Rıdvan Cemiloğlu",
+    "phone": "05362043635",
+    "address": "HATAY Reyhanlı ptt",
+    "city": "Hatay",
+    "district": "Reyhanlı ",
+    "product": "North Face Haki Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
