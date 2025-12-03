@@ -34486,5 +34486,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2356,
+    "date": "03.12.2025 20:48:48",
+    "status": "Beklemede",
+    "ip": "95.12.21.6",
+    "customerName": "Mahmut  Seçme ",
+    "phone": "+905359483650",
+    "address": "Karşıyaka mahallesi GAP fıstıkçılar sitesi no 31 Bozdere ticaret ",
+    "city": "Şanlıurfa ",
+    "district": "Birecik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
