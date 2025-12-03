@@ -33721,5 +33721,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2306,
+    "date": "03.12.2025 17:41:39",
+    "status": "Beklemede",
+    "ip": "188.119.55.134",
+    "customerName": "Mahmut Kiraz",
+    "phone": "+905532185540",
+    "address": "Sart mah. Konut evleri mevki kat 1 daire 1 ",
+    "city": "Manisa",
+    "district": "Salihli",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
