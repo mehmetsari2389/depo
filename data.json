@@ -34861,5 +34861,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2381,
+    "date": "03.12.2025 22:28:29",
+    "status": "Beklemede",
+    "ip": "94.54.241.55",
+    "customerName": "Kamuran  Özmen",
+    "phone": "5423647517",
+    "address": "Yeniumutlar sokak Cevher sitesi Eblok no.7 daire.7",
+    "city": "Konya",
+    "district": "Selçuklu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
