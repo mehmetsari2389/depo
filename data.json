@@ -33046,5 +33046,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2259,
+    "date": "03.12.2025 10:39:08",
+    "status": "Beklemede",
+    "ip": "194.27.157.50",
+    "customerName": "Cengiz  Güçlüer ",
+    "phone": "5225738812",
+    "address": "Şehitler mah mehmetcik cad 700 sk.no 2\nCbü yabancı diller yüksek okulu (Eski Devlet Hastanesi Arkası) güvenlik",
+    "city": "Manisa ",
+    "district": "Şehzadeler ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
