@@ -33346,5 +33346,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2281,
+    "date": "03.12.2025 13:55:44",
+    "status": "Beklemede",
+    "ip": "37.155.181.225",
+    "customerName": "Umut Can Demirel ",
+    "phone": "5394908060",
+    "address": "Yılmaz Güney cad Diclekent Blv Çeysa 5 sitesi C blok kat 9 no 17 Kayapınar Diyarbakır ",
+    "city": "Diyarbakır ",
+    "district": "Kayapınar ",
+    "product": "Puma Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
