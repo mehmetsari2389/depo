@@ -36736,5 +36736,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2507,
+    "date": "04.12.2025 19:29:06",
+    "status": "Beklemede",
+    "ip": "149.0.62.36",
+    "customerName": "Serpil Ercan",
+    "phone": "+905417166393",
+    "address": "Kadınlardenizi mah meram sitesi B18 daire4  1/2",
+    "city": "Aydın ",
+    "district": "Kuşadası ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
