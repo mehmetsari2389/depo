@@ -35221,5 +35221,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2406,
+    "date": "04.12.2025 03:02:08",
+    "status": "Beklemede",
+    "ip": "178.246.208.50",
+    "customerName": "Atilla Aydemir",
+    "phone": "05335655623",
+    "address": "Sekermahlesiklrlmcaddesino158daire1canlgurogluapartmanl",
+    "city": "Eskissehir",
+    "district": "Tepebasl",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
