@@ -373,5 +373,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 26,
+    "date": "04.12.2025 21:37:33",
+    "status": "Beklemede",
+    "ip": "95.10.29.155",
+    "customerName": "vahap demir",
+    "phone": "5354506436",
+    "address": "Eğitim, 1. Kerem Sk. No:1",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
