@@ -36781,5 +36781,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2509,
+    "date": "04.12.2025 19:33:12",
+    "status": "Beklemede",
+    "ip": "95.5.70.46",
+    "customerName": "Kasım Öçal",
+    "phone": "05303536683",
+    "address": "Fatih mah Gaffar okkan bulvarı Türküm AP 91/A kat 7no13",
+    "city": "Kayseri ",
+    "district": "Melikgazi ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
