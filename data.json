@@ -463,5 +463,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 32,
+    "date": "04.12.2025 22:03:15",
+    "status": "Beklemede",
+    "ip": "85.102.153.189",
+    "customerName": "Mustafa Orman",
+    "phone": "5384065884",
+    "address": "Balıkesir Marmara’da adası saraylar beldesi hürriyet cadde no 2 kat 4",
+    "city": "Bakıkesir",
+    "district": "Marmara ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
