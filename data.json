@@ -36196,5 +36196,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2471,
+    "date": "04.12.2025 16:16:42",
+    "status": "Beklemede",
+    "ip": "78.189.85.23",
+    "customerName": "İsmail Ekşi",
+    "phone": "05322550055",
+    "address": "Fenerbahçe mah. Hacı Mehmet efendi sok. Tibaş vakfı dalyan sitesi no:24 B Blok Daire:1 ",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
