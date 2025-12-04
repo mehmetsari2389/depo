@@ -868,5 +868,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 59,
+    "date": "05.12.2025 00:29:33",
+    "status": "Beklemede",
+    "ip": "178.241.84.174",
+    "customerName": "Ali Akin",
+    "phone": "05333172646",
+    "address": "İskele cafe \nHisarönü MH park 4 SK \nFilyos/ Zonguldak ",
+    "city": "Zonguldak ",
+    "district": "Çaycuma ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
