@@ -36061,5 +36061,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2462,
+    "date": "04.12.2025 14:54:54",
+    "status": "Beklemede",
+    "ip": "151.135.195.18",
+    "customerName": "Kadir Gürcan ",
+    "phone": "05388161793",
+    "address": "Mehmet Akif Ersoy mahallesi yavaş sokak no7 ",
+    "city": "Manisa ",
+    "district": "Köprübaşı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
