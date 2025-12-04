@@ -388,5 +388,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 27,
+    "date": "04.12.2025 21:43:19",
+    "status": "Beklemede",
+    "ip": "88.237.169.163",
+    "customerName": "Cemal Özdemir",
+    "phone": "5417168841",
+    "address": "YENİMESÇİT mah Melih sokak no 107",
+    "city": "Edirne ",
+    "district": "Keşan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
