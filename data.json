@@ -253,5 +253,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 17,
+    "date": "04.12.2025 21:19:30",
+    "status": "Beklemede",
+    "ip": "188.3.69.225",
+    "customerName": "Süleyman Yorulmazer",
+    "phone": "0(505) 106 75 26",
+    "address": "Ceferdudevmah ertuğrul gazi caddesi şampiyon park abilok dışkapı 31 dayre 29  kat 6   kilom 85 ",
+    "city": "Nevşehir",
+    "district": "Merkez",
+    "product": "Puma Haki Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
