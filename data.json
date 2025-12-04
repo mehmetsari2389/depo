@@ -35401,5 +35401,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2418,
+    "date": "04.12.2025 09:23:04",
+    "status": "Beklemede",
+    "ip": "176.89.148.145",
+    "customerName": "Fatih  Mücahit ",
+    "phone": "05352284250",
+    "address": "ELTE PANO\nİstanbul Deri Organize Sanayi Bölgesi Güderi Caddesi 7A yolu p1 parsel Numara 16 tuzla-İSTANBUL",
+    "city": "İstanbul ",
+    "district": "Tuzla",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
