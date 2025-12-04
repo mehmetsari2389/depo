@@ -913,5 +913,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 62,
+    "date": "05.12.2025 00:48:46",
+    "status": "Beklemede",
+    "ip": "37.154.241.125",
+    "customerName": "Sinan Polat",
+    "phone": "5015749001",
+    "address": "Harmantepe mahallesi doğu sokak no 141 daire 5 Mustafa Polat apartmanı Kağıthane istanbul",
+    "city": "İstanbul",
+    "district": "Kağıthane ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
