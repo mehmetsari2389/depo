@@ -583,5 +583,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 40,
+    "date": "04.12.2025 22:50:25",
+    "status": "Beklemede",
+    "ip": "78.173.55.79",
+    "customerName": "Serdar Temizhava",
+    "phone": "+905397257123",
+    "address": "Beş minare mahallesi Bitlis Devlet hastanesi genel yoğun bakım ünitesi kat 5 ",
+    "city": "Bitlis",
+    "district": "Merkez ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
