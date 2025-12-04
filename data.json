@@ -883,5 +883,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 60,
+    "date": "05.12.2025 00:33:50",
+    "status": "Beklemede",
+    "ip": "5.47.1.122",
+    "customerName": "Mehmet Ali Çaplık",
+    "phone": "05436350261",
+    "address": "Sazoba Mahallesi",
+    "city": "Manisa",
+    "district": "Akhisar",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
