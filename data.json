@@ -43,5 +43,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 4,
+    "date": "04.12.2025 20:13:49",
+    "status": "Beklemede",
+    "ip": "176.234.29.233",
+    "customerName": "Cavit Tahir",
+    "phone": "5365069087",
+    "address": "Meydankavağı mah. 1559 sok. Şeref acun apt. 8/8 kat 3. Muratpaşa antalya. ",
+    "city": "Antalya",
+    "district": "Mutatpaşa ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
