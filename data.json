@@ -36616,5 +36616,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2499,
+    "date": "04.12.2025 18:42:30",
+    "status": "Beklemede",
+    "ip": "94.55.236.148",
+    "customerName": "Zekeriya  Köse ",
+    "phone": "05423457533",
+    "address": "Paşakonak mahallesi Mehmetçik caddesi Özgürlük sitesi 167 daire 1 Bandırma ",
+    "city": "Balıkesir ",
+    "district": "Bandırma ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
