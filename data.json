@@ -823,5 +823,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 56,
+    "date": "05.12.2025 00:04:31",
+    "status": "Beklemede",
+    "ip": "176.216.178.235",
+    "customerName": "Mühittin Beyaz",
+    "phone": "+905416450263",
+    "address": "Cumhuriyet mahallesi İnönü caddesi Tüm Türk Aparmanı No61/19",
+    "city": "Ankara ",
+    "district": "Polatlı ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "2",
+    "cargoPayment": "aras-nakit"
   }
 ]
