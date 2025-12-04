@@ -568,5 +568,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 39,
+    "date": "04.12.2025 22:42:56",
+    "status": "Beklemede",
+    "ip": "78.162.44.207",
+    "customerName": "Ragup Yunus Duymaz",
+    "phone": "5426446082",
+    "address": "Merkez mah. Çarşı içi cad. Tacettin çiftçi apt kat. 2 no. 3 Kumluca, Antalya",
+    "city": "Antalya",
+    "district": "Kumluca",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
