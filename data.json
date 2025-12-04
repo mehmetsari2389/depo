@@ -35626,5 +35626,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2433,
+    "date": "04.12.2025 10:40:44",
+    "status": "Beklemede",
+    "ip": "176.237.73.167",
+    "customerName": "Savaş Onur",
+    "phone": "+5345672748",
+    "address": "15 temmuz mahallesi 1450 no 19 no daire 4",
+    "city": "Evren mahallesi İstanbul",
+    "district": "labilirsiniz. 5760205592817 no'lu kargonuz 2 saat içinde teslim edilecek. Ödemeniz 1.000,00 TL. Adres teyidi veya teslimat seçeneği için tıklayın: https://aras.la/2UZVo0. B016",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
