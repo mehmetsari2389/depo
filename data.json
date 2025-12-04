@@ -688,5 +688,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 47,
+    "date": "04.12.2025 23:39:51",
+    "status": "Beklemede",
+    "ip": "176.219.148.144",
+    "customerName": "Erol  Bayık",
+    "phone": "+905362207534",
+    "address": "Çiftehavuzlar Mh 1.Altıngül SK no 3/A ",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
