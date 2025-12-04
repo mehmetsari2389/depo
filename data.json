@@ -13,5 +13,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2,
+    "date": "04.12.2025 19:52:29",
+    "status": "Beklemede",
+    "ip": "94.235.122.138",
+    "customerName": "Ersin  Erol",
+    "phone": "5528588299",
+    "address": "Yeni mahalle bent başı sokak no44 ",
+    "city": "Balıkesir ",
+    "district": "Manyas ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
