@@ -36601,5 +36601,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2498,
+    "date": "04.12.2025 18:41:17",
+    "status": "Beklemede",
+    "ip": "78.190.230.104",
+    "customerName": "Yusuy  Yalçın",
+    "phone": "(546) 855 83 95",
+    "address": "Bahriye üçok cad.bademdibi kırathanesi cevatpaşa mah.çanakkalr",
+    "city": "Çanakkale",
+    "district": "Merkez⁸",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
