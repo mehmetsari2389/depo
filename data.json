@@ -36676,5 +36676,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2503,
+    "date": "04.12.2025 19:13:19",
+    "status": "Beklemede",
+    "ip": "176.219.232.81",
+    "customerName": "Mustafa  Taşdemir ",
+    "phone": "5432112539",
+    "address": "Ağrı Taşlıçay PTT ",
+    "city": "Ağrı ",
+    "district": "Taşlıçay ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
