@@ -673,5 +673,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 45,
+    "date": "04.12.2025 23:21:32",
+    "status": "Beklemede",
+    "ip": "78.190.241.103",
+    "customerName": "FAHRETTIN DUNDAR",
+    "phone": "05466736363",
+    "address": "HAMDI BEY MAH. GUN CADDESI. NO. 2. KAT. 2",
+    "city": "CKKALE ",
+    "district": "BIGA ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
