@@ -36481,5 +36481,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2489,
+    "date": "04.12.2025 18:04:30",
+    "status": "Beklemede",
+    "ip": "5.46.61.153",
+    "customerName": "Ömer Taştepe",
+    "phone": "05332864257",
+    "address": "Anıt CAD Hamidiye mahallesi uğur apt cblok kat1daire 1 Ereğli Konya ",
+    "city": "Konya ",
+    "district": "Ereğli ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
