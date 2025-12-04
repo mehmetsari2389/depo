@@ -36766,5 +36766,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2509,
+    "date": "04.12.2025 19:32:53",
+    "status": "Beklemede",
+    "ip": "95.5.109.254",
+    "customerName": "ISMAIL Balci",
+    "phone": "5447970499",
+    "address": "Yunuskent mah .anadolu cad 26 ickapi no 1 KARAMAN",
+    "city": "KARAMAN",
+    "district": "Merkez",
+    "product": "Puma Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
