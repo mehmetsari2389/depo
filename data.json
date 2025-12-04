@@ -35371,5 +35371,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2415,
+    "date": "04.12.2025 08:19:57",
+    "status": "Beklemede",
+    "ip": "185.241.101.48",
+    "customerName": "Hakan  Carkci ",
+    "phone": "(546) 918 79 72",
+    "address": "Amasya merkez kirazlı dere mh ziyafet Çiğ köfte Amasya  devlet hastanesi karşı si Amasya ",
+    "city": "Amasya ",
+    "district": "Merkez ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
