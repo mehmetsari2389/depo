@@ -36451,5 +36451,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2488,
+    "date": "04.12.2025 18:04:15",
+    "status": "Beklemede",
+    "ip": "151.135.2.202",
+    "customerName": "Ibrahima Kalil  Camara ",
+    "phone": "+9005015428933",
+    "address": "BÜYÜKBAKKALKÖY MAH. CEVIZLI KAVSAGI\nMALTEPE/iSTANBUL\nGENERAL NURETTIN BARANSEL KISLASI (23.\nKOMANDO TUGAYI)\nPOSTA KODU:34858",
+    "city": "Istanbul ",
+    "district": "Maltepe ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
