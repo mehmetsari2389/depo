@@ -36031,5 +36031,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2460,
+    "date": "04.12.2025 14:47:59",
+    "status": "Beklemede",
+    "ip": "78.172.205.47",
+    "customerName": "Mehmet Kısa",
+    "phone": "05394419870",
+    "address": "Şerefiye, Ordu Sk. No:17",
+    "city": "Ordu",
+    "district": "Fatsa",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
