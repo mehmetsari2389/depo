@@ -478,5 +478,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 33,
+    "date": "04.12.2025 22:18:23",
+    "status": "Beklemede",
+    "ip": "151.135.161.170",
+    "customerName": "Kağan  Gülemoğlu",
+    "phone": "05537258156",
+    "address": "Buğday pazarı mah şehit yüksel kapdan cad esentepe cad Akasya sitesi d blok no 1o ",
+    "city": "ÇANKIRI ",
+    "district": "Merkez ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
