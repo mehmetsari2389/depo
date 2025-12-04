@@ -178,5 +178,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 13,
+    "date": "04.12.2025 20:46:17",
+    "status": "Beklemede",
+    "ip": "78.174.211.128",
+    "customerName": "Celal Alan",
+    "phone": "5372300535",
+    "address": "Muğla Milas Bozalan mh ",
+    "city": "Mugla",
+    "district": "Milas",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
