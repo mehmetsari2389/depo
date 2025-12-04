@@ -28,5 +28,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 3,
+    "date": "04.12.2025 19:58:43",
+    "status": "Beklemede",
+    "ip": "95.10.109.222",
+    "customerName": "Uğur Çakmak",
+    "phone": "05077956201",
+    "address": "Yeni mahalle tumbay çad no 12 kat 2",
+    "city": "Denizli",
+    "district": " Buldan",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
