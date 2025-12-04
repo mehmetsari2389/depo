@@ -328,5 +328,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 23,
+    "date": "04.12.2025 21:26:42",
+    "status": "Beklemede",
+    "ip": "37.154.169.128",
+    "customerName": "Suleyman  Balik",
+    "phone": "5446641982",
+    "address": "Ozerler mahlesi alirami sokak no b1",
+    "city": "Kirklareli",
+    "district": "Luleburgaz",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
