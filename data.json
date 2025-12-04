@@ -36241,5 +36241,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2474,
+    "date": "04.12.2025 16:23:28",
+    "status": "Beklemede",
+    "ip": "31.142.118.122",
+    "customerName": "Orhan  Delikanlioglu ",
+    "phone": "5349328849",
+    "address": "33.sok no 23\nBOTANIK Resort \nKonyaalti Liman ",
+    "city": "Antalya ",
+    "district": "Konyaalti Liman ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
