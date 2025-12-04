@@ -36541,5 +36541,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2494,
+    "date": "04.12.2025 18:35:21",
+    "status": "Beklemede",
+    "ip": "95.10.31.69",
+    "customerName": "Okan  Orhan ",
+    "phone": "+905365569423",
+    "address": "Hacivat mah a127 sk no 17",
+    "city": "Bursa ",
+    "district": "Yıldırım",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
