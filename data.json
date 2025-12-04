@@ -35791,5 +35791,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2444,
+    "date": "04.12.2025 12:48:32",
+    "status": "Beklemede",
+    "ip": "176.42.26.41",
+    "customerName": "Hüdayi  Ünlütürk ",
+    "phone": "0 (536) 916-3242",
+    "address": "Yükseltepe Mahallesi Şehit Bayram Uluer Caddesi No:39/B",
+    "city": "Ankara ",
+    "district": "Keçiören",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
