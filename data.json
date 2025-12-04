@@ -36316,5 +36316,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2479,
+    "date": "04.12.2025 17:13:33",
+    "status": "Beklemede",
+    "ip": "176.88.4.85",
+    "customerName": "Nurettin Irmak",
+    "phone": "05352522538",
+    "address": "Afyon sandıklı koçhisar köyü",
+    "city": "Afyon",
+    "district": "Sandıklı",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
