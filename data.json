@@ -35656,5 +35656,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2435,
+    "date": "04.12.2025 11:03:10",
+    "status": "Beklemede",
+    "ip": "46.155.91.94",
+    "customerName": "Rasim  Öztürk ",
+    "phone": "+905312293713",
+    "address": "Yeni mah fahri görgülü cad ali kalaycıoğlu ap 45 11 ",
+    "city": "Cankırı",
+    "district": "Şabanözü ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
