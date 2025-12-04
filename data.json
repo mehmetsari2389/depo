@@ -36841,5 +36841,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2514,
+    "date": "04.12.2025 19:40:56",
+    "status": "Beklemede",
+    "ip": "95.10.233.151",
+    "customerName": "Ramazan ozmen",
+    "phone": "5319337112",
+    "address": "Yaylacık mah Karamürsel CAD no;300 41140 başiskele/Kocaeli kartonsan fabrikasi",
+    "city": "Kocaeli",
+    "district": "Başiskele",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
