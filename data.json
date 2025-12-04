@@ -1033,5 +1033,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 70,
+    "date": "05.12.2025 02:14:13",
+    "status": "Beklemede",
+    "ip": "212.98.210.66",
+    "customerName": "İbrahim Halil  Deveci ",
+    "phone": "5380796257",
+    "address": "Yağızlar mahalle özgür küme evleri no 43 ",
+    "city": "Şanlıurfa ",
+    "district": "Viranşehir ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
