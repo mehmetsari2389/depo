@@ -35581,5 +35581,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2429,
+    "date": "04.12.2025 10:30:36",
+    "status": "Beklemede",
+    "ip": "31.142.53.6",
+    "customerName": "Kenan  Yılmaz ",
+    "phone": "05369239094",
+    "address": "Fatih mah yakın değirmen kümeevler no 33 yılmazlar büfeye teslim",
+    "city": "İzmir ",
+    "district": "Kınık ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
