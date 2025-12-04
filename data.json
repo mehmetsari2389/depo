@@ -36826,5 +36826,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2513,
+    "date": "04.12.2025 19:36:26",
+    "status": "Beklemede",
+    "ip": "78.180.11.204",
+    "customerName": "TURAN  SATİN ",
+    "phone": "05442553302",
+    "address": "ALTAYLILAR MAHALLESİ 0263.SOKAK TOPRAK SEVİLOK APARTMANI NO 16 KAT.1.NO 4",
+    "city": "MERSİN",
+    "district": "TARSUS ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
