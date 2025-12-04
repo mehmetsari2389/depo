@@ -748,5 +748,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 51,
+    "date": "04.12.2025 23:52:39",
+    "status": "Beklemede",
+    "ip": "46.154.211.153",
+    "customerName": "Hatice  Yetkin ",
+    "phone": "05349180896",
+    "address": "Tunceli Çemişgezek. Ptt",
+    "city": "Tunceli ",
+    "district": "Çemişgezek ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
