@@ -718,5 +718,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 49,
+    "date": "04.12.2025 23:41:00",
+    "status": "Beklemede",
+    "ip": "159.146.55.244",
+    "customerName": "Metin Yucal",
+    "phone": "05335586100",
+    "address": "Havaalanı, Taşocağı Cd. No:25 daire 4 atışalanı İstanbul ",
+    "city": "İstanbul",
+    "district": "Esenler",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "2",
+    "cargoPayment": "ptt-nakit"
   }
 ]
