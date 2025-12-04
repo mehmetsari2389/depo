@@ -36856,5 +36856,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2515,
+    "date": "04.12.2025 19:48:20",
+    "status": "Beklemede",
+    "ip": "188.57.70.113",
+    "customerName": "Özkan Bozkurt",
+    "phone": "(534)-500-27-36",
+    "address": "Millet mahallesi 7209sok kat 2 d7 Salih kent sitesi",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
