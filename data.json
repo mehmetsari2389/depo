@@ -988,5 +988,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 67,
+    "date": "05.12.2025 01:55:54",
+    "status": "Beklemede",
+    "ip": "88.241.78.107",
+    "customerName": "Zulkuf Ozer",
+    "phone": "+905368882595",
+    "address": "Ahmet Haşim sok.(site taksi durağı)",
+    "city": "İzmir ",
+    "district": "Narlıdere ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
