@@ -36571,5 +36571,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2495,
+    "date": "04.12.2025 18:35:57",
+    "status": "Beklemede",
+    "ip": "176.238.42.134",
+    "customerName": "Levent  Yılmaz ",
+    "phone": "5308321020",
+    "address": "İstanbul Çekmeköy Hüseyinli Mahallesi Beykoz Caddesi No 2 22 babam et mangal",
+    "city": "İstanbul",
+    "district": "Çekmeköy ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
