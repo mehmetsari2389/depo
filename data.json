@@ -223,5 +223,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 16,
+    "date": "04.12.2025 21:04:18",
+    "status": "Beklemede",
+    "ip": "78.176.187.185",
+    "customerName": "Muammer Gedik",
+    "phone": "5396828690",
+    "address": "Kocasinan mah acı çeşme sok no:50/a beta video",
+    "city": "Kirklareli",
+    "district": "Luleburgaz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
