@@ -36496,5 +36496,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2491,
+    "date": "04.12.2025 18:14:22",
+    "status": "Beklemede",
+    "ip": "46.155.100.117",
+    "customerName": "Ersan Durmaz",
+    "phone": "+905464331447",
+    "address": "Muradiye mahallesi\n",
+    "city": "Balıkesir",
+    "district": "Susurluk",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
