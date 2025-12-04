@@ -35776,5 +35776,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2443,
+    "date": "04.12.2025 12:42:02",
+    "status": "Beklemede",
+    "ip": "176.54.129.193",
+    "customerName": "Deniz Temir",
+    "phone": "5536264935",
+    "address": "Yeni şakran mahallesi 3150 sokak no 7 daire 2 Aliağa İzmir",
+    "city": "izmir",
+    "district": "Aliaga",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
