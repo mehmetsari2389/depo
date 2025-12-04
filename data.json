@@ -808,5 +808,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 55,
+    "date": "04.12.2025 23:59:53",
+    "status": "Beklemede",
+    "ip": "5.47.73.211",
+    "customerName": "Halil  Canturk",
+    "phone": "5079481272",
+    "address": "İstasyon mah.gazisokak.",
+    "city": "Manisa",
+    "district": "Alasehir",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
