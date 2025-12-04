@@ -778,5 +778,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 53,
+    "date": "04.12.2025 23:58:26",
+    "status": "Beklemede",
+    "ip": "78.161.244.122",
+    "customerName": "Oktay  Ağır",
+    "phone": "(533) 332-50-54",
+    "address": "Ş.dere mah.100 yıl cad.231 cad.",
+    "city": "Kars ",
+    "district": "Kağızman",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
