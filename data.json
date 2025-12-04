@@ -793,5 +793,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 53,
+    "date": "04.12.2025 23:58:43",
+    "status": "Beklemede",
+    "ip": "151.135.107.62",
+    "customerName": "Abidin Sinar",
+    "phone": "05529220043",
+    "address": "Turgut Özal mah 65 şok no 8 dair no 3 esenyurt istanbul",
+    "city": "İstanbul ",
+    "district": "Avcılar",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
