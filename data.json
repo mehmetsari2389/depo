@@ -73,5 +73,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 6,
+    "date": "04.12.2025 20:22:26",
+    "status": "Beklemede",
+    "ip": "5.24.151.131",
+    "customerName": "İbrahim  Abanoz ",
+    "phone": "05369725186",
+    "address": "8 Eylül mah 81/1sok no 16 Daire 4",
+    "city": "İzmir ",
+    "district": "Kemalpaşa ",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
