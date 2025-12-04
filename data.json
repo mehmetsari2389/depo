@@ -35476,5 +35476,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2422,
+    "date": "04.12.2025 10:01:12",
+    "status": "Beklemede",
+    "ip": "31.143.139.25",
+    "customerName": "Ali vefa  Yurdal ",
+    "phone": "05552193306",
+    "address": "Göktürk mahallesi 150141 sokak N.6 Gloria apt. D.3",
+    "city": "Gaziantep ",
+    "district": "Şehitkamil ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
