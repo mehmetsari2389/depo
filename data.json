@@ -36391,5 +36391,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2484,
+    "date": "04.12.2025 17:29:08",
+    "status": "Beklemede",
+    "ip": "94.235.115.216",
+    "customerName": "İsmail Aydın  Aydın ",
+    "phone": "05467983950",
+    "address": "Seferşah mahallesi hanife hatun çeşme şok no 2",
+    "city": "Çanakkale ",
+    "district": "Ezine ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
