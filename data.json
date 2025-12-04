@@ -268,5 +268,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 17,
+    "date": "04.12.2025 21:19:38",
+    "status": "Beklemede",
+    "ip": "178.246.28.32",
+    "customerName": "FIRAT  ALP",
+    "phone": "+905416238992",
+    "address": "100054.Sok No 41.1 Kat\nKurdali Mahallesi ",
+    "city": "MERSİN",
+    "district": "TOROSLAR",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
