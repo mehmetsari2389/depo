@@ -36256,5 +36256,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2475,
+    "date": "04.12.2025 16:50:36",
+    "status": "Beklemede",
+    "ip": "178.246.72.48",
+    "customerName": "Hünkar  Kara",
+    "phone": "5389781095",
+    "address": "60.yıl mahallesi 78064 nolu sokak no47 daire 4",
+    "city": "Gaziantep ",
+    "district": "Şahinbey",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
