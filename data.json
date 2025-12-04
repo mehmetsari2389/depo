@@ -943,5 +943,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 64,
+    "date": "05.12.2025 00:52:54",
+    "status": "Beklemede",
+    "ip": "31.206.149.43",
+    "customerName": "Mehmet  Topal",
+    "phone": "+905437186893",
+    "address": "Fevzipasa mahallesi İrem sokak No.13/7 ",
+    "city": "Tekirdağ ",
+    "district": "Çerkezköy ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
