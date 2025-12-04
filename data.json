@@ -36226,5 +36226,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2472,
+    "date": "04.12.2025 16:21:26",
+    "status": "Beklemede",
+    "ip": "78.176.53.239",
+    "customerName": "Ahmet Yaşar",
+    "phone": "5424324233",
+    "address": "Halfeti yollu özeri öz ışık restorant ",
+    "city": "Şanlıurfa ",
+    "district": "Birecik ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
