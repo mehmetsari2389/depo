@@ -853,5 +853,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 58,
+    "date": "05.12.2025 00:27:57",
+    "status": "Beklemede",
+    "ip": "78.177.186.136",
+    "customerName": "Fevzi  Üstün ",
+    "phone": "05334826582",
+    "address": "Karaağaç şarkonak mah Akdeniz cad no 44",
+    "city": "Hatay ",
+    "district": "Arsuz ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
