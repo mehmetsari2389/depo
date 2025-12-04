@@ -36751,5 +36751,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2508,
+    "date": "04.12.2025 19:31:52",
+    "status": "Beklemede",
+    "ip": "37.154.238.66",
+    "customerName": "Turgay Demirdoven",
+    "phone": "05525922449",
+    "address": "Adil onat  cad    no4   manav   adnan  ",
+    "city": "Kirklareli",
+    "district": "Babaeski ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
