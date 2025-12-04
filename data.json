@@ -448,5 +448,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 30,
+    "date": "04.12.2025 21:57:48",
+    "status": "Beklemede",
+    "ip": "37.155.237.224",
+    "customerName": "Adem Alemdağ ",
+    "phone": "0(539) 323 21 90",
+    "address": "Basak mah 8/C ALTİNDAĞ ANKARA ",
+    "city": "Ankara ",
+    "district": "Altındağ ",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
