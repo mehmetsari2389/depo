@@ -313,5 +313,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 22,
+    "date": "04.12.2025 21:24:35",
+    "status": "Beklemede",
+    "ip": "24.133.158.179",
+    "customerName": "Erdal  Sağdıç",
+    "phone": "5385021512",
+    "address": "Pekitlibağ mah 1111 sok no 7 kat 2 Pamukkale denizli",
+    "city": "Denizli ",
+    "district": "Pamukkale",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
