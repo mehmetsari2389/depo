@@ -35311,5 +35311,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2411,
+    "date": "04.12.2025 06:57:39",
+    "status": "Beklemede",
+    "ip": "46.106.6.252",
+    "customerName": "Şakir Alp",
+    "phone": "+90 (542) 333 79 09",
+    "address": "Meydana mahallenin balıkçılar cad Bayramoğlu işhanı kat 1 no 6batman merkez",
+    "city": "Batman",
+    "district": "Merkez",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
