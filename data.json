@@ -628,5 +628,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 43,
+    "date": "04.12.2025 23:06:39",
+    "status": "Beklemede",
+    "ip": "31.145.196.94",
+    "customerName": "Hasan Hüseyin  Oğuztaş ",
+    "phone": "5386500591",
+    "address": "Behlülbey mahallesi 114459 sokak no 4",
+    "city": "Konya ",
+    "district": "Ilgın",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
