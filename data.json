@@ -36136,5 +36136,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2467,
+    "date": "04.12.2025 15:57:10",
+    "status": "Beklemede",
+    "ip": "94.122.43.122",
+    "customerName": "Sedat  AKYÜZLÜ ",
+    "phone": "05324330533",
+    "address": "Ali kuşçu mah taylasan sok no 8a Fatih İstanbul şamkahvesi",
+    "city": "İstanbul ",
+    "district": "Fatih ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
