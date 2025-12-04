@@ -35911,5 +35911,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2452,
+    "date": "04.12.2025 14:18:50",
+    "status": "Beklemede",
+    "ip": "88.236.127.126",
+    "customerName": "Muhammed  Karakaya ",
+    "phone": "5457218234",
+    "address": "Yeni mahalle zozan apartmanı daire kat 1",
+    "city": "Elazığ ",
+    "district": "Karakoçan ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
