@@ -36586,5 +36586,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2497,
+    "date": "04.12.2025 18:39:20",
+    "status": "Beklemede",
+    "ip": "94.55.236.148",
+    "customerName": "Zekeriya  Köse ",
+    "phone": "+905423457535",
+    "address": "Paşa konak mahallesi Mehmetçik caddesi özgürlük Sitesi 167 daire 1",
+    "city": "Balıkesir ",
+    "district": "Bandırma ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
