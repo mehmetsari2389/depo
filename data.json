@@ -36301,5 +36301,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2478,
+    "date": "04.12.2025 17:03:40",
+    "status": "Beklemede",
+    "ip": "212.156.150.10",
+    "customerName": "Cemil Özkan",
+    "phone": "05433125214",
+    "address": "Sunparadise aüminyum,küçücek İstiklal mah.Fsbrikalar cad.no:45/A Akyazı/SAKARYA",
+    "city": "Sakarya",
+    "district": "Akyazı",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
