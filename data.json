@@ -35341,5 +35341,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2414,
+    "date": "04.12.2025 07:56:53",
+    "status": "Beklemede",
+    "ip": "176.216.13.153",
+    "customerName": "Serkan Saral",
+    "phone": "+905415252818",
+    "address": "Evde ve ya işte ola bilirim bu yüzden kesin adres belirtmiyorum kargom yola çıktığında benimle iletişime geçilsin ben i anki konumumu belirtirim",
+    "city": "İstanbul(Avrupa)",
+    "district": "Sultangazi 50ci yıl",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
