@@ -36091,5 +36091,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2464,
+    "date": "04.12.2025 15:12:46",
+    "status": "Beklemede",
+    "ip": "46.154.219.255",
+    "customerName": "Kamil Kaya",
+    "phone": "+905387141914",
+    "address": "Balikesir susurluk Karşıyaka mah. Ekinlik sokak no16 daire2",
+    "city": "Balıkesir ",
+    "district": "Susurluk ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
