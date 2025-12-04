@@ -36181,5 +36181,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2470,
+    "date": "04.12.2025 16:00:05",
+    "status": "Beklemede",
+    "ip": "176.237.204.156",
+    "customerName": "İsmet  Tiryaki ",
+    "phone": "5335186674",
+    "address": "Nizip aras kargo ",
+    "city": "Gaziantep ",
+    "district": "Nizip ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
