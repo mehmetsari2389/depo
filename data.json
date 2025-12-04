@@ -1063,5 +1063,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 72,
+    "date": "05.12.2025 02:15:22",
+    "status": "Beklemede",
+    "ip": "88.242.138.51",
+    "customerName": "Ayhan Tevkür",
+    "phone": "0(553) 312 88 45",
+    "address": "Şehitler mahallesi 808 no41/1",
+    "city": "Manisa",
+    "district": "Şehzadeler",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
