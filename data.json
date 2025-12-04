@@ -36151,5 +36151,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2468,
+    "date": "04.12.2025 15:59:13",
+    "status": "Beklemede",
+    "ip": "78.167.3.2",
+    "customerName": "mehmet nuri dilber",
+    "phone": "5541811984",
+    "address": "686sk No/ A Mustafa Kemal MH Buca İzmir ",
+    "city": "İzmir ",
+    "district": "Buca ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
