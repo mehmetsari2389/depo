@@ -35956,5 +35956,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2454,
+    "date": "04.12.2025 14:42:44",
+    "status": "Beklemede",
+    "ip": "176.227.97.241",
+    "customerName": "Ömer faruk Kuday",
+    "phone": "05363742595",
+    "address": "Seyit Ömer Mah. Çarıkhane SK Güçüyeter AP.17 Fatih/İstanbul ",
+    "city": "İstanbul ",
+    "district": "Fatih ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
