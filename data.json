@@ -36286,5 +36286,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2477,
+    "date": "04.12.2025 16:58:29",
+    "status": "Beklemede",
+    "ip": "176.55.50.3",
+    "customerName": "Sadik  Karardi ",
+    "phone": "5413227453",
+    "address": "Tavşanlı 1453 sokak Çeliker kontynir depolama yani cagtir garaji",
+    "city": "Kocaali",
+    "district": "Gebze",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
