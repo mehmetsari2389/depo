@@ -35386,5 +35386,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2417,
+    "date": "04.12.2025 09:10:44",
+    "status": "Beklemede",
+    "ip": "37.154.49.148",
+    "customerName": "Cafer Başer",
+    "phone": "05337769022",
+    "address": "Kavacık subayevleri akşam sok.1/4 keçiören ANKARA",
+    "city": "Ankara",
+    "district": "Keçiören",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
