@@ -928,5 +928,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 62,
+    "date": "05.12.2025 00:48:57",
+    "status": "Beklemede",
+    "ip": "31.141.90.222",
+    "customerName": "İbrahim  Kalafatcı",
+    "phone": "(531) 431-31-25_",
+    "address": "Hürriyet Mahallesi Çiğdem Sokak No 26 Yenibosna İstanbul",
+    "city": "İstanbul",
+    "district": "Bshçelıevler yenıbasna",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
