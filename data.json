@@ -35536,5 +35536,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2427,
+    "date": "04.12.2025 10:26:52",
+    "status": "Beklemede",
+    "ip": "85.105.204.119",
+    "customerName": "Bekir Babaoğlu ",
+    "phone": "+905396970015",
+    "address": "Bedir mahallesi çelebi murat sokak no12/e Selçuklu konya",
+    "city": "Konya",
+    "district": "Selçuklu ",
+    "product": "North Face Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
