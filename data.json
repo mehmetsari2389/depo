@@ -763,5 +763,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 52,
+    "date": "04.12.2025 23:55:12",
+    "status": "Beklemede",
+    "ip": "78.174.220.228",
+    "customerName": "Güven Göçer",
+    "phone": "0535 625 58 38",
+    "address": "Yunus emre mah 1388/1 sokak no.2-4 d.5",
+    "city": "İstanbul ",
+    "district": "Sultangazi ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
