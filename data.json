@@ -35866,5 +35866,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2449,
+    "date": "04.12.2025 13:54:50",
+    "status": "Beklemede",
+    "ip": "46.155.206.238",
+    "customerName": "Bekir  Taştemur ",
+    "phone": "(0538) 697-8260",
+    "address": "Başak mahallesi İmamgazali caddesi 1723/1 sokak no.52/1",
+    "city": "Ankara ",
+    "district": "Mamak",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
