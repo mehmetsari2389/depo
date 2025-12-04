@@ -35836,5 +35836,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2446,
+    "date": "04.12.2025 13:48:47",
+    "status": "Beklemede",
+    "ip": "176.54.203.194",
+    "customerName": "Hakan Taşcıoğlu",
+    "phone": "+905511042628",
+    "address": "Milas hacilyas mahallesi Mentese caddesi\nKomagene subesi. ",
+    "city": "Muğla",
+    "district": "Milas",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
