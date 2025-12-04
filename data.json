@@ -35251,5 +35251,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2408,
+    "date": "04.12.2025 03:12:20",
+    "status": "Beklemede",
+    "ip": "46.155.46.60",
+    "customerName": "Ali  Aydın ",
+    "phone": "5427306035",
+    "address": "Camikebir mahallesi belediye sokak no 1 42780 Kulu/Konya \nFavorim AVM ",
+    "city": "Konya ",
+    "district": "Kulu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
