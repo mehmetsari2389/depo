@@ -36646,5 +36646,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2501,
+    "date": "04.12.2025 18:46:29",
+    "status": "Beklemede",
+    "ip": "178.241.38.119",
+    "customerName": "Ramazan  PAÇACI ",
+    "phone": "5323275040",
+    "address": "Yeni mahalle 872 sokak no.6 gündüz apartmanı no..3",
+    "city": "Aydın",
+    "district": "Didim ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
