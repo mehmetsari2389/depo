@@ -36271,5 +36271,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2476,
+    "date": "04.12.2025 16:52:49",
+    "status": "Beklemede",
+    "ip": "85.97.98.57",
+    "customerName": "Sultan Saka",
+    "phone": "05051908761",
+    "address": "1 nolu Erdoğdu mah sehıt Osman ertosun cad no97 kat 2",
+    "city": "Trabzon ",
+    "district": "Ortahısar",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
