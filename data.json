@@ -35446,5 +35446,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2421,
+    "date": "04.12.2025 09:57:55",
+    "status": "Beklemede",
+    "ip": "37.155.46.236",
+    "customerName": "Yaşar tosunyeles  Tosunyeles",
+    "phone": "5468340194",
+    "address": "Bosna hersek mah hurkan sk no 10 d 1",
+    "city": "Konya",
+    "district": "Selçuklu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
