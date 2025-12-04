@@ -163,5 +163,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 12,
+    "date": "04.12.2025 20:34:30",
+    "status": "Beklemede",
+    "ip": "149.140.48.219",
+    "customerName": "Engin Okcu",
+    "phone": "+905467660333",
+    "address": "Mareşal Fevzi Çakmak Mahallesi Adnan Menderes Bulvarı Saray Apartmanı Blok No 76 A Komagene Ciğ Köfte Bayisi",
+    "city": "Afyonkarahisar",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
