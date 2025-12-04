@@ -35551,5 +35551,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2428,
+    "date": "04.12.2025 10:30:22",
+    "status": "Beklemede",
+    "ip": "188.57.146.217",
+    "customerName": "Armağan Erdoğan",
+    "phone": "+905464254775",
+    "address": "Celal bayar cd kırklarsırtı mh 179/1 ",
+    "city": "Mersin",
+    "district": "Tarsus",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
