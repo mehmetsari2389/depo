@@ -36526,5 +36526,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2492,
+    "date": "04.12.2025 18:17:33",
+    "status": "Beklemede",
+    "ip": "212.252.116.245",
+    "customerName": "Ayşe  Kartal ",
+    "phone": "05446061019",
+    "address": "Teleferik mahallesi serince sokak no 9 daire 2 Bahar apt ",
+    "city": "İzmir ",
+    "district": "Balçova ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
