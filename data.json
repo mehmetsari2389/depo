@@ -36661,5 +36661,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2502,
+    "date": "04.12.2025 18:54:12",
+    "status": "Beklemede",
+    "ip": "31.142.56.213",
+    "customerName": "Tahir  Çimen",
+    "phone": "534788453",
+    "address": "Hürriyet mahallesi yeni sokak no 21",
+    "city": "Kemalpaşa",
+    "district": "Armutlu",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
