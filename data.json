@@ -118,5 +118,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 9,
+    "date": "04.12.2025 20:30:00",
+    "status": "Beklemede",
+    "ip": "5.46.12.104",
+    "customerName": "Mehmet Solak",
+    "phone": "05373540869",
+    "address": "Gundogdu mh akansu sk no 6",
+    "city": "Eskisehir",
+    "district": "Odunpazari",
+    "product": "North Face Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
