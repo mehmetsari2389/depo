@@ -35806,5 +35806,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2445,
+    "date": "04.12.2025 13:21:19",
+    "status": "Beklemede",
+    "ip": "195.87.97.228",
+    "customerName": "Ahmet Şahin",
+    "phone": "+905444601000",
+    "address": "Hürriyet mahallesi seyfettin ince caddesi no 156 otto48 garaj oto yıkama dalaman muğla",
+    "city": "Muğla",
+    "district": "Dalaman",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
