@@ -958,5 +958,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 65,
+    "date": "05.12.2025 00:57:54",
+    "status": "Beklemede",
+    "ip": "77.67.194.206",
+    "customerName": "Şükrü Cebi",
+    "phone": "05389433629",
+    "address": "Büklüsokak no 8 kat 5 Trabzon araklı merkez ",
+    "city": "Trabzon",
+    "district": "Araklı",
+    "product": "Trabzonspor Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
