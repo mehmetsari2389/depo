@@ -36376,5 +36376,20 @@
     "size": "5XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2483,
+    "date": "04.12.2025 17:28:33",
+    "status": "Beklemede",
+    "ip": "151.250.60.39",
+    "customerName": "Cemalettin Toygar",
+    "phone": "05380776248",
+    "address": "Erzene mah 8 şok no 18 katiller apr kat 4 daire 8 ",
+    "city": "Izmir",
+    "district": "Bornova",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
