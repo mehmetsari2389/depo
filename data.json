@@ -35971,5 +35971,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2456,
+    "date": "04.12.2025 14:45:27",
+    "status": "Beklemede",
+    "ip": "5.176.53.228",
+    "customerName": "Hürrem Elmalı ",
+    "phone": "+905055619233",
+    "address": "Y. İslam haneleri, hürriyet cad. 1. Grup küme evleri no 10.",
+    "city": "Muğla",
+    "district": "Bodrum",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
