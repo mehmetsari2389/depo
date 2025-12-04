@@ -35851,5 +35851,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2448,
+    "date": "04.12.2025 13:54:21",
+    "status": "Beklemede",
+    "ip": "176.220.236.122",
+    "customerName": "Sergen  Akkın",
+    "phone": "5513847917",
+    "address": "İskele mah 281.sokak no 7/5",
+    "city": "Muğla",
+    "district": "Datça",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
