@@ -553,5 +553,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 37,
+    "date": "04.12.2025 22:39:32",
+    "status": "Beklemede",
+    "ip": "5.46.157.141",
+    "customerName": "Haydar Çelik",
+    "phone": "05335927912",
+    "address": "Gazi ospan paşa barbaros hayrettin paşa 1073 sokak taksim 1 no 10 daire altı",
+    "city": "İstanbul",
+    "district": "Gazi Osman paşa",
+    "product": "Puma Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
