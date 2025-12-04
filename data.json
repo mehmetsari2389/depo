@@ -733,5 +733,20 @@
     "size": "M",
     "quantity": "2",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 50,
+    "date": "04.12.2025 23:43:46",
+    "status": "Beklemede",
+    "ip": "188.132.233.134",
+    "customerName": "Gökhan  Kızılkaya",
+    "phone": "5309329949",
+    "address": "Reşadiye mahallesi istikbal caddesi örnek işhanı 4/f karizma erkek kuaför salonu Karapınar konya",
+    "city": "Konya",
+    "district": "Karapınar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
