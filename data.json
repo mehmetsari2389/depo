@@ -343,5 +343,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 24,
+    "date": "04.12.2025 21:31:30",
+    "status": "Beklemede",
+    "ip": "88.236.18.100",
+    "customerName": "şemsettingündüz şemsettingündüz",
+    "phone": "05376007870",
+    "address": "500evlermalesi6009sokakarasaptmanıdairebir",
+    "city": "yalova",
+    "district": "çiflikköy",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
