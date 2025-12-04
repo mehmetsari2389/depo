@@ -35506,5 +35506,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2424,
+    "date": "04.12.2025 10:07:44",
+    "status": "Beklemede",
+    "ip": "176.232.182.221",
+    "customerName": "cem  gürsoy",
+    "phone": "5322712797",
+    "address": "ataşehir/istanbul.     ben lacivert xxl sipariş verdim l geldi koluma bile girmiyor kimse cevap vermiypr burdan uşaşmak zorunda kaldım",
+    "city": "ist",
+    "district": "ataşehir",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
