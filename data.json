@@ -523,5 +523,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 36,
+    "date": "04.12.2025 22:30:42",
+    "status": "Beklemede",
+    "ip": "78.185.226.248",
+    "customerName": "Bekir  Bozdağ ",
+    "phone": "5060274854",
+    "address": "Cumaovası CD no 57b Kemalpaşa mahallesi menderes izmir",
+    "city": "İzmir ",
+    "district": "Menderes ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
