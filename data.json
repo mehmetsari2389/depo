@@ -35731,5 +35731,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2440,
+    "date": "04.12.2025 11:15:27",
+    "status": "Beklemede",
+    "ip": "88.241.83.202",
+    "customerName": "İbrahim  Güney ",
+    "phone": "05415252272",
+    "address": "Yeni taş caddesi yeniçağ sitesi e blok dayre 3 Süleyman Paşa Tekirdağ Altınova ",
+    "city": "Tekirdağ ",
+    "district": "Altınova",
+    "product": "Beşiktaş Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
