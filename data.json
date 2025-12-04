@@ -508,5 +508,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 34,
+    "date": "04.12.2025 22:23:27",
+    "status": "Beklemede",
+    "ip": "178.247.183.27",
+    "customerName": "Burak Sürücüer",
+    "phone": "+905382401646",
+    "address": "Manisa turgutlu subaşı mahallesi narlı sokak. No 1 . Daire 7. Kat 4. ",
+    "city": "Manisa",
+    "district": "Turgutlu",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
