@@ -973,5 +973,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 66,
+    "date": "05.12.2025 01:46:58",
+    "status": "Beklemede",
+    "ip": "176.219.160.211",
+    "customerName": "Murat Özpınar",
+    "phone": "+905415806009",
+    "address": "Ata mahallesi doğu çevre bulvarı no 60 kat 2 daire 4",
+    "city": "Aydın",
+    "district": "Efeler",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
