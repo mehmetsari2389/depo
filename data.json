@@ -358,5 +358,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 25,
+    "date": "04.12.2025 21:36:54",
+    "status": "Beklemede",
+    "ip": "5.176.108.10",
+    "customerName": "Saffettin Erten",
+    "phone": "5465175166",
+    "address": "Ahmet taner kislali sok  no5 yamalak mah kuyucak Aydin",
+    "city": "Aydin",
+    "district": "Kuyucak",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
