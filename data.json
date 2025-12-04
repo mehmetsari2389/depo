@@ -36406,5 +36406,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2485,
+    "date": "04.12.2025 17:42:41",
+    "status": "Beklemede",
+    "ip": "5.176.44.116",
+    "customerName": "ferhat teke",
+    "phone": "5367010391",
+    "address": "Cumhuriyet mahallesi 5065 sokak no 29",
+    "city": "Antalya ",
+    "district": "Serik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
