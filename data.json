@@ -703,5 +703,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 48,
+    "date": "04.12.2025 23:40:07",
+    "status": "Beklemede",
+    "ip": "188.3.113.156",
+    "customerName": "Volkan  Yahşi ",
+    "phone": "05435467554",
+    "address": "Atatürk caddesi üç çam sitesi m blok kat dört no 8",
+    "city": "Balikesir ",
+    "district": "Gömeç ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
