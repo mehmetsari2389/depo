@@ -598,5 +598,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 41,
+    "date": "04.12.2025 22:54:44",
+    "status": "Beklemede",
+    "ip": "188.3.116.131",
+    "customerName": "Üzeyir  Gülten",
+    "phone": "5438982833",
+    "address": "Cengiz topel mahallesi Atatürk caddesi ali balıkçı apartmanı no:28/5 saruhanlı manisa ",
+    "city": "Manisa ",
+    "district": "Saruhanlı ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
