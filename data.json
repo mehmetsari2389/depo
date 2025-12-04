@@ -36691,5 +36691,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2504,
+    "date": "04.12.2025 19:28:14",
+    "status": "Beklemede",
+    "ip": "178.244.75.194",
+    "customerName": "Bilal Bedir",
+    "phone": "5322024127",
+    "address": "Rize merkez  aras kargo",
+    "city": "Rize",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
