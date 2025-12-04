@@ -1003,5 +1003,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 68,
+    "date": "05.12.2025 02:12:44",
+    "status": "Beklemede",
+    "ip": "94.123.207.74",
+    "customerName": "Oktay Demirel",
+    "phone": "5364714139",
+    "address": "Yıldırım mah cum CAD no 42 Büyükkarıştıran Lüleburgaz kirklareli",
+    "city": "Kirklareli",
+    "district": "Luleburgaz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
