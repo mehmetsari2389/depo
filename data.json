@@ -283,5 +283,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 20,
+    "date": "04.12.2025 21:19:55",
+    "status": "Beklemede",
+    "ip": "77.67.163.245",
+    "customerName": "Hüsamettin  Onurlay ",
+    "phone": "+905366649595",
+    "address": "Gemlik aras kargo şubesi Bursa gemlik",
+    "city": "Bursa",
+    "district": "Gemlik",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
