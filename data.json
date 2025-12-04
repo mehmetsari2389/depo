@@ -36346,5 +36346,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 2481,
+    "date": "04.12.2025 17:17:25",
+    "status": "Beklemede",
+    "ip": "178.243.107.71",
+    "customerName": "HÜSEYİN  KOCABEY",
+    "phone": "05399321620",
+    "address": "TEPE MAH.ÇİFTLİK CAD.NO48KARAKOÇAN ELAZIĞ ",
+    "city": "Elazığ",
+    "district": "Karakoçan ",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
