@@ -36871,5 +36871,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2516,
+    "date": "04.12.2025 19:50:33",
+    "status": "Beklemede",
+    "ip": "78.160.51.3",
+    "customerName": "Ali  Koçumoğlu ",
+    "phone": "05326068122",
+    "address": "Buğday pazarı mahallesi elif caddesi no 33/b",
+    "city": "Çankırı ",
+    "district": "Merkez ",
+    "product": "North Face Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
