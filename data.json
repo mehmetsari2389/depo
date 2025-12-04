@@ -35596,5 +35596,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 2431,
+    "date": "04.12.2025 10:37:23",
+    "status": "Beklemede",
+    "ip": "37.154.186.254",
+    "customerName": "Muhammet  Erkuş ",
+    "phone": "05011852447",
+    "address": "Eskişehir mahallesi peşkirasi sokak no 31 kat 3 daire 11 ",
+    "city": "İstanbul ",
+    "district": "Şişli ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
