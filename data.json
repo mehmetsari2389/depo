@@ -35431,5 +35431,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2419,
+    "date": "04.12.2025 09:28:28",
+    "status": "Beklemede",
+    "ip": "37.154.5.12",
+    "customerName": "Mustafa  Kocabiyik",
+    "phone": "5364971868",
+    "address": "Esentepe mah. Sol.1 no.3 saricam Adana",
+    "city": "Adana ",
+    "district": "Saricam ",
+    "product": "North Face Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
