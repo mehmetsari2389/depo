@@ -35281,5 +35281,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 2409,
+    "date": "04.12.2025 05:32:26",
+    "status": "Beklemede",
+    "ip": "149.140.110.163",
+    "customerName": "Hüseyin Uguz",
+    "phone": "05437803318",
+    "address": "Bartın organize sanayi bölgesi geriş köyü yukarı mahalle cami karşısı no 12",
+    "city": "Bartın",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
