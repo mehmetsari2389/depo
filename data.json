@@ -2623,5 +2623,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 176,
+    "date": "05.12.2025 18:54:44",
+    "status": "Beklemede",
+    "ip": "178.241.136.218",
+    "customerName": "İbrahim Aydogduoglu",
+    "phone": "+905309094033",
+    "address": "Sanayi mah. Arı sok. No 3/3",
+    "city": "Hatay",
+    "district": "Dörtyol",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
