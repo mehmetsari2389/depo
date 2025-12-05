@@ -2833,5 +2833,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 190,
+    "date": "05.12.2025 20:20:56",
+    "status": "Beklemede",
+    "ip": "85.101.114.182",
+    "customerName": "Ezgi  Yerlikaya",
+    "phone": "5307485397",
+    "address": "Giresun güce merkez mahallesi fevzi çakmak caddesi no64",
+    "city": "Giresun",
+    "district": "Güce ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
