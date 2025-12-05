@@ -2878,5 +2878,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 191,
+    "date": "05.12.2025 20:31:46",
+    "status": "Beklemede",
+    "ip": "213.238.186.140",
+    "customerName": "Emrah  Tay",
+    "phone": "+905348787993",
+    "address": "İzmir kiraz olgunlar merkez sokak no 31",
+    "city": "İzmir ",
+    "district": "Kiraz ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
