@@ -2218,5 +2218,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 149,
+    "date": "05.12.2025 16:39:57",
+    "status": "Beklemede",
+    "ip": "31.142.210.20",
+    "customerName": "Barış  Sucu",
+    "phone": "5393682052",
+    "address": "Ordu Aybastı  pelitözü cumhuriyet  küme evleri no 88",
+    "city": "Ordu",
+    "district": "Aybastı ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
