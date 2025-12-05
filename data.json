@@ -1468,5 +1468,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 99,
+    "date": "05.12.2025 09:11:08",
+    "status": "Beklemede",
+    "ip": "46.154.34.40",
+    "customerName": "Ahmet Şahin",
+    "phone": "05448455904",
+    "address": "Eskişehir Sivrihisar ilçesi kaymaz mahallesi zafer CAD no 7/2",
+    "city": "Eskişehir ",
+    "district": "Sivrihisar ",
+    "product": "Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
