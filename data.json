@@ -1363,5 +1363,20 @@
     "size": "XL",
     "quantity": "5",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 92,
+    "date": "05.12.2025 08:06:20",
+    "status": "Beklemede",
+    "ip": "87.249.133.201",
+    "customerName": "Gökhan Gültekin",
+    "phone": "05313281787",
+    "address": "Muhisne Hatun Mahallesi Telli Odalar Sokagi 20 Daire 1",
+    "city": "Istanbul",
+    "district": "Fatih",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
