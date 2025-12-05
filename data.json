@@ -2083,5 +2083,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 140,
+    "date": "05.12.2025 15:36:31",
+    "status": "Beklemede",
+    "ip": "31.155.140.187",
+    "customerName": "Mehmet Solak",
+    "phone": "05373540869",
+    "address": "Gundogdu mah akansu sk no 6",
+    "city": "Eskisehir",
+    "district": "Odunpazari",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
