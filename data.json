@@ -3088,5 +3088,20 @@
     "size": "5XL",
     "quantity": "10",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 207,
+    "date": "05.12.2025 22:21:22",
+    "status": "Beklemede",
+    "ip": "37.154.124.15",
+    "customerName": "Osman  Ozturk ",
+    "phone": "5426361222",
+    "address": "Kayseri ",
+    "city": "Boy ",
+    "district": "Talaş ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
