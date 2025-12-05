@@ -1723,5 +1723,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 116,
+    "date": "05.12.2025 11:14:41",
+    "status": "Beklemede",
+    "ip": "176.238.6.205",
+    "customerName": "Birgül  Çetin",
+    "phone": "05376632885",
+    "address": "Bursa teknik üniversitesi mimar Sinan yerleşkesi mimar Sinan mahallesi mimar Sinan bulvarı Eflak caddesi mühendislik ve doğa bilimleri fakültesi G blok. Alıcı birgül Çetin ",
+    "city": "Bursa ",
+    "district": "Yıldırım",
+    "product": "Trabzonspor Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
