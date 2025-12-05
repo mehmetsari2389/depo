@@ -1243,5 +1243,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 84,
+    "date": "05.12.2025 06:16:56",
+    "status": "Beklemede",
+    "ip": "176.54.85.24",
+    "customerName": "Mahmut  Cinar",
+    "phone": "0541 489 53 67",
+    "address": "Antakya ",
+    "city": "Hatay ",
+    "district": "Antakya ",
+    "product": "Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
