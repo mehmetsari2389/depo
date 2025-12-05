@@ -1873,5 +1873,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 126,
+    "date": "05.12.2025 13:03:05",
+    "status": "Beklemede",
+    "ip": "213.74.75.104",
+    "customerName": "Danyel Yüksek",
+    "phone": "+905355756119",
+    "address": "Cemal gürsel mahallesi kilise caddesi no 230",
+    "city": "Hatay",
+    "district": "Samandağ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
