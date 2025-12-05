@@ -3163,5 +3163,20 @@
     "size": "L",
     "quantity": "2",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 212,
+    "date": "05.12.2025 22:51:45",
+    "status": "Beklemede",
+    "ip": "149.140.56.236",
+    "customerName": "Selda Pınar ",
+    "phone": "5366159312",
+    "address": "Bademler mahallesi 15003 sok no.2 Bademler koleji urla izmir ",
+    "city": "İzmir ",
+    "district": "Urla",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
