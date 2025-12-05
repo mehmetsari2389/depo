@@ -1963,5 +1963,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 132,
+    "date": "05.12.2025 14:37:49",
+    "status": "Beklemede",
+    "ip": "176.220.221.183",
+    "customerName": "Tuncay Kutlu",
+    "phone": "05324227520",
+    "address": "Siteler mah aptuulah arslan CAD no 145 damla çay bahçesi küçük kumla Gemlik Bursa ",
+    "city": "Bursa",
+    "district": "Gemlik",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
