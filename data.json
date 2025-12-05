@@ -1573,5 +1573,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 106,
+    "date": "05.12.2025 10:05:53",
+    "status": "Beklemede",
+    "ip": "78.187.174.238",
+    "customerName": "Hamza  Çelik ",
+    "phone": "5302053229",
+    "address": "Hilmi göçmez sokak no 10 Espiye Giresun çınar market ",
+    "city": "Giresun ",
+    "district": "Espiye ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
