@@ -3283,5 +3283,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 220,
+    "date": "06.12.2025 00:08:02",
+    "status": "Beklemede",
+    "ip": "88.230.66.183",
+    "customerName": "Erol Çevik",
+    "phone": "5454651979",
+    "address": "karlıtepe mah. döryol cami sk no 6.d.4 Gaziosmanpaşa İstanbul ",
+    "city": "istbul",
+    "district": "Gaziosmanpaşa ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
