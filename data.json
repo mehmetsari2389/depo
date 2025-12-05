@@ -1558,5 +1558,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 105,
+    "date": "05.12.2025 10:01:22",
+    "status": "Beklemede",
+    "ip": "85.106.216.26",
+    "customerName": "Coskun  Karaca",
+    "phone": "5354130280",
+    "address": "Zafer mahallesi yazıcı caddesi e6 daire 6 tokı konutları blok e.d. 1.11",
+    "city": "Tekirdağ ",
+    "district": "Corlu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
