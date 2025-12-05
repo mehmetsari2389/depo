@@ -3043,5 +3043,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 204,
+    "date": "05.12.2025 22:12:00",
+    "status": "Beklemede",
+    "ip": "78.182.150.204",
+    "customerName": "محمد يونس يونس",
+    "phone": "5373607277",
+    "address": "Hasdağ ünlü mamüller Mimarsinan mahallesi Aycihan sokak",
+    "city": "H",
+    "district": "Good ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "10",
+    "cargoPayment": "aras-nakit"
   }
 ]
