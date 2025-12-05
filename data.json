@@ -2443,5 +2443,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 164,
+    "date": "05.12.2025 17:35:32",
+    "status": "Beklemede",
+    "ip": "176.219.141.163",
+    "customerName": "Şenol Yakupoğlu",
+    "phone": "05512127577",
+    "address": "Fatih Mah tornacı sokak No 8 kat3",
+    "city": "BURSA",
+    "district": "OSMANGAZİ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
