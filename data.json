@@ -1273,5 +1273,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 86,
+    "date": "05.12.2025 07:31:33",
+    "status": "Beklemede",
+    "ip": "178.247.68.36",
+    "customerName": "Serkan Türk",
+    "phone": "5323738916",
+    "address": "Halitpaşa mah yeni çınarlı sok yıldız ap no3 k1 d2",
+    "city": "Bursa",
+    "district": "Mudanya",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
