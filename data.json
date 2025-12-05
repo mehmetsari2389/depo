@@ -2008,5 +2008,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 135,
+    "date": "05.12.2025 15:15:02",
+    "status": "Beklemede",
+    "ip": "5.176.34.133",
+    "customerName": "Fatih Binbir",
+    "phone": "05342426457",
+    "address": "Otogar mahallesi yeni denizli caddesi no 77",
+    "city": "Afyonkarahisar ",
+    "district": "Dinar",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
