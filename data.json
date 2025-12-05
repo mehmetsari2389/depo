@@ -2713,5 +2713,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 182,
+    "date": "05.12.2025 19:38:38",
+    "status": "Beklemede",
+    "ip": "31.206.51.3",
+    "customerName": "Bekleyiş Hallaçlar",
+    "phone": "5521879456",
+    "address": "Terzibayırı Mah kale sok no 51/1",
+    "city": "Kocaeli",
+    "district": "İzmit",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
