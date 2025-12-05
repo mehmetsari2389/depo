@@ -2158,5 +2158,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 143,
+    "date": "05.12.2025 16:02:01",
+    "status": "Beklemede",
+    "ip": "78.166.106.217",
+    "customerName": "Miktad Serin",
+    "phone": "533 241 73 24",
+    "address": "Esentepe mah cumhuriyet cad No 36",
+    "city": "Ankara",
+    "district": "Evren",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
