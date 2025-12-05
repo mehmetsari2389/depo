@@ -2203,5 +2203,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 148,
+    "date": "05.12.2025 16:15:26",
+    "status": "Beklemede",
+    "ip": "46.155.72.145",
+    "customerName": "Gokhan Tuna",
+    "phone": "05455254255",
+    "address": "Uzunköprü ",
+    "city": "Edirne",
+    "district": "Uzunkopru",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
