@@ -1648,5 +1648,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 111,
+    "date": "05.12.2025 10:51:04",
+    "status": "Beklemede",
+    "ip": "5.27.4.44",
+    "customerName": "Mustafa  Dikici ",
+    "phone": "5539719366",
+    "address": "Göktürk mahallesi büyük Menderes sk A15 50706 Derinkuyu nevsehir ",
+    "city": "Nevşehir ",
+    "district": "Derinkuyu ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
