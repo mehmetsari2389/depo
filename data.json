@@ -1303,5 +1303,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 88,
+    "date": "05.12.2025 07:47:31",
+    "status": "Beklemede",
+    "ip": "37.154.160.93",
+    "customerName": "Gürkan  Yavaş ",
+    "phone": "05303888440",
+    "address": "Cumhuriyet mahallesi ofis sok geciti no 65",
+    "city": "Kırklareli ",
+    "district": "Babaeski ",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
