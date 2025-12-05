@@ -2698,5 +2698,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 181,
+    "date": "05.12.2025 19:33:36",
+    "status": "Beklemede",
+    "ip": "85.104.193.16",
+    "customerName": "İsmail Akçay",
+    "phone": "+905437780597",
+    "address": "Fethibey mahallesi Özgüner caddesi özgün apt. No:30 daire:10 kat:4",
+    "city": "Balıkesir",
+    "district": "Bigadiç",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
