@@ -1438,5 +1438,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 97,
+    "date": "05.12.2025 08:56:51",
+    "status": "Beklemede",
+    "ip": "176.220.46.98",
+    "customerName": "Canser Demircan",
+    "phone": "+905362292462",
+    "address": "Eren mahallesi Ordu caddesi alt mahalle Naim Tiralı sokak no 22 Canser erkek kuaförü.",
+    "city": "Giresun ",
+    "district": "Piraziz ",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
