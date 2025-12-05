@@ -2533,5 +2533,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 170,
+    "date": "05.12.2025 18:22:15",
+    "status": "Beklemede",
+    "ip": "78.179.200.73",
+    "customerName": "Mehmet ali  Köroğlu ",
+    "phone": "05531606300",
+    "address": "Şanlıurfa halfeti bozyazı mahllesi no 130",
+    "city": "Şanlıurfa ",
+    "district": "Halfeti ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
