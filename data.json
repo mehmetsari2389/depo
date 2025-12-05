@@ -1993,5 +1993,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 134,
+    "date": "05.12.2025 15:08:56",
+    "status": "Beklemede",
+    "ip": "94.235.101.235",
+    "customerName": "Özgür Bozkurt",
+    "phone": "5537771010",
+    "address": "Plevne mah.12059 sok.serpil apt. No 24 daire 4",
+    "city": "Balıkesir",
+    "district": "Altıeylül",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
