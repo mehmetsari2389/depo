@@ -1798,5 +1798,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 121,
+    "date": "05.12.2025 12:21:48",
+    "status": "Beklemede",
+    "ip": "85.106.110.148",
+    "customerName": "Fahrettin Gelismis",
+    "phone": "05439147781",
+    "address": "Yeşil yuva mahallsi 36058 sokak no 21\nSeyhan adana",
+    "city": "Adana",
+    "district": "Seyhan",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
