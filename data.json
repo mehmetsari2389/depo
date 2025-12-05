@@ -2593,5 +2593,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 173,
+    "date": "05.12.2025 18:48:36",
+    "status": "Beklemede",
+    "ip": "46.1.62.120",
+    "customerName": "Orhan  Günvar",
+    "phone": "05079614905",
+    "address": "Sakarya mah uluyayla cad ali baba apt 72/3",
+    "city": "Konya ",
+    "district": "Selçuklu ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
