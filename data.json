@@ -2893,5 +2893,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 194,
+    "date": "05.12.2025 20:42:56",
+    "status": "Beklemede",
+    "ip": "78.173.16.223",
+    "customerName": "Fethi aslan  Bodur ",
+    "phone": "05349608717",
+    "address": "Afyonkarahisar Hocalar Davulga köyü No 46",
+    "city": "Afyonkarahisar ",
+    "district": "Hocalar",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
