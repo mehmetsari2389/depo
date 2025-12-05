@@ -1138,5 +1138,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 76,
+    "date": "05.12.2025 03:10:58",
+    "status": "Beklemede",
+    "ip": "81.213.242.240",
+    "customerName": "MURAT  GÖKER ",
+    "phone": "5411661905",
+    "address": "Kırmızı Toprak Mahallesi Aytunc Sokak Park Apartmanı NO: 5KAT: 9DAİRE:34",
+    "city": "ESKİŞEHİR ",
+    "district": "ODUNPAZARI ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
