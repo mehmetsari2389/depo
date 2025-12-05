@@ -1408,5 +1408,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 95,
+    "date": "05.12.2025 08:50:30",
+    "status": "Beklemede",
+    "ip": "176.219.17.222",
+    "customerName": "Veysi Araka",
+    "phone": "05445181520",
+    "address": "Cudi Mahallesi sokak 203",
+    "city": "Şırnak ",
+    "district": "Silopi",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
