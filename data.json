@@ -1978,5 +1978,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 133,
+    "date": "05.12.2025 14:50:45",
+    "status": "Beklemede",
+    "ip": "188.57.70.134",
+    "customerName": "İlhan  İlimdaroğlu",
+    "phone": "05412978696",
+    "address": "Zümrüt evler mh çiçek caddesi no 138 foto serkan",
+    "city": "Bursa ",
+    "district": "Yıldırım ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
