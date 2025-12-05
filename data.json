@@ -2098,5 +2098,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 141,
+    "date": "05.12.2025 15:40:12",
+    "status": "Beklemede",
+    "ip": "159.146.27.179",
+    "customerName": "Kürşat  Yersiz",
+    "phone": "5457886952",
+    "address": "Çatal çeşme mahallesi Tokiler 1.etap 2 ci kısım 3640 sokak. B37 Daire 7 Elazığ Merkez ",
+    "city": "Elazığ ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
