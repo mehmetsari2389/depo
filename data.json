@@ -2548,5 +2548,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 171,
+    "date": "05.12.2025 18:29:45",
+    "status": "Beklemede",
+    "ip": "5.176.106.242",
+    "customerName": "Ahmet Çakan ",
+    "phone": "5519870290",
+    "address": "Çimentepe mah Manisa merkez Divan çorba salonu",
+    "city": "Manisa ",
+    "district": "Manisa şehzadeler ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
