@@ -2773,5 +2773,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 185,
+    "date": "05.12.2025 20:01:09",
+    "status": "Beklemede",
+    "ip": "94.235.252.237",
+    "customerName": "Hamit  Mucedemi ",
+    "phone": "05373283042",
+    "address": "Narlıtepe mahallesi 101.002 nolu cadde no 15",
+    "city": "Gaziantep ",
+    "district": "Şahinbey ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
