@@ -3133,5 +3133,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 208,
+    "date": "05.12.2025 22:30:24",
+    "status": "Beklemede",
+    "ip": "94.235.112.67",
+    "customerName": "Savaş  Bozkurt ",
+    "phone": "5363687949",
+    "address": "Ayyıldız mahallesi 4000 sokak numara 6",
+    "city": "Balıkesir ",
+    "district": "Bandırma ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
