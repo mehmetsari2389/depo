@@ -2563,5 +2563,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 172,
+    "date": "05.12.2025 18:35:30",
+    "status": "Beklemede",
+    "ip": "78.190.16.136",
+    "customerName": "Cavit Can",
+    "phone": "05349415895",
+    "address": "Alapli asag dag köyü Merkez no 56",
+    "city": "Zonguldak ",
+    "district": "Alapli",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
