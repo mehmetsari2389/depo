@@ -1288,5 +1288,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 87,
+    "date": "05.12.2025 07:36:02",
+    "status": "Beklemede",
+    "ip": "176.55.235.127",
+    "customerName": "Selçuk  Kocabaş ",
+    "phone": "05305428114",
+    "address": "Kültür mahallesi himaye oğulları sokak no 4/5",
+    "city": "Bolu",
+    "district": "Merkez",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
