@@ -2023,5 +2023,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 136,
+    "date": "05.12.2025 15:22:00",
+    "status": "Beklemede",
+    "ip": "78.174.154.21",
+    "customerName": "Gökhan kirve  Sen ",
+    "phone": "5070428390",
+    "address": "Elmali dere. Mahallesi 1 Çelikhan sokak no 18 kat 3 ",
+    "city": "Uşak ",
+    "district": "Merkez ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "5XL",
+    "quantity": "5",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
