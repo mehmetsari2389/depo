@@ -2383,5 +2383,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 160,
+    "date": "05.12.2025 17:23:15",
+    "status": "Beklemede",
+    "ip": "46.106.74.211",
+    "customerName": "Ferhat Akpınar",
+    "phone": "05458091632",
+    "address": "Tekırdag cerkez koy Veliköy mahallesı ayda sokak no3 daıre 1",
+    "city": "Tekirdağ ",
+    "district": "Çerkez köy ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
