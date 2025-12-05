@@ -1318,5 +1318,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 89,
+    "date": "05.12.2025 07:59:04",
+    "status": "Beklemede",
+    "ip": "5.47.132.249",
+    "customerName": "Ercan Duman",
+    "phone": "+905011065764",
+    "address": "Fındıklı mahallesi çalışkan sokak no 19daire 2 Maltepe istanbul",
+    "city": "İstanbul",
+    "district": "Maltepe",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
