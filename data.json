@@ -3193,5 +3193,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 1,
+    "date": "05.12.2025 23:24:09",
+    "status": "Beklemede",
+    "ip": "213.238.187.125",
+    "customerName": "Haşim Şahin ",
+    "phone": "05389179676",
+    "address": "Denizli Serin Hisar aşa mahallesi Atatürk bulvarı no 16 öz tadım taş fırın ",
+    "city": "Serin Hisar ",
+    "district": "Denizli Serin Hisar ",
+    "product": "Beşiktaş Bordo Şişme Mont",
+    "size": "XS",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
