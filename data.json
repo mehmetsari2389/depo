@@ -2323,5 +2323,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 155,
+    "date": "05.12.2025 16:44:01",
+    "status": "Beklemede",
+    "ip": "37.154.255.168",
+    "customerName": "Mehmet  Apak ",
+    "phone": "(552) 676 15 45",
+    "address": "çolakibrahimbey mah.fabrika cad.no 81.seferihisar İzmir ",
+    "city": "İzmir ",
+    "district": "Seferihisar ",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
