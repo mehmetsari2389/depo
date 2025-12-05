@@ -2248,5 +2248,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 151,
+    "date": "05.12.2025 16:43:48",
+    "status": "Beklemede",
+    "ip": "178.244.122.216",
+    "customerName": "Osman Cepe",
+    "phone": "+905399827191",
+    "address": "Kurtuluş mahallesi,yildiz cadesi nr 28 almus/tokat.",
+    "city": "Tokat",
+    "district": "Almus",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
