@@ -2803,5 +2803,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 187,
+    "date": "05.12.2025 20:05:37",
+    "status": "Beklemede",
+    "ip": "195.174.70.48",
+    "customerName": "İlhan Inanç",
+    "phone": "5321584780",
+    "address": "Halitpaşa mah  1250 sokak No 4 Daire 4  Kat 1  ERZİCAN ",
+    "city": "Erzincan ",
+    "district": "Merkez",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
