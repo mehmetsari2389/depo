@@ -1378,5 +1378,20 @@
     "size": "XS",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 93,
+    "date": "05.12.2025 08:26:35",
+    "status": "Beklemede",
+    "ip": "176.89.200.55",
+    "customerName": "Tugay Dokuyucu",
+    "phone": "05304043221",
+    "address": "Karşıyaka mahallesi 3 küme evleri no/116 Kangal Sivas ",
+    "city": "Sivas ",
+    "district": "Kangal ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
