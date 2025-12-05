@@ -2233,5 +2233,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 149,
+    "date": "05.12.2025 16:40:10",
+    "status": "Beklemede",
+    "ip": "176.233.29.101",
+    "customerName": "yusuf çeviren",
+    "phone": "05334744515",
+    "address": "güzel oba mahallesi 2107 sokak bek sitesi A/ blok 4/9",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
