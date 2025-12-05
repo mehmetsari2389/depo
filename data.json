@@ -2908,5 +2908,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 195,
+    "date": "05.12.2025 20:53:13",
+    "status": "Beklemede",
+    "ip": "78.163.131.254",
+    "customerName": "cevdet iblikci",
+    "phone": "05058138530",
+    "address": "Güney mah. Kazım Ayvaz Sok. No:43 Gönül apt. D. 5",
+    "city": "Kocaeli",
+    "district": "Körfez",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
