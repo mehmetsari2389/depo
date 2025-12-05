@@ -1108,5 +1108,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 75,
+    "date": "05.12.2025 03:07:59",
+    "status": "Beklemede",
+    "ip": "5.25.170.134",
+    "customerName": "Hüseyin  Zık",
+    "phone": "+905314040247",
+    "address": "Pınarcık mah 243/A ",
+    "city": "Muğla",
+    "district": "Milas",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
