@@ -1348,5 +1348,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 91,
+    "date": "05.12.2025 08:02:38",
+    "status": "Beklemede",
+    "ip": "85.100.203.132",
+    "customerName": "Murat  Kaya ",
+    "phone": "5340173772",
+    "address": "Urgup aras kargoya versinler oradan alacam ",
+    "city": "Nevşehir ",
+    "district": "Urgup ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "5",
+    "cargoPayment": "aras-nakit"
   }
 ]
