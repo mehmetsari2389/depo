@@ -1453,5 +1453,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 98,
+    "date": "05.12.2025 09:09:39",
+    "status": "Beklemede",
+    "ip": "151.135.88.86",
+    "customerName": "Metin  Turan ",
+    "phone": "05011926364",
+    "address": "Aras. Kargo ",
+    "city": "Diyarbakır ",
+    "district": "Ergani ",
+    "product": "Adidas Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
