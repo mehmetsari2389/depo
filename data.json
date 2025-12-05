@@ -1933,5 +1933,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 130,
+    "date": "05.12.2025 14:06:06",
+    "status": "Beklemede",
+    "ip": "176.88.34.22",
+    "customerName": "Sinan Kerimol",
+    "phone": "0 (532) 211 64 20",
+    "address": "19295 şok.no.1 GA  Küçükköy mah.",
+    "city": "Balıkesir",
+    "district": "Ayvalık",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
