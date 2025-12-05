@@ -2053,5 +2053,20 @@
     "size": "5XL",
     "quantity": "5",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 138,
+    "date": "05.12.2025 15:32:23",
+    "status": "Beklemede",
+    "ip": "78.163.132.132",
+    "customerName": "Necat  Kaya ",
+    "phone": "05466106788",
+    "address": "Rafet paşa mah.5179/1sokak no:1 kat:3 daire:5 İzmir Bornovaya bağlı yesilova",
+    "city": "İzmir",
+    "district": "Bornova",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
