@@ -1708,5 +1708,20 @@
     "size": "S",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 115,
+    "date": "05.12.2025 11:08:13",
+    "status": "Beklemede",
+    "ip": "176.238.6.205",
+    "customerName": "Şemsettin  Ayyıldız",
+    "phone": "05015634369",
+    "address": "Mesudiye mahallesi şehit er Şenol Çakır sokak no:20 kat:3 İnegöl/BURSA",
+    "city": "Bursa",
+    "district": "İnegöl",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
