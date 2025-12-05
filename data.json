@@ -1618,5 +1618,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 109,
+    "date": "05.12.2025 10:46:31",
+    "status": "Beklemede",
+    "ip": "176.54.143.215",
+    "customerName": "Nuran Yorulmaz",
+    "phone": "+905455821202",
+    "address": "Burgaz mah, gümüşkesen cad, boğazkent sit, 15,blk daire 2 kat 2",
+    "city": "Muğla",
+    "district": "Milas",
+    "product": "Adidas Mavi Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
