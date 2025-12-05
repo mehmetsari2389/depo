@@ -2458,5 +2458,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 165,
+    "date": "05.12.2025 17:36:08",
+    "status": "Beklemede",
+    "ip": "95.10.42.113",
+    "customerName": "Yunus  Çiçek ",
+    "phone": "05545630925",
+    "address": "İkiteli bağcılar Güngören Sanayi Sitesi 7blok no 45 ",
+    "city": "İstanbul ",
+    "district": "Başakşehir ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
