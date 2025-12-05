@@ -3028,5 +3028,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 203,
+    "date": "05.12.2025 22:08:43",
+    "status": "Beklemede",
+    "ip": "5.47.148.212",
+    "customerName": "Hasan  Koçlu ",
+    "phone": "05322562443",
+    "address": "Pelitlibag mah.1093 sk no.8 d.3 pamukkale denizli ",
+    "city": "Denizli ",
+    "district": "Pamukkale ",
+    "product": "Adidas Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
