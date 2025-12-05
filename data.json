@@ -1198,5 +1198,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 81,
+    "date": "05.12.2025 05:47:11",
+    "status": "Beklemede",
+    "ip": "176.220.147.88",
+    "customerName": "Adem Gorgülü",
+    "phone": "0552730654",
+    "address": "Manisa",
+    "city": "Turgutlu ",
+    "district": "Karaoluk ",
+    "product": "Adidas Haki Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
