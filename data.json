@@ -1228,5 +1228,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 83,
+    "date": "05.12.2025 06:05:09",
+    "status": "Beklemede",
+    "ip": "141.196.29.178",
+    "customerName": "Tamer Sogur5",
+    "phone": "+905316480151",
+    "address": "Cukurkuyu bektik mahlası kapı 34 bor nigde",
+    "city": "Bor",
+    "district": "Nigde",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
