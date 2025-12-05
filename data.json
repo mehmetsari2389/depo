@@ -3268,5 +3268,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 218,
+    "date": "05.12.2025 23:45:31",
+    "status": "Beklemede",
+    "ip": "46.221.246.178",
+    "customerName": "Samet Özmen",
+    "phone": "05432426012",
+    "address": "Sabuni mahallesi banka sokak NO:9\nŞABAN ACIKGÖZ HOTEL\nEDİRNE MERKEZ",
+    "city": "Edirne",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
