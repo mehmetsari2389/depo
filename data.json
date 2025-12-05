@@ -2953,5 +2953,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 198,
+    "date": "05.12.2025 21:28:58",
+    "status": "Beklemede",
+    "ip": "46.221.218.165",
+    "customerName": "Berat Türkoğlu ",
+    "phone": "05405693469",
+    "address": "Şingah mahallesi paşakent sitesi C blok kat 4daire 7",
+    "city": "Bayburt ",
+    "district": "Merkez",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
