@@ -1888,5 +1888,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 127,
+    "date": "05.12.2025 13:45:52",
+    "status": "Beklemede",
+    "ip": "78.163.80.118",
+    "customerName": "Aziz  Dereli ",
+    "phone": "05455319073",
+    "address": "Şırnak Beytüşşebap Aşağıdereköyü ",
+    "city": "Şırnak ",
+    "district": "Beytüşşebap ",
+    "product": "Nike Kırmızı Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
