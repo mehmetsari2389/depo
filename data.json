@@ -2818,5 +2818,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 189,
+    "date": "05.12.2025 20:12:56",
+    "status": "Beklemede",
+    "ip": "159.146.42.52",
+    "customerName": "Akan  Söğütcü ",
+    "phone": "+90308999136",
+    "address": "Arapçeşme mah 1058sok no14 kat4 ",
+    "city": "Kocelli ",
+    "district": "Gebze ",
+    "product": "Bordo Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
