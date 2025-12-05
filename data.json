@@ -1603,5 +1603,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 108,
+    "date": "05.12.2025 10:35:51",
+    "status": "Beklemede",
+    "ip": "178.245.70.65",
+    "customerName": "Hakan Nadastepe",
+    "phone": "5067714969",
+    "address": "Paşakonak Mahallesi\nKorgeneral Enver Akoğlu Ortaokulu ",
+    "city": "Balıkesir ",
+    "district": "Bandırma ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
