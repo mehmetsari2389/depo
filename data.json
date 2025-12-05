@@ -1918,5 +1918,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 128,
+    "date": "05.12.2025 13:51:28",
+    "status": "Beklemede",
+    "ip": "178.241.110.111",
+    "customerName": "Nihat Meraklı",
+    "phone": "+905302436859",
+    "address": "Saray cumhuriyet mahallesi ceren sok huzur apt no 1.10",
+    "city": "Ankara ",
+    "district": "Pursaklar ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "L",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
