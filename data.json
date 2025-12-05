@@ -2413,5 +2413,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 161,
+    "date": "05.12.2025 17:23:32",
+    "status": "Beklemede",
+    "ip": "77.67.137.167",
+    "customerName": "Birol  Arlı",
+    "phone": "5374020276",
+    "address": "Muğla Marmaris söğüt mh",
+    "city": "Muğla ",
+    "district": "Marmaris ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
