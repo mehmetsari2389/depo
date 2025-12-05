@@ -1483,5 +1483,20 @@
     "size": "M",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 100,
+    "date": "05.12.2025 09:14:39",
+    "status": "Beklemede",
+    "ip": "46.1.136.184",
+    "customerName": "Huseyin Demirel",
+    "phone": "54276774443",
+    "address": "Gümüşsuyu mahallesi Maharet çıkmazı No 8 Daire 4 Beykoz İstanbul",
+    "city": "İstanbul",
+    "district": "Beykoz",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "M",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
