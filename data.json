@@ -2653,5 +2653,20 @@
     "size": "L",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 178,
+    "date": "05.12.2025 19:07:03",
+    "status": "Beklemede",
+    "ip": "85.106.111.255",
+    "customerName": "Vahit  Aydın",
+    "phone": "05348514069",
+    "address": "Cumhuriyet mahallesi 133.cad.öz serhat sitesi Özgür apt.D blok kat 2 Daire 9",
+    "city": "Balıkesir",
+    "district": "Burhaniye ",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
