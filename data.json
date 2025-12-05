@@ -2353,5 +2353,20 @@
     "size": "4XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 157,
+    "date": "05.12.2025 16:51:01",
+    "status": "Beklemede",
+    "ip": "188.57.40.158",
+    "customerName": "Mehmet  Kara Kaş ",
+    "phone": "5326757902",
+    "address": "Atatürk bulvarı Yavuz Selim mahallesi no9/Kahta Adıyaman ",
+    "city": "Adıyaman ",
+    "district": "Kahta ",
+    "product": "Fenerbahçe Siyah Şişme Mont",
+    "size": "4XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
