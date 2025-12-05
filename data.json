@@ -2188,5 +2188,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 147,
+    "date": "05.12.2025 16:03:12",
+    "status": "Beklemede",
+    "ip": "2.58.42.13",
+    "customerName": "Selahattin Toplu",
+    "phone": "05375521182",
+    "address": "Fatih,mah osman Bey cad no 1",
+    "city": "Kahramanmaraş",
+    "district": "Merkez",
+    "product": "Fenerbahçe Mavi Şişme Mont",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
