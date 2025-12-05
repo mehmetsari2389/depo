@@ -1588,5 +1588,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 107,
+    "date": "05.12.2025 10:13:38",
+    "status": "Beklemede",
+    "ip": "78.188.186.172",
+    "customerName": "okan sarı",
+    "phone": "05321375129",
+    "address": "ŞEHİT MUHTAR MAHALLESİ İSTİKLAL CADDESİ MİS SOKAK NO 5 /A MİS ECZANESİ",
+    "city": "Beyoğlu",
+    "district": "İstanbul",
+    "product": "Galatasaray Bordo Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
