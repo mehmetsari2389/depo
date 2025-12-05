@@ -1513,5 +1513,20 @@
     "size": "XXL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 101,
+    "date": "05.12.2025 09:16:58",
+    "status": "Beklemede",
+    "ip": "88.230.125.174",
+    "customerName": "Emin Arslan",
+    "phone": "5323311805",
+    "address": "Karaagaç mah 1.küçük aralık şok no. 33  not.????????( neden aramıyorsunuz) ",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
