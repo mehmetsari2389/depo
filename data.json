@@ -2743,5 +2743,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 184,
+    "date": "05.12.2025 19:47:22",
+    "status": "Beklemede",
+    "ip": "5.176.182.112",
+    "customerName": "Ali CATAN",
+    "phone": "05321720645",
+    "address": "Turkali mah.No 12\nAltıeylül/BALİKESİR",
+    "city": "Balikesir",
+    "district": "Altieylul",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "XXL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
