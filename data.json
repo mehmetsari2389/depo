@@ -1858,5 +1858,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-kredikarti"
+  },
+  {
+    "id": 125,
+    "date": "05.12.2025 12:51:16",
+    "status": "Beklemede",
+    "ip": "149.140.105.7",
+    "customerName": "Aydın  Çapa ",
+    "phone": "05059769586",
+    "address": "Kurtuluş mahallesi c Numan oğlu sokak no 21 Manisa Soma ",
+    "city": "Manisa ",
+    "district": "Soma ",
+    "product": "Galatasaray Siyah Şişme Mont",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
