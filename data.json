@@ -3343,5 +3343,20 @@
     "size": "XS",
     "quantity": "2",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 224,
+    "date": "18.04.2026 04:57:18",
+    "status": "Beklemede",
+    "ip": "159.146.96.169",
+    "customerName": "Hasan   Soysal",
+    "phone": "5393688641",
+    "address": "Mahsen mahallesi Zembilli Ali efendi sokak No:19/1",
+    "city": "Amasya",
+    "district": "Merzifon",
+    "product": "Fenerbahçe Eşofman Takımı",
+    "size": "3XL",
+    "quantity": "1",
+    "cargoPayment": "ptt-nakit"
   }
 ]
