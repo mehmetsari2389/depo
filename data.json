@@ -3373,5 +3373,20 @@
     "size": "XL",
     "quantity": "1",
     "cargoPayment": "aras-nakit"
+  },
+  {
+    "id": 226,
+    "date": "19.04.2026 12:33:38",
+    "status": "Beklemede",
+    "ip": "176.33.162.37",
+    "customerName": "c c",
+    "phone": "c",
+    "address": "c",
+    "city": "c",
+    "district": "c",
+    "product": "Beşiktaş Eşofman Takımı",
+    "size": "S",
+    "quantity": "1",
+    "cargoPayment": "aras-kredikarti"
   }
 ]
