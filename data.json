@@ -3358,5 +3358,20 @@
     "size": "3XL",
     "quantity": "1",
     "cargoPayment": "ptt-nakit"
+  },
+  {
+    "id": 225,
+    "date": "19.04.2026 12:10:33",
+    "status": "Beklemede",
+    "ip": "176.33.162.37",
+    "customerName": "a a",
+    "phone": "a",
+    "address": "a",
+    "city": "a",
+    "district": "a",
+    "product": "Fenerbahçe Eşofman Takımı",
+    "size": "XL",
+    "quantity": "1",
+    "cargoPayment": "aras-nakit"
   }
 ]
